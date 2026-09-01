@@ -12,6 +12,7 @@
 .pc-collapsible-body p{margin:0 0 10px}
 .pc-collapsible-body p:last-child{margin-bottom:0}
 .pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
 </style>
 <!-- /wp:html -->
 
@@ -50,7 +51,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 231a</h3>
+<h3 class="wp-block-heading">Witz 1a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -119,7 +120,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 231b</h3>
+<h3 class="wp-block-heading">Witz 1b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -188,7 +189,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 231c</h3>
+<h3 class="wp-block-heading">Witz 1c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -257,7 +258,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 232a</h3>
+<h3 class="wp-block-heading">Witz 2a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -317,7 +318,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 232b</h3>
+<h3 class="wp-block-heading">Witz 2b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -377,7 +378,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 232c</h3>
+<h3 class="wp-block-heading">Witz 2c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -437,7 +438,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 233a</h3>
+<h3 class="wp-block-heading">Witz 3a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -488,7 +489,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 233b</h3>
+<h3 class="wp-block-heading">Witz 3b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -549,7 +550,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 233c</h3>
+<h3 class="wp-block-heading">Witz 3c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -609,7 +610,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 234a</h3>
+<h3 class="wp-block-heading">Witz 4a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -670,7 +671,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 234b</h3>
+<h3 class="wp-block-heading">Witz 4b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -730,7 +731,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 234c</h3>
+<h3 class="wp-block-heading">Witz 4c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -808,7 +809,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 235a</h3>
+<h3 class="wp-block-heading">Witz 5a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -859,7 +860,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 235b</h3>
+<h3 class="wp-block-heading">Witz 5b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -910,7 +911,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 235c</h3>
+<h3 class="wp-block-heading">Witz 5c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -970,7 +971,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 236a</h3>
+<h3 class="wp-block-heading">Witz 6a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1021,7 +1022,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 236b</h3>
+<h3 class="wp-block-heading">Witz 6b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1072,7 +1073,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 236c</h3>
+<h3 class="wp-block-heading">Witz 6c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1159,7 +1160,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 237a</h3>
+<h3 class="wp-block-heading">Witz 7a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1255,7 +1256,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 237b</h3>
+<h3 class="wp-block-heading">Witz 7b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1333,7 +1334,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 237c</h3>
+<h3 class="wp-block-heading">Witz 7c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1411,7 +1412,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 238a</h3>
+<h3 class="wp-block-heading">Witz 8a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1462,7 +1463,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 238b</h3>
+<h3 class="wp-block-heading">Witz 8b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1522,7 +1523,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 238c</h3>
+<h3 class="wp-block-heading">Witz 8c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1573,7 +1574,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 239a</h3>
+<h3 class="wp-block-heading">Witz 9a</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1660,7 +1661,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 239b</h3>
+<h3 class="wp-block-heading">Witz 9b</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1711,7 +1712,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 239c</h3>
+<h3 class="wp-block-heading">Witz 9c</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->

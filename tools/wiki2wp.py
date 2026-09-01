@@ -34,6 +34,7 @@ STYLE = """<!-- wp:html -->
 .pc-collapsible-body p{margin:0 0 10px}
 .pc-collapsible-body p:last-child{margin-bottom:0}
 .pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
 </style>
 <!-- /wp:html -->"""
 
@@ -169,6 +170,37 @@ def parse(text):
     return intro, jokes
 
 
+def ohne_markup(html):
+    return re.sub(r"<[^>]+>", "", html)
+
+
+def gruppentitel(hu, pairs, heading):
+    """Trägt der Witz einen Gruppentitel ("Szőke viccek", "Elefántviccek")?
+
+    Diese Titel stehen im Quelltext als erste, unnummerierte Zeile des Witzes.
+    Erkennungsmerkmal: kurz, ohne Satzzeichen am Ende, ohne Anführungszeichen -
+    sonst ist es der erste Satz des Witzes und keine Überschrift.
+    """
+    zusatz = re.match(r"^\d+[a-z]?\s*[-–]\s*(.+)$", heading)
+    aus_heading = zusatz.group(1).strip() if zusatz else None
+
+    if hu and pairs and hu[0][1] == "" and pairs[0][1] == "":
+        erste = ohne_markup(hu[0][0]).strip()
+        paar = ohne_markup(pairs[0][0]).strip()
+        # Nur wenn die erste Zeile in beiden Fassungen dieselbe ist, gehört sie
+        # zusammen; sonst steht der Titel gar nicht im Satzpaar-Block und man
+        # risse den ersten Satz des Witzes heraus.
+        # Doppelpunkt am Zeilenende steht in den Vorlagen mal hier, mal dort
+        kern = erste.rstrip(":.,; ")
+        if (not re.match(r"^\d+\.", erste) and not re.match(r"^\d+\.", paar)
+                and paar.startswith(kern) and len(erste) <= 30
+                and not any(z in erste for z in "„”\"!?")):
+            return pairs[0][0], True
+    if aus_heading:
+        return esc(aus_heading), False
+    return None, False
+
+
 def joke_block(joke, cfg):
     """Ein Witz als fertiges WordPress-Blockmarkup.
 
@@ -181,14 +213,28 @@ def joke_block(joke, cfg):
     pairs = to_paragraphs(pair_box["lines"]) if pair_box else []
     de = to_paragraphs(de_box["lines"]) if de_box else []
 
-    label = joke["heading"].replace(" - ", " – ")
-    o = [SEP,
-         "",
-         '<!-- wp:heading {"level":3} -->',
-         f'<h3 class="wp-block-heading">{cfg["joke_word"]} {esc(label)}</h3>',
-         "<!-- /wp:heading -->",
-         "",
-         "<!-- wp:paragraph -->"]
+    titel, aus_text = gruppentitel(hu, pairs, joke["heading"])
+    if titel and aus_text:
+        # Der Titel wandert in die Überschrift - im Fließtext wäre er doppelt.
+        # In den einsprachigen Boxen bleibt er stehen, damit die für sich
+        # gelesen werden können.
+        pairs = pairs[1:]
+
+    o = []
+    if titel:
+        o += ['<!-- wp:heading {"level":2,"className":"pc-gruppe"} -->',
+              f'<h2 class="wp-block-heading pc-gruppe">{titel}</h2>',
+              "<!-- /wp:heading -->",
+              ""]
+
+    o += [SEP,
+          "",
+          '<!-- wp:heading {"level":3} -->',
+          f'<h3 class="wp-block-heading">{cfg["joke_word"]} '
+          f'{esc(joke["nummer"])}</h3>',
+          "<!-- /wp:heading -->",
+          "",
+          "<!-- wp:paragraph -->"]
     o += [p_tag(html, cls) for html, cls in pairs]
     o += ["<!-- /wp:paragraph -->",
           "",
@@ -234,6 +280,28 @@ def build(intro, jokes, cfg):
         for html, cls in to_paragraphs([raw]):
             o.append(wp_paragraph_block(html, cls))
             o.append("")
+
+    # Auf jeder Seite beginnt die Zählung wieder bei 1. Zusammengehörig sind
+    # die Varianten a/b/c eines Witzes - erkennbar an der fortlaufenden
+    # Buchstabenfolge, nicht an der Nummer davor: in den Vorlagen stehen
+    # Zahlendreher (zweimal "40b", "30b" statt "300b"), die Gruppen sonst
+    # zerreißen oder doppelte Nummern erzeugen würden.
+    gruppen, vorheriger = [], None
+    for joke in jokes:
+        buchstabe = re.match(r"^\d*([a-z]?)", joke["heading"]).group(1)
+        fortsetzung = (buchstabe and vorheriger
+                       and ord(buchstabe) == ord(vorheriger) + 1)
+        if fortsetzung:
+            gruppen[-1].append(joke)
+        else:
+            gruppen.append([joke])
+        vorheriger = buchstabe or None
+
+    for nr, gruppe in enumerate(gruppen, start=1):
+        for stelle, joke in enumerate(gruppe):
+            # Ein Buchstabe nur, wo es wirklich mehrere Varianten gibt
+            joke["nummer"] = (f"{nr}{chr(ord('a') + stelle)}" if len(gruppe) > 1
+                              else f"{nr}")
 
     for joke in jokes:
         o.append(joke_block(joke, cfg))
