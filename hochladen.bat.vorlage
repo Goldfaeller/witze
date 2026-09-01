@@ -1,0 +1,34 @@
+@echo off
+rem ============================================================
+rem  Zugangsdaten fuer den Upload zur Internetseite.
+rem
+rem  ANLEITUNG
+rem  1. Diese Datei kopieren und in "hochladen.bat" umbenennen.
+rem  2. Die drei Werte unten eintragen.
+rem  3. Das Anwendungspasswort holst du dir in WordPress unter
+rem       Benutzer -> Profil -> Anwendungspasswoerter
+rem     Dort einen Namen vergeben ("Upload Witze"), erzeugen lassen,
+rem     und die angezeigte Zeichenfolge hier einsetzen - MIT den
+rem     Leerzeichen, genau wie angezeigt. Sie wird nur einmal
+rem     gezeigt; geht sie verloren, erzeugst du einfach eine neue.
+rem
+rem  WICHTIG: Nimm NICHT dein Anmeldepasswort. Ein Anwendungspasswort
+rem  laesst sich einzeln widerrufen, ohne dass du sonst etwas aenderst.
+rem
+rem  "hochladen.bat" selbst gehoert NICHT auf GitHub - sie steht
+rem  deshalb in .gitignore. Nur diese Vorlage ohne Passwort wird
+rem  mitgeliefert.
+rem ============================================================
+
+set WP_URL=https://modjor.de
+set WP_USER=DEIN-BENUTZERNAME
+set WP_APP_PASSWORD=xxxx xxxx xxxx xxxx xxxx xxxx
+
+rem Erst nur anschauen, was geschehen wuerde:
+python tools\wp_upload.py "wordpress\*-v01.txt"
+
+rem Wenn die Liste stimmt, obige Zeile mit rem stilllegen
+rem und stattdessen diese verwenden:
+rem python tools\wp_upload.py "wordpress\*-v01.txt" --hochladen
+
+pause

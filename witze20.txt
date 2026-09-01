@@ -1,0 +1,807 @@
+{{Navigation hoch|
+ hochtext=Inhaltsverzeichnis: Ungarisch-Lesebuch|
+ hochlink=Ungarisch#Ungarisch-Lesebuch}}
+{{Navigation zurückhochvor|
+ zurücklink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 19|
+ zurücktext=19. Teil – Kurze Witze|
+ hochlink=Ungarisch/Ungarisch-Lesebuch-Witze|
+ hochtext=Witze, witzige Sprüche, Sprichwörter|
+ vorlink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 21|
+vortext=21. Teil – Kurze Witze 
+}}
+
+;20. Teil - Kurze Witze 
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+:'''rövid viccek - kurze Witze'''
+
+=== 278a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Egyszerűen el lehet-e magyarázni a különbséget a demokrácia és a népi demokrácia között?”
+:3. „Elvileg igen, olyan a különbség, mint a kabát és a kényszerzubbony között.”
+::kény
+::kényszer
+::kényszerít
+::zubbony
+::katonai zubbony
+::kényszerzubbony
+::önkényes
+::önkéntelen (OHNE: “Y”)
+::akaratlagos izomzat
+::akaratlan izomzat
+::orvosi kabát = orvosi köpeny
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Egyszerűen el lehet-e magyarázni a különbséget a demokrácia és a népi demokrácia között?” - „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“
+:3. „Elvileg igen, olyan a különbség, mint a kabát és a kényszerzubbony között.” - „Im Prinzip ja, das ist so ein Unterschied, wie zwischen Mantel und Zwangsjacke.“
+::kény - Willkür; Eigenmächtigkeit
+::kényszer - der Zwang
+::kényszerít - zwingen
+::zubbony - Waffenrock, Bluse, Kittel
+::katonai zubbony - Militärjacke
+::kényszerzubbony - Zwangsjacke
+::önkényes - willkürlich
+::önkéntelen (OHNE: “Y”) - unwillkürlich
+::akaratlagos izomzat - willkürliche Muskulatur
+::akaratlan izomzat - unwillkürliche Muskulatur.
+::orvosi kabát = orvosi köpeny - Arztkittel
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“
+:3. „Im Prinzip ja, das ist so ein Unterschied, wie zwischen Mantel und Zwangsjacke.“
+::Willkür; Eigenmächtigkeit
+::der Zwang
+::zwingen
+::Waffenrock, Bluse, Kittel
+::Militärjacke
+::Zwangsjacke
+::willkürlich
+::unwillkürlich
+::willkürliche Muskulatur
+::unwillkürliche Muskulatur.
+::Arztkittel
+|}
+
+=== 278b ===
+:1. „Könnyen megmagyarázható-e, miben tér el a demokrácia a népi demokráciától?”
+:2. „Alapvetően igen: nagyjából annyi a különbség, mint egy dzseki és egy kényszerzubbony között.”
+::eltér
+::miben tér el? = mi a különbség [külömség]?
+::nagyjából [naggyából]
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Könnyen megmagyarázható-e, miben tér el a demokrácia a népi demokráciától?” - „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“ (Ist es einfach zu erklären, worin Demokratie und Volksdemokratie (voneinander) abweichen?)
+:2. „Alapvetően igen: nagyjából annyi a különbség, mint egy dzseki és egy kényszerzubbony között.” - „Im Prinzip ja; im Großen und Ganzen ist der Unterschied so wie zwischen einer Jacke und einer Zwangsjacke.“
+::eltér - abweichen (sich unterscheiden)
+::miben tér el? = mi a különbség [külömség]? - worin besteht der Unterschied?
+::nagyjából [naggyából] - im Großen und Ganzen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“ (Ist es einfach zu erklären, worin Demokratie und Volksdemokratie (voneinander) abweichen?)
+:2. „Im Prinzip ja; im Großen und Ganzen ist der Unterschied so wie zwischen einer Jacke und einer Zwangsjacke.“
+::abweichen (sich unterscheiden)
+::worin besteht der Unterschied?
+::im Großen und Ganzen
+|}
+
+=== 279a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Lehet-e egy orosz autóval orosz utakon százhúsz kilométer per órával haladni?”
+:3. „Elvileg igen. De csak egyszer.”
+::halad
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Lehet-e egy orosz autóval orosz utakon százhúsz kilométer per órával haladni?” - „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“
+:3. „Elvileg igen. De csak egyszer.” - „Im Prinzip ja. Aber nur einmal.“
+::halad - fortschreiten, schaffen, vorankommen, weiterfahren, fortfahren, fahren
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“
+:3. „Im Prinzip ja. Aber nur einmal.“
+::fortschreiten, schaffen, vorankommen, weiterfahren, fortfahren, fahren
+|}
+
+=== 279b ===
+:1. „Megoldható-e, hogy egy szovjet autó 120-szal menjen a hazai utakon?”
+:2. „Alapjában véve igen, ám ez egyszeri alkalom.”
+::120-szal [százhúsz-szal]
+::megoldható
+::ház
+::haza
+::hazai
+::titkos
+::megy
+::..., hogy ...menjen
+::ám = de = csakhogy
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Megoldható-e, hogy egy szovjet autó 120-szal menjen a hazai utakon?” - „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“ (Ist es machbar mit einem sowjetischen Auto mit 120 auf einheimischen Straßen zu fahren?)
+:2. „Alapjában véve igen, ám ez egyszeri alkalom.” - „Im Prinzip (grundsätzlich genommen) ja, allerdings nur ein einziges Mal. (aber das ist eine einmalige Sache/Gelegenheit/Anlass)“
+::120-szal [százhúsz-szal]
+::megoldható - lösbar, machbar
+::ház - Haus
+::haza - Heimat
+::hazai - heimatlich, einheimisch
+::titkos - heimlich
+::megy - fahren
+::..., hogy ...menjen - zu fahren (Imperativ, weil Final-Nebensatz)
+::ám = de = csakhogy - aber
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“ (Ist es machbar mit einem sowjetischen Auto mit 120 auf einheimischen Straßen zu fahren?)
+:2. „Im Prinzip (grundsätzlich genommen) ja, allerdings nur ein einziges Mal. (aber das ist eine einmalige Sache/Gelegenheit/Anlass)“
+::lösbar, machbar
+::Haus
+::Heimat
+::heimatlich, einheimisch
+::heimlich
+::fahren
+::zu fahren (Imperativ, weil Final-Nebensatz)
+::aber
+|}
+
+=== 280a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Lehetséges-e Kanadában is a szocializmus?”
+:3. „Elvileg igen, de akkor ki szállítja majd nekünk a búzát?”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Lehetséges-e Kanadában is a szocializmus?” - „Kann es in Kanada auch Sozialismus geben?“
+:3. „Elvileg igen, de akkor ki szállítja majd nekünk a búzát?” - „Im Prinzip ja, aber wer liefert uns dann den Weizen?“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Kann es in Kanada auch Sozialismus geben?“
+:3. „Im Prinzip ja, aber wer liefert uns dann den Weizen?“
+|}
+
+=== 280b ===
+:1. „Bevezethető lenne-e a szocializmus Kanadában?”
+:2. „Alapvetően igen, csakhogy (= de) akkor honnan kapnánk a gabonát?”
+::csakhogy  = ám = de
+::kap
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Bevezethető lenne-e a szocializmus Kanadában?” - „Kann man in Kanada auch Sozialismus einführen?“
+:2. „Alapvetően igen, csakhogy (= de) akkor honnan kapnánk a gabonát?” - „Im Prinzip ja, aber woher würden wir dann Weizen bekommen?“
+::csakhogy  = ám = de - aber
+::kap - bekommen, erhalten,  beziehen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Kann man in Kanada auch Sozialismus einführen?“
+:2. „Im Prinzip ja, aber woher würden wir dann Weizen bekommen?“
+::aber
+::bekommen, erhalten,  beziehen
+|}
+
+=== 281 ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Elérheti-e a Trabant a kétszáz kilométer per órát?
+:3. „Elvileg igen, attól függ, milyen magasról esik le.”
+:4. („Alapjában véve igen, ha elég nagy magasságból zuhan.”)
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Elérheti-e a Trabant a kétszáz kilométer per órát? - „Kann ein Trabant 200 km/h erreichen?“
+:3. „Elvileg igen, attól függ, milyen magasról esik le.” - „Im Prinzip ja, es hängt davon ab, aus welcher Höhe er runterfällt.“
+:4. („Alapjában véve igen, ha elég nagy magasságból zuhan.”) - („Im Prinzip ja, wenn er aus einer ausreichend großen Höhe fällt.“)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Kann ein Trabant 200 km/h erreichen?“
+:3. „Im Prinzip ja, es hängt davon ab, aus welcher Höhe er runterfällt.“
+:4. („Im Prinzip ja, wenn er aus einer ausreichend großen Höhe fällt.“)
+|}
+
+=== 282a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Igaz-e, hogy az Egyesült Államokban mindenkinek van autója?”
+:3. „Elvileg igen, viszont (= de) nálunk cserébe mindenkinek van parkolóhelye.”
+::viszont
+::viszont nálunk cserébe
+::csere
+::csere tárgya
+::kormánycsere
+::cserél
+::mindenkinek van parkolóhelye
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Igaz-e, hogy az Egyesült Államokban mindenkinek van autója?” - „Stimmt es, dass in den USA jeder ein Auto hat?“
+:3. „Elvileg igen, viszont (= de) nálunk cserébe mindenkinek van parkolóhelye.” - „Im Prinzip ja, aber bei uns hat dafür jeder einen Parkplatz.“
+::viszont - dafür, hingegen
+::viszont nálunk cserébe - bei uns hingegen im Gegenzug; bei uns dagegen als Ausgleich; bei uns wiederum dafür
+::csere - Tausch, Austausch, Wechsel
+::csere tárgya - Tauschobjekt
+::kormánycsere - Regierungswechsel
+::cserél - tauschen, austauschen
+::mindenkinek van parkolóhelye - für jeden gibt es seinen Parkplatz
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Stimmt es, dass in den USA jeder ein Auto hat?“
+:3. „Im Prinzip ja, aber bei uns hat dafür jeder einen Parkplatz.“
+::dafür, hingegen
+::bei uns hingegen im Gegenzug; bei uns dagegen als Ausgleich; bei uns wiederum dafür
+::Tausch, Austausch, Wechsel
+::Tauschobjekt
+::Regierungswechsel
+::tauschen, austauschen
+::für jeden gibt es seinen Parkplatz
+|}
+
+=== 282b ===
+:1. „Tényleg igaz, hogy Amerikában mindenkinek jut egy autó?”
+:2. „Alapvetően igen, de nálunk legalább parkolóhely mindenkinek akad.”
+::jut egy autó = kap egy autó
+::jut
+::jut
+::mindenkinek jut egy autó
+::juttat vkinek vmit (= ad vkinek)
+::akad (= van)
+::legalább = minimum
+::legfeljebb = maximum
+::legeslegfeljebb
+::legeslegalább
+::legeslegalul
+::legeslegfelül
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Tényleg igaz, hogy Amerikában mindenkinek jut egy autó?” - „Stimmt es, dass in den USA jeder ein Auto hat?“ (… dass in Amerika jedem ein Auto zuteilwird? )
+:2. „Alapvetően igen, de nálunk legalább parkolóhely mindenkinek akad.” - „Im Prinzip ja, aber bei bei uns hat jeder mindestens (minimum) einen Parkplatz.“
+::jut egy autó = kap egy autó - bekommt ein Auto
+::jut - gelangen, hinkommen, kommen zu, zuteilwerden, übrig bleiben für
+::jut - auf jemanden entfallen
+::mindenkinek jut egy autó - auf jeden kommt ein Auto; für jeden ist ein Auto da
+::juttat vkinek vmit (= ad vkinek) - jemandem etwas zukommen lassen
+::akad (= van) - es gibt
+::legalább = minimum - mindestens, minimum
+::legfeljebb = maximum - höchstens, maximum
+::legeslegfeljebb - allerhöchstens
+::legeslegalább - allermindestens
+::legeslegalul - zuallerunterst
+::legeslegfelül - zualleroberst
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Stimmt es, dass in den USA jeder ein Auto hat?“ (… dass in Amerika jedem ein Auto zuteilwird? )
+:2. „Im Prinzip ja, aber bei bei uns hat jeder mindestens (minimum) einen Parkplatz.“
+::bekommt ein Auto
+::gelangen, hinkommen, kommen zu, zuteilwerden, übrig bleiben für
+::auf jemanden entfallen
+::auf jeden kommt ein Auto; für jeden ist ein Auto da
+::jemandem etwas zukommen lassen
+::es gibt
+::mindestens, minimum
+::höchstens, maximum
+::allerhöchstens
+::allermindestens
+::zuallerunterst
+::zualleroberst
+|}
+
+=== 283a ===
+:1. Az apa: „Ha valaki megsért, akkor üsd meg egy lapáttal!”
+:2. A lány: „De hát én lány vagyok.”
+:3. Az apa: „Akkor vedd a rózsaszín lapátot!”
+::üt
+::üsd! [üzsd]
+::vesz
+::vedd!
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Az apa: „Ha valaki megsért, akkor üsd meg egy lapáttal!” - Der Vater: „Wenn dich jemand beleidigt, dann schlag ihn mit einer Schaufel!“
+:2. A lány: „De hát én lány vagyok.” - Die Tochter: „Aber ich bin doch ein Mädchen.“
+:3. Az apa: „Akkor vedd a rózsaszín lapátot!” - Der Vater: „Dann nimm die rosa Schaufel!“
+::üt - schlagen
+::üsd! [üzsd] - Schlag! (Imperativ)
+::vesz - nehmen
+::vedd! - nimm!
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Der Vater: „Wenn dich jemand beleidigt, dann schlag ihn mit einer Schaufel!“
+:2. Die Tochter: „Aber ich bin doch ein Mädchen.“
+:3. Der Vater: „Dann nimm die rosa Schaufel!“
+::schlagen
+::Schlag! (Imperativ)
+::nehmen
+::nimm!
+|}
+
+=== 283b ===
+:1. Az apa azt mondja: „Ha bárki sérteget, üsd meg lapáttal!”
+:2. A lánya így válaszol: „De én lány vagyok.”
+:3. Az apa: „Akkor használd a rózsaszín lapátot!”
+::bárki
+::valaki
+::használ
+::használd!
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Az apa azt mondja: „Ha bárki sérteget, üsd meg lapáttal!” - Der Vater sagt: „Wenn irgendjemand dich beleidigt, schlag ihn mit einer Schaufel!“
+:2. A lánya így válaszol: „De én lány vagyok.” - Seine Tochter antwortet so: „Aber ich bin ein Mädchen.“
+:3. Az apa: „Akkor használd a rózsaszín lapátot!” - Der Vater: „Dann benutze die rosafarbene Schaufel!“
+::bárki - irgendjemand
+::valaki - jemand
+::használ - benutzen, verwenden
+::használd! - benutze!
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Der Vater sagt: „Wenn irgendjemand dich beleidigt, schlag ihn mit einer Schaufel!“
+:2. Seine Tochter antwortet so: „Aber ich bin ein Mädchen.“
+:3. Der Vater: „Dann benutze die rosafarbene Schaufel!“
+::irgendjemand
+::jemand
+::benutzen, verwenden
+::benutze!
+|}
+
+=== 283c ===
+:1. Az apa így szól: „Ha megsértenek, csapj [csapje] oda egy lapáttal!”
+:2. A lány tiltakozik: „De hiszen lány vagyok.”
+:3. Az apa felel: „Akkor fogd a rózsaszín lapátot!”
+::odacsap
+::tiltakozás
+::tiltakozik
+::de hiszen = de = hiszen
+::fog
+::fogd!
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Az apa így szól: „Ha megsértenek, csapj [csapje] oda egy lapáttal!” - Der Vater spricht so: „Wenn sie dich beleidigen (wenn man dich beleidigt; wenn du beleidigt wirst), dann hau mit einer Schaufel drauf!“
+:2. A lány tiltakozik: „De hiszen lány vagyok.” - Die Tochter widerspricht: „Aber ich bin ja ein Mädchen.“
+:3. Az apa felel: „Akkor fogd a rózsaszín lapátot!” - Der Vater antwortet: „Dann nimm die rosa Schaufel!“
+::odacsap - zuschlagen
+::tiltakozás - Protest, Widerspruch
+::tiltakozik - protestieren, widersprechen, einwenden
+::de hiszen = de = hiszen - aber
+::fog - nehmen, greifen
+::fogd! - nimm!
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Der Vater spricht so: „Wenn sie dich beleidigen (wenn man dich beleidigt; wenn du beleidigt wirst), dann hau mit einer Schaufel drauf!“
+:2. Die Tochter widerspricht: „Aber ich bin ja ein Mädchen.“
+:3. Der Vater antwortet: „Dann nimm die rosa Schaufel!“
+::zuschlagen
+::Protest, Widerspruch
+::protestieren, widersprechen, einwenden
+::aber
+::nehmen, greifen
+::nimm!
+|}
+
+=== 284a ===
+:1. Miért van egy szőkének egy agysejttel [atysejtel] több, mint egy lónak?
+:2. Azért, hogy lépcsőpucolás közben ne igyon a vödörből.
+::sejt
+::vmivel több van
+::vmivel több, mint
+::vmivel kevesebb van
+::pucolás közben
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van egy szőkének egy agysejttel [atysejtel] több, mint egy lónak? - Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?
+:2. Azért, hogy lépcsőpucolás közben ne igyon a vödörből. - Deshalb, damit sie beim Treppenputzen nicht aus dem Eimer trinkt. (Imperativ - Final-Nebensatz: igyon - inni - iszik)
+::sejt - die Zelle
+::vmivel több van - jemand hat mehr
+::vmivel több, mint - (mit) mehr als
+::vmivel kevesebb van - jemand hat weniger
+::pucolás közben - während des Putzens; beim Putzen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?
+:2. Deshalb, damit sie beim Treppenputzen nicht aus dem Eimer trinkt. (Imperativ - Final-Nebensatz: igyon - inni - iszik)
+::die Zelle
+::jemand hat mehr
+::(mit) mehr als
+::jemand hat weniger
+::während des Putzens; beim Putzen
+|}
+
+=== 284b ===
+:1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló?
+:2. Azért, hogy takarításkor ne szürcsöljön a vödörből.
+::rendelkezik vmivel
+::rendelkezik több agysejttel
+::vmivel több
+::több mint egy
+::eggyel több
+::több mint kettő
+::kettővel több
+::hárommal több
+::több mint három
+::néggyel több
+::több mint négy
+::öttel több
+::több mint öt
+::hattal több
+::több mint hat
+::szürcsöl
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló? - Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?
+:2. Azért, hogy takarításkor ne szürcsöljön a vödörből. - Deshalb, damit sie beim Putzen nicht aus dem Eimer schlürft. (Imperativ - Final-Nebensatz)
+::rendelkezik vmivel - über (mit) etwas verfügen
+::rendelkezik több agysejttel - über mehr Hirnzellen verfügen
+::vmivel több - mehr als
+::több mint egy - mehr als eins
+::eggyel több - eine mehr
+::több mint kettő - mehr als zwei
+::kettővel több - (mit) zwei mehr
+::hárommal több - (mit) drei mehr
+::több mint három - mehr als drei
+::néggyel több - vier mehr
+::több mint négy - mehr als vier
+::öttel több - fünf mehr
+::több mint öt - mehr als fünf
+::hattal több - sechs mehr
+::több mint hat - mehr als sechs
+::szürcsöl - schlürfen, nippen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?
+:2. Deshalb, damit sie beim Putzen nicht aus dem Eimer schlürft. (Imperativ - Final-Nebensatz)
+::über (mit) etwas verfügen
+::über mehr Hirnzellen verfügen
+::mehr als
+::mehr als eins
+::eine mehr
+::mehr als zwei
+::(mit) zwei mehr
+::(mit) drei mehr
+::mehr als drei
+::vier mehr
+::mehr als vier
+::fünf mehr
+::mehr als fünf
+::sechs mehr
+::mehr als sechs
+::schlürfen, nippen
+|}
+
+=== 284c ===
+:1. Miért van a szőkének egy plusz agysejtje a lóhoz képest?
+:2. Azért, hogy lépcsőt mosva ne igyon a vizes vödörből.
+::a lóhoz képest
+::tegnaphoz képest
+::hozzád képest
+::(neki) van egy agysejtje
+::(neki) van egy plusz agysejtje = van egy további agysejtje
+::egy plusz agysejtje a lóhoz képest
+::egy plusz agysejtje, mint a lónak
+::neki több van a lóhoz
+::benzines kanna
+::vizes
+::vizes vödör
+::nedves
+::vizes
+::száraz
+::lépcsőt mosva
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van a szőkének egy plusz agysejtje a lóhoz képest? - Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?
+:2. Azért, hogy lépcsőt mosva ne igyon a vizes vödörből. - Deshalb, damit sie beim Treppenwaschen nicht aus dem Wassereimer trinkt.
+::a lóhoz képest - im Vergleich zum Pferd
+::tegnaphoz képest - im Vergleich zu gestern
+::hozzád képest - im Vergleich zu dir
+::(neki) van egy agysejtje - sie hat eine Hirnzelle
+::(neki) van egy plusz agysejtje = van egy további agysejtje - sie hat eine zusätzliche Hirnzelle
+::egy plusz agysejtje a lóhoz képest - sie hat eine Hirnzelle mehr, im Vergleich zum Pferd
+::egy plusz agysejtje, mint a lónak - sie hat eine Hirnzelle mehr, als ein Pferde (als dem Pferd gehört)
+::neki több van a lóhoz
+::benzines kanna - Benzinkanister
+::vizes - Wasserkanister, Wasserkanne
+::vizes vödör - Wassereimer
+::nedves - feucht
+::vizes - nass
+::száraz - trocken
+::lépcsőt mosva - beim Treppenwaschen; (die Treppe waschend)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?
+:2. Deshalb, damit sie beim Treppenwaschen nicht aus dem Wassereimer trinkt.
+::im Vergleich zum Pferd
+::im Vergleich zu gestern
+::im Vergleich zu dir
+::sie hat eine Hirnzelle
+::sie hat eine zusätzliche Hirnzelle
+::sie hat eine Hirnzelle mehr, im Vergleich zum Pferd
+::sie hat eine Hirnzelle mehr, als ein Pferde (als dem Pferd gehört)
+::Benzinkanister
+::Wasserkanister, Wasserkanne
+::Wassereimer
+::feucht
+::nass
+::trocken
+::beim Treppenwaschen; (die Treppe waschend)
+|}
+
+=== 285a ===
+:1. Miért van egy szőkének egy agysejttel több, mint egy tehénnek?
+:2. Azért, hogy ne bőgjön, ha valaki a tőgyéhez nyúl.
+::bőg
+::A szarvas bőg.
+::A gyerek bőg.
+:3. .tőgy
+::tejel
+::nyúl
+::nyúl
+::házi nyúl
+::üregi nyúl
+::mezei nyúl
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van egy szőkének egy agysejttel több, mint egy tehénnek? - Warum hat eine Blondine eine Gehirnzelle mehr als eine Kuh?
+:2. Azért, hogy ne bőgjön, ha valaki a tőgyéhez nyúl. - Deshalb, damit sie nicht muht, wenn jemand an ihr Euter greift. (Imperativ - Final-Nebensatz vorangestellt)
+::bőg - muhen
+::A szarvas bőg. - Der Hirsch röhrt.
+::A gyerek bőg. - Das Kind plärrt/brüllt.
+:3. .tőgy - Euter
+::tejel - melken
+::nyúl - greifen, berühren
+::nyúl - Kaninchen, Hase
+::házi nyúl - Hauskaninchen
+::üregi nyúl - Wildkaninchen
+::mezei nyúl - Feldhase
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum hat eine Blondine eine Gehirnzelle mehr als eine Kuh?
+:2. Deshalb, damit sie nicht muht, wenn jemand an ihr Euter greift. (Imperativ - Final-Nebensatz vorangestellt)
+::muhen
+::Der Hirsch röhrt.
+::Das Kind plärrt/brüllt.
+:3. Euter
+::melken
+::greifen, berühren
+::Kaninchen, Hase
+::Hauskaninchen
+::Wildkaninchen
+::Feldhase
+|}
+
+=== 285b ===
+:1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy tehén?
+:2. Azért, hogy ne kezdjen el bőgni, amikor megfogják a tőgyét.
+::elkezd
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy tehén? - Warum verfügt eine Blondine über eine Gehirnzelle mehr als eine Kuh?
+:2. Azért, hogy ne kezdjen el bőgni, amikor megfogják a tőgyét. - Deshalb, damit sie nicht anfängt zu muhen, wenn man ihr Euter anfasst.
+::elkezd - anfangen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum verfügt eine Blondine über eine Gehirnzelle mehr als eine Kuh?
+:2. Deshalb, damit sie nicht anfängt zu muhen, wenn man ihr Euter anfasst.
+::anfangen
+|}
+
+=== 285c ===
+:1. Miért van a szőkének egy plusz agysejtje a tehénhez képest?
+:2. Azért, hogy ne adjon ki „mú” hangot, ha valaki hozzányúl a tőgyéhez.
+::hozzányúl vmihez
+::megérint
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van a szőkének egy plusz agysejtje a tehénhez képest? - Warum hat die Blondine im Vergleich zur Kuh eine zusätzliche Gehirnzelle?
+:2. Azért, hogy ne adjon ki „mú” hangot, ha valaki hozzányúl a tőgyéhez. - Deshalb, damit sie keinen „Muh“-Laut von sich gibt, wenn jemand ihr Euter berührt.
+::hozzányúl vmihez - berühren, anfassen
+::megérint - berühren
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum hat die Blondine im Vergleich zur Kuh eine zusätzliche Gehirnzelle?
+:2. Deshalb, damit sie keinen „Muh“-Laut von sich gibt, wenn jemand ihr Euter berührt.
+::berühren, anfassen
+::berühren
+|}
+
+=== 286a ===
+:1. Miért van egy szőkének egy agysejttel többje, mint egy lónak?
+:2. Azért, hogy autómosás közben ne igyon a vödörből.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van egy szőkének egy agysejttel többje, mint egy lónak? - Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?
+:2. Azért, hogy autómosás közben ne igyon a vödörből. - Deshalb, damit sie beim Autowaschen nicht aus dem Eimer trinkt.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?
+:2. Deshalb, damit sie beim Autowaschen nicht aus dem Eimer trinkt.
+|}
+
+=== 286b ===
+:1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló?
+:2. Azért, hogy kocsimosáskor ne kortyolgasson a vödörből.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló? - Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?
+:2. Azért, hogy kocsimosáskor ne kortyolgasson a vödörből. - Deshalb, damit sie beim Wagenwaschen nicht aus dem Eimer schlürft.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?
+:2. Deshalb, damit sie beim Wagenwaschen nicht aus dem Eimer schlürft.
+|}
+
+=== 286c ===
+:1. Miért van a szőkének egy plusz agysejtje [atysejtye] a lóhoz képest?
+:2. Azért, hogy ne igyon a vizes vödörből, amikor az autót tisztítja. [tisztíttya]
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van a szőkének egy plusz agysejtje [atysejtye] a lóhoz képest? - Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?
+:2. Azért, hogy ne igyon a vizes vödörből, amikor az autót tisztítja. [tisztíttya] - Deshalb, damit sie nicht aus dem Wassereimer trinkt, wenn sie das Auto reinigt.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?
+:2. Deshalb, damit sie nicht aus dem Wassereimer trinkt, wenn sie das Auto reinigt.
+|}
+

@@ -1,0 +1,9 @@
+{
+  "post_type": "page",
+  "post_title": "Witze 7",
+  "post_name": "7-witze",
+  "post_parent": "Witze",
+  "menu_order": 7,
+  "content_file": "wordpress/witze07-v01.txt",
+  "jokes": 25
+}

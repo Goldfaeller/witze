@@ -1,0 +1,852 @@
+{{Navigation hoch|
+ hochtext=Inhaltsverzeichnis: Ungarisch-Lesebuch|
+ hochlink=Ungarisch#Ungarisch-Lesebuch}}
+{{Navigation zurückhochvor|
+ zurücklink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 21|
+ zurücktext=21. Teil – Kurze Witze|
+ hochlink=Ungarisch/Ungarisch-Lesebuch-Witze|
+ hochtext=Witze, witzige Sprüche, Sprichwörter|
+ vorlink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 23|
+vortext=23. Teil – Kurze Witze 
+}}
+
+;22. Teil - Kurze Witze 
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+:'''rövid viccek - kurze Witze'''
+
+=== 292a ===
+:1. Miért van a szőkék fürdőkádja [fürdőkággya] körül szögesdrót?
+:2. Azért, hogy ne essenek kísértésbe, és ne ússzanak túl messzire.
+::szög
+::kísértés
+::kísértésbe hoz
+::kísértésbe esik
+::sértés
+::sertés
+::sérteget
+::sérül
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van a szőkék fürdőkádja [fürdőkággya] körül szögesdrót? - Warum haben Blondinen Stacheldraht um die Badewanne?
+:2. Azért, hogy ne essenek kísértésbe, és ne ússzanak túl messzire. - Deshalb, damit sie nicht in Versuchung geraten und nicht zu weit hinausschwimmen.
+::szög - der Nagel
+::kísértés - die Versuchung
+::kísértésbe hoz - in Versuchung führen
+::kísértésbe esik - in Versuchung kommen (fallen)
+::sértés - die Beleidigung
+::sertés - das Schwein
+::sérteget - beleidigen
+::sérül - verletzen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum haben Blondinen Stacheldraht um die Badewanne?
+:2. Deshalb, damit sie nicht in Versuchung geraten und nicht zu weit hinausschwimmen.
+::der Nagel
+::die Versuchung
+::in Versuchung führen
+::in Versuchung kommen (fallen)
+::die Beleidigung
+::das Schwein
+::beleidigen
+::verletzen
+|}
+
+=== 292b ===
+:1. Miért tesznek a szőkék szögesdrótot a fürdőkád köré?
+:2. Azért, hogy ne akarjanak túl messzire úszni.
+::akarjanak
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért tesznek a szőkék szögesdrótot a fürdőkád köré? - Warum machen Blondinen Stacheldraht um die Badewanne herum?
+:2. Azért, hogy ne akarjanak túl messzire úszni. - Deshalb, damit sie nicht zu weit hinausschwimmen wollen.
+::akarjanak - (Imperativ von; akar - wollen: Imperativ; Final-Nebensatz)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum machen Blondinen Stacheldraht um die Badewanne herum?
+:2. Deshalb, damit sie nicht zu weit hinausschwimmen wollen.
+::(Imperativ von; akar - wollen: Imperativ; Final-Nebensatz)
+|}
+
+=== 292c ===
+:1. Miért van szögesdrót a szőke nő fürdőkádja [fürdőkággya] körül?
+:2. Azért, hogy ne jussanak kísértésbe, hogy túl messzire ússzanak.
+::kísértés
+::jut
+::jussanak
+::ússzanak
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van szögesdrót a szőke nő fürdőkádja [fürdőkággya] körül? - Warum ist um die Badewanne der Blondine Stacheldraht?
+:2. Azért, hogy ne jussanak kísértésbe, hogy túl messzire ússzanak. - Deshalb, damit sie nicht in Versuchung kommen, zu weit zu schwimmen.
+::kísértés - die Versuchung
+::jut - gelangen, hinkommen, geraten
+::jussanak - (Imperativ on: jut)
+::ússzanak - (Imperativ on: úszik)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum ist um die Badewanne der Blondine Stacheldraht?
+:2. Deshalb, damit sie nicht in Versuchung kommen, zu weit zu schwimmen.
+::die Versuchung
+::gelangen, hinkommen, geraten
+::(Imperativ on: jut)
+::(Imperativ on: úszik)
+|}
+
+=== 293a ===
+:1. Miért olyan lapos a szőkék hátsó fejrésze?
+:2. Azért, mert vízivás közben a vécéfedél a fejükre csapódik.
+::tarkó = nyakszirt
+::vízivás
+::víz
+::inni
+::ivás
+::vízivás
+::ivóvíz
+::vízi növény
+::sörivás
+::borivás
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért olyan lapos a szőkék hátsó fejrésze? - Warum ist der Hinterkopf der Blondinen so flach?
+:2. Azért, mert vízivás közben a vécéfedél a fejükre csapódik. - Deshalb, weil beim Wassertrinken der Klodeckel auf ihren Kopf schlägt.
+::tarkó = nyakszirt - Nacken
+::vízivás - Wassertrinken
+::víz - Wasser
+::inni - trinken
+::ivás - das Trinken
+::vízivás - das Wassertrinken (víz-ivás)
+::ivóvíz - Trinkwasser
+::vízi növény - Wasserpflanze
+::sörivás - das Biertrinken (sör-ivás)
+::borivás - das Weintrinken (bor-ivás)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum ist der Hinterkopf der Blondinen so flach?
+:2. Deshalb, weil beim Wassertrinken der Klodeckel auf ihren Kopf schlägt.
+::Nacken
+::Wassertrinken
+::Wasser
+::trinken
+::das Trinken
+::das Wassertrinken (víz-ivás)
+::Trinkwasser
+::Wasserpflanze
+::das Biertrinken (sör-ivás)
+::das Weintrinken (bor-ivás)
+|}
+
+=== 293b ===
+:1. Miért van a szőkéknek ilyen lapos hátsó fejük?
+:2. Azért, mert amikor isznak, a vécé fedele rájuk esik.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért van a szőkéknek ilyen lapos hátsó fejük? - Warum haben Blondinen so einen flachen Hinterkopf?
+:2. Azért, mert amikor isznak, a vécé fedele rájuk esik. - Deshalb, weil wenn sie trinken, der Klodeckel auf sie fällt.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum haben Blondinen so einen flachen Hinterkopf?
+:2. Deshalb, weil wenn sie trinken, der Klodeckel auf sie fällt.
+|}
+
+=== 293c ===
+:1. Miért lapos a szőke nők feje hátul?
+:2. Azért, mert ivás közben a vécéfedél rájuk csapódik.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért lapos a szőke nők feje hátul? - Warum ist der Kopf der blonden Frauen hinten flach?
+:2. Azért, mert ivás közben a vécéfedél rájuk csapódik. - Deshalb, weil beim Trinken der Klodeckel auf sie zuschlägt.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum ist der Kopf der blonden Frauen hinten flach?
+:2. Deshalb, weil beim Trinken der Klodeckel auf sie zuschlägt.
+|}
+
+=== 294a ===
+:1. Miért örül egy szőke nő, ha egy év után befejez egy kirakóst?
+:2. Azért, mert a dobozon az áll, hogy 2–4 év. [kettőtől négy évig]
+::kirakó = puzzle
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért örül egy szőke nő, ha egy év után befejez egy kirakóst? - Warum freut sich eine Blondine, wenn sie nach einem Jahr ein Puzzle fertigstellt?
+:2. Azért, mert a dobozon az áll, hogy 2–4 év. [kettőtől négy évig] - Deshalb, weil auf der Packung steht, dass es 2–4 Jahre ist.
+::kirakó = puzzle - das Puzzle
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum freut sich eine Blondine, wenn sie nach einem Jahr ein Puzzle fertigstellt?
+:2. Deshalb, weil auf der Packung steht, dass es 2–4 Jahre ist.
+::das Puzzle
+|}
+
+=== 294b ===
+:1. Miért örül a szőke, amikor egy kirakót egy év alatt befejez?
+:2. Azért, mert a csomagoláson az van feltüntetve, hogy 2–4 év. [kettőtől négy évig]
+::feltűnik
+::feltűnik = odaírva
+::van feltüntetve
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért örül a szőke, amikor egy kirakót egy év alatt befejez? - Warum freut sich die Blondine, wenn sie ein Puzzle in einem Jahr fertig macht?
+:2. Azért, mert a csomagoláson az van feltüntetve, hogy 2–4 év. [kettőtől négy évig] - Deshalb, weil auf der Verpackung angegeben ist, dass es 2–4 Jahre sind.
+::feltűnik - auffallen, erscheinen, auftauchen
+::feltűnik = odaírva - ist aufgedruckt
+::van feltüntetve - ist aufgedruckt
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum freut sich die Blondine, wenn sie ein Puzzle in einem Jahr fertig macht?
+:2. Deshalb, weil auf der Verpackung angegeben ist, dass es 2–4 Jahre sind.
+::auffallen, erscheinen, auftauchen
+::ist aufgedruckt
+::ist aufgedruckt
+|}
+
+=== 294c ===
+:1. Miért boldog egy szőke nő, ha egy év alatt kirak egy puzzle-t?
+:2. Azért, mert a doboz szerint 2–4 év [kettő négy év] kell hozzá.
+::kirak
+::rak
+::kirakat
+::kirak egy puzzle-t
+::raktár
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért boldog egy szőke nő, ha egy év alatt kirak egy puzzle-t? - Warum ist eine Blondine glücklich, wenn sie ein Puzzle innerhalb eines Jahres zusammensetzt?
+:2. Azért, mert a doboz szerint 2–4 év [kettő négy év] kell hozzá. - Deshalb, weil laut der Packung 2–4 Jahre dazu nötig sind.
+::kirak - auslegen, legen, hinauslegen
+::rak - stellen, legen, setzen
+::kirakat - das Schaufenster; die Auslage
+::kirak egy puzzle-t - ein Puzzle lösen
+::raktár - das Lager; Depot, Ablage
+::puzzle-t [puzzlt] (mit Bindestrich, um das Original ausländische Wort nicht zu verstümmeln. NICHT: puzzlt; ABER auch NICHT: puzzlet)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum ist eine Blondine glücklich, wenn sie ein Puzzle innerhalb eines Jahres zusammensetzt?
+:2. Deshalb, weil laut der Packung 2–4 Jahre dazu nötig sind.
+::auslegen, legen, hinauslegen
+::stellen, legen, setzen
+::das Schaufenster; die Auslage
+::ein Puzzle lösen
+::das Lager; Depot, Ablage
+::puzzle-t [puzzlt] (mit Bindestrich, um das Original ausländische Wort nicht zu verstümmeln. NICHT: puzzlt; ABER auch NICHT: puzzlet)
+|}
+
+=== 295a ===
+:1. Miért fagyaszt le egy szőke nő forró vizet?
+:2. Azért, mert a forró vizet mindig jól lehet használni.
+::lefagyaszt
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért fagyaszt le egy szőke nő forró vizet? - Warum friert eine Blondine heißes Wasser ein?
+:2. Azért, mert a forró vizet mindig jól lehet használni. - Deshalb, weil man heißes Wasser immer gut gebrauchen kann.
+::lefagyaszt - tiefkühlen, einfrieren; gefrieren lassen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum friert eine Blondine heißes Wasser ein?
+:2. Deshalb, weil man heißes Wasser immer gut gebrauchen kann.
+::tiefkühlen, einfrieren; gefrieren lassen
+|}
+
+=== 295b ===
+:1. Miért tesz egy szőke forró vizet a fagyasztóba?
+:2. Azért, mert a meleg víz mindig hasznos.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért tesz egy szőke forró vizet a fagyasztóba? - Warum legt eine Blondine heißes Wasser in den Gefrierschrank?
+:2. Azért, mert a meleg víz mindig hasznos. - Deshalb, weil warmes Wasser immer nützlich ist.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum legt eine Blondine heißes Wasser in den Gefrierschrank?
+:2. Deshalb, weil warmes Wasser immer nützlich ist.
+|}
+
+=== 295c ===
+:1. Miért fagyaszt be egy szőke nő forró vizet?
+:2. Azért, mert a forró víz mindig jól jön.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Miért fagyaszt be egy szőke nő forró vizet? - Warum friert eine Blondine heißes Wasser ein?
+:2. Azért, mert a forró víz mindig jól jön. - Deshalb, weil heißes Wasser immer gut kommt.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Warum friert eine Blondine heißes Wasser ein?
+:2. Deshalb, weil heißes Wasser immer gut kommt.
+|}
+
+=== 296a ===
+:1. Egy szőke nő horgászni megy. Lyukat vág a jégbe, és horgászik.
+:2. Egyszer csak egy hang: „Itt nincsenek halak.”
+:3. Kis idő múlva újra a hang: „Itt nincsenek halak.”
+:4. A nő körülnéz és kérdi: „Ki vagy te? Talán Isten?”
+:5. „Nem” – válaszolja a hang –, „én vagyok a jégcsarnok hangosbemondója.”
+::egyszer csak
+::egyszer
+::hirtelen
+::hír
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő horgászni megy. Lyukat vág a jégbe, és horgászik. - Eine Blondine geht angeln. Sie schlägt ein Loch ins Eis und angelt.
+:2. Egyszer csak egy hang: „Itt nincsenek halak.” - Plötzlich eine Stimme: „Hier gibt es keine Fische.“
+:3. Kis idő múlva újra a hang: „Itt nincsenek halak.” - Nach einer Weile wieder die Stimme: „Hier gibt es keine Fische.“
+:4. A nő körülnéz és kérdi: „Ki vagy te? Talán Isten?” - Sie schaut sich um und fragt: „Wer bist du? Bist du Gott?“
+:5. „Nem” – válaszolja a hang –, „én vagyok a jégcsarnok hangosbemondója.” - „Nein“, sagt die Stimme, „ich bin der Sprecher vom Eissportstadion.“
+::egyszer csak - plötzlich, auf einmal
+::egyszer - einmal
+::hirtelen - plötzlich (ohne [vorherige] Nachricht; unangekündigt)
+::hír - die Nachricht
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine geht angeln. Sie schlägt ein Loch ins Eis und angelt.
+:2. Plötzlich eine Stimme: „Hier gibt es keine Fische.“
+:3. Nach einer Weile wieder die Stimme: „Hier gibt es keine Fische.“
+:4. Sie schaut sich um und fragt: „Wer bist du? Bist du Gott?“
+:5. „Nein“, sagt die Stimme, „ich bin der Sprecher vom Eissportstadion.“
+::plötzlich, auf einmal
+::einmal
+::plötzlich (ohne [vorherige] Nachricht; unangekündigt)
+::die Nachricht
+|}
+
+=== 296b ===
+:1. Egy szőke nő a jégen pecázik: lyukat üt, bedobja a horgot.
+:2. Egy hang figyelmeztet: „Itt nincs hal.”
+:3. Nem sokkal később megint megszólal: „Itt tényleg nincs hal.”
+:4. A nő megkérdezi: „Te vagy az Úr?”
+:5. „Nem, a jégstadion bemondója vagyok.”
+::pecázik (Umgangsspracxhe) = horgászik
+::horog (horgot, horga, horgok)
+::horgászbot
+::horgász
+::figyelmeztet
+::megint = újra = ismét
+::új
+::újra
+::ismétel
+::tény
+::tényleg
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő a jégen pecázik: lyukat üt, bedobja a horgot. - Eine Blondine angelt auf dem Eis: Sie schlägt ein Loch, (und) wirft den Haken rein.
+:2. Egy hang figyelmeztet: „Itt nincs hal.” - Eine Stimme warnt: „Hier gibt es keine Fische.“ (keinen Fisch) (es gibt/ es gibt nicht - wen oder was? - Akkusativ im Deutschen - ABER NICHT im Ungarischen! - van/nincs - ohne Akkusativ!)
+:3. Nem sokkal később megint megszólal: „Itt tényleg nincs hal.” - Kurz darauf (nicht mit-viel später) spricht erneut (die Stimme): „Hier gibt es tatsächlich keine Fische.“
+:4. A nő megkérdezi: „Te vagy az Úr?” - Die Frau fragt: „Bist du der Herr?“
+:5. „Nem, a jégstadion bemondója vagyok.” - „Nein, ich bin der Stadionsprecher des eisstadions.“
+::pecázik (Umgangsspracxhe) = horgászik - angeln
+::horog (horgot, horga, horgok) - der Haken
+::horgászbot - die Angel
+::horgász - der Angler
+::figyelmeztet - warnen, ermahnen
+::megint = újra = ismét - erneut, wieder
+::új - neu
+::újra - auf ein Neues
+::ismétel - wiederholen
+::tény - Tatsache; Fakt
+::tényleg - tatsächlich
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine angelt auf dem Eis: Sie schlägt ein Loch, (und) wirft den Haken rein.
+:2. Eine Stimme warnt: „Hier gibt es keine Fische.“ (keinen Fisch) (es gibt/ es gibt nicht - wen oder was? - Akkusativ im Deutschen - ABER NICHT im Ungarischen! - van/nincs - ohne Akkusativ!)
+:3. Kurz darauf (nicht mit-viel später) spricht erneut (die Stimme): „Hier gibt es tatsächlich keine Fische.“
+:4. Die Frau fragt: „Bist du der Herr?“
+:5. „Nein, ich bin der Stadionsprecher des eisstadions.“
+::angeln
+::der Haken
+::die Angel
+::der Angler
+::warnen, ermahnen
+::erneut, wieder
+::neu
+::auf ein Neues
+::wiederholen
+::Tatsache; Fakt
+::tatsächlich
+|}
+
+=== 296c ===
+:1. Egy szőke nő léket vág a jégen és horgászni kezd.
+:2. Egy hang közli: „Ezen a helyen nincsenek halak.”
+:3. A hang ismétlődik.
+:4. A nő felnéz: „Isten, te szólsz hozzám?”
+:5. „Nem, a fedett jégpálya hangosbemondója szól hozzád.”
+::lék
+::lék a jégen
+::lék = lyuk
+::lyukas
+::közöl
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő léket vág a jégen és horgászni kezd. - Eine Blondine macht ein Loch ins Eis und beginnt zu angeln.
+:2. Egy hang közli: „Ezen a helyen nincsenek halak.” - Eine Stimme sagt: „An dieser Stelle gibt es keine Fische.“
+:3. A hang ismétlődik. - Die Stimme wiederholt sich.
+:4. A nő felnéz: „Isten, te szólsz hozzám?” - Die Frau blickt auf: „Sprichst du zu mir, Gott?“
+:5. „Nem, a fedett jégpálya hangosbemondója szól hozzád.” - „Nein, der Sprecher der Eissporthalle spricht zu dir..“
+::lék - das Leck; Loch
+::lék a jégen - ein Loch im Eis
+::lék = lyuk - das Loch
+::lyukas - löchrig
+::közöl - mitteilen, sprechen, sagen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine macht ein Loch ins Eis und beginnt zu angeln.
+:2. Eine Stimme sagt: „An dieser Stelle gibt es keine Fische.“
+:3. Die Stimme wiederholt sich.
+:4. Die Frau blickt auf: „Sprichst du zu mir, Gott?“
+:5. „Nein, der Sprecher der Eissporthalle spricht zu dir..“
+::das Leck; Loch
+::ein Loch im Eis
+::das Loch
+::löchrig
+::mitteilen, sprechen, sagen
+|}
+
+=== 297a ===
+:1. Egy szőke nő kimegy a piacra a narancsárushoz, és azt mondja: „Kérek két kiló narancsot, de legyenek kicsik, mert a nagyok túl nehezek.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő kimegy a piacra a narancsárushoz, és azt mondja: „Kérek két kiló narancsot, de legyenek kicsik, mert a nagyok túl nehezek.” - Eine Blondine geht auf den Markt zur Orangenverkäuferin und sagt: „Ich möchte bitte 2 kg Orangen, aber sie sollen klein sein, denn die großen sind zu schwer!“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine geht auf den Markt zur Orangenverkäuferin und sagt: „Ich möchte bitte 2 kg Orangen, aber sie sollen klein sein, denn die großen sind zu schwer!“
+|}
+
+=== 297b ===
+:1. Egy szőke nő az árusnál narancsot vásárol.
+:2. „Két kilót kérnék, de csak a kicsikből, a nagyok túl súlyosak.”
+::nehéz = súlyos
+::nehéz
+::súly
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő az árusnál narancsot vásárol. - Eine Blondine kauft beim Händler Orangen.
+:2. „Két kilót kérnék, de csak a kicsikből, a nagyok túl súlyosak.” - „Ich hätte gern zwei Kilo, aber nur von den kleinen, die großen sind (mir) zu schwer.“
+::nehéz = súlyos - schwer (Gewicht)
+::nehéz - schwer (kompliziert)
+::súly - das Gewicht
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine kauft beim Händler Orangen.
+:2. „Ich hätte gern zwei Kilo, aber nur von den kleinen, die großen sind (mir) zu schwer.“
+::schwer (Gewicht)
+::schwer (kompliziert)
+::das Gewicht
+|}
+
+=== 297c ===
+:1. Egy szőke nő megszólítja a piaci narancsárust.
+:2. „Szeretnék két kiló narancsot, lehetőleg aprókat, mert a nagyokat nem bírom el.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő megszólítja a piaci narancsárust. - Eine Blondine sagt zum Orangenverkäufer auf dem Markt an.
+:2. „Szeretnék két kiló narancsot, lehetőleg aprókat, mert a nagyokat nem bírom el.” - „Ich möchte zwei Kilo Orangen, möglichst winzige, denn die großen kann ich nicht tragen.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine sagt zum Orangenverkäufer auf dem Markt an.
+:2. „Ich möchte zwei Kilo Orangen, möglichst winzige, denn die großen kann ich nicht tragen.“
+|}
+
+=== 298a ===
+:1. Egy szőke nő bemegy a virágboltba, és egy csokor gladiátort kér.
+:2. A virágárus visszakérdez: „Gladiolákra gondolt?”
+:3. „Oh, igen, a másikak a radiátorok…”
+::gladiolák = kardvirág
+::kard
+::gladiátor
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő bemegy a virágboltba, és egy csokor gladiátort kér. - Eine Blondine geht ins Blumengeschäft und möchte einen Strauß Gladiatoren.
+:2. A virágárus visszakérdez: „Gladiolákra gondolt?” - Die Floristin (Blumenhändlerin) fragt zurück: „Sie möchten wohl Gladiolen?“ (Dachten Sie an Gladiolen?)
+:3. „Oh, igen, a másikak a radiátorok…” - „Ach ja, das andere sind ja die Heizkörper…“
+::gladiolák = kardvirág - Gladiolen = Schwertblume
+::kard - das Schwert
+::gladiátor - der Gladiator
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine geht ins Blumengeschäft und möchte einen Strauß Gladiatoren.
+:2. Die Floristin (Blumenhändlerin) fragt zurück: „Sie möchten wohl Gladiolen?“ (Dachten Sie an Gladiolen?)
+:3. „Ach ja, das andere sind ja die Heizkörper…“
+::Gladiolen = Schwertblume
+::das Schwert
+::der Gladiator
+|}
+
+=== 298b ===
+:1. Egy szőke nő virágcsokrot szeretne venni.
+:2. „Kérek egy csokor gladiátort.”
+:3. A virágárus javítja: „Gladiolákat?”
+::csokor (csokrot, csokra, csokrok)
+::stimmel
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő virágcsokrot szeretne venni. - Eine Blondine würde gerne einen Blumenstrauß kaufen.
+:2. „Kérek egy csokor gladiátort.” - „Ich möchte einen Strauß Gladiatoren.“
+:3. A virágárus javítja: „Gladiolákat?” - Die Floristin korrigiert (sie): „Gladiolen?“
+::csokor (csokrot, csokra, csokrok) - der Strauß
+::stimmel - stimmen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine würde gerne einen Blumenstrauß kaufen.
+:2. „Ich möchte einen Strauß Gladiatoren.“
+:3. Die Floristin korrigiert (sie): „Gladiolen?“
+::der Strauß
+::stimmen
+|}
+
+=== 298c ===
+:1. Egy szőke nő betér a virágüzletbe.
+:2. „Szeretnék egy csokor gladiátort.”
+:3. A virágárus mosolyogva kérdez: „Talán gladiolát?”
+:4. „Persze, keverem… a másikak a radiátorok.”
+::kever
+::keverék
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő betér a virágüzletbe. - Eine Blondine betritt ein Blumengeschäft.
+:2. „Szeretnék egy csokor gladiátort.” - „Ich hätte gern einen Strauß Gladiatoren.“
+:3. A virágárus mosolyogva kérdez: „Talán gladiolát?” - Die Floristin fragt lächelnd: „Meinen Sie Gladiolen?“ (Vielleicht Gladiolen?)
+:4. „Persze, keverem… a másikak a radiátorok.” - „Natürlich, ich verwechsel(te das) … die anderen sind die Heizkörper.“
+::kever - mischen
+::keverék - Mischung
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine betritt ein Blumengeschäft.
+:2. „Ich hätte gern einen Strauß Gladiatoren.“
+:3. Die Floristin fragt lächelnd: „Meinen Sie Gladiolen?“ (Vielleicht Gladiolen?)
+:4. „Natürlich, ich verwechsel(te das) … die anderen sind die Heizkörper.“
+::mischen
+::Mischung
+|}
+
+=== 299a ===
+:1. Egy szőke nő a barátjával moziba megy, és egy John Wayne-filmet néznek.
+:2. A barát mondja: „Fogadjunk 10 euróba, hogy belovagol egy kaktuszerdőbe és leesik a lóról.”
+:3. A szőke ellene fogad.
+:4. A filmben pontosan ez történik.
+:5. A fiú: „Tartsd meg a pénzt, már láttam egyszer a filmet.”
+:6. A szőke válaszol: „Én is láttam már, de nem hittem volna, hogy még egyszer ilyen hülye lesz, és újra belovagol.”
+::kaktusz
+::erdő
+::hisz
+::hit
+::fogadás
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő a barátjával moziba megy, és egy John Wayne-filmet néznek. - Eine Blondine geht mit ihrem Freund ins Kino und sie sehen sich einen John-Wayne-Film an.
+:2. A barát mondja: „Fogadjunk 10 euróba, hogy belovagol egy kaktuszerdőbe és leesik a lóról.” - Der Freund sagt: „Ich wetten wir um 10 Euro, dass er in einen Kaktuswald reitet und vom Pferd fällt.“
+:3. A szőke ellene fogad. - Seine blonde Freundin wettet dagegen.
+:4. A filmben pontosan ez történik. - Im Film geschieht genau das.
+:5. A fiú: „Tartsd meg a pénzt, már láttam egyszer a filmet.” - Er sagt: „Behalte das Geld behalten, ich habe den Film schon einmal gesehen.“
+:6. A szőke válaszol: „Én is láttam már, de nem hittem volna, hogy még egyszer ilyen hülye lesz, és újra belovagol.” - Darauf die Blondine: „Ich habe den Film auch schon einmal gesehen, aber ich hätte nicht geglaubt, dass er noch mal so  blöd sein wird und noch einmal rein reitet.“
+::kaktusz - der kaktus
+::erdő - Der Wald
+::hisz - glauben
+::hit - der Glaube
+::fogadás - die Wette
+::wetten
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine geht mit ihrem Freund ins Kino und sie sehen sich einen John-Wayne-Film an.
+:2. Der Freund sagt: „Ich wetten wir um 10 Euro, dass er in einen Kaktuswald reitet und vom Pferd fällt.“
+:3. Seine blonde Freundin wettet dagegen.
+:4. Im Film geschieht genau das.
+:5. Er sagt: „Behalte das Geld behalten, ich habe den Film schon einmal gesehen.“
+:6. Darauf die Blondine: „Ich habe den Film auch schon einmal gesehen, aber ich hätte nicht geglaubt, dass er noch mal so  blöd sein wird und noch einmal rein reitet.“
+::der kaktus
+::Der Wald
+::glauben
+::der Glaube
+::die Wette
+::wetten
+|}
+
+=== 299b ===
+:1. Egy szőke nő és a párja beülnek a moziba egy John Wayne-filmre.
+:2. A férfi fogadást ajánl: „Tíz euró, hogy kaktuszok közé lovagol és leesik.”
+:3. A nő elfogadja.
+:4. A jelenet bekövetkezik.
+:5. A férfi nagylelkű: „Nem kell fizetned, már láttam ezt a filmet.”
+:6. A nő: „Én is, csak nem gondoltam, hogy megint ugyanabba a hibába lovagol.”
+::követ
+::következő
+::következik
+::bekövetkezik
+::jelenet
+::lélek (lelket, lelke, lelkek)
+::nagylélek (Adverb: nagylelkű)
+::Szentlélek
+::az Atya, a fiú és a Szentlélek
+::ugyanabba a hibába
+::ugyanebbe
+::Mindebből sokat tanultam.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő és a párja beülnek a moziba egy John Wayne-filmre. - Eine Blondine und ihr Freund gehen ins Kino (setzen sich ins Kino)  zu einem John-Wayne-Film.
+:2. A férfi fogadást ajánl: „Tíz euró, hogy kaktuszok közé lovagol és leesik.” - Der Mann bietet eine Wette an: „Zehn Euro, dass er in die (zwischen die) Kakteen reitet und (vom Pferd) fällt.“
+:3. A nő elfogadja. - Die Blondine nimmt die Wette an.
+:4. A jelenet bekövetkezik. - Die Szene passiert (tatsächlich).
+:5. A férfi nagylelkű: „Nem kell fizetned, már láttam ezt a filmet.” - Der Mann großzügig: „Du musst nicht zahlen, ich habe den Film schon gesehen.“
+:6. A nő: „Én is, csak nem gondoltam, hogy megint ugyanabba a hibába lovagol.” - Die Blondine: „Ich auch, aber ich dachte nur nicht, dass er denselben Fehler noch einmal macht.“ (noch mal in diesen Fehler reinreitet)
+::követ - verfolgen, befolgen
+::következő - der nächste, der nachfolgende
+::következik - folgen (resultieren); sich ergeben; an der Reihe sein; folgen (nachfolgen)
+::bekövetkezik - eintreten, eintreffen, erfolgen
+::jelenet - die Szene
+::lélek (lelket, lelke, lelkek) - die Seele, der Geist
+::nagylélek (Adverb: nagylelkű) - großzügig, großherzig
+::Szentlélek - der Heilige Geist
+::az Atya, a fiú és a Szentlélek - der Vater, der Sohn und der Heilige Geist
+::ugyanabba a hibába - in den gleichen Fehler (reinreitet) (ugyan-az-ba a hiba-ba)
+::ugyanebbe - in den gleiche rein (ugyan-ez-be)
+::Mindebből sokat tanultam. - Aus all dem habe ich viel gelernt. (mind-ez-ből)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine und ihr Freund gehen ins Kino (setzen sich ins Kino)  zu einem John-Wayne-Film.
+:2. Der Mann bietet eine Wette an: „Zehn Euro, dass er in die (zwischen die) Kakteen reitet und (vom Pferd) fällt.“
+:3. Die Blondine nimmt die Wette an.
+:4. Die Szene passiert (tatsächlich).
+:5. Der Mann großzügig: „Du musst nicht zahlen, ich habe den Film schon gesehen.“
+:6. Die Blondine: „Ich auch, aber ich dachte nur nicht, dass er denselben Fehler noch einmal macht.“ (noch mal in diesen Fehler reinreitet)
+::verfolgen, befolgen
+::der nächste, der nachfolgende
+::folgen (resultieren); sich ergeben; an der Reihe sein; folgen (nachfolgen)
+::eintreten, eintreffen, erfolgen
+::die Szene
+::die Seele, der Geist
+::großzügig, großherzig
+::der Heilige Geist
+::der Vater, der Sohn und der Heilige Geist
+::in den gleichen Fehler (reinreitet) (ugyan-az-ba a hiba-ba)
+::in den gleiche rein (ugyan-ez-be)
+::Aus all dem habe ich viel gelernt. (mind-ez-ből)
+|}
+
+=== 299c ===
+:1. Egy szőke nő a barátjával John Wayne-filmet néz a moziban.
+:2. A barát fogad: „Tíz euró, hogy kaktuszok közé megy és lezuhan.”
+:3. A szőke biztos az ellenkezőjében.
+:4. A film a fogadást igazolja.
+:5. A fiú: „Nem kérem a pénzt, már láttam.”
+:6. A szőke csodálkozva: „Én is, de nem hittem volna, hogy újra ilyen ostoba lesz.”
+::zuhan
+::zuhany = dus
+::ellenkező
+::ellentét
+::ostoba = buta = bolond = dilis
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy szőke nő a barátjával John Wayne-filmet néz a moziban. - Eine Blondine schaut mit ihrem Freund im Kino einen John-Wayne-Film.
+:2. A barát fogad: „Tíz euró, hogy kaktuszok közé megy és lezuhan.” - Der Freund wettet: „Zehn Euro, dass er in Kakteen reitet und runterfällt.“
+:3. A szőke biztos az ellenkezőjében. - Die Blondine ist vom Gegenteil überzeugt.  (Die Blondine ist sicher in seinem Gegenteil.)
+:4. A film a fogadást igazolja. - Der Film bestätigt die Wette.
+:5. A fiú: „Nem kérem a pénzt, már láttam.” - Er: „Ich will das Geld nicht, ich habe ihn schon gesehen.“
+:6. A szőke csodálkozva: „Én is, de nem hittem volna, hogy újra ilyen ostoba lesz.” - Die Blondine erstaunt: „Ich auch, aber ich hätte nicht gedacht, dass er noch einmal so dumm sein wird.“
+::zuhan - fallen
+::zuhany = dus - die Dusche
+::ellenkező - gegenteilig
+::ellentét - Gegenteil; Gegensatz
+::ostoba = buta = bolond = dilis - dumm
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Blondine schaut mit ihrem Freund im Kino einen John-Wayne-Film.
+:2. Der Freund wettet: „Zehn Euro, dass er in Kakteen reitet und runterfällt.“
+:3. Die Blondine ist vom Gegenteil überzeugt.  (Die Blondine ist sicher in seinem Gegenteil.)
+:4. Der Film bestätigt die Wette.
+:5. Er: „Ich will das Geld nicht, ich habe ihn schon gesehen.“
+:6. Die Blondine erstaunt: „Ich auch, aber ich hätte nicht gedacht, dass er noch einmal so dumm sein wird.“
+::fallen
+::die Dusche
+::gegenteilig
+::Gegenteil; Gegensatz
+::dumm
+|}
+

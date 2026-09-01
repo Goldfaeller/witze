@@ -1,0 +1,1862 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/22-witze/">« Zurück zu Witze 22</a> &nbsp;|&nbsp; <span>Witze 23</span> &nbsp;|&nbsp; <a href="/24-witze/">Weiter zu Witze 24 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 23</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>23. Teil - Kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>rövid viccek - kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő az orvosnál ül. - Eine Blondine sitzt beim Arzt.</p>
+<p>2. Az orvos rászól: „Kapcsolja már ki a walkmant, és vegye le a fejhallgatót!” - Der Arzt sagt zu ihr: „Schalten Sie endlich den Walkman aus und nehmen Sie die Kopfhörer ab!“</p>
+<p>3. A szőke tiltakozik: „Nem lehet, életbevágóan fontos!” - Die Blondine widerspricht: „Geht nicht, (die) sind lebensnotwendig!“</p>
+<p>4. Az orvos elveszíti a türelmét, és leveszi róla a fejhallgatót. - Der Arzt verliert seine Geduld undr nimmt ihr die Kopfhörer ab.</p>
+<p>5. A szőke levegő után kapkod, elkékül. - Die Blondine schnappt wie ein Fisch nach Luft und läuft blau an.</p>
+<p>6. Az orvos megijed, felteszi a fejhallgatót, és hallja: „…belégzés, kilégzés, belégzés, kilégzés…” - Der Arzt erschreckt sich, setzt die Kopfhörer auf und hört: „…einatmen, ausatmen, einatmen, ausatmen…“</p>
+<p class="pc-note">levesz - abnehmen, absetzen</p>
+<p class="pc-note">vesz - nehme, kaufen</p>
+<p class="pc-note">Vegye! - Nimm!</p>
+<p class="pc-note">bevág - einschneiden, hineinschneiden</p>
+<p class="pc-note">életbevág - lebenswichtig</p>
+<p class="pc-note">elkékül - blau werden</p>
+<p class="pc-note">kék - blau</p>
+<p class="pc-note">elzöldül - grün werden</p>
+<p class="pc-note">elpirul - rot werden</p>
+<p class="pc-note">elsárgul - gelb werden</p>
+<p class="pc-note">elfeketedik - schwarz werden</p>
+<p>7. .elszürkül - grau werden</p>
+<p class="pc-note">elfehéredik - weiß werden; blass werden</p>
+<p class="pc-note">sápadt - blass</p>
+<p class="pc-note">elsápad - blass werden</p>
+<p class="pc-note">levegő után kapkod - nach Luft schnappen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő az orvosnál ül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az orvos rászól: „Kapcsolja már ki a walkmant, és vegye le a fejhallgatót!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A szőke tiltakozik: „Nem lehet, életbevágóan fontos!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az orvos elveszíti a türelmét, és leveszi róla a fejhallgatót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A szőke levegő után kapkod, elkékül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Az orvos megijed, felteszi a fejhallgatót, és hallja: „…belégzés, kilégzés, belégzés, kilégzés…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">levesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Vegye!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bevág</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">életbevág</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elkékül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kék</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elzöldül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elpirul</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elsárgul</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elfeketedik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. .elszürkül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elfehéredik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sápadt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elsápad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">levegő után kapkod</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine sitzt beim Arzt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Arzt sagt zu ihr: „Schalten Sie endlich den Walkman aus und nehmen Sie die Kopfhörer ab!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Blondine widerspricht: „Geht nicht, (die) sind lebensnotwendig!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Arzt verliert seine Geduld undr nimmt ihr die Kopfhörer ab.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Die Blondine schnappt wie ein Fisch nach Luft und läuft blau an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Der Arzt erschreckt sich, setzt die Kopfhörer auf und hört: „…einatmen, ausatmen, einatmen, ausatmen…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">abnehmen, absetzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehme, kaufen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nimm!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">einschneiden, hineinschneiden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lebenswichtig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">blau werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">blau</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">grün werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rot werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gelb werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schwarz werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. grau werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">weiß werden; blass werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">blass</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">blass werden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nach Luft schnappen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő vizsgálaton van. - Eine Blondine bei (auf) einer Untersuchung.</p>
+<p>2. „Vegye le azt a fejhallgatót!” – utasítja az orvos. - „Nehmen Sie diese Kopfhörer ab!“ fordert der Arzt.</p>
+<p>3. „Nem tudom, nélkülük nem megy!” – feleli a nő. - „Ich kann nicht, ohne sie geht es nicht!“ antwortet die Frau.</p>
+<p>4. Az orvos leveszi róla, mire a szőke fuldokolni kezd. - Der Arzt nimmt sie ihr ab, woraufhin die Blondine beginnt um Luft zu ringen.</p>
+<p>5. A doktor megijed, gyorsan felteszi magának a fejhallgatót, hogy megtalálja az okot. - Der Arzt erschrickt und setzt sie schnell die Kopfhörer auf um den Grund zu finden.</p>
+<p>6. A hang a fejhallgatóban így szól: „…belégzés, kilégzés…” - Die Stimme im Kopfhörer sagt: „…Einatmen, Ausatmen…“</p>
+<p class="pc-note">fuldokol - um Luft ringen; gegen das Ersticken kämpfen</p>
+<p class="pc-note">fuldoklik</p>
+<p class="pc-note">megfullad - ersticken</p>
+<p class="pc-note">ő megfulladt - er ist erstickt</p>
+<p class="pc-note">Az ablaknak nyitva kell lennie, különben megfulladunk. - Das Fenster muss offen sein, sonst ersticken wir.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő vizsgálaton van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Vegye le azt a fejhallgatót!” – utasítja az orvos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Nem tudom, nélkülük nem megy!” – feleli a nő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az orvos leveszi róla, mire a szőke fuldokolni kezd.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A doktor megijed, gyorsan felteszi magának a fejhallgatót, hogy megtalálja az okot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A hang a fejhallgatóban így szól: „…belégzés, kilégzés…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fuldokol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fuldoklik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megfullad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ő megfulladt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Az ablaknak nyitva kell lennie, különben megfulladunk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine bei (auf) einer Untersuchung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Nehmen Sie diese Kopfhörer ab!“ fordert der Arzt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Ich kann nicht, ohne sie geht es nicht!“ antwortet die Frau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Arzt nimmt sie ihr ab, woraufhin die Blondine beginnt um Luft zu ringen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der Arzt erschrickt und setzt sie schnell die Kopfhörer auf um den Grund zu finden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Die Stimme im Kopfhörer sagt: „…Einatmen, Ausatmen…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">um Luft ringen; gegen das Ersticken kämpfen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ersticken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er ist erstickt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das Fenster muss offen sein, sonst ersticken wir.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő walkmannel ül az orvosi rendelőben. - Eine Blondine sitzt mit Walkman in der Arztpraxis.</p>
+<p>2. Az orvos rászól, hogy vegye le a fejhallgatót. - Der Arzt sagt ihr, dass sie die Kopfhörer abnehmen soll.</p>
+<p>3. „Ez létfontosságú!” – mondja a nő. - „Das ist lebenswichtig!“ sagt die Frau.</p>
+<p>4. Az orvos letépi a fejhallgatót, a nő pedig azonnal elkékül. - Der Arzt reißt die Kopfhörer runter, die Frau wird sofort blau.</p>
+<p>5. Pánikban az orvos felteszi a fejhallgatót. - In Panik setzt der Arzt die Kopfhörer auf.</p>
+<p>6. A felvétel szól: „…belégzés, kilégzés, belégzés, kilégzés…” - Die Aufnahme sagt: „…Einatmen, Ausatmen, Einatmen, Ausatmen…“</p>
+<p class="pc-note">letép - abreißen</p>
+<p class="pc-note">széttép - zerreißen (auseinander-reißen)</p>
+<p class="pc-note">kitép - rausreißen</p>
+<p class="pc-note">feltép - aufreißen (Umschlag)</p>
+<p class="pc-note">lét - die Existenz, das Sein</p>
+<p class="pc-note">újra lélegez - weiteratmen (von neuem atmen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő walkmannel ül az orvosi rendelőben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az orvos rászól, hogy vegye le a fejhallgatót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Ez létfontosságú!” – mondja a nő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az orvos letépi a fejhallgatót, a nő pedig azonnal elkékül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Pánikban az orvos felteszi a fejhallgatót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A felvétel szól: „…belégzés, kilégzés, belégzés, kilégzés…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">letép</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">széttép</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kitép</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feltép</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lét</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">újra lélegez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine sitzt mit Walkman in der Arztpraxis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Arzt sagt ihr, dass sie die Kopfhörer abnehmen soll.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Das ist lebenswichtig!“ sagt die Frau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Arzt reißt die Kopfhörer runter, die Frau wird sofort blau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. In Panik setzt der Arzt die Kopfhörer auf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Die Aufnahme sagt: „…Einatmen, Ausatmen, Einatmen, Ausatmen…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">abreißen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zerreißen (auseinander-reißen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rausreißen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aufreißen (Umschlag)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Existenz, das Sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">weiteratmen (von neuem atmen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő autóval közlekedik. Egy piros lámpánál kiszáll, odamegy az előtte álló autóhoz, és mondja: „Mandy vagyok, van egy mobilom, és maga elveszíti a rakományt.” - Eine Blondine fährt Auto. An einer roten Ampel steigt sie aus, geht zum Wagen vor ihr und sagt: „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<p>2. A következő piros lámpánál ugyanez történik. - An der nächsten roten Ampel passiert dasselbe.</p>
+<p>3. Ez még kétszer megismétlődik. - Das wiederholt sich noch zweimal.</p>
+<p>4. Az ötödik piros lámpánál a nő ismét odamegy: „Mandy vagyok, van egy mobilom, és maga elveszíti a rakományt.” - An der fünften Ampel sagt sie wieder: „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<p>5. A sofőr idegesen válaszol: „Günther vagyok, tél van, és sószóró kocsit vezetek!” - Der Fahrer entnervt: „Ich bin der Günther, es ist Winter und ich fahre einen Streuwagen!“</p>
+<p class="pc-note">só - Salz</p>
+<p class="pc-note">szór - streuen</p>
+<p class="pc-note">sót szór - Salz streuen</p>
+<p class="pc-note">sószóró = sótartó - Salzstreuer (Salzhalter)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő autóval közlekedik. Egy piros lámpánál kiszáll, odamegy az előtte álló autóhoz, és mondja: „Mandy vagyok, van egy mobilom, és maga elveszíti a rakományt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A következő piros lámpánál ugyanez történik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ez még kétszer megismétlődik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az ötödik piros lámpánál a nő ismét odamegy: „Mandy vagyok, van egy mobilom, és maga elveszíti a rakományt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A sofőr idegesen válaszol: „Günther vagyok, tél van, és sószóró kocsit vezetek!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">só</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szór</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sót szór</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sószóró = sótartó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine fährt Auto. An einer roten Ampel steigt sie aus, geht zum Wagen vor ihr und sagt: „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. An der nächsten roten Ampel passiert dasselbe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das wiederholt sich noch zweimal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. An der fünften Ampel sagt sie wieder: „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der Fahrer entnervt: „Ich bin der Günther, es ist Winter und ich fahre einen Streuwagen!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Salz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">streuen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Salz streuen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Salzstreuer (Salzhalter)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő vezet, és minden piros lámpánál kiszáll az autóból. - Eine Blondine fährt Auto und steigt an jeder roten Ampel aus.</p>
+<p>2. Mindig ugyanazt mondja az előtte álló sofőrnek: „Mandy vagyok, van egy telefonom, és hullik a rakománya.” - Jedes Mal sagt sie das gleiche zum vor ihr stehenden Fahrer: „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<p>3. Ez többször megismétlődik. - Das wiederholt sich mehrmals.</p>
+<p>4. Végül a sofőr kifakad: „Én Günther vagyok, tél van, és ez egy szórókocsi!” - Schließlich platzt es aus dem Fahrer heraus: „Ich bin Günther, es ist Winter und das ist ein Streufahrzeug!“</p>
+<p class="pc-note">hull = hullik - fallen</p>
+<p class="pc-note">esik - fallen</p>
+<p class="pc-note">lehullik - runterfallen</p>
+<p class="pc-note">kifakad = kiakad - aufbrausen; wütend antworten; rausplatzen</p>
+<p class="pc-note">fakad - entspringen; sprieén; herrühren</p>
+<p class="pc-note">ki vagyok akadva = total kész vagyok - Ich bin total sauer. - Ich bin völlig aufgebracht / Ich bin völlig empört</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő vezet, és minden piros lámpánál kiszáll az autóból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mindig ugyanazt mondja az előtte álló sofőrnek: „Mandy vagyok, van egy telefonom, és hullik a rakománya.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ez többször megismétlődik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Végül a sofőr kifakad: „Én Günther vagyok, tél van, és ez egy szórókocsi!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hull = hullik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">esik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lehullik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kifakad = kiakad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fakad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ki vagyok akadva = total kész vagyok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine fährt Auto und steigt an jeder roten Ampel aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Jedes Mal sagt sie das gleiche zum vor ihr stehenden Fahrer: „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das wiederholt sich mehrmals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Schließlich platzt es aus dem Fahrer heraus: „Ich bin Günther, es ist Winter und das ist ein Streufahrzeug!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fallen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fallen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">runterfallen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aufbrausen; wütend antworten; rausplatzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">entspringen; sprieén; herrühren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ich bin total sauer. - Ich bin völlig aufgebracht / Ich bin völlig empört</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő piros lámpánál megáll, kiszáll, és odasétál az előtte lévő autóhoz. - Eine Blondine hält an einer roten Ampel, steigt aus und geht zum Auto vor ihr. (zu dem vor ihr seiendem Auto)</p>
+<p>2. „Mandy vagyok, van egy mobilom, és maga elveszíti a rakományt.” - „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<p>3. A jelenet újra és újra megismétlődik több lámpánál. - Die Szene wiederholt sich wieder und wieder an mehreren Ampeln.</p>
+<p>4. Az ötödik alkalommal a sofőr türelmét veszti: „Günther vagyok, tél van, és sót szórok az útra!” - Beim fünften Mal verliert der Fahrer seine Geduld: „Ich bin Günther, es ist Winter und ich streue Salz auf die Straße!“</p>
+<p class="pc-note">türelmet (el)veszti - die Geduld verlieren</p>
+<p class="pc-note">türelmét (el)veszti - seine Geduld verlieren</p>
+<p class="pc-note">terelem - die Geduld</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő piros lámpánál megáll, kiszáll, és odasétál az előtte lévő autóhoz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Mandy vagyok, van egy mobilom, és maga elveszíti a rakományt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A jelenet újra és újra megismétlődik több lámpánál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az ötödik alkalommal a sofőr türelmét veszti: „Günther vagyok, tél van, és sót szórok az útra!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">türelmet (el)veszti</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">türelmét (el)veszti</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">terelem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine hält an einer roten Ampel, steigt aus und geht zum Auto vor ihr. (zu dem vor ihr seiendem Auto)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich heiße Mandy, ich hab’ ein Handy und Sie verlieren Ladung.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Szene wiederholt sich wieder und wieder an mehreren Ampeln.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Beim fünften Mal verliert der Fahrer seine Geduld: „Ich bin Günther, es ist Winter und ich streue Salz auf die Straße!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Geduld verlieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">seine Geduld verlieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Geduld</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Mi a különbség a szarka és a kéményseprő között? - Was ist der Unterschied zwischen einer Elster und einem Schornsteinfeger?</p>
+<p>2. A szarkának fehér a teste és van egy fekete farka. - Die Elster hat einen weißen Körper und einen schwarzen Schwanz.</p>
+<p>3. És a kémémyseprő? - Und der Schornsteinfeger?</p>
+<p>4. Neki van egy létrája. - Der hat eine Leiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mi a különbség a szarka és a kéményseprő között?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A szarkának fehér a teste és van egy fekete farka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. És a kémémyseprő?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Neki van egy létrája.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Was ist der Unterschied zwischen einer Elster und einem Schornsteinfeger?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Elster hat einen weißen Körper und einen schwarzen Schwanz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Und der Schornsteinfeger?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der hat eine Leiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő autózik, és találkozik egy csavargóval. - Eine Blondine fährt mit ihrem Auto und trifft einen Landstreicher.</p>
+<p>2. Az megszólal: „Adj egy cigit!” - Der sagt: „Gib mir eine Zigarette!“</p>
+<p>3. A nő ad neki egyet, majd továbbhajt. - Sie gibt ihm eine und fährt weiter.</p>
+<p>4. Később újra találkoznak. - Später treffen sie sich wieder.</p>
+<p>5. „Adj tüzet!” – mondja a csavargó. - „Gib mir Feuer“, sagt der Landstreicher.</p>
+<p>6. A nő ad tüzet, és továbbmegy. - Sie gibt ihm Feuer und fährt weiter.</p>
+<p>7. Harmadszor is összefutnak. - Zum dritten Mal begegnen sie sich.</p>
+<p>8. „Adj két eurót egy sörre, és elárulom, hogyan jutsz ki a körforgalomból!” - „Gib mir zwei Euro für ein Bier, und ich verrate dir, wie du aus dem Kreisverkehr rauskommst!“</p>
+<p class="pc-note">csavargó - Landstreicher; Vagabund</p>
+<p class="pc-note">csavarog - vagabunieren; lungern; sich herumtreiben</p>
+<p class="pc-note">csavar - die Schraube; schrauben</p>
+<p class="pc-note">becsavar - einschrauben</p>
+<p class="pc-note">összefut - sich begegnen; zusammentreffen</p>
+<p class="pc-note">kijut - rauskommen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő autózik, és találkozik egy csavargóval.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az megszólal: „Adj egy cigit!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A nő ad neki egyet, majd továbbhajt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Később újra találkoznak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Adj tüzet!” – mondja a csavargó.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A nő ad tüzet, és továbbmegy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Harmadszor is összefutnak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Adj két eurót egy sörre, és elárulom, hogyan jutsz ki a körforgalomból!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csavargó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csavarog</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csavar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">becsavar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">összefut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kijut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine fährt mit ihrem Auto und trifft einen Landstreicher.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der sagt: „Gib mir eine Zigarette!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sie gibt ihm eine und fährt weiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Später treffen sie sich wieder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Gib mir Feuer“, sagt der Landstreicher.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Sie gibt ihm Feuer und fährt weiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Zum dritten Mal begegnen sie sich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Gib mir zwei Euro für ein Bier, und ich verrate dir, wie du aus dem Kreisverkehr rauskommst!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Landstreicher; Vagabund</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vagabunieren; lungern; sich herumtreiben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Schraube; schrauben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">einschrauben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich begegnen; zusammentreffen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rauskommen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő vezet, amikor egy hajléktalan megszólítja. [megszólíttya] - Eine Blondine fährt Auto, als ein Obdachloser sie anspricht.</p>
+<p>2. „Cigit kérek.” - „Ich möchte eine Zigarette.“</p>
+<p>3. Kap egyet, a nő továbbhajt. - Er bekommt eine, die Frau fährt weiter.</p>
+<p>4. Nem sokkal később ismét találkoznak. - Kurz darauf (mit einer Weile; mittlerweile; nicht mit viel später) treffen sie sich wieder.</p>
+<p>5. „Tüzet adj!” [aggy] - „Gib mir Feuer!“</p>
+<p>6. A nő segít, majd továbbgurul. - Sie hilft (ihm) und fährt weiter.</p>
+<p>7. Újra szembejönnek. - Wieder begegnen sie sich.</p>
+<p>8. „Két euró egy sörre, és elmondom, merre a kijárat a körforgalomból.” - „Zwei Euro für ein Bier, dann verrate ich dir in welche Richtung der Ausgang aus dem Kreisverkehr ist.“</p>
+<p class="pc-note">hajléktalan - obdachlos</p>
+<p class="pc-note">hajlék - Unterkunft, Behausung, heim</p>
+<p class="pc-note">újra - erneut</p>
+<p class="pc-note">ismét = újra - wieder</p>
+<p class="pc-note">ismétel - wiederholen</p>
+<p class="pc-note">ismétlés - die Wiederholung</p>
+<p class="pc-note">gurul - rollen</p>
+<p class="pc-note">szembejön - entgegen kommen</p>
+<p class="pc-note">szem - Auge</p>
+<p class="pc-note">szembe - gegenüber (ins Auge)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő vezet, amikor egy hajléktalan megszólítja. [megszólíttya]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Cigit kérek.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Kap egyet, a nő továbbhajt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Nem sokkal később ismét találkoznak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Tüzet adj!” [aggy]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A nő segít, majd továbbgurul.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Újra szembejönnek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Két euró egy sörre, és elmondom, merre a kijárat a körforgalomból.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hajléktalan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hajlék</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">újra</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ismét = újra</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ismétel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ismétlés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gurul</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szembejön</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szembe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine fährt Auto, als ein Obdachloser sie anspricht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich möchte eine Zigarette.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Er bekommt eine, die Frau fährt weiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Kurz darauf (mit einer Weile; mittlerweile; nicht mit viel später) treffen sie sich wieder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Gib mir Feuer!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Sie hilft (ihm) und fährt weiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Wieder begegnen sie sich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Zwei Euro für ein Bier, dann verrate ich dir in welche Richtung der Ausgang aus dem Kreisverkehr ist.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">obdachlos</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Unterkunft, Behausung, heim</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erneut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wieder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wiederholen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Wiederholung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rollen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">entgegen kommen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Auge</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gegenüber (ins Auge)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért szőke egy szőke nő? - Warum ist eine Blondine blond?</p>
+<p>2. Mert a felesleges szalma a füléből nő ki. - Weil ihr das überflüssige Stroh aus den Ohren wächst.</p>
+<p class="pc-note">Auf Ungarisch funktioniert dieser Witz nicht, denn die Redewendung “Stroh im Kopf” ist unbekannt.</p>
+<p class="pc-note">nincs sütnivalója - Stroh im Kopf haben (wörtlich: „Er/Sie hat nichts zum Backen“), im Sinne von: Er/Sie ist dumm oder hat nichts im Kopf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért szőke egy szőke nő?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mert a felesleges szalma a füléből nő ki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nincs sütnivalója</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist eine Blondine blond?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Weil ihr das überflüssige Stroh aus den Ohren wächst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Auf Ungarisch funktioniert dieser Witz nicht, denn die Redewendung “Stroh im Kopf” ist unbekannt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Stroh im Kopf haben (wörtlich: „Er/Sie hat nichts zum Backen“), im Sinne von: Er/Sie ist dumm oder hat nichts im Kopf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért zavarodik össze egy szőke nő, amikor ikrei lesznek? (amikor ikrekeket szül?) - Warum ist eine Blondine verwirrt, wenn sie Zwillinge bekommt? (wenn ihr Zwillinge werden)</p>
+<p>2. Mert nem tudja, hogy a második kitől van. - Weil sie nicht weiß, von wem das zweite ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért zavarodik össze egy szőke nő, amikor ikrei lesznek? (amikor ikrekeket szül?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mert nem tudja, hogy a második kitől van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist eine Blondine verwirrt, wenn sie Zwillinge bekommt? (wenn ihr Zwillinge werden)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Weil sie nicht weiß, von wem das zweite ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért lesz tanácstalan egy szőke nő ikerszülésnél? - Warum ist eine Blondine ratlos, wenn sie Zwillinge bekommt? (bei einer Zwillingsgeburt)</p>
+<p>2. Azért, mert nem tudja eldönteni, kié a második gyerek. - Weil sie nicht weiß, von wem das zweite Kind ist. (Deshalb, weil sie nicht entscheiden kann, wem das zweite Kind gehört.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért lesz tanácstalan egy szőke nő ikerszülésnél?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert nem tudja eldönteni, kié a második gyerek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist eine Blondine ratlos, wenn sie Zwillinge bekommt? (bei einer Zwillingsgeburt)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Weil sie nicht weiß, von wem das zweite Kind ist. (Deshalb, weil sie nicht entscheiden kann, wem das zweite Kind gehört.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Mi okozza egy szőke nő zavarát ikrek esetén? - Was verwirrt eine Blondine, wenn sie Zwillinge bekommt?  (Was verursacht die Verwirrung einer blonden Frau im Falle von Zwillingen?)</p>
+<p>2. Mert fogalma sincs, hogy a második baba kitől származik. - Weil sie keine Ahnung hat, von wem das zweite Kind ist.  (Weil sie keine Ahnung hat, von wem das zweite Baby abstammt.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mi okozza egy szőke nő zavarát ikrek esetén?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mert fogalma sincs, hogy a második baba kitől származik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Was verwirrt eine Blondine, wenn sie Zwillinge bekommt?  (Was verursacht die Verwirrung einer blonden Frau im Falle von Zwillingen?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Weil sie keine Ahnung hat, von wem das zweite Kind ist.  (Weil sie keine Ahnung hat, von wem das zweite Baby abstammt.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő nekidől egy falnak. A fal ledől. Miért? - Eine Blondine lehnt sich gegen eine Wand. Die Wand fällt um. Warum?</p>
+<p>2. Azért, mert az okosabb enged. - Deshalb, weil der Klügere nachgibt.</p>
+<p class="pc-note">dől - sich neigen; kippen</p>
+<p class="pc-note">nekidől - sich anlehnen</p>
+<p class="pc-note">vminek dől - an etwas anlehnen</p>
+<p class="pc-note">nekidől egy falnak - sich an eine Wand anlehnen</p>
+<p class="pc-note">ágynak dől - er ist krank (er lehnt sich ans Bett; er muss im Bett bleiben)</p>
+<p class="pc-note">ledől - umstürzen; umfallen</p>
+<p class="pc-note">okos - klug</p>
+<p class="pc-note">okostelfon - das Smartphon (kluges Telefon)</p>
+<p class="pc-note">okos otthon - Smarthome</p>
+<p class="pc-note">Okos enged, szamár szenved. (közmondás) - Der Kluge gibt nach, der Esel leitet. (Sprichwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő nekidől egy falnak. A fal ledől. Miért?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert az okosabb enged.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dől</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nekidől</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vminek dől</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nekidől egy falnak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ágynak dől</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ledől</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">okos</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">okostelfon</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">okos otthon</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Okos enged, szamár szenved. (közmondás)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine lehnt sich gegen eine Wand. Die Wand fällt um. Warum?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil der Klügere nachgibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich neigen; kippen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich anlehnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">an etwas anlehnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich an eine Wand anlehnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er ist krank (er lehnt sich ans Bett; er muss im Bett bleiben)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">umstürzen; umfallen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">klug</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Smartphon (kluges Telefon)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Smarthome</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Der Kluge gibt nach, der Esel leitet. (Sprichwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a falnak támaszkodik. A fal összeomlik. Miért történik ez? - Eine Blondine stützt sich an eine Wand. Die Wand stürzt ein. Warum geschieht das?</p>
+<p>2. Azért, mert a bölcsebb fél enged. - Deshalb, weil die klügere Seite (Hälfte) nachgibt.</p>
+<p class="pc-note">támla - die Stütze</p>
+<p class="pc-note">támasz - stützen; unterstützen</p>
+<p class="pc-note">háttámla - Rückenlehne</p>
+<p class="pc-note">kartámasz = kartámla - Armlehne</p>
+<p class="pc-note">fejtámasz = fejtámla - Armlehne</p>
+<p class="pc-note">támaszkodik - sich anlehnen</p>
+<p class="pc-note">bölcs - weise</p>
+<p class="pc-note">bölcselet = filozófia - Philosophie</p>
+<p class="pc-note">bölcsességfog - Weisheitszahn</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a falnak támaszkodik. A fal összeomlik. Miért történik ez?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a bölcsebb fél enged.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">támla</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">támasz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">háttámla</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kartámasz = kartámla</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fejtámasz = fejtámla</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">támaszkodik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bölcs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bölcselet = filozófia</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bölcsességfog</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine stützt sich an eine Wand. Die Wand stürzt ein. Warum geschieht das?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil die klügere Seite (Hälfte) nachgibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Stütze</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">stützen; unterstützen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Rückenlehne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Armlehne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Armlehne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich anlehnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">weise</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Philosophie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Weisheitszahn</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke odadől a falhoz. A fal eldől. Miért? - Eine Blondine lehnt sich an die Wand hin. Die Wand kippt um. Warum?</p>
+<p>2. Azért, mert az értelmesebb enged. - Deshalb, weil der Vernünftigere nachgibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke odadől a falhoz. A fal eldől. Miért?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert az értelmesebb enged.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine lehnt sich an die Wand hin. Die Wand kippt um. Warum?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil der Vernünftigere nachgibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/22-witze/">« Zurück zu Witze 22</a> &nbsp;|&nbsp; <span>Witze 23</span> &nbsp;|&nbsp; <a href="/24-witze/">Weiter zu Witze 24 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

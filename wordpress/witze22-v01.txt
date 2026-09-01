@@ -1,0 +1,2279 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/21-witze/">« Zurück zu Witze 21</a> &nbsp;|&nbsp; <span>Witze 22</span> &nbsp;|&nbsp; <a href="/23-witze/">Weiter zu Witze 23 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 22</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>22. Teil - Kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>rövid viccek - kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkék fürdőkádja [fürdőkággya] körül szögesdrót? - Warum haben Blondinen Stacheldraht um die Badewanne?</p>
+<p>2. Azért, hogy ne essenek kísértésbe, és ne ússzanak túl messzire. - Deshalb, damit sie nicht in Versuchung geraten und nicht zu weit hinausschwimmen.</p>
+<p class="pc-note">szög - der Nagel</p>
+<p class="pc-note">kísértés - die Versuchung</p>
+<p class="pc-note">kísértésbe hoz - in Versuchung führen</p>
+<p class="pc-note">kísértésbe esik - in Versuchung kommen (fallen)</p>
+<p class="pc-note">sértés - die Beleidigung</p>
+<p class="pc-note">sertés - das Schwein</p>
+<p class="pc-note">sérteget - beleidigen</p>
+<p class="pc-note">sérül - verletzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkék fürdőkádja [fürdőkággya] körül szögesdrót?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy ne essenek kísértésbe, és ne ússzanak túl messzire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szög</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kísértés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kísértésbe hoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kísértésbe esik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sértés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sertés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sérteget</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sérül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum haben Blondinen Stacheldraht um die Badewanne?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie nicht in Versuchung geraten und nicht zu weit hinausschwimmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Nagel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Versuchung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">in Versuchung führen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">in Versuchung kommen (fallen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Beleidigung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Schwein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">beleidigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verletzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért tesznek a szőkék szögesdrótot a fürdőkád köré? - Warum machen Blondinen Stacheldraht um die Badewanne herum?</p>
+<p>2. Azért, hogy ne akarjanak túl messzire úszni. - Deshalb, damit sie nicht zu weit hinausschwimmen wollen.</p>
+<p class="pc-note">akarjanak - (Imperativ von; akar - wollen: Imperativ; Final-Nebensatz)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért tesznek a szőkék szögesdrótot a fürdőkád köré?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy ne akarjanak túl messzire úszni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">akarjanak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum machen Blondinen Stacheldraht um die Badewanne herum?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie nicht zu weit hinausschwimmen wollen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(Imperativ von; akar - wollen: Imperativ; Final-Nebensatz)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van szögesdrót a szőke nő fürdőkádja [fürdőkággya] körül? - Warum ist um die Badewanne der Blondine Stacheldraht?</p>
+<p>2. Azért, hogy ne jussanak kísértésbe, hogy túl messzire ússzanak. - Deshalb, damit sie nicht in Versuchung kommen, zu weit zu schwimmen.</p>
+<p class="pc-note">kísértés - die Versuchung</p>
+<p class="pc-note">jut - gelangen, hinkommen, geraten</p>
+<p class="pc-note">jussanak - (Imperativ on: jut)</p>
+<p class="pc-note">ússzanak - (Imperativ on: úszik)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van szögesdrót a szőke nő fürdőkádja [fürdőkággya] körül?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy ne jussanak kísértésbe, hogy túl messzire ússzanak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kísértés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jussanak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ússzanak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist um die Badewanne der Blondine Stacheldraht?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie nicht in Versuchung kommen, zu weit zu schwimmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Versuchung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gelangen, hinkommen, geraten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(Imperativ on: jut)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(Imperativ on: úszik)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért olyan lapos a szőkék hátsó fejrésze? - Warum ist der Hinterkopf der Blondinen so flach?</p>
+<p>2. Azért, mert vízivás közben a vécéfedél a fejükre csapódik. - Deshalb, weil beim Wassertrinken der Klodeckel auf ihren Kopf schlägt.</p>
+<p class="pc-note">tarkó = nyakszirt - Nacken</p>
+<p class="pc-note">vízivás - Wassertrinken</p>
+<p class="pc-note">víz - Wasser</p>
+<p class="pc-note">inni - trinken</p>
+<p class="pc-note">ivás - das Trinken</p>
+<p class="pc-note">vízivás - das Wassertrinken (víz-ivás)</p>
+<p class="pc-note">ivóvíz - Trinkwasser</p>
+<p class="pc-note">vízi növény - Wasserpflanze</p>
+<p class="pc-note">sörivás - das Biertrinken (sör-ivás)</p>
+<p class="pc-note">borivás - das Weintrinken (bor-ivás)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért olyan lapos a szőkék hátsó fejrésze?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert vízivás közben a vécéfedél a fejükre csapódik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tarkó = nyakszirt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vízivás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">víz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">inni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ivás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vízivás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ivóvíz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vízi növény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sörivás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">borivás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist der Hinterkopf der Blondinen so flach?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil beim Wassertrinken der Klodeckel auf ihren Kopf schlägt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nacken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wassertrinken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wasser</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">trinken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Trinken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Wassertrinken (víz-ivás)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Trinkwasser</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wasserpflanze</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Biertrinken (sör-ivás)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Weintrinken (bor-ivás)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkéknek ilyen lapos hátsó fejük? - Warum haben Blondinen so einen flachen Hinterkopf?</p>
+<p>2. Azért, mert amikor isznak, a vécé fedele rájuk esik. - Deshalb, weil wenn sie trinken, der Klodeckel auf sie fällt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkéknek ilyen lapos hátsó fejük?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert amikor isznak, a vécé fedele rájuk esik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum haben Blondinen so einen flachen Hinterkopf?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil wenn sie trinken, der Klodeckel auf sie fällt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért lapos a szőke nők feje hátul? - Warum ist der Kopf der blonden Frauen hinten flach?</p>
+<p>2. Azért, mert ivás közben a vécéfedél rájuk csapódik. - Deshalb, weil beim Trinken der Klodeckel auf sie zuschlägt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért lapos a szőke nők feje hátul?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert ivás közben a vécéfedél rájuk csapódik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist der Kopf der blonden Frauen hinten flach?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil beim Trinken der Klodeckel auf sie zuschlägt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért örül egy szőke nő, ha egy év után befejez egy kirakóst? - Warum freut sich eine Blondine, wenn sie nach einem Jahr ein Puzzle fertigstellt?</p>
+<p>2. Azért, mert a dobozon az áll, hogy 2–4 év. [kettőtől négy évig] - Deshalb, weil auf der Packung steht, dass es 2–4 Jahre ist.</p>
+<p class="pc-note">kirakó = puzzle - das Puzzle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért örül egy szőke nő, ha egy év után befejez egy kirakóst?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a dobozon az áll, hogy 2–4 év. [kettőtől négy évig]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kirakó = puzzle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum freut sich eine Blondine, wenn sie nach einem Jahr ein Puzzle fertigstellt?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil auf der Packung steht, dass es 2–4 Jahre ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Puzzle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért örül a szőke, amikor egy kirakót egy év alatt befejez? - Warum freut sich die Blondine, wenn sie ein Puzzle in einem Jahr fertig macht?</p>
+<p>2. Azért, mert a csomagoláson az van feltüntetve, hogy 2–4 év. [kettőtől négy évig] - Deshalb, weil auf der Verpackung angegeben ist, dass es 2–4 Jahre sind.</p>
+<p class="pc-note">feltűnik - auffallen, erscheinen, auftauchen</p>
+<p class="pc-note">feltűnik = odaírva - ist aufgedruckt</p>
+<p class="pc-note">van feltüntetve - ist aufgedruckt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért örül a szőke, amikor egy kirakót egy év alatt befejez?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a csomagoláson az van feltüntetve, hogy 2–4 év. [kettőtől négy évig]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feltűnik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feltűnik = odaírva</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">van feltüntetve</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum freut sich die Blondine, wenn sie ein Puzzle in einem Jahr fertig macht?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil auf der Verpackung angegeben ist, dass es 2–4 Jahre sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auffallen, erscheinen, auftauchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ist aufgedruckt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ist aufgedruckt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért boldog egy szőke nő, ha egy év alatt kirak egy puzzle-t? - Warum ist eine Blondine glücklich, wenn sie ein Puzzle innerhalb eines Jahres zusammensetzt?</p>
+<p>2. Azért, mert a doboz szerint 2–4 év [kettő négy év] kell hozzá. - Deshalb, weil laut der Packung 2–4 Jahre dazu nötig sind.</p>
+<p class="pc-note">kirak - auslegen, legen, hinauslegen</p>
+<p class="pc-note">rak - stellen, legen, setzen</p>
+<p class="pc-note">kirakat - das Schaufenster; die Auslage</p>
+<p class="pc-note">kirak egy puzzle-t - ein Puzzle lösen</p>
+<p class="pc-note">raktár - das Lager; Depot, Ablage</p>
+<p class="pc-note">puzzle-t [puzzlt] (mit Bindestrich, um das Original ausländische Wort nicht zu verstümmeln. NICHT: puzzlt; ABER auch NICHT: puzzlet)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért boldog egy szőke nő, ha egy év alatt kirak egy puzzle-t?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a doboz szerint 2–4 év [kettő négy év] kell hozzá.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kirak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kirakat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kirak egy puzzle-t</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">raktár</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist eine Blondine glücklich, wenn sie ein Puzzle innerhalb eines Jahres zusammensetzt?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil laut der Packung 2–4 Jahre dazu nötig sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auslegen, legen, hinauslegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">stellen, legen, setzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Schaufenster; die Auslage</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Puzzle lösen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Lager; Depot, Ablage</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">puzzle-t [puzzlt] (mit Bindestrich, um das Original ausländische Wort nicht zu verstümmeln. NICHT: puzzlt; ABER auch NICHT: puzzlet)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért fagyaszt le egy szőke nő forró vizet? - Warum friert eine Blondine heißes Wasser ein?</p>
+<p>2. Azért, mert a forró vizet mindig jól lehet használni. - Deshalb, weil man heißes Wasser immer gut gebrauchen kann.</p>
+<p class="pc-note">lefagyaszt - tiefkühlen, einfrieren; gefrieren lassen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért fagyaszt le egy szőke nő forró vizet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a forró vizet mindig jól lehet használni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lefagyaszt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum friert eine Blondine heißes Wasser ein?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil man heißes Wasser immer gut gebrauchen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tiefkühlen, einfrieren; gefrieren lassen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért tesz egy szőke forró vizet a fagyasztóba? - Warum legt eine Blondine heißes Wasser in den Gefrierschrank?</p>
+<p>2. Azért, mert a meleg víz mindig hasznos. - Deshalb, weil warmes Wasser immer nützlich ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért tesz egy szőke forró vizet a fagyasztóba?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a meleg víz mindig hasznos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum legt eine Blondine heißes Wasser in den Gefrierschrank?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil warmes Wasser immer nützlich ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért fagyaszt be egy szőke nő forró vizet? - Warum friert eine Blondine heißes Wasser ein?</p>
+<p>2. Azért, mert a forró víz mindig jól jön. - Deshalb, weil heißes Wasser immer gut kommt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért fagyaszt be egy szőke nő forró vizet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a forró víz mindig jól jön.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum friert eine Blondine heißes Wasser ein?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil heißes Wasser immer gut kommt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő horgászni megy. Lyukat vág a jégbe, és horgászik. - Eine Blondine geht angeln. Sie schlägt ein Loch ins Eis und angelt.</p>
+<p>2. Egyszer csak egy hang: „Itt nincsenek halak.” - Plötzlich eine Stimme: „Hier gibt es keine Fische.“</p>
+<p>3. Kis idő múlva újra a hang: „Itt nincsenek halak.” - Nach einer Weile wieder die Stimme: „Hier gibt es keine Fische.“</p>
+<p>4. A nő körülnéz és kérdi: „Ki vagy te? Talán Isten?” - Sie schaut sich um und fragt: „Wer bist du? Bist du Gott?“</p>
+<p>5. „Nem” – válaszolja a hang –, „én vagyok a jégcsarnok hangosbemondója.” - „Nein“, sagt die Stimme, „ich bin der Sprecher vom Eissportstadion.“</p>
+<p class="pc-note">egyszer csak - plötzlich, auf einmal</p>
+<p class="pc-note">egyszer - einmal</p>
+<p class="pc-note">hirtelen - plötzlich (ohne [vorherige] Nachricht; unangekündigt)</p>
+<p class="pc-note">hír - die Nachricht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő horgászni megy. Lyukat vág a jégbe, és horgászik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egyszer csak egy hang: „Itt nincsenek halak.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Kis idő múlva újra a hang: „Itt nincsenek halak.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A nő körülnéz és kérdi: „Ki vagy te? Talán Isten?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Nem” – válaszolja a hang –, „én vagyok a jégcsarnok hangosbemondója.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egyszer csak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egyszer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hirtelen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hír</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine geht angeln. Sie schlägt ein Loch ins Eis und angelt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Plötzlich eine Stimme: „Hier gibt es keine Fische.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Nach einer Weile wieder die Stimme: „Hier gibt es keine Fische.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Sie schaut sich um und fragt: „Wer bist du? Bist du Gott?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Nein“, sagt die Stimme, „ich bin der Sprecher vom Eissportstadion.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">plötzlich, auf einmal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">einmal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">plötzlich (ohne [vorherige] Nachricht; unangekündigt)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Nachricht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a jégen pecázik: lyukat üt, bedobja a horgot. - Eine Blondine angelt auf dem Eis: Sie schlägt ein Loch, (und) wirft den Haken rein.</p>
+<p>2. Egy hang figyelmeztet: „Itt nincs hal.” - Eine Stimme warnt: „Hier gibt es keine Fische.“ (keinen Fisch) (es gibt/ es gibt nicht - wen oder was? - Akkusativ im Deutschen - ABER NICHT im Ungarischen! - van/nincs - ohne Akkusativ!)</p>
+<p>3. Nem sokkal később megint megszólal: „Itt tényleg nincs hal.” - Kurz darauf (nicht mit-viel später) spricht erneut (die Stimme): „Hier gibt es tatsächlich keine Fische.“</p>
+<p>4. A nő megkérdezi: „Te vagy az Úr?” - Die Frau fragt: „Bist du der Herr?“</p>
+<p>5. „Nem, a jégstadion bemondója vagyok.” - „Nein, ich bin der Stadionsprecher des eisstadions.“</p>
+<p class="pc-note">pecázik (Umgangsspracxhe) = horgászik - angeln</p>
+<p class="pc-note">horog (horgot, horga, horgok) - der Haken</p>
+<p class="pc-note">horgászbot - die Angel</p>
+<p class="pc-note">horgász - der Angler</p>
+<p class="pc-note">figyelmeztet - warnen, ermahnen</p>
+<p class="pc-note">megint = újra = ismét - erneut, wieder</p>
+<p class="pc-note">új - neu</p>
+<p class="pc-note">újra - auf ein Neues</p>
+<p class="pc-note">ismétel - wiederholen</p>
+<p class="pc-note">tény - Tatsache; Fakt</p>
+<p class="pc-note">tényleg - tatsächlich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a jégen pecázik: lyukat üt, bedobja a horgot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy hang figyelmeztet: „Itt nincs hal.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Nem sokkal később megint megszólal: „Itt tényleg nincs hal.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A nő megkérdezi: „Te vagy az Úr?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Nem, a jégstadion bemondója vagyok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">pecázik (Umgangsspracxhe) = horgászik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">horog (horgot, horga, horgok)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">horgászbot</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">horgász</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">figyelmeztet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megint = újra = ismét</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">új</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">újra</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ismétel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tényleg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine angelt auf dem Eis: Sie schlägt ein Loch, (und) wirft den Haken rein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Eine Stimme warnt: „Hier gibt es keine Fische.“ (keinen Fisch) (es gibt/ es gibt nicht - wen oder was? - Akkusativ im Deutschen - ABER NICHT im Ungarischen! - van/nincs - ohne Akkusativ!)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Kurz darauf (nicht mit-viel später) spricht erneut (die Stimme): „Hier gibt es tatsächlich keine Fische.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Frau fragt: „Bist du der Herr?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Nein, ich bin der Stadionsprecher des eisstadions.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">angeln</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Haken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Angel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Angler</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">warnen, ermahnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erneut, wieder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">neu</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf ein Neues</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wiederholen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Tatsache; Fakt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tatsächlich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő léket vág a jégen és horgászni kezd. - Eine Blondine macht ein Loch ins Eis und beginnt zu angeln.</p>
+<p>2. Egy hang közli: „Ezen a helyen nincsenek halak.” - Eine Stimme sagt: „An dieser Stelle gibt es keine Fische.“</p>
+<p>3. A hang ismétlődik. - Die Stimme wiederholt sich.</p>
+<p>4. A nő felnéz: „Isten, te szólsz hozzám?” - Die Frau blickt auf: „Sprichst du zu mir, Gott?“</p>
+<p>5. „Nem, a fedett jégpálya hangosbemondója szól hozzád.” - „Nein, der Sprecher der Eissporthalle spricht zu dir..“</p>
+<p class="pc-note">lék - das Leck; Loch</p>
+<p class="pc-note">lék a jégen - ein Loch im Eis</p>
+<p class="pc-note">lék = lyuk - das Loch</p>
+<p class="pc-note">lyukas - löchrig</p>
+<p class="pc-note">közöl - mitteilen, sprechen, sagen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő léket vág a jégen és horgászni kezd.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy hang közli: „Ezen a helyen nincsenek halak.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A hang ismétlődik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A nő felnéz: „Isten, te szólsz hozzám?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Nem, a fedett jégpálya hangosbemondója szól hozzád.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lék</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lék a jégen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lék = lyuk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lyukas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">közöl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine macht ein Loch ins Eis und beginnt zu angeln.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Eine Stimme sagt: „An dieser Stelle gibt es keine Fische.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Stimme wiederholt sich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Frau blickt auf: „Sprichst du zu mir, Gott?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Nein, der Sprecher der Eissporthalle spricht zu dir..“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Leck; Loch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Loch im Eis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Loch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">löchrig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mitteilen, sprechen, sagen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő kimegy a piacra a narancsárushoz, és azt mondja: „Kérek két kiló narancsot, de legyenek kicsik, mert a nagyok túl nehezek.” - Eine Blondine geht auf den Markt zur Orangenverkäuferin und sagt: „Ich möchte bitte 2 kg Orangen, aber sie sollen klein sein, denn die großen sind zu schwer!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő kimegy a piacra a narancsárushoz, és azt mondja: „Kérek két kiló narancsot, de legyenek kicsik, mert a nagyok túl nehezek.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine geht auf den Markt zur Orangenverkäuferin und sagt: „Ich möchte bitte 2 kg Orangen, aber sie sollen klein sein, denn die großen sind zu schwer!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő az árusnál narancsot vásárol. - Eine Blondine kauft beim Händler Orangen.</p>
+<p>2. „Két kilót kérnék, de csak a kicsikből, a nagyok túl súlyosak.” - „Ich hätte gern zwei Kilo, aber nur von den kleinen, die großen sind (mir) zu schwer.“</p>
+<p class="pc-note">nehéz = súlyos - schwer (Gewicht)</p>
+<p class="pc-note">nehéz - schwer (kompliziert)</p>
+<p class="pc-note">súly - das Gewicht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő az árusnál narancsot vásárol.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Két kilót kérnék, de csak a kicsikből, a nagyok túl súlyosak.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehéz = súlyos</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehéz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">súly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine kauft beim Händler Orangen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich hätte gern zwei Kilo, aber nur von den kleinen, die großen sind (mir) zu schwer.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schwer (Gewicht)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schwer (kompliziert)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Gewicht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő megszólítja a piaci narancsárust. - Eine Blondine sagt zum Orangenverkäufer auf dem Markt an.</p>
+<p>2. „Szeretnék két kiló narancsot, lehetőleg aprókat, mert a nagyokat nem bírom el.” - „Ich möchte zwei Kilo Orangen, möglichst winzige, denn die großen kann ich nicht tragen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő megszólítja a piaci narancsárust.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Szeretnék két kiló narancsot, lehetőleg aprókat, mert a nagyokat nem bírom el.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine sagt zum Orangenverkäufer auf dem Markt an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich möchte zwei Kilo Orangen, möglichst winzige, denn die großen kann ich nicht tragen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő bemegy a virágboltba, és egy csokor gladiátort kér. - Eine Blondine geht ins Blumengeschäft und möchte einen Strauß Gladiatoren.</p>
+<p>2. A virágárus visszakérdez: „Gladiolákra gondolt?” - Die Floristin (Blumenhändlerin) fragt zurück: „Sie möchten wohl Gladiolen?“ (Dachten Sie an Gladiolen?)</p>
+<p>3. „Oh, igen, a másikak a radiátorok…” - „Ach ja, das andere sind ja die Heizkörper…“</p>
+<p class="pc-note">gladiolák = kardvirág - Gladiolen = Schwertblume</p>
+<p class="pc-note">kard - das Schwert</p>
+<p class="pc-note">gladiátor - der Gladiator</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő bemegy a virágboltba, és egy csokor gladiátort kér.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A virágárus visszakérdez: „Gladiolákra gondolt?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Oh, igen, a másikak a radiátorok…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gladiolák = kardvirág</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kard</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gladiátor</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine geht ins Blumengeschäft und möchte einen Strauß Gladiatoren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Floristin (Blumenhändlerin) fragt zurück: „Sie möchten wohl Gladiolen?“ (Dachten Sie an Gladiolen?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Ach ja, das andere sind ja die Heizkörper…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Gladiolen = Schwertblume</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Schwert</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Gladiator</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő virágcsokrot szeretne venni. - Eine Blondine würde gerne einen Blumenstrauß kaufen.</p>
+<p>2. „Kérek egy csokor gladiátort.” - „Ich möchte einen Strauß Gladiatoren.“</p>
+<p>3. A virágárus javítja: „Gladiolákat?” - Die Floristin korrigiert (sie): „Gladiolen?“</p>
+<p class="pc-note">csokor (csokrot, csokra, csokrok) - der Strauß</p>
+<p class="pc-note">stimmel - stimmen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő virágcsokrot szeretne venni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Kérek egy csokor gladiátort.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A virágárus javítja: „Gladiolákat?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csokor (csokrot, csokra, csokrok)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">stimmel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine würde gerne einen Blumenstrauß kaufen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich möchte einen Strauß Gladiatoren.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Floristin korrigiert (sie): „Gladiolen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Strauß</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">stimmen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő betér a virágüzletbe. - Eine Blondine betritt ein Blumengeschäft.</p>
+<p>2. „Szeretnék egy csokor gladiátort.” - „Ich hätte gern einen Strauß Gladiatoren.“</p>
+<p>3. A virágárus mosolyogva kérdez: „Talán gladiolát?” - Die Floristin fragt lächelnd: „Meinen Sie Gladiolen?“ (Vielleicht Gladiolen?)</p>
+<p>4. „Persze, keverem… a másikak a radiátorok.” - „Natürlich, ich verwechsel(te das) … die anderen sind die Heizkörper.“</p>
+<p class="pc-note">kever - mischen</p>
+<p class="pc-note">keverék - Mischung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő betér a virágüzletbe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Szeretnék egy csokor gladiátort.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A virágárus mosolyogva kérdez: „Talán gladiolát?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Persze, keverem… a másikak a radiátorok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kever</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">keverék</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine betritt ein Blumengeschäft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich hätte gern einen Strauß Gladiatoren.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Floristin fragt lächelnd: „Meinen Sie Gladiolen?“ (Vielleicht Gladiolen?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Natürlich, ich verwechsel(te das) … die anderen sind die Heizkörper.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mischen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mischung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a barátjával moziba megy, és egy John Wayne-filmet néznek. - Eine Blondine geht mit ihrem Freund ins Kino und sie sehen sich einen John-Wayne-Film an.</p>
+<p>2. A barát mondja: „Fogadjunk 10 euróba, hogy belovagol egy kaktuszerdőbe és leesik a lóról.” - Der Freund sagt: „Ich wetten wir um 10 Euro, dass er in einen Kaktuswald reitet und vom Pferd fällt.“</p>
+<p>3. A szőke ellene fogad. - Seine blonde Freundin wettet dagegen.</p>
+<p>4. A filmben pontosan ez történik. - Im Film geschieht genau das.</p>
+<p>5. A fiú: „Tartsd meg a pénzt, már láttam egyszer a filmet.” - Er sagt: „Behalte das Geld behalten, ich habe den Film schon einmal gesehen.“</p>
+<p>6. A szőke válaszol: „Én is láttam már, de nem hittem volna, hogy még egyszer ilyen hülye lesz, és újra belovagol.” - Darauf die Blondine: „Ich habe den Film auch schon einmal gesehen, aber ich hätte nicht geglaubt, dass er noch mal so  blöd sein wird und noch einmal rein reitet.“</p>
+<p class="pc-note">kaktusz - der kaktus</p>
+<p class="pc-note">erdő - Der Wald</p>
+<p class="pc-note">hisz - glauben</p>
+<p class="pc-note">hit - der Glaube</p>
+<p class="pc-note">fogadás - die Wette</p>
+<p class="pc-note">wetten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a barátjával moziba megy, és egy John Wayne-filmet néznek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A barát mondja: „Fogadjunk 10 euróba, hogy belovagol egy kaktuszerdőbe és leesik a lóról.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A szőke ellene fogad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A filmben pontosan ez történik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A fiú: „Tartsd meg a pénzt, már láttam egyszer a filmet.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A szőke válaszol: „Én is láttam már, de nem hittem volna, hogy még egyszer ilyen hülye lesz, és újra belovagol.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kaktusz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erdő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hisz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fogadás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine geht mit ihrem Freund ins Kino und sie sehen sich einen John-Wayne-Film an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Freund sagt: „Ich wetten wir um 10 Euro, dass er in einen Kaktuswald reitet und vom Pferd fällt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Seine blonde Freundin wettet dagegen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Im Film geschieht genau das.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Er sagt: „Behalte das Geld behalten, ich habe den Film schon einmal gesehen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Darauf die Blondine: „Ich habe den Film auch schon einmal gesehen, aber ich hätte nicht geglaubt, dass er noch mal so  blöd sein wird und noch einmal rein reitet.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der kaktus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Der Wald</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">glauben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Glaube</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Wette</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wetten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő és a párja beülnek a moziba egy John Wayne-filmre. - Eine Blondine und ihr Freund gehen ins Kino (setzen sich ins Kino)  zu einem John-Wayne-Film.</p>
+<p>2. A férfi fogadást ajánl: „Tíz euró, hogy kaktuszok közé lovagol és leesik.” - Der Mann bietet eine Wette an: „Zehn Euro, dass er in die (zwischen die) Kakteen reitet und (vom Pferd) fällt.“</p>
+<p>3. A nő elfogadja. - Die Blondine nimmt die Wette an.</p>
+<p>4. A jelenet bekövetkezik. - Die Szene passiert (tatsächlich).</p>
+<p>5. A férfi nagylelkű: „Nem kell fizetned, már láttam ezt a filmet.” - Der Mann großzügig: „Du musst nicht zahlen, ich habe den Film schon gesehen.“</p>
+<p>6. A nő: „Én is, csak nem gondoltam, hogy megint ugyanabba a hibába lovagol.” - Die Blondine: „Ich auch, aber ich dachte nur nicht, dass er denselben Fehler noch einmal macht.“ (noch mal in diesen Fehler reinreitet)</p>
+<p class="pc-note">követ - verfolgen, befolgen</p>
+<p class="pc-note">következő - der nächste, der nachfolgende</p>
+<p class="pc-note">következik - folgen (resultieren); sich ergeben; an der Reihe sein; folgen (nachfolgen)</p>
+<p class="pc-note">bekövetkezik - eintreten, eintreffen, erfolgen</p>
+<p class="pc-note">jelenet - die Szene</p>
+<p class="pc-note">lélek (lelket, lelke, lelkek) - die Seele, der Geist</p>
+<p class="pc-note">nagylélek (Adverb: nagylelkű) - großzügig, großherzig</p>
+<p class="pc-note">Szentlélek - der Heilige Geist</p>
+<p class="pc-note">az Atya, a fiú és a Szentlélek - der Vater, der Sohn und der Heilige Geist</p>
+<p class="pc-note">ugyanabba a hibába - in den gleichen Fehler (reinreitet) (ugyan-az-ba a hiba-ba)</p>
+<p class="pc-note">ugyanebbe - in den gleiche rein (ugyan-ez-be)</p>
+<p class="pc-note">Mindebből sokat tanultam. - Aus all dem habe ich viel gelernt. (mind-ez-ből)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő és a párja beülnek a moziba egy John Wayne-filmre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A férfi fogadást ajánl: „Tíz euró, hogy kaktuszok közé lovagol és leesik.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A nő elfogadja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A jelenet bekövetkezik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A férfi nagylelkű: „Nem kell fizetned, már láttam ezt a filmet.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A nő: „Én is, csak nem gondoltam, hogy megint ugyanabba a hibába lovagol.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">követ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">következő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">következik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bekövetkezik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jelenet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lélek (lelket, lelke, lelkek)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nagylélek (Adverb: nagylelkű)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Szentlélek</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">az Atya, a fiú és a Szentlélek</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanabba a hibába</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanebbe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mindebből sokat tanultam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine und ihr Freund gehen ins Kino (setzen sich ins Kino)  zu einem John-Wayne-Film.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Mann bietet eine Wette an: „Zehn Euro, dass er in die (zwischen die) Kakteen reitet und (vom Pferd) fällt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Blondine nimmt die Wette an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Szene passiert (tatsächlich).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der Mann großzügig: „Du musst nicht zahlen, ich habe den Film schon gesehen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Die Blondine: „Ich auch, aber ich dachte nur nicht, dass er denselben Fehler noch einmal macht.“ (noch mal in diesen Fehler reinreitet)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verfolgen, befolgen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der nächste, der nachfolgende</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">folgen (resultieren); sich ergeben; an der Reihe sein; folgen (nachfolgen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eintreten, eintreffen, erfolgen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Szene</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Seele, der Geist</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">großzügig, großherzig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Heilige Geist</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Vater, der Sohn und der Heilige Geist</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">in den gleichen Fehler (reinreitet) (ugyan-az-ba a hiba-ba)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">in den gleiche rein (ugyan-ez-be)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Aus all dem habe ich viel gelernt. (mind-ez-ből)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a barátjával John Wayne-filmet néz a moziban. - Eine Blondine schaut mit ihrem Freund im Kino einen John-Wayne-Film.</p>
+<p>2. A barát fogad: „Tíz euró, hogy kaktuszok közé megy és lezuhan.” - Der Freund wettet: „Zehn Euro, dass er in Kakteen reitet und runterfällt.“</p>
+<p>3. A szőke biztos az ellenkezőjében. - Die Blondine ist vom Gegenteil überzeugt.  (Die Blondine ist sicher in seinem Gegenteil.)</p>
+<p>4. A film a fogadást igazolja. - Der Film bestätigt die Wette.</p>
+<p>5. A fiú: „Nem kérem a pénzt, már láttam.” - Er: „Ich will das Geld nicht, ich habe ihn schon gesehen.“</p>
+<p>6. A szőke csodálkozva: „Én is, de nem hittem volna, hogy újra ilyen ostoba lesz.” - Die Blondine erstaunt: „Ich auch, aber ich hätte nicht gedacht, dass er noch einmal so dumm sein wird.“</p>
+<p class="pc-note">zuhan - fallen</p>
+<p class="pc-note">zuhany = dus - die Dusche</p>
+<p class="pc-note">ellenkező - gegenteilig</p>
+<p class="pc-note">ellentét - Gegenteil; Gegensatz</p>
+<p class="pc-note">ostoba = buta = bolond = dilis - dumm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő a barátjával John Wayne-filmet néz a moziban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A barát fogad: „Tíz euró, hogy kaktuszok közé megy és lezuhan.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A szőke biztos az ellenkezőjében.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A film a fogadást igazolja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A fiú: „Nem kérem a pénzt, már láttam.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A szőke csodálkozva: „Én is, de nem hittem volna, hogy újra ilyen ostoba lesz.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zuhan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zuhany = dus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ellenkező</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ellentét</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ostoba = buta = bolond = dilis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine schaut mit ihrem Freund im Kino einen John-Wayne-Film.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Freund wettet: „Zehn Euro, dass er in Kakteen reitet und runterfällt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Blondine ist vom Gegenteil überzeugt.  (Die Blondine ist sicher in seinem Gegenteil.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Film bestätigt die Wette.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Er: „Ich will das Geld nicht, ich habe ihn schon gesehen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Die Blondine erstaunt: „Ich auch, aber ich hätte nicht gedacht, dass er noch einmal so dumm sein wird.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fallen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Dusche</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gegenteilig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Gegenteil; Gegensatz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dumm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/21-witze/">« Zurück zu Witze 21</a> &nbsp;|&nbsp; <span>Witze 22</span> &nbsp;|&nbsp; <a href="/23-witze/">Weiter zu Witze 23 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

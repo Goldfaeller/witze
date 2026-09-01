@@ -1,0 +1,689 @@
+{{Navigation hoch|
+ hochtext=Inhaltsverzeichnis: Ungarisch-Lesebuch|
+ hochlink=Ungarisch#Ungarisch-Lesebuch}}
+{{Navigation zurückhochvor|
+ zurücklink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 17|
+ zurücktext=17. Teil – Kurze Witze|
+ hochlink=Ungarisch/Ungarisch-Lesebuch-Witze|
+ hochtext=Witze, witzige Sprüche, Sprichwörter|
+ vorlink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 19|
+vortext=19. Teil – Kurze Witze 
+}}
+
+;18. Teil - Kurze Witze 
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+:'''rövid viccek - kurze Witze'''
+
+=== 261 ===
+:1. Kérdés a Jereváni Rádióhoz:
+:2. „Igaz-e, hogy a kapitalizmus a szakadék szélén áll?”
+:3. „Elvileg igen, de mi már egy lépéssel előrébb vagyunk.”
+::szakad
+::szakadék
+::a szakadék szélén áll
+::előre
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz: - Anfrage an Radio Jerewan:
+:2. „Igaz-e, hogy a kapitalizmus a szakadék szélén áll?” - „Stimmt es, dass der Kapitalismus am Abgrund steht?“
+:3. „Elvileg igen, de mi már egy lépéssel előrébb vagyunk.” - „Im Prinzip ja, aber wir sind bereits einen Schritt weiter (nach vorne).“
+::szakad - zerreißen; platzen; stürzen
+::szakadék - Schlucht
+::a szakadék szélén áll - an der (auf der) Kante (Rand) der Schlucht = am Abgrund stehen
+::előre - nach vorne
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Anfrage an Radio Jerewan:
+:2. „Stimmt es, dass der Kapitalismus am Abgrund steht?“
+:3. „Im Prinzip ja, aber wir sind bereits einen Schritt weiter (nach vorne).“
+::zerreißen; platzen; stürzen
+::Schlucht
+::an der (auf der) Kante (Rand) der Schlucht = am Abgrund stehen
+::nach vorne
+|}
+
+=== 262a ===
+:1. Kérdés a Jereváni Rádióhoz:
+:2. „Létezik-e [Létezikʔe] sajtóellenőrzés a Szovjetunióban?”
+:3. „Elméletileg nem. Ugyanakkor sajnálattal közöljük, hogy erre a kérdésre nem térhetünk ki bővebben.”
+::ugyanakkor
+::egyidőben = egyidejű
+::(“ugyan-”
+::ugyanaz
+::ugyanolyan
+::ugyanannyi
+::ugyanott
+::ugyanakkor
+::közöl
+::bő
+::1.) kitér vmire
+::Erre a kérdésre nem tudok kitérni.
+::Később még kitérek erre.
+::2.) kitér vmi elől
+::Kitért az autó elől.
+::Kitért a válaszadás elől.
+::1.) kitér vmire
+::kitér a kérdésre
+::2.) kitér vmi elől
+::kibővít egy témát
+::nem térhetünk ki bővebben
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz: - Anfrage an Radio Jerewan:
+:2. „Létezik-e [Létezikʔe] sajtóellenőrzés a Szovjetunióban?” - „Gibt es in der Sowjetunion eine Pressezensur?“
+:3. „Elméletileg nem. Ugyanakkor sajnálattal közöljük, hogy erre a kérdésre nem térhetünk ki bővebben.” - „Im Prinzip nein. Es ist uns aber leider nicht möglich, auf diese Frage näher einzugehen.“ (Theoretisch nein. Gleichzeitig geben wir mit Bedauern bekannt, dass wir auf diese Frage nicht ausführlicher eingehen können.)
+::ugyanakkor - gleichzeitig, daneben
+::egyidőben = egyidejű - gleichzeitig
+::(“ugyan-” - gleich, identisch, entsprechend gleich)
+::ugyanaz - dasselbe
+::ugyanolyan - genauso, von derselben Art
+::ugyanannyi - genauso viel
+::ugyanott - am selben Ort
+::ugyanakkor - zur selben Zeit
+::közöl - mitteilen; veröffentlichen
+::bő - weit
+::1.) kitér vmire - auf etwas eingehen, etwas ansprechen, etwas behandeln
+::Erre a kérdésre nem tudok kitérni. - Auf diese Frage kann ich nicht eingehen.
+::Később még kitérek erre. - Später komme ich darauf noch zurück.
+::2.) kitér vmi elől - vor etwas ausweichen, etwas vermeiden, etwas umgehen
+::Kitért az autó elől. - Er wich dem Auto aus.
+::Kitért a válaszadás elől. - Er wich der Antwort aus. - Er entzog sich einer Antwort.
+::1.) kitér vmire - auf etwas eingehen, etwas ansprechen
+::kitér a kérdésre - auf die Frage eingehen
+::2.) kitér vmi elől - vor etwas ausweichen, etwas vermeiden
+::kibővít egy témát - ein Thema ausweiten (erweitern)
+::nem térhetünk ki bővebben - wir können darauf nicht näher eingehen - wir können das nicht ausführlicher behandeln - wir können uns dazu nicht eingehender äußern
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Anfrage an Radio Jerewan:
+:2. „Gibt es in der Sowjetunion eine Pressezensur?“
+:3. „Im Prinzip nein. Es ist uns aber leider nicht möglich, auf diese Frage näher einzugehen.“ (Theoretisch nein. Gleichzeitig geben wir mit Bedauern bekannt, dass wir auf diese Frage nicht ausführlicher eingehen können.)
+::gleichzeitig, daneben
+::gleichzeitig
+::gleich, identisch, entsprechend gleich)
+::dasselbe
+::genauso, von derselben Art
+::genauso viel
+::am selben Ort
+::zur selben Zeit
+::mitteilen; veröffentlichen
+::weit
+::auf etwas eingehen, etwas ansprechen, etwas behandeln
+::Auf diese Frage kann ich nicht eingehen.
+::Später komme ich darauf noch zurück.
+::vor etwas ausweichen, etwas vermeiden, etwas umgehen
+::Er wich dem Auto aus.
+::Er wich der Antwort aus. - Er entzog sich einer Antwort.
+::auf etwas eingehen, etwas ansprechen
+::auf die Frage eingehen
+::vor etwas ausweichen, etwas vermeiden
+::ein Thema ausweiten (erweitern)
+::wir können darauf nicht näher eingehen - wir können das nicht ausführlicher behandeln - wir können uns dazu nicht eingehender äußern
+|}
+
+=== 262b ===
+:1. „Van-e [van e] a Szovjetunióban cenzúra a sajtóban?”
+:2. „Alapvetően nincs. Azonban erről a témáról nem áll módunkban többet mondani.”
+::nem áll módunkban
+::nem áll módunkban
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Van-e [van e] a Szovjetunióban cenzúra a sajtóban?” - „Gibt es in der Sowjetunion eine Pressezensur?“
+:2. „Alapvetően nincs. Azonban erről a témáról nem áll módunkban többet mondani.” - „Grundsätzlich (grundlegend) nein. Allerdings ist esleider nicht möglich über dieses Thema weiter zu sprechen.“
+::nem áll módunkban - es steht uns nicht zur Verfügung; es ist uns nicht möglich; wir sind nicht in der Lage; formell: es liegt nicht in unserer Möglichkeit
+::nem áll módunkban - (es steht nicht in unserer Möglichkeit; in unserer Art und Weise; es steht nicht in unserer Macht)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Gibt es in der Sowjetunion eine Pressezensur?“
+:2. „Grundsätzlich (grundlegend) nein. Allerdings ist esleider nicht möglich über dieses Thema weiter zu sprechen.“
+::es steht uns nicht zur Verfügung; es ist uns nicht möglich; wir sind nicht in der Lage; formell: es liegt nicht in unserer Möglichkeit
+::(es steht nicht in unserer Möglichkeit; in unserer Art und Weise; es steht nicht in unserer Macht)
+|}
+
+=== 263a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Igaz-e, hogy a bolhák és a poloskák is forradalmat csinálhatnának?”
+:3. „Elvileg igen, hiszen bennük is a munkásosztály [munkás-osztály] vére folyik…”
+::bolha
+::poloska
+::csinálhatnának vmit
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Igaz-e, hogy a bolhák és a poloskák is forradalmat csinálhatnának?” - „Stimmt es, dass auch Flöhe und Wanzen eine Revolution machen könnten?“
+:3. „Elvileg igen, hiszen bennük is a munkásosztály [munkás-osztály] vére folyik…” - „Im Prinzip ja, denn auch in ihnen fließt das Blut der Arbeiterklasse…“
+::bolha - Floh
+::poloska - Wanze; (auch: Abhörwanze)
+::csinálhatnának vmit - etwas machen könnten
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Stimmt es, dass auch Flöhe und Wanzen eine Revolution machen könnten?“
+:3. „Im Prinzip ja, denn auch in ihnen fließt das Blut der Arbeiterklasse…“
+::Floh
+::Wanze; (auch: Abhörwanze)
+::etwas machen könnten
+|}
+
+=== 263b ===
+:1. „Valóban képesek lennének a bolhák és a poloskák forradalomra?”
+:2. „Alapvetően igen, mert az ő ereikben [ere-ik-ben] is a dolgozók vére kering…”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Valóban képesek lennének a bolhák és a poloskák forradalomra?” - „Stimmt es, dass auch Flöhe und Wanzen zu einer Revolution fähig wären?“
+:2. „Alapvetően igen, mert az ő ereikben [ere-ik-ben] is a dolgozók vére kering…” - „Im Prinzip ja, denn auch in ihren Adern fließt das Blut der Arbeiter…“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Stimmt es, dass auch Flöhe und Wanzen zu einer Revolution fähig wären?“
+:2. „Im Prinzip ja, denn auch in ihren Adern fließt das Blut der Arbeiter…“
+|}
+
+=== 264a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Igaz-e, hogy Ukrajnában a búza olyan magasra nő, mint a távíróoszlopok?”
+:3. „Elvileg igen. Csak nem olyan magas, hanem ilyen ritkán nő.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Igaz-e, hogy Ukrajnában a búza olyan magasra nő, mint a távíróoszlopok?” - „Stimmt es, dass in der Ukraine der Weizen so hoch wie Telegraphenmaste wächst?“
+:3. „Elvileg igen. Csak nem olyan magas, hanem ilyen ritkán nő.” - „Im Prinzip ja. Aber nicht so hoch, sondern so weit auseinander.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Stimmt es, dass in der Ukraine der Weizen so hoch wie Telegraphenmaste wächst?“
+:3. „Im Prinzip ja. Aber nicht so hoch, sondern so weit auseinander.“
+|}
+
+=== 264b ===
+:1. „Valóban igaz, hogy Ukrajnában a búza a távíróoszlopok magasságát is eléri?”
+:2. „Alapvetően igen, csak nem felfelé, hanem oldalirányban ekkora a távolság.”
+::is
+::irány
+::ekkora = ilyen nagy
+::akkora = olyan nagy
+::Mekkora?
+::akkora = so groß, so viel, so sehr
+::Akkora (= olyan nagy) házat építettek, hogy az egész falu róla beszél.
+::Akkora (= olyan nagy) kutyája van, mint egy borjú.
+::Akkora (= olyan nagy) zaj volt az utcán [uccán], hogy nem tudtam aludni.
+::Akkora (= olyan nagy) eső esett, hogy az udvar teljesen víz alatt állt.
+::Akkora hibát követett el [követettel] , hogy már nem lehetett kijavítani.
+::Nem gondoltam, hogy akkora (= olyan nagy) baj lesz belőle.
+::Akkora (= olyan nagy) örömmel fogadta a hírt, hogy majdnem sírni kezdett.
+::Akkora (= olyan nagy) volt a tömeg, hogy alig lehetett mozdulni.
+::Ez nem akkora ügy, mint gondolod.
+::Akkora különbség [külömség] van a két megoldás között, hogy nem lehet őket összehasonlítani.
+::Akkora sebességgel jött az autó, hogy senki sem tudott időben reagálni.
+::Akkora terhet cipelt, hogy alig bírt menni.
+::Ekkora (= ilyen nagy) házat még soha nem láttam.
+::Ekkora kutyával nem könnyű utazni.
+::Ekkora zajban nem lehet dolgozni.
+::Ekkora eső után minden út sáros lett.
+::Ekkora hibát nem szabad még egyszer elkövetni.
+::Nem hittem volna, hogy ekkora baj lesz belőle.
+::Ekkora öröm ritkán látszik valakinek az arcán.
+::Ekkora tömegben könnyű elveszíteni valakit.
+::Ez nem ekkora ügy, nyugodtan meg lehet oldani.
+::Ekkora különbséget nem vártam a két eredmény között.
+::Ekkora sebességgel lakott területen belül nem szabad vezetni.
+::Ekkora terhet egyedül nem tudsz elvinni.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Valóban igaz, hogy Ukrajnában a búza a távíróoszlopok magasságát is eléri?” – „Stimmt es (ist es wirklich wahr), dass in der Ukraine der Weizen sogar die Höhe von Telegraphenmasten erreicht?“
+:2. „Alapvetően igen, csak nem felfelé, hanem oldalirányban ekkora a távolság.” – „Im Prinzip ja, allerdings nicht in der Höhe, sondern im Abstand.“
+::is - auch; sogar
+::irány - Richtung
+::ekkora = ilyen nagy - so groß 
+::akkora = olyan nagy - so groß 
+::Mekkora? - Wie groß?
+::ekkora = so groß hier; so groß wie das hier
+::akkora = so groß dort; so groß wie das dort; so groß wie erwähnt
+::akkora = so groß, so viel, so sehr – meist mit Bezug auf eine Größe, Menge oder Intensität.
+:: Akkora (= olyan nagy) házat építettek, hogy az egész falu róla beszél. - Sie haben ein so großes Haus gebaut, dass das ganze Dorf darüber spricht.
+::Akkora (= olyan nagy) kutyája van, mint egy borjú. - Er hat einen Hund, der so groß ist wie ein Kalb.
+::Akkora (= olyan nagy) zaj volt az utcán [uccán], hogy nem tudtam aludni. - Auf der Straße war so ein Lärm, dass ich nicht schlafen konnte.
+::Akkora (= olyan nagy) eső esett, hogy az udvar teljesen víz alatt állt. - Es regnete so stark, dass der Hof vollständig unter Wasser stand.
+::Akkora hibát követett el [követettel] , hogy már nem lehetett kijavítani. - Er machte einen so großen Fehler, dass man ihn nicht mehr korrigieren konnte.
+::Nem gondoltam, hogy akkora (= olyan nagy) baj lesz belőle. - Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.
+::Akkora (= olyan nagy) örömmel fogadta a hírt, hogy majdnem sírni kezdett. - Sie nahm die Nachricht mit so großer Freude auf, dass sie fast zu weinen begann.
+::Akkora (= olyan nagy) volt a tömeg, hogy alig lehetett mozdulni. - Die Menschenmenge war so groß, dass man sich kaum bewegen konnte.
+::Ez nem akkora ügy, mint gondolod. - Das ist keine so große Sache, wie du denkst.
+::Akkora különbség [külömség] van a két megoldás között, hogy nem lehet őket összehasonlítani. - Zwischen den beiden Lösungen besteht ein so großer Unterschied, dass man sie nicht vergleichen kann.
+::Akkora sebességgel jött az autó, hogy senki sem tudott időben reagálni. - Das Auto kam mit so hoher Geschwindigkeit, dass niemand rechtzeitig reagieren konnte.
+::Akkora terhet cipelt, hogy alig bírt menni. - Er trug eine so schwere Last, dass er kaum gehen konnte.
+
+::Ekkora (= ilyen nagy) házat még soha nem láttam. - Ein so großes Haus habe ich noch nie gesehen.
+::Ekkora kutyával nem könnyű utazni. - Mit einem so großen Hund ist es nicht leicht zu reisen.
+::Ekkora zajban nem lehet dolgozni. - Bei (in) so einem Lärm kann man nicht arbeiten.
+::Ekkora eső után minden út sáros lett. - Nach einem so starken Regen wurden alle Wege schlammig.
+::Ekkora hibát nem szabad még egyszer elkövetni. - Einen so großen Fehler darf man nicht noch einmal machen.
+::Nem hittem volna, hogy ekkora baj lesz belőle. - Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.
+::Ekkora öröm ritkán látszik valakinek az arcán. - So große Freude sieht man selten im Gesicht eines Menschen.
+::Ekkora tömegben könnyű elveszíteni valakit. - In einer so großen Menschenmenge verliert man leicht jemanden.
+::Ez nem ekkora ügy, nyugodtan meg lehet oldani. - Das ist keine so große Sache, man kann es ruhig lösen.
+::Ekkora különbséget nem vártam a két eredmény között. - Einen so großen Unterschied zwischen den beiden Ergebnissen hatte ich nicht erwartet.
+::Ekkora sebességgel lakott területen belül nem szabad vezetni. - Mit so hoher Geschwindigkeit darf man innerhalb geschlossener Ortschaften nicht fahren.
+::Ekkora terhet egyedül nem tudsz elvinni. - Eine so schwere Last kannst du allein nicht wegtragen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Stimmt es (ist es wirklich wahr), dass in der Ukraine der Weizen sogar die Höhe von Telegraphenmasten erreicht?“
+:2. „Im Prinzip ja, allerdings nicht in der Höhe, sondern im Abstand.“
+::auch; sogar
+::Richtung
+::so groß
+::so groß
+::Wie groß?
+::meist mit Bezug auf eine Größe, Menge oder Intensität.
+::Sie haben ein so großes Haus gebaut, dass das ganze Dorf darüber spricht.
+::Er hat einen Hund, der so groß ist wie ein Kalb.
+::Auf der Straße war so ein Lärm, dass ich nicht schlafen konnte.
+::Es regnete so stark, dass der Hof vollständig unter Wasser stand.
+::Er machte einen so großen Fehler, dass man ihn nicht mehr korrigieren konnte.
+::Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.
+::Sie nahm die Nachricht mit so großer Freude auf, dass sie fast zu weinen begann.
+::Die Menschenmenge war so groß, dass man sich kaum bewegen konnte.
+::Das ist keine so große Sache, wie du denkst.
+::Zwischen den beiden Lösungen besteht ein so großer Unterschied, dass man sie nicht vergleichen kann.
+::Das Auto kam mit so hoher Geschwindigkeit, dass niemand rechtzeitig reagieren konnte.
+::Er trug eine so schwere Last, dass er kaum gehen konnte.
+::Ein so großes Haus habe ich noch nie gesehen.
+::Mit einem so großen Hund ist es nicht leicht zu reisen.
+::Bei (in) so einem Lärm kann man nicht arbeiten.
+::Nach einem so starken Regen wurden alle Wege schlammig.
+::Einen so großen Fehler darf man nicht noch einmal machen.
+::Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.
+::So große Freude sieht man selten im Gesicht eines Menschen.
+::In einer so großen Menschenmenge verliert man leicht jemanden.
+::Das ist keine so große Sache, man kann es ruhig lösen.
+::Einen so großen Unterschied zwischen den beiden Ergebnissen hatte ich nicht erwartet.
+::Mit so hoher Geschwindigkeit darf man innerhalb geschlossener Ortschaften nicht fahren.
+::Eine so schwere Last kannst du allein nicht wegtragen.
+|}
+
+=== 265a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Lehet-e egy Moszkviccsal 120 km/órával (= kilométer per óra) bevenni egy szűk kanyart?”
+:3. „Elvileg igen, de csak egyszer.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Lehet-e egy Moszkviccsal 120 km/órával (= kilométer per óra) bevenni egy szűk kanyart?” - „Kann man mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“
+:3. „Elvileg igen, de csak egyszer.” - „Im Prinzip ja, aber nur einmal.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Kann man mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“
+:3. „Im Prinzip ja, aber nur einmal.“
+|}
+
+=== 265b ===
+:1. „Megoldható-e [megoltható e], hogy egy Moszkvics 120-szal [szászhússzal] átszáguldjon [átszágulgyon] egy éles kanyaron?”
+:2. „Alapvetően igen, ám ez egyszeri élmény.”
+::száz
+::százhúsz
+::száguld
+::átszáguld
+::száguldás
+::ám
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Megoldható-e [megoltható e], hogy egy Moszkvics 120-szal [szászhússzal] átszáguldjon [átszágulgyon] egy éles kanyaron?” - „Kann man (ob es lösbar ist) mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“
+:2. „Alapvetően igen, ám ez egyszeri élmény.” - „Im Prinzip ja, allerdings ist das ein einmaliges (einziges) Erlebnis.“
+::száz - 100
+::százhúsz - 120
+::száguld - rasen, flitzen, sausen
+::átszáguld - “durchrasen”
+::száguldás - Karacho, Raserei
+::ám - aber
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Kann man (ob es lösbar ist) mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“
+:2. „Im Prinzip ja, allerdings ist das ein einmaliges (einziges) Erlebnis.“
+::100
+::120
+::rasen, flitzen, sausen
+::“durchrasen”
+::Karacho, Raserei
+::aber
+|}
+
+=== 266a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Igaz-e, hogy a Szovjetunió a mikrotechnológiában jobb, mint az Egyesült Államok?”
+:3. „Elvileg igen. Mi gyártjuk a világ legnagyobb mikrochipjeit.”
+::technológia
+::technika
+::kocka
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Igaz-e, hogy a Szovjetunió a mikrotechnológiában jobb, mint az Egyesült Államok?” - „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“
+:3. „Elvileg igen. Mi gyártjuk a világ legnagyobb mikrochipjeit.” - „Im Prinzip ja. Wir fertigen die größten Mikrochips der Welt.“
+::technológia - [Aussprache “ch” wie im Deutschen]
+::technika - [Aussprache “ch” wie im Deutschen]
+::kocka - der Würfel (Aussprache NICHT wie deutsches “ck”; sondern es muss klingen wie “kotzen”)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“
+:3. „Im Prinzip ja. Wir fertigen die größten Mikrochips der Welt.“
+::[Aussprache “ch” wie im Deutschen]
+::[Aussprache “ch” wie im Deutschen]
+::der Würfel (Aussprache NICHT wie deutsches “ck”; sondern es muss klingen wie “kotzen”)
+|}
+
+=== 266b ===
+:1. „Valóban megelőzi a Szovjetunió az USA-t a mikrotechnika területén?”
+:2. „Alapvetően igen, hiszen nálunk készülnek a földkerekség legméretesebb mikrocsipjei.”
+::USA [usa]
+::földkerekség = földes kerek
+::földgömb = glóbusz
+::gömb
+::mér
+::méret
+::méretes
+::méretes ház
+::méretes kutya
+::méretes csomag
+::méretes hiba
+::méretes adag
+::méretes has
+::méretes fa
+::méretes probléma
+::túlméretes nagyság
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Valóban megelőzi a Szovjetunió az USA-t a mikrotechnika területén?” – „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“
+:2. „Alapvetően igen, hiszen nálunk készülnek a földkerekség legméretesebb mikrocsipjei.” – „Im Prinzip ja, denn bei uns entstehen die größten (“stattlichsten”) Mikrochips der Welt.“
+::technika [teknika]
+::USA [usa] - (klingt wie: Uscha; Uschi)
+::USA-t [ausát] (Akkusativ-t an Abkürzungen nur mit Bindestrich schreiben)
+::földkerekség = földes kerek - Globus; Erdenrund, Erdkreis
+::földgömb = glóbusz - Globus
+::gömb - Kugel (Geometrie)
+::mér - messen, wiegen
+::méret - Maß, Größe, Abmessung
+::méretes - (Adjektiv: “maßig”)
+::méretes = stattlich groß, ordentlich groß, von beachtlicher Größe
+::méretes ház - ein stattlich großes Haus
+::méretes kutya - ein ziemlich großer Hund
+::méretes csomag - ein großes Paket
+::méretes hiba - ein ordentlicher Fehler
+::méretes adag - eine große Portion
+::méretes has - ein stattlicher Bauch
+::méretes fa - ein großer Baum
+::méretes probléma - ein beachtliches Problem
+::túlméretes nagyság - Übergröße
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“
+:2. „Im Prinzip ja, denn bei uns entstehen die größten (“stattlichsten”) Mikrochips der Welt.“
+::(klingt wie: Uscha; Uschi)
+::Globus; Erdenrund, Erdkreis
+::Globus
+::Kugel (Geometrie)
+::messen, wiegen
+::Maß, Größe, Abmessung
+::(Adjektiv: “maßig”)
+::ein stattlich großes Haus
+::ein ziemlich großer Hund
+::ein großes Paket
+::ein ordentlicher Fehler
+::eine große Portion
+::ein stattlicher Bauch
+::ein großer Baum
+::ein beachtliches Problem
+::Übergröße
+|}
+
+=== 267a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Igaz-e, hogy Ivan Ivanovics a lottón egy piros autót nyert?”
+:3. „Elvileg igen. – De nem Ivan Ivanovics volt, hanem Pjotr Petrovics. – És nem piros autó, hanem egy kék kerékpár. – És nem megnyerte, hanem ellopták tőle. – Minden más stimmel.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:Kérdés a Jereváni Rádióhoz – Frage an Radio Jerewan
+:„Igaz-e, hogy Ivan Ivanovics a lottón egy piros autót nyert?” – „Stimmt es, dass Iwan Iwanowitsch in der Lotterie ein rotes Auto gewonnen hat?“
+:„Elvileg igen. – De nem Ivan Ivanovics volt, hanem Pjotr Petrovics. – És nem piros autó, hanem egy kék kerékpár. – És nem megnyerte, hanem ellopták tőle. – Minden más stimmel.” – „Im Prinzip ja. – Aber es war nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Und es war kein rotes Auto, sondern ein blaues Fahrrad. – Und er hat es nicht gewonnen, sondern es wurde ihm gestohlen. – Alles andere stimmt.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Stimmt es, dass Iwan Iwanowitsch in der Lotterie ein rotes Auto gewonnen hat?“
+:3. „Im Prinzip ja. – Aber es war nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Und es war kein rotes Auto, sondern ein blaues Fahrrad. – Und er hat es nicht gewonnen, sondern es wurde ihm gestohlen. – Alles andere stimmt.“
+|}
+
+=== 267b ===
+:1. „Valóban igaz, hogy Ivan Ivanovics egy piros autót nyert a sorsoláson?”
+:2. „Alapvetően igen.
+:3. „Alapvetően igen. – Csakhogy nem ő volt, hanem Pjotr Petrovics. – Nem autóról volt szó, hanem egy kék bicikliről. – És nem nyeremény volt, hanem lopás. – A többi viszont pontos.”
+::sorsolás
+::sorsol
+::kisorsol
+::sors
+::sorscsapás
+::sorskérdés
+::sorsforduló
+::sorsszerű
+::sorsjegy
+::sorsjegyszám
+::sörsátor
+::nyer
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Valóban igaz, hogy Ivan Ivanovics egy piros autót nyert a sorsoláson?” – „Stimmt es, dass Iwan Iwanowitsch bei der Lotterie ein rotes Auto gewonnen hat?“
+:2. „Alapvetően igen. – Csakhogy nem ő volt, hanem Pjotr Petrovics. – Nem autóról volt szó, hanem egy kék bicikliről. – És nem nyeremény volt, hanem lopás. – A többi viszont pontos.” – „Im Prinzip ja. – Allerdings war es nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Es war kein Auto, sondern ein blaues Fahrrad. – Und es war kein Gewinn, sondern ein Diebstahl. – Alles andere ist korrekt.“
+::sorsolás - Verlosung, Ziehung (Gewinnspie), Lotto
+::sorsol - losen, auslosen, ziehen
+::kisorsol - verlosen, auslosen
+::sors - Schicksal, Geschick, Verhängnis, Los
+::sorscsapás - Schicksalsschlag, Unglück
+::sorskérdés - Schicksalsfrage
+::sorsforduló - Schicksalswende
+::sorsszerű - schicksalhaft (Schicksal-gemäß)
+::sorsjegy - Lottoschein
+::sorsjegyszám - Losnummer
+::sörsátor - Bierzelt
+::nyer - gewinnen
+
+
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Stimmt es, dass Iwan Iwanowitsch bei der Lotterie ein rotes Auto gewonnen hat?“
+:2. „Im Prinzip ja. – Allerdings war es nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Es war kein Auto, sondern ein blaues Fahrrad. – Und es war kein Gewinn, sondern ein Diebstahl. – Alles andere ist korrekt.“
+::Verlosung, Ziehung (Gewinnspie), Lotto
+::losen, auslosen, ziehen
+::verlosen, auslosen
+::Schicksal, Geschick, Verhängnis, Los
+::Schicksalsschlag, Unglück
+::Schicksalsfrage
+::Schicksalswende
+::schicksalhaft (Schicksal-gemäß)
+::Lottoschein
+::Losnummer
+::Bierzelt
+::gewinnen
+|}
+
+=== 268a ===
+:1. Kérdés a Jereváni Rádióhoz
+:2. „Igaz-e, hogy Hruscsov elvtárs autóversenyt rendezett Kennedy ellen?”
+:3. „Elvileg igen. Hruscsov elvtárs tiszteletre méltó második helyen végzett, míg Kennedy csak az utolsó előtti lett.”
+::méltó
+::méltányol
+::tiszteletre méltó
+::tisztelet
+::utolsó előtti
+::rendez
+::rend
+::végez
+::vég
+::míg = amíg
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan
+:2. „Igaz-e, hogy Hruscsov elvtárs autóversenyt rendezett Kennedy ellen?” - „Stimmt es, daß Genosse Chruschtschow gegen Kennedy ein Autorennen gefahren hat?“
+:3. „Elvileg igen. Hruscsov elvtárs tiszteletre méltó második helyen végzett, míg Kennedy csak az utolsó előtti lett.” - „Im Prinzip ja. Chruschtschow belegte einen ehrenvollen zweiten Platz, während Kennedy nur Vorletzter wurde.“
+::méltó - würdig, wohlverdient
+::méltányol - würdigen, anerkennen
+::tiszteletre méltó - respektabel, erhwürdig, ehrenwert, achtbar
+::tisztelet - Respekt, Ehre, Verehrung, Hochachtung
+::utolsó előtti - vorletzter
+::rendez - veranstalten, organisieren
+::rend - Ordnung
+::végez - beenden, erledigen, verrichten, tun, machen
+::vég - Ende
+::míg = amíg - derweilen, indessen, während, bis, solange bis
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan
+:2. „Stimmt es, daß Genosse Chruschtschow gegen Kennedy ein Autorennen gefahren hat?“
+:3. „Im Prinzip ja. Chruschtschow belegte einen ehrenvollen zweiten Platz, während Kennedy nur Vorletzter wurde.“
+::würdig, wohlverdient
+::würdigen, anerkennen
+::respektabel, erhwürdig, ehrenwert, achtbar
+::Respekt, Ehre, Verehrung, Hochachtung
+::vorletzter
+::veranstalten, organisieren
+::Ordnung
+::beenden, erledigen, verrichten, tun, machen
+::Ende
+::derweilen, indessen, während, bis, solange bis
+|}
+
+=== 268b ===
+:1. „Valóban autóversenyzett-e Hruscsov Kennedyvel?”
+:2. „Alapvetően igen: Hruscsov a dicsőséges második lett, Kennedy pedig csupán az utolsó előtti.”
+::csupán = csak
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Valóban autóversenyzett-e Hruscsov Kennedyvel?” - „Stimmt es, dass Genosse Chruschtschow gegen (mit) Kennedy ein Autorennen gefahren hat?“
+:2. „Alapvetően igen: Hruscsov a dicsőséges második lett, Kennedy pedig csupán az utolsó előtti.” - „Im Prinzip ja: Chruschtschow wurde (der) ruhmreicher Zweiter, Kennedy hingegen nur Vorletzter.“
+::csupán = csak - nur, lediglich
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Stimmt es, dass Genosse Chruschtschow gegen (mit) Kennedy ein Autorennen gefahren hat?“
+:2. „Im Prinzip ja: Chruschtschow wurde (der) ruhmreicher Zweiter, Kennedy hingegen nur Vorletzter.“
+::nur, lediglich
+|}
+

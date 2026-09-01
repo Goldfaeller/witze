@@ -1,0 +1,90 @@
+Pruefbericht roh/99-spruch.txt
+Witze: 202
+Meldungen: 86
+
+[nur-deutsch] :Witz 5: (Es ist besser, wenn ein Kluger einmal albern ist, als wenn ein Dummer sich für klug hält.)
+[nur-deutsch] :Witz 5: (Lieber ein weiser Narr als ein törichter Besserwisser.)
+[nur-deutsch] :Witz 14: ... pater stultitiae“ (Vater der Dummheit) oder „... pater taedii“ (Vater der Langeweile)
+[unsicher] :Witz 24: Kalóriák, ezek a kis, láthatatlan ördögök, akik ejszakánként szűkre szabják a cuccokat. - Kalorien - das sind die kleinen, unsichtbaren Teufel, die nachts die Sachen enger nähen.
+[nur-ungarisch] :Witz 35: Alkohol lassan öl meg, de van van időnk. Alkohol tötet langsam, aber wir haben Zeit.
+[unsicher] :Witz 38: Inkabb gazdag legyek mint vonzó, de mit tegyek! - Ich wäre lieber reich als sexy 8anziehend), aber was soll man machen.
+[nur-ungarisch] :Witz 39: szombat, vasárnap, szar nap,  szar nap, szar nap, szar nap, péntek este, szombat, vasárnap
+[nur-deutsch] :Witz 39: Samstag, Sonntag, Scheißtag, Scheißtag, Scheißtag, Scheißtag, Freitagabend, Samstag, Sonntag.
+[nur-ungarisch] :Witz 43: tehet vmiről -
+[nur-deutsch] :Witz 45: Butaság ez egy megújuló nyersanyag. Dummheit ist ein nachwachsender Rohstoff
+[nur-ungarisch] :Witz 51: 2. Version:
+[nur-ungarisch] :Witz 59: Version 2:
+[nur-ungarisch] :Witz 59: Version 3:
+[nur-ungarisch] :Witz 67: (Egy kézműves reklámja:)
+[nur-ungarisch] :Witz 67: (Egy kézműves vállalkozás reklámja: )
+[nur-ungarisch] :Witz 67: (Három dolgot tudunk kínálni, de egyszerre mindig csak kettőt.)
+[nur-ungarisch] :Witz 67: (Három dolgot tudunk, de egyszerre csak kettőt.)
+[nur-ungarisch] :Witz 68: (A szép, okos és vidám nők valójában sosem igazán szabadok.)
+[nur-ungarisch] :Witz 68: (A szép, okos és vidám nők soha nem kötetlenek.)
+[nur-ungarisch] :Witz 68: (Egy szép, okos és életvidám nő sosem teljesen egyedülálló.)
+[nur-ungarisch] :Witz 68: (Akkor sem, ha ezt állítják.)
+[nur-ungarisch] :Witz 68: (Még akkor sem, ha azt mondják, hogy szabadok.)
+[nur-ungarisch] :Witz 68: (A szabadság gyakran csak szó.)
+[nur-ungarisch] :Witz 69: (Soha nem hagytam abba, hogy szeresselek, csak azt hagytam abba, hogy kimutassam neked.)
+[nur-ungarisch] :Witz 69: (Sosem hagytalak abba szeretni, csak azt hagytam abba, hogy kimutassam neked.)
+[nur-ungarisch] :Witz 69: (Soha nem szűntem meg szeretni téged, csak már nem mutattam ki.)
+[nur-ungarisch] :Witz 73: (Ha nem lennének mellek, a férfiak és a nők gyakrabban néznének egymás szemébe.)
+[nur-ungarisch] :Witz 73: (A férfiak és a nők sokkal gyakrabban tartanák a szemkontaktust, ha nem lennének ott a mellek.)
+[nur-ungarisch] :Witz 75: (De mennyi időbe telik, mire ezt megérti.)
+[nur-ungarisch] :Witz 75: (De mennyi idő, mire ezt megérti.)
+[nur-ungarisch] :Witz 76: (Ha az élet száz okot ad neked a sírásra, akkor mutasd meg neki, hogy ezer okod van a nevetésre.)
+[nur-ungarisch] :Witz 76: (Ha az élet száz okot ad neked a sírásra, akkor mutasd meg neki, hogy ezerszer több okod van a nevetésre.)
+[unsicher] :Witz 77: „A kozmetikum: idősebbeket megfiatalítja, a fiatalok meg öregíti.” - Kosmetik - Sie macht dich im Alter jünger und in jungen Jahren älter.
+[nur-ungarisch] :Witz 77: („A kozmetika öregkorban fiatalít, fiatalkorban öregít.”)
+[nur-ungarisch] :Witz 81: (Most éhen halok, de cserébe gyönyörű leszek.)
+[nur-ungarisch] :Witz 81: (Most éhen kell halnom, de legalább szép leszek.)
+[nur-ungarisch] :Witz 81: (Éhen fogok halni, viszont cserébe szép leszek.)
+[nur-ungarisch] :Witz 81: (Most már éhen halok, de hát legalább szép maradok.)
+[nur-ungarisch] :Witz 82: (Nem tudom, ki írja az életem forgatókönyvét, de van humorérzéke.)
+[nur-ungarisch] :Witz 82: (Nem tudom, ki írja az életem forgatókönyvét, de van humora.)
+[nur-ungarisch] :Witz 83: (A sikerhez gyakran elég egy pár lépést megtenni a helyes irányba.)
+[nur-ungarisch] :Witz 83: (A sikerhez sokszor csak néhány apró lépés kell a jó irány felé.)
+[nur-ungarisch] :Witz 84: (Úgy látjuk a világot, amilyenek vagyunk.)
+[nur-ungarisch] :Witz 84: (A világot úgy látjuk, amilyenek mi magunk vagyunk.)
+[nur-ungarisch] :Witz 86: (Ne bíráljatok [bírájjatok] a múltam miatt. Én már nem élek ott.)
+[nur-ungarisch] :Witz 86: (Ne ítéljetek meg a múltam alapján. Már nem élek ott.)
+[nur-ungarisch] :Witz 86: (Ne ítélj [ítéjj] meg a múltam alapján. Már nem ott élek.)
+[nur-ungarisch] :Witz 86: (Ne a múltam szerint ítélj meg. Az már nem az életem része.)
+[nur-ungarisch] :Witz 87: (Segíts magadon, és az Isten is megsegít.)
+[nur-ungarisch] :Witz 87: (Segíts magadon, akkor Isten is segít.)
+[nur-ungarisch] :Witz 87: (Ha magadon segítesz, Isten is melléd áll.)
+[nur-ungarisch] :Witz 88: (Edd meg vagy meghalsz!)
+[nur-ungarisch] :Witz 88: (Fogadd el, vagy halj meg!)
+[nur-ungarisch] :Witz 90: (Aki azt tudja, ... )
+[nur-ungarisch] :Witz 96: Nem a csíkok vezetnek, hanem a fehér és fekete mezők között te döntesz. Nicht die Streifen führen dich, sondern zwischen weißen und schwarzen Feldern entscheidest du.
+[unsicher] :Witz 109: Első.) Nem tudod szappannal megmosni a szemed. – Du kannst dir die Augen nicht mit Seife waschen.
+[unsicher] :Witz 109: Második.) Nem tudod megszámolni a hajszálaidat. – Du kannst nicht deine Haare zählen.
+[unsicher] :Witz 109: Harmadik.) Nem tudsz az orrodon át lélegezni, miközben a nyelved kilóg a szádból. – Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.
+[unsicher] :Witz 109: Negyedik.) Most kipróbáltad a harmadik pontot. – Du hast gerade Punkt 3 ausprobiert.
+[unsicher] :Witz 109: Hatodik.) Amikor kipróbáltad a harmadik pontot, rájöttél, hogy mégis lehetséges, és egy lihegő kutyára hasonlítasz. – Als du Punkt 3 ausprobiert hast, ist dir klar geworden, dass es doch möglich ist und du einem hechelnden Hund ähnelst.
+[unsicher] :Witz 109: Hetedik.) Elmosolyodtál, mert rajtakaptunk. – Du hast gelächelt, weil wir dich erwischt haben.
+[unsicher] :Witz 109: Nyolcadik.) Kihagytad az ötödik pontot. – Du hast Punkt 5 ausgelassen.
+[unsicher] :Witz 109: Kilencedik.) Most ellenőrizted, hogy van-e egyáltalán ötödik pont. – Du hast gerade kontrolliert, ob es überhaut einen 5. Punkt gibt.
+[unsicher] :Witz 109: 1.) Nem lehet szappannal szemet mosni. – Du kannst dir die Augen nicht mit Seife waschen.
+[unsicher] :Witz 109: 2.) A hajszálaid megszámolása neked (= magadnak) lehetetlen. – Das Abzählen deiner einzelnen Haare ist für dich unmöglich.
+[unsicher] :Witz 109: 3.) Nem kapsz levegőt az orrodon, ha közben kilóg a nyelved. – Du bekommst keine Luft durch deine Nase, wenn dabei deine Zunge herausragt.
+[unsicher] :Witz 109: 4.) Épp most tesztelted a 3. pontot. – Du hast gerade Punkt 3 getestet.
+[unsicher] :Witz 109: 6.) Közben rájöttél, hogy mégis működik, és pont úgy nézel ki, mint egy lihegő kutya. – Dabei hast du gemerkt, dass es doch funktioniert, und du genau so aussiehst wie ein hechelnder Hund.
+[unsicher] :Witz 109: 7.) Mosolyogtál, mert lebuktál. – Du hast gelächelt, weil du erwischt wurdest.
+[unsicher] :Witz 109: 8.) Az 5. pontot kihagytad. – Du hast den 5. Punkt ausgelassen.
+[unsicher] :Witz 109: 9.) Most megnézted, létezik-e az 5. pont. – Du hast gerade kontrolliert, ob ein 5. Punkt existiert.
+[unsicher] :Witz 109: 1.) A szemedet nem tudod szappannal megmosni. – Du kannst deine Augen nicht mit Seife waschen.
+[unsicher] :Witz 109: 2.) Nem tudod megszámolni a hajad. – Du kannst nicht deine Haare zählen.
+[unsicher] :Witz 109: 3.) Nem lehet az orron át lélegezni, miközben a nyelv kilóg. – Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.
+[unsicher] :Witz 109: 4.) Az imént kipróbáltad a 3. pontot. – Du hast gerade Punkt 3 ausprobiert.
+[unsicher] :Witz 109: 6.) Aztán rájöttél, hogy mégis megy, és egy lihegő kutyára hasonlítasz. – Dann hast du gemerkt, dass es doch geht, und du einem keuchenden Hund ähnelst.
+[unsicher] :Witz 109: 7.) Elvigyorodtál, mert elkaptunk. – Du hast gegrinst, weil wir dich erwischt haben.
+[unsicher] :Witz 109: 8.) Átugrottad az 5. pontot. – Du hast Punkt 5 übersprungen.
+[unsicher] :Witz 109: 9.) Éppen ellenőrizted, van-e 5. pont. – Du hast gerade kontrolliert, ob es einen Punkt 5 gibt.
+[nur-deutsch] :Witz 176: (gebräuchlich und verständlich in Ungarn)
+[nur-deutsch] ::Witz 185: „Alle Wahrheit wird einfach, nachdem es gelungen ist, (sie) zu entdecken. Das Problem ist immer im Entdecken.“
+[nur-deutsch] ::Witz 185: Die Wahrheiten sind an sich nicht kompliziert, wenn sie bereits ans Tageslicht gelangt sind. Die wirkliche Schwierigkeit ist ihr Aufdecken.
+[nur-deutsch] ::Witz 188: Imperativ in „hogy“-Nebensätzen nach Verben des Wollens, Wünschens, Forderns, Zulassens, Erhoffens oder Anstrebens
+[unsicher] ::Witz 193: hogy ... boldogok legyünk - (damit) ... wir glücklich sind (Imperativ im Ungarischen) (Im Ungarischen steht der Imperativ nicht nur für Befehle, sondern sehr oft auch bei: Zweck / damit-Sätze, Wunsch, Bitte, Vorschlag, Aufforderung, Erlaubnis, Einräumung,
+[nur-ungarisch] ::Witz 197: vokalischen Stammwechsel bei meist einsilbigen Substntiven: tó (tavak); ló (lovak); fű (füvek): kő (kovek); szó (szavak); tő (tövek)
+[nur-ungarisch] ::Witz 202: miután . nachdem; da

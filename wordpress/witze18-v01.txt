@@ -1,0 +1,1882 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/17-witze/">« Zurück zu Witze 17</a> &nbsp;|&nbsp; <span>Witze 18</span> &nbsp;|&nbsp; <a href="/19-witze/">Weiter zu Witze 19 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 18</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>18. Teil - Kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>rövid viccek - kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz: - Anfrage an Radio Jerewan:</p>
+<p>2. „Igaz-e, hogy a kapitalizmus a szakadék szélén áll?” - „Stimmt es, dass der Kapitalismus am Abgrund steht?“</p>
+<p>3. „Elvileg igen, de mi már egy lépéssel előrébb vagyunk.” - „Im Prinzip ja, aber wir sind bereits einen Schritt weiter (nach vorne).“</p>
+<p class="pc-note">szakad - zerreißen; platzen; stürzen</p>
+<p class="pc-note">szakadék - Schlucht</p>
+<p class="pc-note">a szakadék szélén áll - an der (auf der) Kante (Rand) der Schlucht = am Abgrund stehen</p>
+<p class="pc-note">előre - nach vorne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igaz-e, hogy a kapitalizmus a szakadék szélén áll?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen, de mi már egy lépéssel előrébb vagyunk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szakad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szakadék</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a szakadék szélén áll</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">előre</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Anfrage an Radio Jerewan:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Stimmt es, dass der Kapitalismus am Abgrund steht?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja, aber wir sind bereits einen Schritt weiter (nach vorne).“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zerreißen; platzen; stürzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schlucht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">an der (auf der) Kante (Rand) der Schlucht = am Abgrund stehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nach vorne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz: - Anfrage an Radio Jerewan:</p>
+<p>2. „Létezik-e [Létezikʔe] sajtóellenőrzés a Szovjetunióban?” - „Gibt es in der Sowjetunion eine Pressezensur?“</p>
+<p>3. „Elméletileg nem. Ugyanakkor sajnálattal közöljük, hogy erre a kérdésre nem térhetünk ki bővebben.” - „Im Prinzip nein. Es ist uns aber leider nicht möglich, auf diese Frage näher einzugehen.“ (Theoretisch nein. Gleichzeitig geben wir mit Bedauern bekannt, dass wir auf diese Frage nicht ausführlicher eingehen können.)</p>
+<p class="pc-note">ugyanakkor - gleichzeitig, daneben</p>
+<p class="pc-note">egyidőben = egyidejű - gleichzeitig</p>
+<p class="pc-note">(“ugyan-” - gleich, identisch, entsprechend gleich)</p>
+<p class="pc-note">ugyanaz - dasselbe</p>
+<p class="pc-note">ugyanolyan - genauso, von derselben Art</p>
+<p class="pc-note">ugyanannyi - genauso viel</p>
+<p class="pc-note">ugyanott - am selben Ort</p>
+<p class="pc-note">ugyanakkor - zur selben Zeit</p>
+<p class="pc-note">közöl - mitteilen; veröffentlichen</p>
+<p class="pc-note">bő - weit</p>
+<p class="pc-note">1.) kitér vmire - auf etwas eingehen, etwas ansprechen, etwas behandeln</p>
+<p class="pc-note">Erre a kérdésre nem tudok kitérni. - Auf diese Frage kann ich nicht eingehen.</p>
+<p class="pc-note">Később még kitérek erre. - Später komme ich darauf noch zurück.</p>
+<p class="pc-note">2.) kitér vmi elől - vor etwas ausweichen, etwas vermeiden, etwas umgehen</p>
+<p class="pc-note">Kitért az autó elől. - Er wich dem Auto aus.</p>
+<p class="pc-note">Kitért a válaszadás elől. - Er wich der Antwort aus. - Er entzog sich einer Antwort.</p>
+<p class="pc-note">1.) kitér vmire - auf etwas eingehen, etwas ansprechen</p>
+<p class="pc-note">kitér a kérdésre - auf die Frage eingehen</p>
+<p class="pc-note">2.) kitér vmi elől - vor etwas ausweichen, etwas vermeiden</p>
+<p class="pc-note">kibővít egy témát - ein Thema ausweiten (erweitern)</p>
+<p class="pc-note">nem térhetünk ki bővebben - wir können darauf nicht näher eingehen - wir können das nicht ausführlicher behandeln - wir können uns dazu nicht eingehender äußern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Létezik-e [Létezikʔe] sajtóellenőrzés a Szovjetunióban?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elméletileg nem. Ugyanakkor sajnálattal közöljük, hogy erre a kérdésre nem térhetünk ki bővebben.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanakkor</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egyidőben = egyidejű</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(“ugyan-”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanaz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanolyan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanannyi</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanott</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ugyanakkor</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">közöl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">1.) kitér vmire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Erre a kérdésre nem tudok kitérni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Később még kitérek erre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">2.) kitér vmi elől</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kitért az autó elől.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kitért a válaszadás elől.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">1.) kitér vmire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kitér a kérdésre</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">2.) kitér vmi elől</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kibővít egy témát</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nem térhetünk ki bővebben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Anfrage an Radio Jerewan:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Gibt es in der Sowjetunion eine Pressezensur?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip nein. Es ist uns aber leider nicht möglich, auf diese Frage näher einzugehen.“ (Theoretisch nein. Gleichzeitig geben wir mit Bedauern bekannt, dass wir auf diese Frage nicht ausführlicher eingehen können.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gleichzeitig, daneben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gleichzeitig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gleich, identisch, entsprechend gleich)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dasselbe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">genauso, von derselben Art</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">genauso viel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">am selben Ort</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zur selben Zeit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mitteilen; veröffentlichen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">weit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf etwas eingehen, etwas ansprechen, etwas behandeln</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Auf diese Frage kann ich nicht eingehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Später komme ich darauf noch zurück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vor etwas ausweichen, etwas vermeiden, etwas umgehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Er wich dem Auto aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Er wich der Antwort aus. - Er entzog sich einer Antwort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf etwas eingehen, etwas ansprechen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf die Frage eingehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vor etwas ausweichen, etwas vermeiden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Thema ausweiten (erweitern)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wir können darauf nicht näher eingehen - wir können das nicht ausführlicher behandeln - wir können uns dazu nicht eingehender äußern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Van-e [van e] a Szovjetunióban cenzúra a sajtóban?” - „Gibt es in der Sowjetunion eine Pressezensur?“</p>
+<p>2. „Alapvetően nincs. Azonban erről a témáról nem áll módunkban többet mondani.” - „Grundsätzlich (grundlegend) nein. Allerdings ist esleider nicht möglich über dieses Thema weiter zu sprechen.“</p>
+<p class="pc-note">nem áll módunkban - es steht uns nicht zur Verfügung; es ist uns nicht möglich; wir sind nicht in der Lage; formell: es liegt nicht in unserer Möglichkeit</p>
+<p class="pc-note">nem áll módunkban - (es steht nicht in unserer Möglichkeit; in unserer Art und Weise; es steht nicht in unserer Macht)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Van-e [van e] a Szovjetunióban cenzúra a sajtóban?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően nincs. Azonban erről a témáról nem áll módunkban többet mondani.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nem áll módunkban</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nem áll módunkban</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Gibt es in der Sowjetunion eine Pressezensur?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Grundsätzlich (grundlegend) nein. Allerdings ist esleider nicht möglich über dieses Thema weiter zu sprechen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es steht uns nicht zur Verfügung; es ist uns nicht möglich; wir sind nicht in der Lage; formell: es liegt nicht in unserer Möglichkeit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(es steht nicht in unserer Möglichkeit; in unserer Art und Weise; es steht nicht in unserer Macht)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Igaz-e, hogy a bolhák és a poloskák is forradalmat csinálhatnának?” - „Stimmt es, dass auch Flöhe und Wanzen eine Revolution machen könnten?“</p>
+<p>3. „Elvileg igen, hiszen bennük is a munkásosztály [munkás-osztály] vére folyik…” - „Im Prinzip ja, denn auch in ihnen fließt das Blut der Arbeiterklasse…“</p>
+<p class="pc-note">bolha - Floh</p>
+<p class="pc-note">poloska - Wanze; (auch: Abhörwanze)</p>
+<p class="pc-note">csinálhatnának vmit - etwas machen könnten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igaz-e, hogy a bolhák és a poloskák is forradalmat csinálhatnának?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen, hiszen bennük is a munkásosztály [munkás-osztály] vére folyik…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bolha</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">poloska</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csinálhatnának vmit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Stimmt es, dass auch Flöhe und Wanzen eine Revolution machen könnten?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja, denn auch in ihnen fließt das Blut der Arbeiterklasse…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Floh</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wanze; (auch: Abhörwanze)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">etwas machen könnten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban képesek lennének a bolhák és a poloskák forradalomra?” - „Stimmt es, dass auch Flöhe und Wanzen zu einer Revolution fähig wären?“</p>
+<p>2. „Alapvetően igen, mert az ő ereikben [ere-ik-ben] is a dolgozók vére kering…” - „Im Prinzip ja, denn auch in ihren Adern fließt das Blut der Arbeiter…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban képesek lennének a bolhák és a poloskák forradalomra?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen, mert az ő ereikben [ere-ik-ben] is a dolgozók vére kering…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Stimmt es, dass auch Flöhe und Wanzen zu einer Revolution fähig wären?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja, denn auch in ihren Adern fließt das Blut der Arbeiter…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Igaz-e, hogy Ukrajnában a búza olyan magasra nő, mint a távíróoszlopok?” - „Stimmt es, dass in der Ukraine der Weizen so hoch wie Telegraphenmaste wächst?“</p>
+<p>3. „Elvileg igen. Csak nem olyan magas, hanem ilyen ritkán nő.” - „Im Prinzip ja. Aber nicht so hoch, sondern so weit auseinander.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igaz-e, hogy Ukrajnában a búza olyan magasra nő, mint a távíróoszlopok?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen. Csak nem olyan magas, hanem ilyen ritkán nő.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Stimmt es, dass in der Ukraine der Weizen so hoch wie Telegraphenmaste wächst?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja. Aber nicht so hoch, sondern so weit auseinander.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban igaz, hogy Ukrajnában a búza a távíróoszlopok magasságát is eléri?” – „Stimmt es (ist es wirklich wahr), dass in der Ukraine der Weizen sogar die Höhe von Telegraphenmasten erreicht?“</p>
+<p>2. „Alapvetően igen, csak nem felfelé, hanem oldalirányban ekkora a távolság.” – „Im Prinzip ja, allerdings nicht in der Höhe, sondern im Abstand.“</p>
+<p class="pc-note">is - auch; sogar</p>
+<p class="pc-note">irány - Richtung</p>
+<p class="pc-note">ekkora = ilyen nagy - so groß</p>
+<p class="pc-note">akkora = olyan nagy - so groß</p>
+<p class="pc-note">Mekkora? - Wie groß?</p>
+<p class="pc-note">ekkora = so groß hier; so groß wie das hier</p>
+<p class="pc-note">akkora = so groß dort; so groß wie das dort; so groß wie erwähnt</p>
+<p class="pc-note">akkora = so groß, so viel, so sehr – meist mit Bezug auf eine Größe, Menge oder Intensität.</p>
+<p class="pc-note">Akkora (= olyan nagy) házat építettek, hogy az egész falu róla beszél. - Sie haben ein so großes Haus gebaut, dass das ganze Dorf darüber spricht.</p>
+<p class="pc-note">Akkora (= olyan nagy) kutyája van, mint egy borjú. - Er hat einen Hund, der so groß ist wie ein Kalb.</p>
+<p class="pc-note">Akkora (= olyan nagy) zaj volt az utcán [uccán], hogy nem tudtam aludni. - Auf der Straße war so ein Lärm, dass ich nicht schlafen konnte.</p>
+<p class="pc-note">Akkora (= olyan nagy) eső esett, hogy az udvar teljesen víz alatt állt. - Es regnete so stark, dass der Hof vollständig unter Wasser stand.</p>
+<p class="pc-note">Akkora hibát követett el [követettel] , hogy már nem lehetett kijavítani. - Er machte einen so großen Fehler, dass man ihn nicht mehr korrigieren konnte.</p>
+<p class="pc-note">Nem gondoltam, hogy akkora (= olyan nagy) baj lesz belőle. - Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.</p>
+<p class="pc-note">Akkora (= olyan nagy) örömmel fogadta a hírt, hogy majdnem sírni kezdett. - Sie nahm die Nachricht mit so großer Freude auf, dass sie fast zu weinen begann.</p>
+<p class="pc-note">Akkora (= olyan nagy) volt a tömeg, hogy alig lehetett mozdulni. - Die Menschenmenge war so groß, dass man sich kaum bewegen konnte.</p>
+<p class="pc-note">Ez nem akkora ügy, mint gondolod. - Das ist keine so große Sache, wie du denkst.</p>
+<p class="pc-note">Akkora különbség [külömség] van a két megoldás között, hogy nem lehet őket összehasonlítani. - Zwischen den beiden Lösungen besteht ein so großer Unterschied, dass man sie nicht vergleichen kann.</p>
+<p class="pc-note">Akkora sebességgel jött az autó, hogy senki sem tudott időben reagálni. - Das Auto kam mit so hoher Geschwindigkeit, dass niemand rechtzeitig reagieren konnte.</p>
+<p class="pc-note">Akkora terhet cipelt, hogy alig bírt menni. - Er trug eine so schwere Last, dass er kaum gehen konnte.</p>
+<p class="pc-note">Ekkora (= ilyen nagy) házat még soha nem láttam. - Ein so großes Haus habe ich noch nie gesehen.</p>
+<p class="pc-note">Ekkora kutyával nem könnyű utazni. - Mit einem so großen Hund ist es nicht leicht zu reisen.</p>
+<p class="pc-note">Ekkora zajban nem lehet dolgozni. - Bei (in) so einem Lärm kann man nicht arbeiten.</p>
+<p class="pc-note">Ekkora eső után minden út sáros lett. - Nach einem so starken Regen wurden alle Wege schlammig.</p>
+<p class="pc-note">Ekkora hibát nem szabad még egyszer elkövetni. - Einen so großen Fehler darf man nicht noch einmal machen.</p>
+<p class="pc-note">Nem hittem volna, hogy ekkora baj lesz belőle. - Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.</p>
+<p class="pc-note">Ekkora öröm ritkán látszik valakinek az arcán. - So große Freude sieht man selten im Gesicht eines Menschen.</p>
+<p class="pc-note">Ekkora tömegben könnyű elveszíteni valakit. - In einer so großen Menschenmenge verliert man leicht jemanden.</p>
+<p class="pc-note">Ez nem ekkora ügy, nyugodtan meg lehet oldani. - Das ist keine so große Sache, man kann es ruhig lösen.</p>
+<p class="pc-note">Ekkora különbséget nem vártam a két eredmény között. - Einen so großen Unterschied zwischen den beiden Ergebnissen hatte ich nicht erwartet.</p>
+<p class="pc-note">Ekkora sebességgel lakott területen belül nem szabad vezetni. - Mit so hoher Geschwindigkeit darf man innerhalb geschlossener Ortschaften nicht fahren.</p>
+<p class="pc-note">Ekkora terhet egyedül nem tudsz elvinni. - Eine so schwere Last kannst du allein nicht wegtragen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban igaz, hogy Ukrajnában a búza a távíróoszlopok magasságát is eléri?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen, csak nem felfelé, hanem oldalirányban ekkora a távolság.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">is</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">irány</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ekkora = ilyen nagy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">akkora = olyan nagy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mekkora?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">akkora = so groß, so viel, so sehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora (= olyan nagy) házat építettek, hogy az egész falu róla beszél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora (= olyan nagy) kutyája van, mint egy borjú.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora (= olyan nagy) zaj volt az utcán [uccán], hogy nem tudtam aludni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora (= olyan nagy) eső esett, hogy az udvar teljesen víz alatt állt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora hibát követett el [követettel] , hogy már nem lehetett kijavítani.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nem gondoltam, hogy akkora (= olyan nagy) baj lesz belőle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora (= olyan nagy) örömmel fogadta a hírt, hogy majdnem sírni kezdett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora (= olyan nagy) volt a tömeg, hogy alig lehetett mozdulni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ez nem akkora ügy, mint gondolod.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora különbség [külömség] van a két megoldás között, hogy nem lehet őket összehasonlítani.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora sebességgel jött az autó, hogy senki sem tudott időben reagálni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Akkora terhet cipelt, hogy alig bírt menni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora (= ilyen nagy) házat még soha nem láttam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora kutyával nem könnyű utazni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora zajban nem lehet dolgozni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora eső után minden út sáros lett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora hibát nem szabad még egyszer elkövetni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nem hittem volna, hogy ekkora baj lesz belőle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora öröm ritkán látszik valakinek az arcán.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora tömegben könnyű elveszíteni valakit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ez nem ekkora ügy, nyugodtan meg lehet oldani.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora különbséget nem vártam a két eredmény között.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora sebességgel lakott területen belül nem szabad vezetni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ekkora terhet egyedül nem tudsz elvinni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Stimmt es (ist es wirklich wahr), dass in der Ukraine der Weizen sogar die Höhe von Telegraphenmasten erreicht?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja, allerdings nicht in der Höhe, sondern im Abstand.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auch; sogar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Richtung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">so groß</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">so groß</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wie groß?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">meist mit Bezug auf eine Größe, Menge oder Intensität.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Sie haben ein so großes Haus gebaut, dass das ganze Dorf darüber spricht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Er hat einen Hund, der so groß ist wie ein Kalb.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Auf der Straße war so ein Lärm, dass ich nicht schlafen konnte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Es regnete so stark, dass der Hof vollständig unter Wasser stand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Er machte einen so großen Fehler, dass man ihn nicht mehr korrigieren konnte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Sie nahm die Nachricht mit so großer Freude auf, dass sie fast zu weinen begann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Die Menschenmenge war so groß, dass man sich kaum bewegen konnte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das ist keine so große Sache, wie du denkst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Zwischen den beiden Lösungen besteht ein so großer Unterschied, dass man sie nicht vergleichen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das Auto kam mit so hoher Geschwindigkeit, dass niemand rechtzeitig reagieren konnte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Er trug eine so schwere Last, dass er kaum gehen konnte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ein so großes Haus habe ich noch nie gesehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mit einem so großen Hund ist es nicht leicht zu reisen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Bei (in) so einem Lärm kann man nicht arbeiten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nach einem so starken Regen wurden alle Wege schlammig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Einen so großen Fehler darf man nicht noch einmal machen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ich hätte nicht gedacht, dass daraus ein so großes Problem wird.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">So große Freude sieht man selten im Gesicht eines Menschen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">In einer so großen Menschenmenge verliert man leicht jemanden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das ist keine so große Sache, man kann es ruhig lösen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Einen so großen Unterschied zwischen den beiden Ergebnissen hatte ich nicht erwartet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mit so hoher Geschwindigkeit darf man innerhalb geschlossener Ortschaften nicht fahren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Eine so schwere Last kannst du allein nicht wegtragen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Lehet-e egy Moszkviccsal 120 km/órával (= kilométer per óra) bevenni egy szűk kanyart?” - „Kann man mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“</p>
+<p>3. „Elvileg igen, de csak egyszer.” - „Im Prinzip ja, aber nur einmal.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Lehet-e egy Moszkviccsal 120 km/órával (= kilométer per óra) bevenni egy szűk kanyart?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen, de csak egyszer.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Kann man mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja, aber nur einmal.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Megoldható-e [megoltható e], hogy egy Moszkvics 120-szal [szászhússzal] átszáguldjon [átszágulgyon] egy éles kanyaron?” - „Kann man (ob es lösbar ist) mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“</p>
+<p>2. „Alapvetően igen, ám ez egyszeri élmény.” - „Im Prinzip ja, allerdings ist das ein einmaliges (einziges) Erlebnis.“</p>
+<p class="pc-note">száz - 100</p>
+<p class="pc-note">százhúsz - 120</p>
+<p class="pc-note">száguld - rasen, flitzen, sausen</p>
+<p class="pc-note">átszáguld - “durchrasen”</p>
+<p class="pc-note">száguldás - Karacho, Raserei</p>
+<p class="pc-note">ám - aber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Megoldható-e [megoltható e], hogy egy Moszkvics 120-szal [szászhússzal] átszáguldjon [átszágulgyon] egy éles kanyaron?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen, ám ez egyszeri élmény.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">száz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">százhúsz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">száguld</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">átszáguld</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">száguldás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ám</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Kann man (ob es lösbar ist) mit einem Moskwitsch mit 120 km/h durch eine enge Kurve fahren?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja, allerdings ist das ein einmaliges (einziges) Erlebnis.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">100</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">120</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rasen, flitzen, sausen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">“durchrasen”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Karacho, Raserei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Igaz-e, hogy a Szovjetunió a mikrotechnológiában jobb, mint az Egyesült Államok?” - „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“</p>
+<p>3. „Elvileg igen. Mi gyártjuk a világ legnagyobb mikrochipjeit.” - „Im Prinzip ja. Wir fertigen die größten Mikrochips der Welt.“</p>
+<p class="pc-note">technológia - [Aussprache “ch” wie im Deutschen]</p>
+<p class="pc-note">technika - [Aussprache “ch” wie im Deutschen]</p>
+<p class="pc-note">kocka - der Würfel (Aussprache NICHT wie deutsches “ck”; sondern es muss klingen wie “kotzen”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igaz-e, hogy a Szovjetunió a mikrotechnológiában jobb, mint az Egyesült Államok?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen. Mi gyártjuk a világ legnagyobb mikrochipjeit.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">technológia</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">technika</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kocka</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja. Wir fertigen die größten Mikrochips der Welt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">[Aussprache “ch” wie im Deutschen]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">[Aussprache “ch” wie im Deutschen]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Würfel (Aussprache NICHT wie deutsches “ck”; sondern es muss klingen wie “kotzen”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban megelőzi a Szovjetunió az USA-t a mikrotechnika területén?” – „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“</p>
+<p>2. „Alapvetően igen, hiszen nálunk készülnek a földkerekség legméretesebb mikrocsipjei.” – „Im Prinzip ja, denn bei uns entstehen die größten (“stattlichsten”) Mikrochips der Welt.“</p>
+<p class="pc-note">technika [teknika]</p>
+<p class="pc-note">USA [usa] - (klingt wie: Uscha; Uschi)</p>
+<p class="pc-note">USA-t [ausát] (Akkusativ-t an Abkürzungen nur mit Bindestrich schreiben)</p>
+<p class="pc-note">földkerekség = földes kerek - Globus; Erdenrund, Erdkreis</p>
+<p class="pc-note">földgömb = glóbusz - Globus</p>
+<p class="pc-note">gömb - Kugel (Geometrie)</p>
+<p class="pc-note">mér - messen, wiegen</p>
+<p class="pc-note">méret - Maß, Größe, Abmessung</p>
+<p class="pc-note">méretes - (Adjektiv: “maßig”)</p>
+<p class="pc-note">méretes = stattlich groß, ordentlich groß, von beachtlicher Größe</p>
+<p class="pc-note">méretes ház - ein stattlich großes Haus</p>
+<p class="pc-note">méretes kutya - ein ziemlich großer Hund</p>
+<p class="pc-note">méretes csomag - ein großes Paket</p>
+<p class="pc-note">méretes hiba - ein ordentlicher Fehler</p>
+<p class="pc-note">méretes adag - eine große Portion</p>
+<p class="pc-note">méretes has - ein stattlicher Bauch</p>
+<p class="pc-note">méretes fa - ein großer Baum</p>
+<p class="pc-note">méretes probléma - ein beachtliches Problem</p>
+<p class="pc-note">túlméretes nagyság - Übergröße</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban megelőzi a Szovjetunió az USA-t a mikrotechnika területén?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen, hiszen nálunk készülnek a földkerekség legméretesebb mikrocsipjei.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">USA [usa]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">földkerekség = földes kerek</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">földgömb = glóbusz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gömb</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méret</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes ház</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes kutya</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes csomag</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes hiba</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes adag</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes has</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes fa</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méretes probléma</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">túlméretes nagyság</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Ist es wahr, dass die Sowjetunion bei der Mikrotechnologie besser als die USA ist?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja, denn bei uns entstehen die größten (“stattlichsten”) Mikrochips der Welt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(klingt wie: Uscha; Uschi)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Globus; Erdenrund, Erdkreis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Globus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kugel (Geometrie)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">messen, wiegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Maß, Größe, Abmessung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(Adjektiv: “maßig”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein stattlich großes Haus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein ziemlich großer Hund</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein großes Paket</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein ordentlicher Fehler</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eine große Portion</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein stattlicher Bauch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein großer Baum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein beachtliches Problem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Übergröße</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kérdés a Jereváni Rádióhoz – Frage an Radio Jerewan</p>
+<p>„Igaz-e, hogy Ivan Ivanovics a lottón egy piros autót nyert?” – „Stimmt es, dass Iwan Iwanowitsch in der Lotterie ein rotes Auto gewonnen hat?“</p>
+<p>„Elvileg igen. – De nem Ivan Ivanovics volt, hanem Pjotr Petrovics. – És nem piros autó, hanem egy kék kerékpár. – És nem megnyerte, hanem ellopták tőle. – Minden más stimmel.” – „Im Prinzip ja. – Aber es war nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Und es war kein rotes Auto, sondern ein blaues Fahrrad. – Und er hat es nicht gewonnen, sondern es wurde ihm gestohlen. – Alles andere stimmt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igaz-e, hogy Ivan Ivanovics a lottón egy piros autót nyert?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen. – De nem Ivan Ivanovics volt, hanem Pjotr Petrovics. – És nem piros autó, hanem egy kék kerékpár. – És nem megnyerte, hanem ellopták tőle. – Minden más stimmel.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Stimmt es, dass Iwan Iwanowitsch in der Lotterie ein rotes Auto gewonnen hat?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja. – Aber es war nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Und es war kein rotes Auto, sondern ein blaues Fahrrad. – Und er hat es nicht gewonnen, sondern es wurde ihm gestohlen. – Alles andere stimmt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban igaz, hogy Ivan Ivanovics egy piros autót nyert a sorsoláson?” – „Stimmt es, dass Iwan Iwanowitsch bei der Lotterie ein rotes Auto gewonnen hat?“</p>
+<p>2. „Alapvetően igen. – Csakhogy nem ő volt, hanem Pjotr Petrovics. – Nem autóról volt szó, hanem egy kék bicikliről. – És nem nyeremény volt, hanem lopás. – A többi viszont pontos.” – „Im Prinzip ja. – Allerdings war es nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Es war kein Auto, sondern ein blaues Fahrrad. – Und es war kein Gewinn, sondern ein Diebstahl. – Alles andere ist korrekt.“</p>
+<p class="pc-note">sorsolás - Verlosung, Ziehung (Gewinnspie), Lotto</p>
+<p class="pc-note">sorsol - losen, auslosen, ziehen</p>
+<p class="pc-note">kisorsol - verlosen, auslosen</p>
+<p class="pc-note">sors - Schicksal, Geschick, Verhängnis, Los</p>
+<p class="pc-note">sorscsapás - Schicksalsschlag, Unglück</p>
+<p class="pc-note">sorskérdés - Schicksalsfrage</p>
+<p class="pc-note">sorsforduló - Schicksalswende</p>
+<p class="pc-note">sorsszerű - schicksalhaft (Schicksal-gemäß)</p>
+<p class="pc-note">sorsjegy - Lottoschein</p>
+<p class="pc-note">sorsjegyszám - Losnummer</p>
+<p class="pc-note">sörsátor - Bierzelt</p>
+<p class="pc-note">nyer - gewinnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban igaz, hogy Ivan Ivanovics egy piros autót nyert a sorsoláson?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Alapvetően igen. – Csakhogy nem ő volt, hanem Pjotr Petrovics. – Nem autóról volt szó, hanem egy kék bicikliről. – És nem nyeremény volt, hanem lopás. – A többi viszont pontos.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorsolás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorsol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kisorsol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sors</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorscsapás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorskérdés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorsforduló</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorsszerű</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorsjegy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sorsjegyszám</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sörsátor</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nyer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Stimmt es, dass Iwan Iwanowitsch bei der Lotterie ein rotes Auto gewonnen hat?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja. – Allerdings war es nicht Iwan Iwanowitsch, sondern Pjotr Petrowitsch. – Es war kein Auto, sondern ein blaues Fahrrad. – Und es war kein Gewinn, sondern ein Diebstahl. – Alles andere ist korrekt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Verlosung, Ziehung (Gewinnspie), Lotto</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">losen, auslosen, ziehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verlosen, auslosen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schicksal, Geschick, Verhängnis, Los</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schicksalsschlag, Unglück</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schicksalsfrage</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schicksalswende</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schicksalhaft (Schicksal-gemäß)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Lottoschein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Losnummer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Bierzelt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gewinnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Igaz-e, hogy Hruscsov elvtárs autóversenyt rendezett Kennedy ellen?” - „Stimmt es, daß Genosse Chruschtschow gegen Kennedy ein Autorennen gefahren hat?“</p>
+<p>3. „Elvileg igen. Hruscsov elvtárs tiszteletre méltó második helyen végzett, míg Kennedy csak az utolsó előtti lett.” - „Im Prinzip ja. Chruschtschow belegte einen ehrenvollen zweiten Platz, während Kennedy nur Vorletzter wurde.“</p>
+<p class="pc-note">méltó - würdig, wohlverdient</p>
+<p class="pc-note">méltányol - würdigen, anerkennen</p>
+<p class="pc-note">tiszteletre méltó - respektabel, erhwürdig, ehrenwert, achtbar</p>
+<p class="pc-note">tisztelet - Respekt, Ehre, Verehrung, Hochachtung</p>
+<p class="pc-note">utolsó előtti - vorletzter</p>
+<p class="pc-note">rendez - veranstalten, organisieren</p>
+<p class="pc-note">rend - Ordnung</p>
+<p class="pc-note">végez - beenden, erledigen, verrichten, tun, machen</p>
+<p class="pc-note">vég - Ende</p>
+<p class="pc-note">míg = amíg - derweilen, indessen, während, bis, solange bis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igaz-e, hogy Hruscsov elvtárs autóversenyt rendezett Kennedy ellen?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen. Hruscsov elvtárs tiszteletre méltó második helyen végzett, míg Kennedy csak az utolsó előtti lett.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méltó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méltányol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tiszteletre méltó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tisztelet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">utolsó előtti</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rendez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">végez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vég</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">míg = amíg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Stimmt es, daß Genosse Chruschtschow gegen Kennedy ein Autorennen gefahren hat?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja. Chruschtschow belegte einen ehrenvollen zweiten Platz, während Kennedy nur Vorletzter wurde.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">würdig, wohlverdient</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">würdigen, anerkennen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">respektabel, erhwürdig, ehrenwert, achtbar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Respekt, Ehre, Verehrung, Hochachtung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vorletzter</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">veranstalten, organisieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ordnung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">beenden, erledigen, verrichten, tun, machen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ende</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">derweilen, indessen, während, bis, solange bis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban autóversenyzett-e Hruscsov Kennedyvel?” - „Stimmt es, dass Genosse Chruschtschow gegen (mit) Kennedy ein Autorennen gefahren hat?“</p>
+<p>2. „Alapvetően igen: Hruscsov a dicsőséges második lett, Kennedy pedig csupán az utolsó előtti.” - „Im Prinzip ja: Chruschtschow wurde (der) ruhmreicher Zweiter, Kennedy hingegen nur Vorletzter.“</p>
+<p class="pc-note">csupán = csak - nur, lediglich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Valóban autóversenyzett-e Hruscsov Kennedyvel?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen: Hruscsov a dicsőséges második lett, Kennedy pedig csupán az utolsó előtti.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csupán = csak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Stimmt es, dass Genosse Chruschtschow gegen (mit) Kennedy ein Autorennen gefahren hat?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja: Chruschtschow wurde (der) ruhmreicher Zweiter, Kennedy hingegen nur Vorletzter.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nur, lediglich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/17-witze/">« Zurück zu Witze 17</a> &nbsp;|&nbsp; <span>Witze 18</span> &nbsp;|&nbsp; <a href="/19-witze/">Weiter zu Witze 19 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

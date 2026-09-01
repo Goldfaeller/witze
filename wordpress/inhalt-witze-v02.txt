@@ -1,0 +1,178 @@
+<!-- wp:html -->
+<style>
+html {
+    scroll-behavior: smooth;
+}
+
+html, body, main, .wp-site-blocks, .entry-content,
+.wp-block-post-content, .post-content, article {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.wp-block-post-title, .entry-title, header, .site-header,
+.wp-block-template-part, .wp-block-navigation, footer,
+.site-footer, .wp-block-template-part-footer {
+    display: none !important;
+}
+
+.pc-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.pc-banner {
+    width: 100%;
+    height: auto;
+    max-height: 260px;
+    object-fit: cover;
+    display: block;
+    border-bottom: 4px solid #34495e;
+    border-radius: 4px;
+    margin-top: 3px;
+    margin-bottom: 25px;
+}
+
+.pc-container h1 {
+    font-size: 2.2rem;
+    margin: 0 0 20px 0;
+    color: #1a252f;
+    text-align: left;
+}
+
+.pc-home-link {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.pc-home-link a {
+    font-size: 1rem;
+    color: #7f8c8d;
+    text-decoration: none;
+}
+
+.pc-home-link a:hover {
+    color: #2980b9;
+}
+
+.pc-content {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.pc-content p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.pc-content h2 {
+    font-size: 1.4rem;
+    margin: 30px 0 10px 0;
+    color: #1a252f;
+}
+
+.pc-content h3 {
+    font-size: 1.15rem;
+    margin: 20px 0 8px 0;
+    color: #1a252f;
+}
+
+.double-line {
+    border-top: 3px double #34495e;
+    margin: 30px 0 20px 0;
+}
+
+/* Die Verzeichniseintraege: gleiche Schrift wie der uebrige Text,
+   nur der Unterstrich weist sie als Link aus. Eingerueckt um 30 Prozent
+   der Inhaltsbreite - die Abschnittsueberschriften bleiben links stehen,
+   damit die beiden Ebenen auseinanderzuhalten sind. */
+.pc-toc-item {
+    margin: 0 0 8px 0;
+    padding-left: 30%;
+}
+
+/* Auf schmalen Bildschirmen frisst ein Einzug von 30 Prozent die Zeile auf */
+@media (max-width: 700px) {
+    .pc-toc-item {
+        padding-left: 8%;
+    }
+}
+
+.pc-toc-item a {
+    color: #2c3e50;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.pc-toc-item a:hover {
+    color: #2980b9;
+}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<div class="pc-container" id="top">
+  <img src="https://modjor.de/wp-content/uploads/2026/07/Skelett-hell-21_41_01.png" alt="Witze Banner" class="pc-banner">
+
+  <div class="pc-home-link">
+    <a href="https://modjor.de/">« Home</a> | <a href="https://modjor.de/lesebuecher/">Zurück zu Lesebücher</a>
+  </div>
+
+  <h1>Witze</h1>
+  <h1>Tartalomjegyzék – Inhaltsverzeichnis</h1>
+
+  <div class="pc-content">
+    <div class="double-line" style="margin-top: 5px;"></div>
+    <h3>I. RÉSZ: Viccek, vicces mondások, közmondások – TEIL I: Witze, witzige Sprüche, Sprichwörter</h3>
+    <div class="double-line" style="margin-bottom: 0;"></div>
+
+    <p class="pc-toc-item"><a href="https://modjor.de/01-witze/">1 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/02-witze/">2 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/03-witze/">3 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/04-witze/">4 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/05-witze/">5 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/06-witze/">6 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/07-witze/">7 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/08-witze/">8 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/09-witze/">9 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/10-witze/">10 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/11-witze/">11 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/12-witze/">12 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/13-witze/">13 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/14-witze/">14 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/15-witze/">15 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/16-witze/">16 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/17-witze/">17 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/18-witze/">18 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/19-witze/">19 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/20-witze/">20 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/21-witze/">21 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/22-witze/">22 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/23-witze/">23 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/24-witze/">24 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/25-witze/">25 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/26-witze/">26 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/27-witze/">27 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/28-witze/">28 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/29-witze/">29 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/30-witze/">30 – Witze</a></p>
+
+    <div class="double-line" style="margin-top: 30px;"></div>
+    <h3>II. RÉSZ: Hosszabb viccek, Mondások, Anekdota – TEIL II: Längere Witze, Sprüche, Anekdote</h3>
+    <div class="double-line" style="margin-bottom: 0;"></div>
+
+    <p class="pc-toc-item"><a href="https://modjor.de/1-anatomie-kurz/">31 – Längere Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/1-anatomie-kurz/">32 – Sprüche</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/1-anatomie-kurz/">33 – Anekdote; Rechenaufgabe; Sprichwörter; Zungenbrecher; Verballhornung; Türschilder und T-Shirt-Sprüche</a></p>
+  </div>
+
+  <div class="pc-home-link" style="margin-top: 25px;">
+    <a href="https://modjor.de/">« Home</a> | <a href="https://modjor.de/lesebuecher/">Zurück zu Lesebücher</a> | <a href="#top">↑ Hoch zum Seitenanfang</a>
+  </div>
+</div>
+<!-- /wp:html -->

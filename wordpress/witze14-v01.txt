@@ -1,0 +1,3272 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/13-witze/">« Zurück zu Witze 13</a> &nbsp;|&nbsp; <span>Witze 14</span> &nbsp;|&nbsp; <a href="/15-witze/">Weiter zu Witze 15 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 14</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>14. Teil - Kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>rövid viccek - kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy újságíró riportot készít a pszichiátrián. - Ein Journalist recherchiert für eine Reportage in der Psychiatrie. (Ein Journalist macht einen Bericht in der Psychiatrie.)</p>
+<p>2. Azt kérdi a főorvostól. - Er fragt den Chefarzt.</p>
+<p>3. Hogyan állapítják meg egy páciensről, hogy már elhagyhatja [elhatyhattya] a kórházat? - Wie stellt man bei einem Patienten fest, dass er das Krankenhaus bereits verlassen darf? (Wie entscheidet man bei einem Kranken, dass er das Krankenhaus schon verlassen kann?) („Man entscheidet von dem Patienten her.“) (-ról/-ről bedeutet konzeptuell: „von einer Oberfläche / von einer Person / von einem Thema her“)</p>
+<p>4. Vannak olyan feladataink, amiket helyesen végrehajtva bebizonyíthatják [bebizonyíthattyák] elmeállapotukat. - Wir haben solche Aufgaben, (durch) deren richtige Ausführung man ihren Geisteszustand beweisen kann. ( Es gibt Aufgaben unsererseits, die sie, wenn sie sie korrekt ausführen, ihren Geisteszustand beweisen können.)</p>
+<p>5. Tudna egy ilyen példát mondani? - Könnten Sie mir solch ein Beispiel sagen?</p>
+<p>6. Persze (= termézetesen). - Natürlich.</p>
+<p>7. Vegyük például eszt. - Nehmen wir zum Beispiel das.</p>
+<p>8. Van egy kád, teli vízzel. - Es gibt eine Wanne, voll mit Wasser.</p>
+<p>9. Van a fűrdőszobában három tárgy. - Im Badezimmer sind drei Dinge.</p>
+<p>10. Egy kis kanál, egy pohár és egy vödör. - Ein kleiner Löffel, ein Glas und ein Eimer.</p>
+<p>11. Melyikkel tüntetné el a vizet a kádból? - Wie würde man das Wasser aus der Badewanne loswerden? (Womit würde man das Wasser aus der Badewanne wegmachen? - Womit würde man das Wasser aus der Badewanne verschwinden lassen?)</p>
+<p>12. Ó, hát ez egyszerű! - Oh, das ist doch einfach!</p>
+<p>13. Minden normális ember a vödröt választaná! - Jeder normale Mensch würde den Eimer wählen!</p>
+<p>14. Nem, minden normális ember kihúzná a dugót a kádból. - Nein, jeder normale Mensch würde den Stöpsel aus der Badewanne ziehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Egy újságíró riportot készít a pszichiátrián. - Ein Journalist recherchiert für eine Reportage in der Psychiatrie. (Ein Journalist einen Bericht macht in der Psychiatrie.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Egy újságíró riportot készít a pszichiátrián.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azt kérdi a főorvostól.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Hogyan állapítják meg egy páciensről, hogy már elhagyhatja [elhatyhattya] a kórházat?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Vannak olyan feladataink, amiket helyesen végrehajtva bebizonyíthatják [bebizonyíthattyák] elmeállapotukat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Tudna egy ilyen példát mondani?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Persze (= termézetesen).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Vegyük például eszt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Van egy kád, teli vízzel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Van a fűrdőszobában három tárgy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Egy kis kanál, egy pohár és egy vödör.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Melyikkel tüntetné el a vizet a kádból?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Ó, hát ez egyszerű!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Minden normális ember a vödröt választaná!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Nem, minden normális ember kihúzná a dugót a kádból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Journalist recherchiert für eine Reportage in der Psychiatrie. (Ein Journalist macht einen Bericht in der Psychiatrie.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er fragt den Chefarzt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Wie stellt man bei einem Patienten fest, dass er das Krankenhaus bereits verlassen darf? (Wie entscheidet man bei einem Kranken, dass er das Krankenhaus schon verlassen kann?) („Man entscheidet von dem Patienten her.“) (-ról/-ről bedeutet konzeptuell: „von einer Oberfläche / von einer Person / von einem Thema her“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Wir haben solche Aufgaben, (durch) deren richtige Ausführung man ihren Geisteszustand beweisen kann. ( Es gibt Aufgaben unsererseits, die sie, wenn sie sie korrekt ausführen, ihren Geisteszustand beweisen können.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Könnten Sie mir solch ein Beispiel sagen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Natürlich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Nehmen wir zum Beispiel das.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Es gibt eine Wanne, voll mit Wasser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Im Badezimmer sind drei Dinge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Ein kleiner Löffel, ein Glas und ein Eimer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Wie würde man das Wasser aus der Badewanne loswerden? (Womit würde man das Wasser aus der Badewanne wegmachen? - Womit würde man das Wasser aus der Badewanne verschwinden lassen?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Oh, das ist doch einfach!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Jeder normale Mensch würde den Eimer wählen!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Nein, jeder normale Mensch würde den Stöpsel aus der Badewanne ziehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy rendőr megállít egy sofőrt. - Ein Polizist hält einen Autofahrer an.</p>
+<p>2. Felírom gyorshajtásért. - Ich schreibe Sie wegen (zu) schnellem Fahren auf.</p>
+<p>3. Még mindig jobb, mintha én írnám fel magát. - Das ist immer besser, als wenn ich Sie aufschreiben würde.</p>
+<p>4. Miért? Ki csoda maga? - Warum? Wer sind Sie denn?</p>
+<p>5. A Sírköves. - (Der) Grabmal-Steinmetz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy rendőr megállít egy sofőrt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Felírom gyorshajtásért.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Még mindig jobb, mintha én írnám fel magát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Miért? Ki csoda maga?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A Sírköves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Polizist hält einen Autofahrer an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ich schreibe Sie wegen (zu) schnellem Fahren auf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das ist immer besser, als wenn ich Sie aufschreiben würde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Warum? Wer sind Sie denn?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. (Der) Grabmal-Steinmetz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Mi az abszolút lehetetlen? - Was ist absolut unmöglich?</p>
+<p>2. Na micsoda? - Na, was denn?</p>
+<p>3. Hímvesszőből kosarat fonni. - Aus einem Glied einen Korb zu flechten.</p>
+<p>4. És mi van, ha mégis sikerül? - Und was ist, wenn es doch gelingt?</p>
+<p>5. Lesz egy fasza kosarad. - Dann hast du einen verdammt guten Korb.</p>
+<p>6. (Ungarisch doppeldeutig: 1. a fasz - das Glied; 2. fasza! - super! - abgeleitet von “a fasz”)</p>
+<p>7. tökös - super ; (tök - Kürbis)</p>
+<p>8. király - wörtlich „königlich“, im Slang: großartig</p>
+<p>9. zsír - wörtlich „Fett“, Slang: cool</p>
+<p>10. brutális - „brutal gut“</p>
+<p>11. haláli (jó)! - super!</p>
+<p>12. durva jó - „krass gut“ (je nach Kontext positiv oder negativ)</p>
+<p>13. marha jó - „krass gut“</p>
+<p>14. menő - cool, angesagt</p>
+<p>15. vagány - lässig, selbstbewusst</p>
+<p>16. baromi jó - „sau gut“</p>
+<p>17. rohadt jó - „verdammt gut“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mi az abszolút lehetetlen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Na micsoda?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Hímvesszőből kosarat fonni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. És mi van, ha mégis sikerül?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Lesz egy fasza kosarad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. (Ungarisch doppeldeutig: 1. a fasz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. tökös</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. király</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. zsír</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. brutális</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. haláli (jó)!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. durva jó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. marha jó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. menő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. vagány</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. baromi jó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. rohadt jó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Was ist absolut unmöglich?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Na, was denn?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Aus einem Glied einen Korb zu flechten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Und was ist, wenn es doch gelingt?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Dann hast du einen verdammt guten Korb.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. das Glied; 2. fasza! - super! - abgeleitet von “a fasz”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. super ; (tök - Kürbis)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. wörtlich „königlich“, im Slang: großartig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. wörtlich „Fett“, Slang: cool</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. „brutal gut“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. super!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. „krass gut“ (je nach Kontext positiv oder negativ)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. „krass gut“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. cool, angesagt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. lässig, selbstbewusst</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. „sau gut“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. „verdammt gut“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az anyós nem bízik a vejeiben, ezért úgy gondolja, próbára teszi őket. - Die Schwiegermutter vertraut ihren Schwiegersöhnen nicht und beschließt daher, sie auf die Probe zu stellen.</p>
+<p>2. Először megy a legnagyobbhoz, beleveti magát a kútba. - Zuerst geht sie zum ältesten (größten) und wirft sich in den Brunnen.</p>
+<p>3. A veje gondolkodás nélkül kimenti. - Der Schwiegersohn rettet sie ohne nachzudenken.</p>
+<p>4. Másnap reggel a férfi ablaka alatt ott áll egy vadonatúj Golf, rajta egy kis cédulával: sok szeretettel, anyósod. - Am nächsten Morgen steht unter dem Fenster des Mannes ein nagelneuer VW Golf , mit einem Zettel daran: Mit viel Liebe, deine Schwiegermutter.</p>
+<p>5. Most megy az anyós a második vejéhez, beleveti magát a kútba. - Danach geht die Schwiegermutter zum zweiten Schwiegersohn und wirft sich wieder in den Brunnen.</p>
+<p>6. A férfi kimenti, de előtte azért tétovázik kicsit. - Der Mann rettet sie, zögert jedoch vorher ein wenig.</p>
+<p>7. Másnap reggel a férfi ablaka alatt ott áll egy használt Dacia, rajta a cédula: szeretettel, anyósod. - Am nächsten Morgen steht unter seinem Fenster ein gebrauchter Dacia, mit dem Zettel: In Liebe, deine Schwiegermutter.</p>
+<p>8. Aztán megy az anyós a harmadik és egyben legkisebb vejéhez. - Dann geht die Schwiegermutter zum dritten und jüngsten (kleinsten) Schwiegersohn.</p>
+<p>9. Beleveti magát a kútba, de a veje nem menti meg, ezért belefullad. - Sie springt in den Brunnen, doch der Schwiegersohn rettet sie nicht, deshalb ertrinkt sie.</p>
+<p>10. Másnap reggel a férfi ablaka előtt ott áll egy vadonatúj Porsche, rajta a címzés: köszönettel, szerető apósod. - Am nächsten Morgen steht vor seinem Fenster ein nagelneuer Porsche, adressiert mit: Mit Dank, dein dich liebender Schwiegervater.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az anyós nem bízik a vejeiben, ezért úgy gondolja, próbára teszi őket.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Először megy a legnagyobbhoz, beleveti magát a kútba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A veje gondolkodás nélkül kimenti.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Másnap reggel a férfi ablaka alatt ott áll egy vadonatúj Golf, rajta egy kis cédulával: sok szeretettel, anyósod.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Most megy az anyós a második vejéhez, beleveti magát a kútba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A férfi kimenti, de előtte azért tétovázik kicsit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Másnap reggel a férfi ablaka alatt ott áll egy használt Dacia, rajta a cédula: szeretettel, anyósod.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Aztán megy az anyós a harmadik és egyben legkisebb vejéhez.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Beleveti magát a kútba, de a veje nem menti meg, ezért belefullad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Másnap reggel a férfi ablaka előtt ott áll egy vadonatúj Porsche, rajta a címzés: köszönettel, szerető apósod.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Schwiegermutter vertraut ihren Schwiegersöhnen nicht und beschließt daher, sie auf die Probe zu stellen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Zuerst geht sie zum ältesten (größten) und wirft sich in den Brunnen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Schwiegersohn rettet sie ohne nachzudenken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Am nächsten Morgen steht unter dem Fenster des Mannes ein nagelneuer VW Golf , mit einem Zettel daran: Mit viel Liebe, deine Schwiegermutter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Danach geht die Schwiegermutter zum zweiten Schwiegersohn und wirft sich wieder in den Brunnen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Der Mann rettet sie, zögert jedoch vorher ein wenig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Am nächsten Morgen steht unter seinem Fenster ein gebrauchter Dacia, mit dem Zettel: In Liebe, deine Schwiegermutter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Dann geht die Schwiegermutter zum dritten und jüngsten (kleinsten) Schwiegersohn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Sie springt in den Brunnen, doch der Schwiegersohn rettet sie nicht, deshalb ertrinkt sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Am nächsten Morgen steht vor seinem Fenster ein nagelneuer Porsche, adressiert mit: Mit Dank, dein dich liebender Schwiegervater.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy idős ember egyedül élt a farmján. - Ein alter Mann lebte allein auf seiner Farm.</p>
+<p>2. Fel akarta ásni a paradicsomos kertjét, hogy elültesse (Imperativ weil: célhatározó) a paradicsomokat, de ez túl nehéz munkának bizonyult számára. - Er wollte seinen Tomatengarten umgraben, um die Tomaten zu pflanzen, doch das erwies sich für ihn als zu schwere Arbeit.</p>
+<p>3. (bizonyul számára - sich für ihn erweisen als …; sich als … herausstellen für ihn; für ihn … sein / werden)</p>
+<p>4. Az egyetlen fia, Lajos, aki segíteni szokott neki, börtönben ült. - Sein einziger Sohn, Lajos, der ihm sonst zu helfen pflegte, saß im Gefängnis.</p>
+<p>5. Az öreg leült, és megírta neki a problémáját: - Der Alte setzte sich hin und schrieb ihm sein Problem:</p>
+<p>6. „Kedves Lajos! Sajnos elég rosszul érzem magam, mert úgy néz ki, nem tudom felásni a paradicsomos kertemet ebben az évben. Már öregszem, és túl nehéz munka ez számomra.” - „Lieber Lajos! Leider fühle ich mich ziemlich schlecht, denn es sieht so aus, dass ich meinen Tomatengarten dieses Jahr nicht umgraben kann. Ich werde schon alt, und es ist eine zu schwere Arbeit für mich.“</p>
+<p>7. Pár nappal később levelet kapott a fiától. - Ein paar Tage später erhielt er einen Brief von seinem Sohn.</p>
+<p>8. „Kedves apa, nehogy felásd a kertet. Oda rejtettem a hullákat. Lajos.” - „Lieber Vater, grabe auf keinen Fall (= bloß nicht) den Garten um. Dort habe ich die Leichen versteckt. Lajos.“</p>
+<p>9. Másnap reggel egy csapat FBI ügynök jelent meg a helyszínen, és feltúrták az egész kertet. - Am nächsten Morgen erschien ein Team von FBI-Agenten am Ort des Geschehens (= Tatort) und wühlte den gesamten Garten um.</p>
+<p>10. (túr - graben; wühlen)</p>
+<p>11. Mivel nem találtak semmit, bocsánatot kértek az öregtől, és elmentek. - Da sie nichts fanden, entschuldigten sie sich beim Alten und gingen.</p>
+<p>12. Az öreg még aznap kapott egy újabb levelet a fiától. - Noch am selben Tag erhielt der Alte einen weiteren Brief von seinem Sohn.</p>
+<p>13. „Kedves apa, a jelenlegi (= mostani) helyzetben ennyit tudtam segíteni. Most már elültetheted a paradicsomokat.” - „Lieber Vater, unter den derzeitigen (= aktuellen; gegenwärtigen) Umständen konnte ich nur so viel helfen. Jetzt kannst du die Tomaten pflanzen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy idős ember egyedül élt a farmján.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Fel akarta ásni a paradicsomos kertjét, hogy elültesse (Imperativ weil: célhatározó) a paradicsomokat, de ez túl nehéz munkának bizonyult számára.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (bizonyul számára</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az egyetlen fia, Lajos, aki segíteni szokott neki, börtönben ült.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Az öreg leült, és megírta neki a problémáját:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Kedves Lajos! Sajnos elég rosszul érzem magam, mert úgy néz ki, nem tudom felásni a paradicsomos kertemet ebben az évben. Már öregszem, és túl nehéz munka ez számomra.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Pár nappal később levelet kapott a fiától.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Kedves apa, nehogy felásd a kertet. Oda rejtettem a hullákat. Lajos.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Másnap reggel egy csapat FBI ügynök jelent meg a helyszínen, és feltúrták az egész kertet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. (túr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Mivel nem találtak semmit, bocsánatot kértek az öregtől, és elmentek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Az öreg még aznap kapott egy újabb levelet a fiától.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. „Kedves apa, a jelenlegi (= mostani) helyzetben ennyit tudtam segíteni. Most már elültetheted a paradicsomokat.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein alter Mann lebte allein auf seiner Farm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er wollte seinen Tomatengarten umgraben, um die Tomaten zu pflanzen, doch das erwies sich für ihn als zu schwere Arbeit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. sich für ihn erweisen als …; sich als … herausstellen für ihn; für ihn … sein / werden)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Sein einziger Sohn, Lajos, der ihm sonst zu helfen pflegte, saß im Gefängnis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der Alte setzte sich hin und schrieb ihm sein Problem:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Lieber Lajos! Leider fühle ich mich ziemlich schlecht, denn es sieht so aus, dass ich meinen Tomatengarten dieses Jahr nicht umgraben kann. Ich werde schon alt, und es ist eine zu schwere Arbeit für mich.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Ein paar Tage später erhielt er einen Brief von seinem Sohn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Lieber Vater, grabe auf keinen Fall (= bloß nicht) den Garten um. Dort habe ich die Leichen versteckt. Lajos.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Am nächsten Morgen erschien ein Team von FBI-Agenten am Ort des Geschehens (= Tatort) und wühlte den gesamten Garten um.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. graben; wühlen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Da sie nichts fanden, entschuldigten sie sich beim Alten und gingen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Noch am selben Tag erhielt der Alte einen weiteren Brief von seinem Sohn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. „Lieber Vater, unter den derzeitigen (= aktuellen; gegenwärtigen) Umständen konnte ich nur so viel helfen. Jetzt kannst du die Tomaten pflanzen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A hirdetésre telefonálok. Ön hirdetett meg egy sífelszerelést és egy after-sífelszerelést? - Ich rufe wegen der Anzeige an. Haben Sie eine Skiausrüstung und eine After-Ski-Ausrüstung inseriert?</p>
+<p>2. Jó napot, igen, én hirdettem meg. - Guten Tag, ja, ich habe sie inseriert.</p>
+<p>3. Megmondaná, kérem, hogy mi is az az after-sífelszerelés? - Würden Sie mir bitte sagen, was genau eine After-Ski-Ausrüstung ist?</p>
+<p>4. Két darab mankó. - Zwei Krücken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A hirdetésre telefonálok. Ön hirdetett meg egy sífelszerelést és egy after-sífelszerelést?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Jó napot, igen, én hirdettem meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Megmondaná, kérem, hogy mi is az az after-sífelszerelés?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Két darab mankó.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich rufe wegen der Anzeige an. Haben Sie eine Skiausrüstung und eine After-Ski-Ausrüstung inseriert?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Guten Tag, ja, ich habe sie inseriert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Würden Sie mir bitte sagen, was genau eine After-Ski-Ausrüstung ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Zwei Krücken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A parkban egy férfi azt mondja egy nőnek, aki a padon ül: „Szeretlek!” - Im Park sagt ein Mann zu einer Frau, die auf der Parkbank sitzt: „Ich liebe dich!“</p>
+<p>2. A nő: „És mi a helyzet a feleségeddel?” - Die Frau: „Und was ist mit deiner Frau?“</p>
+<p>3. A férfi: „A feleségem? A feleségem nem szeret téged.” - Der Mann: „Meine Frau? Meine Frau liebt dich nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A parkban egy férfi azt mondja egy nőnek, aki a padon ül: „Szeretlek!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A nő: „És mi a helyzet a feleségeddel?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A férfi: „A feleségem? A feleségem nem szeret téged.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Im Park sagt ein Mann zu einer Frau, die auf der Parkbank sitzt: „Ich liebe dich!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Frau: „Und was ist mit deiner Frau?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Mann: „Meine Frau? Meine Frau liebt dich nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy régi NDK-vicc: - Ein alter DDR-Witz:</p>
+<p>2. Miért jön most ilyen sok munkás hátizsákkal a munkából. - Warum kommen jetzt so viele Arbeiter mit Rucksack von der Arbeit.</p>
+<p>3. Mert Walter Ulbricht a beszédében a partgyűlésen azt mondta, hogy a cégeinkből sokkal többet ki lehet hozni. - Weil Walter Ulbricht auf seiner Rede auf dem Parteitag gesagt hat: Aus unseren Betrieben kann man noch viel mehr rausholen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy régi NDK-vicc:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Miért jön most ilyen sok munkás hátizsákkal a munkából.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Mert Walter Ulbricht a beszédében a partgyűlésen azt mondta, hogy a cégeinkből sokkal többet ki lehet hozni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein alter DDR-Witz:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Warum kommen jetzt so viele Arbeiter mit Rucksack von der Arbeit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Weil Walter Ulbricht auf seiner Rede auf dem Parteitag gesagt hat: Aus unseren Betrieben kann man noch viel mehr rausholen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 9a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nő: „Honnan vannak ezek a karmolások a hátadon?” - Sie: Woher sind diese Kratzer auf deinem Rücken?</p>
+<p>2. A férfi: „Olyan fáradt voltam, hogy már nem tudtam járni. Egy sas hozott ide.” - Er: Ich war so müde und konnte nicht mehr laufen. Ein Adler hat mich hergebracht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nő: „Honnan vannak ezek a karmolások a hátadon?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A férfi: „Olyan fáradt voltam, hogy már nem tudtam járni. Egy sas hozott ide.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Sie: Woher sind diese Kratzer auf deinem Rücken?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er: Ich war so müde und konnte nicht mehr laufen. Ein Adler hat mich hergebracht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 9b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nő: „Mitől vannak ezek a karcolások a hátadon?” - Sie: Woher sind diese Kratzer auf deinem Rücken?</p>
+<p>2. A férfi: „Teljesen kimerültem, nem bírtam menni tovább. Egy sas hozott haza.” - Er: Ich war so müde und konnte nicht mehr laufen. Ein Adler hat mich hergebracht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nő: „Mitől vannak ezek a karcolások a hátadon?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A férfi: „Teljesen kimerültem, nem bírtam menni tovább. Egy sas hozott haza.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Sie: Woher sind diese Kratzer auf deinem Rücken?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er: Ich war so müde und konnte nicht mehr laufen. Ein Adler hat mich hergebracht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 9c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nő kérdezi: „Miért ilyen karcos a hátad?” - Sie: Woher sind diese Kratzer auf deinem Rücken?</p>
+<p>2. A férfi válaszol: „Annyira elfáradtam, hogy nem tudtam továbbmenni. Egy sas hozott el.” - Er: Ich war so müde und konnte nicht mehr laufen. Ein Adler hat mich hergebracht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nő kérdezi: „Miért ilyen karcos a hátad?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A férfi válaszol: „Annyira elfáradtam, hogy nem tudtam továbbmenni. Egy sas hozott el.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Sie: Woher sind diese Kratzer auf deinem Rücken?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er: Ich war so müde und konnte nicht mehr laufen. Ein Adler hat mich hergebracht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 10a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nagymamám mindig azt mondta: a kéznek a legjobb gyakorlat a pénzszámolás. - Meine Oma hat immer gesagt: Die beste Übung für die Hand ist Geldzählen.</p>
+<p>2. Elmúlnak tőle az ízületi fájdalmak, normalizálódik a vérnyomás, eltűnik a fej- és fogfájás. - Davon gehen die Schmerzen in den Gelenken weg, der Blutdruck normalisiert sich, die Kopf- und Zahnschmerzen verschwinden.</p>
+<p>3. Jobb lesz a látásom, az étvágyam, a ruhatáram, a külsőm és a lakásom is. - Das Sehen wird besser, auch der Appetit, meine Garderobe, das Aussehen und die Wohnung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nagymamám mindig azt mondta: a kéznek a legjobb gyakorlat a pénzszámolás.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Elmúlnak tőle az ízületi fájdalmak, normalizálódik a vérnyomás, eltűnik a fej- és fogfájás.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Jobb lesz a látásom, az étvágyam, a ruhatáram, a külsőm és a lakásom is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Meine Oma hat immer gesagt: Die beste Übung für die Hand ist Geldzählen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Davon gehen die Schmerzen in den Gelenken weg, der Blutdruck normalisiert sich, die Kopf- und Zahnschmerzen verschwinden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das Sehen wird besser, auch der Appetit, meine Garderobe, das Aussehen und die Wohnung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 10b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nagyi szerint a kéz legjobb tornája a pénz számolása. - Meine Oma sagte: Die beste Übung für die Hand ist das Zählen von Geld.</p>
+<p>2. Rögtön rendbe jönnek az ízületek, a vérnyomás, eltűnnek a fej- és fogfájások. - Sofort verschwinden (kommen in Ordnung) Gelenkschmerzen (die Gelenke), der Blutdruck wird normal, Kopf- und Zahnschmerzen gehen weg.</p>
+<p>3. És hirtelen jobb a szemem, az étvágyam, a ruháim, a kinézetem és a lakásom. - Und plötzlich werden Sehen, Appetit, Garderobe, Aussehen und Wohnung besser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nagyi szerint a kéz legjobb tornája a pénz számolása.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Rögtön rendbe jönnek az ízületek, a vérnyomás, eltűnnek a fej- és fogfájások.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. És hirtelen jobb a szemem, az étvágyam, a ruháim, a kinézetem és a lakásom.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Meine Oma sagte: Die beste Übung für die Hand ist das Zählen von Geld.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sofort verschwinden (kommen in Ordnung) Gelenkschmerzen (die Gelenke), der Blutdruck wird normal, Kopf- und Zahnschmerzen gehen weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Und plötzlich werden Sehen, Appetit, Garderobe, Aussehen und Wohnung besser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 10c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nagymamám esküdött rá: nincs jobb kézgyakorlat a pénzszámolásnál. - Meine Oma schwor darauf: Es gibt keine bessere Handübung als Geldzählen.</p>
+<p>2. Megszűnnek az ízületi panaszok, helyreáll a vérnyomás, eltűnik a fej- és fogfájás. - Dadurch verschwinden Gelenkbeschwerden, der Blutdruck normalisiert sich, Kopf- und Zahnschmerzen gehen weg.</p>
+<p>3. Sőt javul a látás, az étvágy, a ruhatár, a megjelenés és még a lakás is. - Sogar Sehen, Appetit, Garderobe, Aussehen und sogar die Wohnung werden besser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nagymamám esküdött rá: nincs jobb kézgyakorlat a pénzszámolásnál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Megszűnnek az ízületi panaszok, helyreáll a vérnyomás, eltűnik a fej- és fogfájás.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sőt javul a látás, az étvágy, a ruhatár, a megjelenés és még a lakás is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Meine Oma schwor darauf: Es gibt keine bessere Handübung als Geldzählen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Dadurch verschwinden Gelenkbeschwerden, der Blutdruck normalisiert sich, Kopf- und Zahnschmerzen gehen weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sogar Sehen, Appetit, Garderobe, Aussehen und sogar die Wohnung werden besser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 11a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz – Frage an Radio Jerewan</p>
+<p>2. „Elutazzak-e egy konferenciára Nyugatra, még akkor is, ha a költségeket magamnak kell állnom?” (konjugierter Infinitiv) – „Soll ich zu einer Tagung in den Westen fahren, obwohl (= selbst dann) ich die Kosten dafür selbst tragen muss?“</p>
+<p>3. „Elvileg igen. Visszaútra jegyet úgysem kell vennie.” (konjug. Infinitiv) – „Im Prinzip ja. Sie müssen ja keine Rückfahrkarte kaufen.“</p>
+<p class="pc-note">még akkor is - obwohl; selbst dann</p>
+<p class="pc-note">költség (Singular!) - Ausgaben, Kosten</p>
+<p class="pc-note">állni a költségeket - die Kosten tragen</p>
+<p class="pc-note">úgysem - sowieso nicht; ohnehin nicht; ja doch nicht</p>
+<p class="pc-note">úgysem - es wird ohnehin nicht passieren; es hat sowieso keinen Sinn; unabhängig davon nicht</p>
+<p class="pc-note">sem - nicht</p>
+<p class="pc-note">egyáltalán nem - überhaupt nicht; gar nicht</p>
+<p class="pc-note">vesz/venni - nehmen, kaufen)</p>
+<p class="pc-note">unbestimmte Konjugation: veszek, veszel, vesz, veszünk, vesztek, vesznek</p>
+<p class="pc-note">bestimmte Konjugation: veszem, veszed, veszi, (FALSCH: veszjük) vesszük; veszitek, veszik</p>
+<p class="pc-note">konjugierter Infinitiv: vennem, venned vennie, vennünk, vennitek, venniük</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Elutazzak-e egy konferenciára Nyugatra, még akkor is, ha a költségeket magamnak kell állnom?” (konjugierter Infinitiv)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen. Visszaútra jegyet úgysem kell vennie.” (konjug. Infinitiv)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">még akkor is</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">költség (Singular!)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">állni a költségeket</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">úgysem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">úgysem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egyáltalán nem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vesz/venni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Soll ich zu einer Tagung in den Westen fahren, obwohl (= selbst dann) ich die Kosten dafür selbst tragen muss?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja. Sie müssen ja keine Rückfahrkarte kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">obwohl; selbst dann</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ausgaben, Kosten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Kosten tragen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sowieso nicht; ohnehin nicht; ja doch nicht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es wird ohnehin nicht passieren; es hat sowieso keinen Sinn; unabhängig davon nicht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nicht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">überhaupt nicht; gar nicht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehmen, kaufen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 11b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Érdemes-e Nyugatra mennem egy tanácskozásra, ha mindent saját zsebből kell fizetnem?” - „Lohnt es sich zu einer Tagung in den Westen fahren, wennl ich alles aus der eigenen Tasche bezahlen muss?“</p>
+<p>2. „Alapjában véve igen, hiszen a hazautazáshoz nincs szükség jegyre.” - „Im Prinzip ja, denn für die Heimreise ist eine Fahrkarte nicht notwendig.“</p>
+<p class="pc-note">megéri - es lohnt sich</p>
+<p class="pc-note">érdemes - sich lohnen, wert sein, rentabel</p>
+<p class="pc-note">érték - der Wert</p>
+<p class="pc-note">érdemes menni - es lohnt sich zu fahren</p>
+<p class="pc-note">érdemes mennem - es lohnt sich für mich zu fahren</p>
+<p class="pc-note">kell fizetni - man muss bezahlen</p>
+<p class="pc-note">kell fizetnem - ich muss bezahlen</p>
+<p>3. megy/menni: - gehen, fahren</p>
+<p class="pc-note">bestimmte Konjugation: (gibt es NICHT; denn “megy” ist nur “fahren” im Sinne von “mitfahren” - nicht “lenken”)</p>
+<p class="pc-note">fizet - bezahlen</p>
+<p class="pc-note">szükség van vmire - für (auf) etwas notwendig sein</p>
+<p class="pc-note">szükség van vkire - für (auf) jemanden notwendig sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Érdemes-e Nyugatra mennem egy tanácskozásra, ha mindent saját zsebből kell fizetnem?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapjában véve igen, hiszen a hazautazáshoz nincs szükség jegyre.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megéri</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érdemes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érték</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érdemes menni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érdemes mennem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kell fizetni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kell fizetnem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. megy/menni:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bestimmte Konjugation: (gibt es NICHT; denn “megy” ist nur “fahren” im Sinne von “mitfahren”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fizet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szükség van vmire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szükség van vkire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Lohnt es sich zu einer Tagung in den Westen fahren, wennl ich alles aus der eigenen Tasche bezahlen muss?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja, denn für die Heimreise ist eine Fahrkarte nicht notwendig.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es lohnt sich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich lohnen, wert sein, rentabel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Wert</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es lohnt sich zu fahren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es lohnt sich für mich zu fahren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">man muss bezahlen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ich muss bezahlen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. gehen, fahren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nicht “lenken”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bezahlen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">für (auf) etwas notwendig sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">für (auf) jemanden notwendig sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 12a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi a feleségével van a strandon, és más bikinis nőket néz. - Ein Mann ist mit seiner Frau am Strand und schaut anderen Frauen im Bikini nach.</p>
+<p>2. A feleség: „Viselkedj [viselkeggy] rendesen! Hiszen velem vagy itt.” - Sie: „Benimm dich! Du bist schließlich mit mir hier.“</p>
+<p>3. (hiszen - doch, schließlich, immerhin, du bist ja, denn - Modalpartikel)</p>
+<p>4. A férfi: „Na és? Ha diétázom, attól még elolvashatom az étlapot az étteremben.” - Er: „Na und? Wenn ich eine Diät mache, kann ich doch trotzdem die Speisekarte im Restaurant lesen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi a feleségével van a strandon, és más bikinis nőket néz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A feleség: „Viselkedj [viselkeggy] rendesen! Hiszen velem vagy itt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (hiszen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A férfi: „Na és? Ha diétázom, attól még elolvashatom az étlapot az étteremben.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann ist mit seiner Frau am Strand und schaut anderen Frauen im Bikini nach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sie: „Benimm dich! Du bist schließlich mit mir hier.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. doch, schließlich, immerhin, du bist ja, denn - Modalpartikel)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Er: „Na und? Wenn ich eine Diät mache, kann ich doch trotzdem die Speisekarte im Restaurant lesen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 12b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férj a strandon bámulja a bikinis nőket, miközben a felesége mellette van. - Ein (Ehe)Mann starrt am Strand anderen Frauen im Bikini an, während seine Frau neben ihm ist.</p>
+<p>2. A feleség rászól: „Fogd vissza magad, együtt vagyunk.” - Die Ehefrau sagt zu ihm: „Halte dich zurück, wir sind zusammen.“</p>
+<p>3. A férj válaszol: „Ha fogyókúrázom, attól még nézegethetem az étlapot.” - Er: „Wenn ich eine Abmagerungskur mache, kann ich trotzdem die Speisekarte lesen (begucken, angucken).“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férj a strandon bámulja a bikinis nőket, miközben a felesége mellette van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A feleség rászól: „Fogd vissza magad, együtt vagyunk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A férj válaszol: „Ha fogyókúrázom, attól még nézegethetem az étlapot.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein (Ehe)Mann starrt am Strand anderen Frauen im Bikini an, während seine Frau neben ihm ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Ehefrau sagt zu ihm: „Halte dich zurück, wir sind zusammen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Er: „Wenn ich eine Abmagerungskur mache, kann ich trotzdem die Speisekarte lesen (begucken, angucken).“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 12c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi a tengerparton más nőket figyel bikiniben. - Ein Mann beobachtet am Meeresstrand anderen Frauen im Bikin.</p>
+<p>2. A felesége azt mondja: „Ne csináld! Velem vagy.” - Seine Frau sagt: „Mach das nicht! Du bist mit mir hier.“</p>
+<p>3. A férfi így felel: „A diéta nem tiltja az étlap olvasását.” - Der Mann antwortet: „Eine (die) Diät verbietet nicht, das Lesen der Speisekarte.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi a tengerparton más nőket figyel bikiniben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A felesége azt mondja: „Ne csináld! Velem vagy.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A férfi így felel: „A diéta nem tiltja az étlap olvasását.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann beobachtet am Meeresstrand anderen Frauen im Bikin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Seine Frau sagt: „Mach das nicht! Du bist mit mir hier.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Mann antwortet: „Eine (die) Diät verbietet nicht, das Lesen der Speisekarte.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 13a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az emésztésem javítására sört iszom. - Um meine Verdauung zu verbessern trinke ich Bier.</p>
+<p>2. Ha nincs étvágyam, fehérbort, alacsony vérnyomásra vörösbort, magas vérnyomásra konyakot, anginára vodkát. - Wenn ich keinen Appetit habe trinke ich Weißwein, bei niedrigem Blutdruck Rotwein, bei hohem Blutdruck Konjak, bei Angina Wodka.</p>
+<p>3. „És mikor iszol vizet?” - „Und wann trinkst du Wasser?“</p>
+<p>4. „Ilyen betegségem még nem volt.” - „So eine Krankheit hatte ich noch nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az emésztésem javítására sört iszom.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ha nincs étvágyam, fehérbort, alacsony vérnyomásra vörösbort, magas vérnyomásra konyakot, anginára vodkát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „És mikor iszol vizet?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Ilyen betegségem még nem volt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Um meine Verdauung zu verbessern trinke ich Bier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Wenn ich keinen Appetit habe trinke ich Weißwein, bei niedrigem Blutdruck Rotwein, bei hohem Blutdruck Konjak, bei Angina Wodka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Und wann trinkst du Wasser?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „So eine Krankheit hatte ich noch nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 13b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Sört iszom, hogy jobb legyen az emésztésem. Étvágytalanságra fehérbor, alacsony vérnyomásra vörösbor, magasra konyak, torokfájásra vodka. - Um die Verdauung zu verbessern trinke ich Bier. Bei Appetitlosigkeit Weißwein, bei niedrigem Blutdruck Rotwein, bei hohem Blutdruck Cognac, bei Halsschmerzen Wodka.</p>
+<p>2. „Vizet mikor iszol?” - „Wann trinkst du Wasser?“</p>
+<p>3. „Olyan bajom még nem volt.” - „So eine Krankheit hatte ich noch nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Sört iszom, hogy jobb legyen az emésztésem. Étvágytalanságra fehérbor, alacsony vérnyomásra vörösbor, magasra konyak, torokfájásra vodka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Vizet mikor iszol?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Olyan bajom még nem volt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Um die Verdauung zu verbessern trinke ich Bier. Bei Appetitlosigkeit Weißwein, bei niedrigem Blutdruck Rotwein, bei hohem Blutdruck Cognac, bei Halsschmerzen Wodka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Wann trinkst du Wasser?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „So eine Krankheit hatte ich noch nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 13c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az emésztésre sör, étvágyra fehérbor, alacsony vérnyomásra vörösbor, magasra konyak, anginára vodka. - Für die Verdauung Bier, für den Appetit Weißwein, bei niedrigem Blutdruck Rotwein, bei hohem Blutdruck Konjak, bei Angina Wodka.</p>
+<p>2. „És a víz?” - „Und Wasser?“</p>
+<p>3. „Azt a betegséget még nem kaptam el.” - „Diese Krankheit hatte ich noch nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az emésztésre sör, étvágyra fehérbor, alacsony vérnyomásra vörösbor, magasra konyak, anginára vodka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „És a víz?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Azt a betegséget még nem kaptam el.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Für die Verdauung Bier, für den Appetit Weißwein, bei niedrigem Blutdruck Rotwein, bei hohem Blutdruck Konjak, bei Angina Wodka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Und Wasser?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Diese Krankheit hatte ich noch nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 14a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Bátorság az, amikor hajnali háromkor totál részegen hazajössz, a feleséged seprűvel vár, és megkérdezed: „Takarítasz, vagy még elrepülsz?” - Mut ist, wenn man morgens um drei Uhr total besoffen nach Hause kommt, die Frau mit einem Besen auf dich wartet und du fragst: Bist du am Putzen oder fliegst du noch weg?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Bátorság az, amikor hajnali háromkor totál részegen hazajössz, a feleséged seprűvel vár, és megkérdezed: „Takarítasz, vagy még elrepülsz?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mut ist, wenn man morgens um drei Uhr total besoffen nach Hause kommt, die Frau mit einem Besen auf dich wartet und du fragst: Bist du am Putzen oder fliegst du noch weg?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 14b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az igazi bátorság az, ha hajnali háromkor hullarészegen hazaérsz, az asszony seprűvel áll előtted, te pedig megkérdezed: „Most takarítasz, vagy indul a felszállás?” - Mut ist, wenn man um drei Uhr morgens stockbesoffen nach Hause kommt, die Frau mit dem Besen vor dir steht und du fragst: Putzt du oder fliegst du gleich los?</p>
+<p>2. (hulla - die Leiche)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az igazi bátorság az, ha hajnali háromkor hullarészegen hazaérsz, az asszony seprűvel áll előtted, te pedig megkérdezed: „Most takarítasz, vagy indul a felszállás?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (hulla</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mut ist, wenn man um drei Uhr morgens stockbesoffen nach Hause kommt, die Frau mit dem Besen vor dir steht und du fragst: Putzt du oder fliegst du gleich los?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. die Leiche)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 14c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Bátor ember az, aki hajnali háromkor részegen hazabotorkál, a felesége seprűvel várja, és ő nyugodtan megkérdi: „Seprés van, vagy még repülés?” - Mut ist es, wenn man um drei Uhr morgens betrunken nach Hause kommt, die Frau mit dem Besen wartet und man fragt: Bist du am Putzen oder fliegst du noch weg? (Ist jetzt Putzen/Kehren oder noch Fliegen?)</p>
+<p>2. (botorkál - torkeln, stolpern)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Bátor ember az, aki hajnali háromkor részegen hazabotorkál, a felesége seprűvel várja, és ő nyugodtan megkérdi: „Seprés van, vagy még repülés?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (botorkál</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mut ist es, wenn man um drei Uhr morgens betrunken nach Hause kommt, die Frau mit dem Besen wartet und man fragt: Bist du am Putzen oder fliegst du noch weg? (Ist jetzt Putzen/Kehren oder noch Fliegen?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. torkeln, stolpern)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 15a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy macsó a másikhoz: „Mit fogadtál meg az új évre?” - Ein Macho zum anderen: „Was hast du dir für das neue Jahr vorgenommen?“</p>
+<p>2. A másik erre: „Heikét, Bettinát, Monikát, Kerstint és Gabi­t.” - Darauf der Zweite: „Heike, Bettina, Monika, Kerstin und Gabi!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy macsó a másikhoz: „Mit fogadtál meg az új évre?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A másik erre: „Heikét, Bettinát, Monikát, Kerstint és Gabi­t.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Macho zum anderen: „Was hast du dir für das neue Jahr vorgenommen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Darauf der Zweite: „Heike, Bettina, Monika, Kerstin und Gabi!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 15b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az egyik macsó megkérdezi: „Mi az újévi fogadalmad?” - Ein Macho fragt den anderen: „Was ist dein Neujahrsvorsatz?“</p>
+<p>2. A válasz: „Heike, Bettina, Monika, Kerstin és Gabi.” - Die Antwort: „Heike, Bettina, Monika, Kerstin und Gabi.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az egyik macsó megkérdezi: „Mi az újévi fogadalmad?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A válasz: „Heike, Bettina, Monika, Kerstin és Gabi.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Macho fragt den anderen: „Was ist dein Neujahrsvorsatz?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Antwort: „Heike, Bettina, Monika, Kerstin und Gabi.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 15c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy macsó odaszól a másiknak: „Mit terveztél az új évre?” - Ein Macho zum anderen: „Was hast du fürs neue Jahr geplant (vorgenommen)?“</p>
+<p>2. A másik így felel: „Heike, Bettina, Monika, Kerstin meg Gabi.” - Der andere antwortet: „Heike, Bettina, Monika, Kerstin und Gabi.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy macsó odaszól a másiknak: „Mit terveztél az új évre?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A másik így felel: „Heike, Bettina, Monika, Kerstin meg Gabi.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Macho zum anderen: „Was hast du fürs neue Jahr geplant (vorgenommen)?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der andere antwortet: „Heike, Bettina, Monika, Kerstin und Gabi.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 16a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Rádiós bemondó: „Óraösszehasonlítás! … Az enyém szebb.” - Radiosprecher: Uhrenvergleich! … Meine ist schöner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Rádiós bemondó: „Óraösszehasonlítás! … Az enyém szebb.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Radiosprecher: Uhrenvergleich! … Meine ist schöner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 16b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Rádióbemondó: „Órát ellenőrzünk! … Az én órám szebb.” - Radiosprecher: Wir überprüfen die Uhr/die Uhrzeit! … Meine ist schöner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Rádióbemondó: „Órát ellenőrzünk! … Az én órám szebb.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Radiosprecher: Wir überprüfen die Uhr/die Uhrzeit! … Meine ist schöner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 16c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A rádióban: „Órák összevetése! … Az enyém a szebb.” - Radiosprecher: Uhrenvergleich! … Meine ist die Schönere.</p>
+<p class="pc-note">(összevethető - vergleichbar)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A rádióban: „Órák összevetése! … Az enyém a szebb.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(összevethető</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Radiosprecher: Uhrenvergleich! … Meine ist die Schönere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vergleichbar)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 17a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfit beszállítanak az elmegyógyintézetbe (a pszichiátriara). - Ein Mann wird in die Irrenanstalt (die Psychologie) eingeliefert.</p>
+<p>2. Az első éjszakán minden újat gumiszobába zárnak. - Alle Neuen werden in der ersten Nacht in eine Gummizelle gesteckt.</p>
+<p>3. Randaliroznak, ezért az ápolók kinyitják az ajtót. - Sie randalieren, also öffnen die Aufseher die Gummizelle.</p>
+<p>4. Az idióták újra meg újra a falnak ugranak. - Die Idioten springen immer wieder gegen die Wand.</p>
+<p>5. Csak egy férfi ül nyugodtan a sarokban. - Nur ein Mann sitzt ruhig in der Ecke.</p>
+<p>6. Megkérdezik, mi a helyzet. - Sie fragen ihn, was los ist.</p>
+<p>7. Ő így válaszol: „Húztam egy krétavonalat a falra, és azt mondtam, aki átugorja, kap tőlem 100 eurót.” - Er antwortet: „Ich habe einen Kreidestrich an die Wand gemalt und gesagt, wer drüberspringt, bekommt 100 Euro von mir.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfit beszállítanak az elmegyógyintézetbe (a pszichiátriara).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az első éjszakán minden újat gumiszobába zárnak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Randaliroznak, ezért az ápolók kinyitják az ajtót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az idióták újra meg újra a falnak ugranak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Csak egy férfi ül nyugodtan a sarokban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Megkérdezik, mi a helyzet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Ő így válaszol: „Húztam egy krétavonalat a falra, és azt mondtam, aki átugorja, kap tőlem 100 eurót.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann wird in die Irrenanstalt (die Psychologie) eingeliefert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Alle Neuen werden in der ersten Nacht in eine Gummizelle gesteckt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sie randalieren, also öffnen die Aufseher die Gummizelle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Idioten springen immer wieder gegen die Wand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Nur ein Mann sitzt ruhig in der Ecke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Sie fragen ihn, was los ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Er antwortet: „Ich habe einen Kreidestrich an die Wand gemalt und gesagt, wer drüberspringt, bekommt 100 Euro von mir.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 17b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfit elmegyógyintézetbe visznek. - Ein Mann wird in eine Irrenanstalt gebracht.</p>
+<p>2. Az újoncokat az első éjjel gumiszobába teszik. - Die Neuen kommen in der ersten Nacht in eine Gummizelle.</p>
+<p>3. Zajonganak, az őrök benyitnak. - Sie randalieren, die Aufseher öffnen.</p>
+<p>4. Mindenki a falnak ugrál. - Alle springen gegen die Wand.</p>
+<p>5. Egy ember békésen ül a sarokban. - Einer Mann sitzt friedlich in der Ecke.</p>
+<p>6. Megkérdezik, miért. - Man fragt ihn warum.</p>
+<p>7. „Krétával húztam egy vonalat, és mondtam: aki átugorja, kap száz eurót.” - „Ich zog eine Linie mit Kreidel und sagte: Wer drüberspringt, bekommt hundert Euro.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfit elmegyógyintézetbe visznek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az újoncokat az első éjjel gumiszobába teszik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Zajonganak, az őrök benyitnak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Mindenki a falnak ugrál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Egy ember békésen ül a sarokban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Megkérdezik, miért.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Krétával húztam egy vonalat, és mondtam: aki átugorja, kap száz eurót.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann wird in eine Irrenanstalt gebracht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Neuen kommen in der ersten Nacht in eine Gummizelle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sie randalieren, die Aufseher öffnen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Alle springen gegen die Wand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Einer Mann sitzt friedlich in der Ecke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Man fragt ihn warum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Ich zog eine Linie mit Kreidel und sagte: Wer drüberspringt, bekommt hundert Euro.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 17c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi bekerül a diliházba. - Ein Mann kommt in die Irrenanstalt.</p>
+<p>2. Az első éjszakán gumiszobába zárják az újakat. - In der ersten Nacht werden die Neuen in die Gummizelle eingeschlossen.</p>
+<p>3. Balhé van, kinyitják az ajtót. - Es gibt Krawall, die Tür wird geöffnet.</p>
+<p>4. Mindenki a falnak ugrik, kivéve egyet. - Alle springen gegen die Wand, außer einem.</p>
+<p>5. Ő csendben ül. - Er sitzt ruhig da.</p>
+<p>6. Megkérdezik, miért. - Man fragt ihn weshalb.</p>
+<p>7. „Krétavonalat rajzoltam, és azt mondtam: száz euró annak, aki átugorja.” - „Ich habe eine Kreidelinie gezeichnet und gesagt: Hundert Euro für den, der drüberspringt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi bekerül a diliházba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az első éjszakán gumiszobába zárják az újakat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Balhé van, kinyitják az ajtót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Mindenki a falnak ugrik, kivéve egyet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Ő csendben ül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Megkérdezik, miért.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Krétavonalat rajzoltam, és azt mondtam: száz euró annak, aki átugorja.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann kommt in die Irrenanstalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. In der ersten Nacht werden die Neuen in die Gummizelle eingeschlossen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Es gibt Krawall, die Tür wird geöffnet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Alle springen gegen die Wand, außer einem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Er sitzt ruhig da.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Man fragt ihn weshalb.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Ich habe eine Kreidelinie gezeichnet und gesagt: Hundert Euro für den, der drüberspringt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 18a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Két idióta meg akar szökni az elmegyógyintézetből. - Zwei Idioten wollen aus der Irrenanstalt fliehen.</p>
+<p>2. Az egyik azt mondja: „Felvilágítok a zseblámpával a fal tetejéig, te pedig felmászol a fénycsóván.” - Der erste sagt: „Ich leuchte mit der Taschenlampe bis zur Mauer hoch, und du kletterst den Lichtstrahl hinauf.“</p>
+<p>3. A másik válaszol: „Nem csinálom, nem vagyok hülye. Félúton lekapcsolod a lámpát, én meg lezuhanok.” - Der zweite Idiot antwortet: „Nein, das mache ich nicht, ich bin doch nicht blöd. Auf halbem Weg schaltest du die Lampe aus und ich falle runter.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Két idióta meg akar szökni az elmegyógyintézetből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az egyik azt mondja: „Felvilágítok a zseblámpával a fal tetejéig, te pedig felmászol a fénycsóván.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A másik válaszol: „Nem csinálom, nem vagyok hülye. Félúton lekapcsolod a lámpát, én meg lezuhanok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Idioten wollen aus der Irrenanstalt fliehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der erste sagt: „Ich leuchte mit der Taschenlampe bis zur Mauer hoch, und du kletterst den Lichtstrahl hinauf.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der zweite Idiot antwortet: „Nein, das mache ich nicht, ich bin doch nicht blöd. Auf halbem Weg schaltest du die Lampe aus und ich falle runter.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 18b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Két bolond szökést tervez az elmegyógyintézetből. - Zwei Idioten planen die Flucht aus der Irrenanstalt.</p>
+<p>2. Az első: „A zseblámpával felvilágítok a falra, te felmászol a fénysugáron.” - Der erste: „Ich leuchte mit meiner Taschenlampe zur Mauer (hoch), du kletterst auf dem Lichtstrahl hoch.“</p>
+<p>3. A második: „Ugyan már! (= De hogy is!)  Félúton lekapcsolod, és leesek.” - Der zweite: „Ach komm! (= Spinnst du? = Auf keinen Fall!) Halb oben schaltest du aus, und ich falle runter.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Két bolond szökést tervez az elmegyógyintézetből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az első: „A zseblámpával felvilágítok a falra, te felmászol a fénysugáron.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A második: „Ugyan már! (= De hogy is!)  Félúton lekapcsolod, és leesek.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Idioten planen die Flucht aus der Irrenanstalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der erste: „Ich leuchte mit meiner Taschenlampe zur Mauer (hoch), du kletterst auf dem Lichtstrahl hoch.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der zweite: „Ach komm! (= Spinnst du? = Auf keinen Fall!) Halb oben schaltest du aus, und ich falle runter.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 18c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Két idióta meg akar lépni a diliházból. - Zwei Idioten wollen aus der Irrenanstalt abhauen (türmen).</p>
+<p>2. Az egyik így áll elő: „Felvilágítok a falra, és azon a fényen felmászol.” - Einer von ihnen sagt Folgendes: „Ich leuchte zur Mauer hoch, und du kletterst auf diesem Licht hoch.“</p>
+<p>3. A másik rávágja: „Nem, mert amikor félig fenn vagyok, lekapcsolod, és lezuhanok.” - Der andere wirft ein (wiederspricht; kontert): „Nein, denn wenn ich bis zur Hälfte (= halb) oben bin, schaltest du es aus, und ich stürze ab.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Két idióta meg akar lépni a diliházból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az egyik így áll elő: „Felvilágítok a falra, és azon a fényen felmászol.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A másik rávágja: „Nem, mert amikor félig fenn vagyok, lekapcsolod, és lezuhanok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Idioten wollen aus der Irrenanstalt abhauen (türmen).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Einer von ihnen sagt Folgendes: „Ich leuchte zur Mauer hoch, und du kletterst auf diesem Licht hoch.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der andere wirft ein (wiederspricht; kontert): „Nein, denn wenn ich bis zur Hälfte (= halb) oben bin, schaltest du es aus, und ich stürze ab.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 19a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Két őrült két kerékpárral megszökik az elmegyógyintézetből. - Zwei Irre fliehen aus der Irrenanstalt mit zwei Fahrrädern.</p>
+<p>2. Éjszaka a kerékpárjukkal takaróznak be. - Nachts decken sie sich mit ihrem Fahrrad zu.</p>
+<p>3. Másnap reggel az egyik azt mondja: „Nagyon fáztam ezen az éjszakán.” - Am nächsten Morgen sagt der eine: „Ich habe sehr gefroren in dieser Nacht.“</p>
+<p>4. A másik válaszol: „Nem csoda, a te első kerekedből hiányzik egy küllő.” - Der andere antwortet: „Kein Wunder, von deinem Vorderrad fehlt (ja) auch eine Speiche.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Két őrült két kerékpárral megszökik az elmegyógyintézetből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Éjszaka a kerékpárjukkal takaróznak be.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Másnap reggel az egyik azt mondja: „Nagyon fáztam ezen az éjszakán.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A másik válaszol: „Nem csoda, a te első kerekedből hiányzik egy küllő.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Irre fliehen aus der Irrenanstalt mit zwei Fahrrädern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nachts decken sie sich mit ihrem Fahrrad zu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am nächsten Morgen sagt der eine: „Ich habe sehr gefroren in dieser Nacht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der andere antwortet: „Kein Wunder, von deinem Vorderrad fehlt (ja) auch eine Speiche.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 19b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Két bolond biciklivel megszökik a diliházból. - Zwei Irre fliehen mit Fahrrädern aus der Irrenanstalt.</p>
+<p>2. Éjjel a bringáikkal takaróznak. - Nachts benutzen sie ihre Fahrräder als Decke.</p>
+<p>3. Reggel az egyik panaszkodik: „Iszonyúan fáztam.” - Am Morgen klagt der eine: „Ich habe schrecklich gefroren.“</p>
+<p>4. A társa: „Hát persze, az első kerekedből hiányzik egy küllő.” - Sein Kamerad: „Klar (= Nun, selbstverständlich = na ja) , an deinem Vorderrad fehlt eine Speiche.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Két bolond biciklivel megszökik a diliházból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Éjjel a bringáikkal takaróznak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Reggel az egyik panaszkodik: „Iszonyúan fáztam.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A társa: „Hát persze, az első kerekedből hiányzik egy küllő.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Irre fliehen mit Fahrrädern aus der Irrenanstalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nachts benutzen sie ihre Fahrräder als Decke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am Morgen klagt der eine: „Ich habe schrecklich gefroren.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Sein Kamerad: „Klar (= Nun, selbstverständlich = na ja) , an deinem Vorderrad fehlt eine Speiche.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 19c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Két elmebeteg két kerékpárral szökik meg. - Zwei Geisteskranke fliehen mit zwei Fahrrädern.</p>
+<p>2. Az éjszakát a biciklikkel betakarózva töltik. - Die Nacht verbringen sie, zugedeckt mit ihren Fahrrädern.</p>
+<p>3. Másnap az egyik mondja: „Nagyon hideg volt az éjjel.” - Am nächsten Tag sagt der eine: „Es war sehr kalt in der Nacht.“</p>
+<p>4. A válasz: „Nem csoda, hiányzik egy küllő az első kerekedből.” - Die Antwort: „Kein Wunder, an deinem Vorderrad fehlt eine Speiche.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Két elmebeteg két kerékpárral szökik meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az éjszakát a biciklikkel betakarózva töltik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Másnap az egyik mondja: „Nagyon hideg volt az éjjel.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A válasz: „Nem csoda, hiányzik egy küllő az első kerekedből.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Geisteskranke fliehen mit zwei Fahrrädern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Nacht verbringen sie, zugedeckt mit ihren Fahrrädern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am nächsten Tag sagt der eine: „Es war sehr kalt in der Nacht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Antwort: „Kein Wunder, an deinem Vorderrad fehlt eine Speiche.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 20a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi egy megállóban áll. - Ein Mann steht an der Haltestelle.</p>
+<p>2. Kockás inget visel, tele számokkal. - Er trägt ein Hemd mit lauter Karos und Nummern.</p>
+<p>3. Egy másik férfi megkérdezi, miért vannak számok az ingen. - Ein anderer Mann fragt ihn, warum er die ganzen Nummern auf dem Hemd hat.</p>
+<p>4. A férfi válaszol: „Ha viszket a hátam, csak szólnom kell a feleségemnek: ‚Emma, vakard meg a 21-esnél, most meg a 72-esnél.‘” - Der Mann antwortet: „Wenn es mich am Rücken juckt, brauche ich meiner Frau nur zu sagen: ‚Emma, kratz mich mal auf der 21 und jetzt auf der 72.‘“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi egy megállóban áll.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Kockás inget visel, tele számokkal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egy másik férfi megkérdezi, miért vannak számok az ingen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A férfi válaszol: „Ha viszket a hátam, csak szólnom kell a feleségemnek: ‚Emma, vakard meg a 21-esnél, most meg a 72-esnél.‘”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann steht an der Haltestelle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er trägt ein Hemd mit lauter Karos und Nummern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ein anderer Mann fragt ihn, warum er die ganzen Nummern auf dem Hemd hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Mann antwortet: „Wenn es mich am Rücken juckt, brauche ich meiner Frau nur zu sagen: ‚Emma, kratz mich mal auf der 21 und jetzt auf der 72.‘“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 20b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi várakozik a buszmegállóban. - Ein Mann wartet an der Haltestelle.</p>
+<p class="pc-note">(Egy férfi várja a buszt a buszmegállóban. - Ein Mann wartet an der Haltestelle auf den Bus.)</p>
+<p>2. Számozott kockás inget hord. - Er hat ein kariertes Hemd mit Nummern an.</p>
+<p>3. Egy járókelő rákérdez a számokra. - Ein Passant (= Fußgänger) fragt nach den Nummern.</p>
+<p>4. A válasz: „Ha viszket a hátam, megmondom a feleségemnek, hol vakarja: 21, aztán 72.” - Die Antwort: „Wenn mein Rücken juckt, sage ich meiner Frau einfach, wo sie kratzen soll: 21, dann 72.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi várakozik a buszmegállóban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(Egy férfi várja a buszt a buszmegállóban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Számozott kockás inget hord.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egy járókelő rákérdez a számokra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A válasz: „Ha viszket a hátam, megmondom a feleségemnek, hol vakarja: 21, aztán 72.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann wartet an der Haltestelle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ein Mann wartet an der Haltestelle auf den Bus.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er hat ein kariertes Hemd mit Nummern an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ein Passant (= Fußgänger) fragt nach den Nummern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Antwort: „Wenn mein Rücken juckt, sage ich meiner Frau einfach, wo sie kratzen soll: 21, dann 72.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 20c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi áll a megállóban egy számozott kockás ingben. - Ein Mann steht an der Haltestelle mit einem karierten, nummerierten Hemd.</p>
+<p>2. Valaki megkérdezi, mire jók a számok. - Jemand fragt, wozu die Nummern gut sind.</p>
+<p>3. „Így könnyű,” mondja, „csak szólok Emmának: 21-es, most 72-es.” - „So ist es einfach“, sagt er, „ich sage nur zu Emma: 21 und jetzt 72.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi áll a megállóban egy számozott kockás ingben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Valaki megkérdezi, mire jók a számok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Így könnyű,” mondja, „csak szólok Emmának: 21-es, most 72-es.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann steht an der Haltestelle mit einem karierten, nummerierten Hemd.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Jemand fragt, wozu die Nummern gut sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „So ist es einfach“, sagt er, „ich sage nur zu Emma: 21 und jetzt 72.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/13-witze/">« Zurück zu Witze 13</a> &nbsp;|&nbsp; <span>Witze 14</span> &nbsp;|&nbsp; <a href="/15-witze/">Weiter zu Witze 15 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
