@@ -343,7 +343,8 @@ def konfiguration(nr):
         "slug": f"{nr}-witze",
         "parent": "Witze",
         "menu_order": nr,
-        "joke_word": "Witz",
+        # Seite 41 sind Sprüche, keine Witze
+        "joke_word": {41: "Spruch"}.get(nr, "Witz"),
         "home_nav": HOME_NAV,
         "chapter_nav": (f'<a href="/{nr - 1}-witze/">« Zurück zu Witze {nr - 1}</a>'
                         f' &nbsp;|&nbsp; <span>Witze {nr}</span> &nbsp;|&nbsp; '

@@ -22,7 +22,7 @@
   <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
 </div>
 <div class="pc-chapter-nav">
-  <a href="/40-witze/">« Zurück zu Witze 40</a> &nbsp;|&nbsp; <span>Witze 41</span> &nbsp;|&nbsp; <a href="/42-witze/">Weiter zu Witze 42 »</a>
+  <a href="/40-witze/">« Zurück zu - Längere Witze</a> &nbsp;|&nbsp; <span>Sprüche</span> &nbsp;|&nbsp; <a href="/42-witze/">Weiter zu - Anekdote, Sprichwörter und mehr»</a>
 </div>
 <!-- /wp:html -->
 
@@ -30,12 +30,9 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
+ 
 <!-- wp:paragraph -->
-<p><strong>Witze 41</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Dritter Teil - Sprüche</strong></p>
+<p><strong>Sprüche</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -17445,8 +17442,8 @@
 <!-- wp:html -->
 <div class="pc-footer-nav">
   <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
-  <div class="pc-chapter-nav">
-  <a href="/40-witze/">« Zurück zu Witze 40</a> &nbsp;|&nbsp; <span>Witze 41</span> &nbsp;|&nbsp; <a href="/42-witze/">Weiter zu Witze 42 »</a>
+<div class="pc-chapter-nav">
+  <a href="/40-witze/">« Zurück zu - Längere Witze</a> &nbsp;|&nbsp; <span>Sprüche</span> &nbsp;|&nbsp; <a href="/42-witze/">Weiter zu - Anekdote, Sprichwörter und mehr»</a>
 </div>
   <div class="pc-home-link">
   <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
