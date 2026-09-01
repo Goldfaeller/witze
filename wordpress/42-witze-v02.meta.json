@@ -1,0 +1,8 @@
+{
+  "post_type": "page",
+  "post_title": "Anekdote, Sprichwörter und mehr",
+  "post_name": "42-witze",
+  "post_parent": "Witze",
+  "menu_order": 42,
+  "content_file": "wordpress/42-witze-v02.txt"
+}
