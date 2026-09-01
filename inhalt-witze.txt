@@ -1,7 +1,3 @@
-<p><!-- ============================================ --><br />
-<!-- BLOCK 1 - STYLE A --><br />
-<!-- ============================================ --></p>
-
 <!-- wp:html -->
 <style>
 html {
@@ -90,100 +86,87 @@ html, body, main, .wp-site-blocks, .entry-content,
     border-top: 3px double #34495e;
     margin: 30px 0 20px 0;
 }
+
+/* Die Verzeichniseintraege: gleiche Schrift wie der uebrige Text,
+   nur der Unterstrich weist sie als Link aus. Eingerueckt um 30 Prozent
+   der Inhaltsbreite - die Abschnittsueberschriften bleiben links stehen,
+   damit die beiden Ebenen auseinanderzuhalten sind. */
+.pc-toc-item {
+    margin: 0 0 8px 0;
+    padding-left: 30%;
+}
+
+/* Auf schmalen Bildschirmen frisst ein Einzug von 30 Prozent die Zeile auf */
+@media (max-width: 700px) {
+    .pc-toc-item {
+        padding-left: 8%;
+    }
+}
+
+.pc-toc-item a {
+    color: #2c3e50;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.pc-toc-item a:hover {
+    color: #2980b9;
+}
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('.pc-content p').forEach(function (zeile) {
-        const text = zeile.textContent.trim();
-        const kapitelnummer = text.match(/^(\d+(?:\.\d+)*)\s*[–-]/);
-
-        if (!kapitelnummer) {
-            return;
-        }
-
-        const ebene = kapitelnummer[1].split('.').length;
-
-        if (ebene === 1) {
-            zeile.style.setProperty('margin-left', '0', 'important');
-            zeile.style.setProperty('font-size', '1.35rem', 'important'); 
-            zeile.style.setProperty('margin-top', '35px', 'important');
-            zeile.style.setProperty('font-weight', '600', 'important');
-            zeile.style.setProperty('line-height', '1.3', 'important');
-        } else if (ebene === 2) {
-            zeile.style.setProperty('margin-left', '24px', 'important');
-            zeile.style.setProperty('font-size', '1.05rem', 'important');
-            zeile.style.setProperty('margin-top', '8px', 'important');
-            zeile.style.setProperty('font-weight', '500', 'important');
-        } else {
-            zeile.style.setProperty('margin-left', '48px', 'important');
-            zeile.style.setProperty('font-size', '0.95rem', 'important');
-            zeile.style.setProperty('margin-top', '0', 'important');
-            zeile.style.setProperty('font-weight', '400', 'important');
-        }
-    });
-});
-</script>
 <!-- /wp:html -->
 
-<p><!-- BLOCK 2 -Überschrift --></p>
+<!-- wp:html -->
 <div class="pc-container" id="top">
-    <img src="https://modjor.de/wp-content/uploads/2026/07/Skelett-hell-21_41_01.png" alt="Budapest Banner" class="pc-banner"></p>
-<div class="pc-home-link">
+  <img src="https://modjor.de/wp-content/uploads/2026/07/Skelett-hell-21_41_01.png" alt="Witze Banner" class="pc-banner">
+
+  <div class="pc-home-link">
     <a href="https://modjor.de/">« Home</a> | <a href="https://modjor.de/lesebuecher/">Zurück zu Lesebücher</a>
-</div>
-<h1>Witze</h1>
-<h1>Tartalomjegyzék – Inhaltsverzeichnis</h1>
-<div class="pc-content">
+  </div>
+
+  <h1>Witze</h1>
+  <h1>Tartalomjegyzék – Inhaltsverzeichnis</h1>
+
+  <div class="pc-content">
+    <div class="double-line" style="margin-top: 5px;"></div>
+    <h3>I. RÉSZ: Viccek, vicces mondások, közmondások – TEIL I: Witze, witzige Sprüche, Sprichwörter</h3>
+    <div class="double-line" style="margin-bottom: 0;"></div>
+
+    <p class="pc-toc-item"><a href="https://modjor.de/01-witze/">1 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/02-witze/">2 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/03-witze/">3 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/04-witze/">4 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/05-witze/">5 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/06-witze/">6 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/07-witze/">7 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/08-witze/">8 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/09-witze/">9 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/10-witze/">10 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/11-witze/">11 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/12-witze/">12 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/13-witze/">13 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/14-witze/">14 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/15-witze/">15 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/16-witze/">16 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/17-witze/">17 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/18-witze/">18 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/19-witze/">19 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/20-witze/">20 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/21-witze/">21 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/22-witze/">22 – Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/23-witze/">23 – Witze</a></p>
 
 
-<p>
-<p>  <!-- BLOCK 3 -Text --></p>
-<div class="double-line" style="margin-top: 5;"></div>
-<h3>I. RÉSZ: Viccek, vicces mondások, közmondások – TEIL I: Witze, witzige Sprüche, Sprichwörter</h3>
-<div class="double-line" style="margin-bottom: 0;"></div>
-<p><a href="https://modjor.de/1-anatomie-kurz/">1 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">2 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">3 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">4 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">5 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">6 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">7 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">8 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">9 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">10 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">11 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">12 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">13 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">14 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">15 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">16 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">17 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">18 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">19 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">20 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">21 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">22 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">23 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">24 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">25 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">26 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">27 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">28 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">29 – Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">30 – Witze</a></p>
+    <div class="double-line" style="margin-top: 30px;"></div>
+    <h3>II. RÉSZ: Hosszabb viccek, Mondások, Anekdota – TEIL II: Längere Witze, Sprüche, Anekdote</h3>
+    <div class="double-line" style="margin-bottom: 0;"></div>
 
+    <p class="pc-toc-item"><a href="https://modjor.de/40-witze/">40 – Längere Witze</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/41-witze/">41 – Sprüche</a></p>
+    <p class="pc-toc-item"><a href="https://modjor.de/42-witze/">42 – Anekdote; Rechenaufgabe; Sprichwörter; Zungenbrecher; Verballhornung; Türschilder und T-Shirt-Sprüche</a></p>
+  </div>
 
-
-<div class="double-line" style="margin-top: 5;"></div>
-<h3>II. RÉSZ: Hosszabb viccek, Mondások, Anekdota – TEIL II: Längere Witze, Sprüche, Anekdote</h3>
-<div class="double-line" style="margin-bottom: 0;"></div>
-<p><a href="https://modjor.de/1-anatomie-kurz/">31 – Längere Witze</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">32 – Sprüche</a></p>
-<p><a href="https://modjor.de/1-anatomie-kurz/">33 – Anekdote; Rechenaufgabe; Sprichwörter; Zungenbrecher; Verballhornung; Türschilder und T-Shirt-Sprüche</a></p>
-</p>
-<div class="pc-home-link" style="margin-top: 25px;">
+  <div class="pc-home-link" style="margin-top: 25px;">
     <a href="https://modjor.de/">« Home</a> | <a href="https://modjor.de/lesebuecher/">Zurück zu Lesebücher</a> | <a href="#top">↑ Hoch zum Seitenanfang</a>
+  </div>
 </div>
-</div>
-</div>
+<!-- /wp:html -->
