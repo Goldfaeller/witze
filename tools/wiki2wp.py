@@ -16,6 +16,7 @@ Zielstruktur je Witz (wie internetseite-text.txt):
     Aufklappbox "német"  (nur deutsch)
 """
 
+import json
 import re
 import sys
 
@@ -248,6 +249,13 @@ def build(intro, jokes, cfg):
 
 CFG = {
     "title": "Witze 1",
+    # Seiten-Metadaten. Stehen NICHT im Seitencode - WordPress speichert sie
+    # getrennt vom Inhalt. Sie landen in der .meta.json neben der Textdatei und
+    # werden entweder von Hand in der Seitenleiste eingetragen oder spaeter vom
+    # Upload-Programm ueber die REST-API mitgeschickt.
+    "slug": "witze-1",
+    "parent": "Witze",
+    "menu_order": 1,
     "joke_word": "Witz",
     "home_nav": ('<a href="/">« Home</a> &nbsp;|&nbsp; '
                  '<a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; '
@@ -265,7 +273,22 @@ def main():
     intro, jokes = parse(text)
     with open(dst, "w", encoding="utf-8") as f:
         f.write(build(intro, jokes, CFG))
+
+    meta = {
+        "post_type": "page",
+        "post_title": CFG["title"],
+        "post_name": CFG["slug"],
+        "post_parent": CFG["parent"],
+        "menu_order": CFG["menu_order"],
+        "content_file": dst,
+        "jokes": len(jokes),
+    }
+    meta_path = re.sub(r"\.txt$", "", dst) + ".meta.json"
+    with open(meta_path, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
+        f.write("\n")
     sys.stderr.write(f"{len(jokes)} Witze umgewandelt -> {dst}\n")
+    sys.stderr.write(f"Metadaten (inkl. Uebergeordnet) -> {meta_path}\n")
 
 
 if __name__ == "__main__":
