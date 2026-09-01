@@ -72,8 +72,12 @@ def german_score(text):
 
 # Gedankenstrich mit Leerzeichen. Beim Halbgeheimnis " -die Seele" fehlt rechts
 # das Leerzeichen, beim Gedankenstrich hinter einer Klammer ")– " links.
-SPLIT_RE = re.compile(r"\s*[–—]\s+|\s+-\s*(?=\S)")
+SPLIT_RE = re.compile(r"\s*[–—]\s+|\s+-\s*(?=\S)|(?<=\S)-\s+")
 EQ_RE = re.compile(r"\s+=\s+")
+
+
+def nur_klammern(text):
+    return text.count("(") == text.count(")") and text.count("[") == text.count("]")
 
 
 def ausgewogen(text):
@@ -113,13 +117,21 @@ def split_pair(line):
             return (None, text, "nur-deutsch")
         return (text, None, "nur-ungarisch")
 
-    bewertet = []
-    for a, b in cands:
-        left, right = text[:a].strip(), text[b:].strip()
-        # Nicht mitten in einer Klammer oder einem Zitat trennen
-        if not left or not right or not ausgewogen(left) or not ausgewogen(right):
-            continue
-        bewertet.append((german_score(right) - german_score(left), left, right))
+    def kandidaten(pruefung):
+        out = []
+        for a, b in cands:
+            left, right = text[:a].strip(), text[b:].strip()
+            if not left or not right or not pruefung(left) or not pruefung(right):
+                continue
+            out.append((german_score(right) - german_score(left), left, right))
+        return out
+
+    # Erst streng: weder Klammer noch Zitat aufschneiden.
+    bewertet = kandidaten(ausgewogen)
+    if not bewertet:
+        # Dann nachsichtig: in mehrzeiligen Zitaten steht das schließende
+        # Anführungszeichen erst Zeilen später, Klammern bleiben aber tabu.
+        bewertet = kandidaten(nur_klammern)
     if not bewertet:
         if ausgewogen(text):
             # Der Strich steckt in einer Klammer - die Zeile bleibt ganz

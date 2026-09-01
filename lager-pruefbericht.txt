@@ -1,6 +1,6 @@
 Pruefbericht Sprachtrennung
 Abschnitte gesamt: 108, davon unveraendert uebernommen: 13
-Zeilen zum Nachsehen: 14
+Zeilen zum Nachsehen: 13
 Arbeitsmarke uebersprungen: 'WEITER WEITER' (0 Zeichen Inhalt)
 Arbeitsmarke uebersprungen: 'M' (0 Zeichen Inhalt)
 
@@ -9,7 +9,6 @@ Arbeitsmarke uebersprungen: 'M' (0 Zeichen Inhalt)
 [unsicher] Witz 274b: „Megvalósítható lenne-e a szocializmus Svájcban?” – „Könnte man auch in der Schweiz den Sozialismus einführen?“ („Könnte man in der Schweiz den Sozialismus realisieren?“
 [nur-deutsch] Witz 274b: (Im Ungarischen gibt es keinen eigenen „Gegenwarts-Konditional“ vs. „Futur-Konditional“ wie im Deutschen. Der Konditional ist zeitlich nicht festgelegt. Die Zeit ergibt sich aus Kontext oder zusätzlichen Wörtern. )
 [nur-ungarisch] Witz 279b: 120-szal [százhúsz-szal]
-[unsicher] Witz 281: „Elérheti-e a Trabant a kétszáz kilométer per órát? – „Kann ein Trabant 200 km/h erreichen?“
 [nur-ungarisch] Witz 284c: neki több van a lóhoz
 [unsicher] Witz 287a: mosolys - mosolygás - das Lächeln
 [unsicher] Witz 288a: ellenőrzetlen (falsch aber gebräuchlich) - ellenőrizetlen (die offizielle Form) - unkontrolliert
