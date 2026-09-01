@@ -1,0 +1,976 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-literatur-lang/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/1-2-2-literatur-lang/">« Zurück zu Kapitel 1.2.2</a> &nbsp;|&nbsp; <span>Kapitel 1.2.3</span> &nbsp;|&nbsp; <a href="/1-3-literatur-lang/">Weiter zu Kapitel 1.3 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>1.2.3 - A monda utóélete az irodalomban – Das Nachleben der Sage in der Literatur</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>1. A csodaszarvas mondája nem maradt a középkori krónikák lapjaira zárva, hanem évszázadokon át megújulva élt tovább a magyar irodalomban. – Die Sage vom Wunderhirsch blieb nicht auf die Seiten der mittelalterlichen Chroniken beschränkt, sondern lebte über Jahrhunderte hinweg immer wieder erneuert in der ungarischen Literatur fort.</p>
+<p>2. A monda utóélete jól mutatja, hogyan válik egy ősi eredettörténetből a nemzeti kultúra időtlen, újra meg újra felidézett jelképe. – Das Nachleben der Sage zeigt gut, wie aus einer uralten Ursprungsgeschichte ein zeitloses, immer wieder aufgerufenes Sinnbild der nationalen Kultur wird.</p>
+<p>3. A történet első írott formáit a 13. századi krónikák, mindenekelőtt Kézai Simon műve és a későbbi Képes krónika rögzítették. – Die ersten schriftlichen Formen der Geschichte hielten die Chroniken des 13. Jahrhunderts fest, vor allem das Werk Simon Kézais und die spätere Bilderchronik.</p>
+<p>4. E krónikák a mondát a hun–magyar rokonság gondolatának szolgálatába állították, ezért a csodaszarvas a nemzeti eredet bizonyítékává vált. – Diese Chroniken stellten die Sage in den Dienst des Gedankens der hunnisch-ungarischen Verwandtschaft, weshalb der Wunderhirsch zum Beweis des nationalen Ursprungs wurde.</p>
+<p>5. A középkori feldolgozások a szóbeli hagyományt latin nyelven és keresztény keretben őrizték meg, ezzel biztosítva a monda fennmaradását. – Die mittelalterlichen Bearbeitungen bewahrten die mündliche Überlieferung in lateinischer Sprache und in christlichem Rahmen und sicherten damit den Fortbestand der Sage.</p>
+<p>6. A monda ezután hosszú időre háttérbe szorult, mert a reneszánsz és a barokk irodalom más témák felé fordult. – Die Sage trat danach für lange Zeit in den Hintergrund, weil sich die Literatur der Renaissance und des Barock anderen Themen zuwandte.</p>
+<p>7. A 18. század végén és a 19. század elején azonban a nemzeti múlt iránti érdeklődés újra ráirányította a figyelmet a régi eredetmondákra. – Am Ende des 18. und zu Beginn des 19. Jahrhunderts lenkte jedoch das Interesse an der nationalen Vergangenheit die Aufmerksamkeit erneut auf die alten Ursprungssagen.</p>
+<p>8. A felvilágosodás és a nemzeti ébredés írói a magyar őstörténetben keresték a közösség önazonosságának gyökereit. – Die Schriftsteller der Aufklärung und des nationalen Erwachens suchten in der ungarischen Urgeschichte die Wurzeln der Selbstidentität der Gemeinschaft.</p>
+<p>9. Ebben a szellemi légkörben a csodaszarvas mondája ismét fontos témává vált, mert a nemzeti eredet költői megjelenítésére kínált anyagot. – In diesem geistigen Klima wurde die Sage vom Wunderhirsch erneut zu einem wichtigen Thema, weil sie Stoff für die dichterische Darstellung des nationalen Ursprungs bot.</p>
+<p>10. A magyar romantika költői a nemzeti eposz megteremtésén fáradoztak, ezért az ősmondák, köztük a csodaszarvas története, különös jelentőséget kaptak. – Die Dichter der ungarischen Romantik mühten sich um die Schaffung eines nationalen Epos, weshalb die Ursagen, darunter die Geschichte des Wunderhirsches, eine besondere Bedeutung erhielten.</p>
+<p>11. Vörösmarty Mihály nagy eposzaiban a honfoglalás és az őstörténet világát idézte fel, és ezzel a mondai anyagot a magas irodalomba emelte. – Mihály Vörösmarty rief in seinen großen Epen die Welt der Landnahme und der Urgeschichte in Erinnerung und erhob damit den Sagenstoff in die hohe Literatur.</p>
+<p>12. Bár Vörösmarty központi műve, a Zalán futása inkább a honfoglalás küzdelmeit ábrázolja, munkássága megnyitotta az utat az ősmondák költői feldolgozása előtt. – Obwohl Vörösmartys zentrales Werk „Zalán futása“ eher die Kämpfe der Landnahme darstellt, öffnete sein Schaffen den Weg zur dichterischen Bearbeitung der Ursagen.</p>
+<p>13. A csodaszarvas mondájának legjelentősebb és legszebb irodalmi feldolgozása mégis Arany János nevéhez fűződik. – Die bedeutendste und schönste literarische Bearbeitung der Sage vom Wunderhirsch ist gleichwohl mit dem Namen János Arany verbunden.</p>
+<p>14. Arany a monda anyagát a Buda halála című eposzának egyik betétjében, a híres Rege a csodaszarvasról című részben dolgozta fel. – Arany bearbeitete den Stoff der Sage in einer Einlage seines Epos „Buda halála“, im berühmten Teil mit dem Titel „Rege a csodaszarvasról“.</p>
+<p>15. A Buda halála 1863-ban jelent meg, és a tervezett hun-trilógia egyetlen elkészült darabja lett, mert a folytatás töredékben maradt. – „Buda halála“ erschien 1863 und wurde das einzige vollendete Stück der geplanten Hunnen-Trilogie, weil die Fortsetzung Bruchstück blieb.</p>
+<p>16. A Rege a csodaszarvasról a monda cselekményét követi, mert Hunor és Magor a csodálatos szarvast űzve jut el a mocsaras új hazába. – Die „Rege a csodaszarvasról“ folgt der Handlung der Sage, weil Hunor und Magor, den wunderbaren Hirsch verfolgend, in die sumpfige neue Heimat gelangen.</p>
+<p>17. Arany azonban nem pusztán újramondja a történetet, hanem sajátos ritmussal, zeneiséggel és képekkel új életet lehel belé. – Arany erzählt die Geschichte jedoch nicht bloß nach, sondern haucht ihr mit einem eigentümlichen Rhythmus, mit Musikalität und mit Bildern neues Leben ein.</p>
+<p>18. A költemény lüktető, ismétlődő ritmusa a régi szóbeli költészet ütemhangsúlyos hagyományát idézi, ezért a mű archaikus és eleven egyszerre. – Der pulsierende, sich wiederholende Rhythmus des Gedichts ruft die taktbetonte Tradition der alten mündlichen Dichtung in Erinnerung, weshalb das Werk zugleich archaisch und lebendig ist.</p>
+<p>19. Arany tudatosan törekedett arra, hogy a nemzeti eposz hangját a népköltészet formáiból és dallamaiból teremtse meg. – Arany strebte bewusst danach, den Ton des nationalen Epos aus den Formen und Melodien der Volksdichtung zu schaffen.</p>
+<p>20. A Rege a csodaszarvasról ezért nemcsak tartalmában, hanem hangzásában is a magyar őshagyomány felidézésének remekműve. – Die „Rege a csodaszarvasról“ ist deshalb nicht nur ihrem Inhalt, sondern auch ihrem Klang nach ein Meisterwerk der Vergegenwärtigung der ungarischen Urüberlieferung.</p>
+<p>21. A vers refrénszerű ismétlései, a „Száll a madár, ágrul ágra” típusú sorok a monda időtlen, dalszerű jellegét emelik ki. – Die kehrreimartigen Wiederholungen des Gedichts, die Zeilen vom Typ „Száll a madár, ágrul ágra“, heben den zeitlosen, liedhaften Charakter der Sage hervor.</p>
+<p>22. Arany feldolgozásában a csodaszarvas nemcsak vezető, hanem a titokzatos sors megtestesítője, amely a hősöket kijelölt útjukon vezeti. – In Aranys Bearbeitung ist der Wunderhirsch nicht nur ein Führer, sondern die Verkörperung des geheimnisvollen Schicksals, das die Helden auf ihrem vorbestimmten Weg leitet.</p>
+<p>23. A költő a monda ősi magját megőrizte, de a lélektani mélységet és a művészi formát a 19. század igényei szerint bontotta ki. – Der Dichter bewahrte den urtümlichen Kern der Sage, entfaltete aber die seelische Tiefe und die künstlerische Form nach den Ansprüchen des 19. Jahrhunderts.</p>
+<p>24. Arany műve nyomán a csodaszarvas végleg a magyar nemzeti költészet egyik központi jelképévé vált. – Im Gefolge von Aranys Werk wurde der Wunderhirsch endgültig zu einem der zentralen Sinnbilder der ungarischen nationalen Dichtung.</p>
+<p>25. A Rege a csodaszarvasról az iskolai oktatás része lett, ezért a monda nemzedékek közös műveltségi élményévé vált. – Die „Rege a csodaszarvasról“ wurde ein Teil des schulischen Unterrichts, weshalb die Sage zu einem gemeinsamen Bildungserlebnis von Generationen wurde.</p>
+<p>26. A monda hatása azonban nem korlátozódott a szépirodalomra, mert a képzőművészet is felfedezte magának a csodaszarvas gazdag jelképiségét. – Die Wirkung der Sage beschränkte sich jedoch nicht auf die schöne Literatur, weil auch die bildende Kunst die reiche Sinnbildlichkeit des Wunderhirsches für sich entdeckte.</p>
+<p>27. A 19. és 20. század magyar festői és szobrászai gyakran ábrázolták az agancsos, fényes szarvast, amely a hősöket új haza felé vezeti. – Die ungarischen Maler und Bildhauer des 19. und 20. Jahrhunderts stellten häufig den geweihtragenden, glänzenden Hirsch dar, der die Helden einer neuen Heimat entgegenführt.</p>
+<p>28. A csodaszarvas képe így a nemzeti önazonosság vizuális jelképévé is vált, amely középületeken, festményeken és emlékműveken egyaránt feltűnt. – Das Bild des Wunderhirsches wurde so auch zu einem visuellen Sinnbild der nationalen Selbstidentität, das an öffentlichen Gebäuden, auf Gemälden und an Denkmälern gleichermaßen erschien.</p>
+<p>29. A szarvasmotívum a magyar szecesszió művészetében is fontos szerepet kapott, mert a mesterek a régi keleti örökséget keresték díszítményeikben. – Das Hirschmotiv erhielt auch in der Kunst des ungarischen Jugendstils eine wichtige Rolle, weil die Meister in ihren Verzierungen das alte östliche Erbe suchten.</p>
+<p>30. A monda tehát nemcsak szövegként, hanem képként is beépült a magyar kultúra jelképrendszerébe. – Die Sage ging also nicht nur als Text, sondern auch als Bild in das Sinnbildsystem der ungarischen Kultur ein.</p>
+<p>31. A csodaszarvas motívuma a néphagyományban is fennmaradt, mert a regösénekek megőrizték a csodálatos, agancsán tüzet hordozó szarvas képét. – Das Motiv des Wunderhirsches blieb auch in der Volksüberlieferung erhalten, weil die Regös-Lieder das Bild des wunderbaren, auf seinem Geweih Feuer tragenden Hirsches bewahrten.</p>
+<p>32. A regösének „csodafiúszarvasa” a monda és a népi hagyomány szoros kapcsolatáról tanúskodik, mert ugyanaz az ősi kép él mindkettőben. – Der „Wunderknabenhirsch“ des Regös-Liedes zeugt von der engen Verbindung der Sage und der volkstümlichen Überlieferung, weil dasselbe urtümliche Bild in beiden lebt.</p>
+<p>33. E kapcsolat mutatja, hogy a csodaszarvas nem csupán a krónikák tudós kitalálása, hanem a szóbeli kultúra mélyen gyökerező öröksége. – Diese Verbindung zeigt, dass der Wunderhirsch nicht bloß eine gelehrte Erfindung der Chroniken ist, sondern ein tief verwurzeltes Erbe der mündlichen Kultur.</p>
+<p>34. A 20. század zenéje szintén megérintette a szarvassá válás ősi képzetét, még ha nem is közvetlenül a csodaszarvas mondáját dolgozta fel. – Auch die Musik des 20. Jahrhunderts berührte die urtümliche Vorstellung der Verwandlung in einen Hirsch, wenn auch nicht unmittelbar die Sage vom Wunderhirsch bearbeitend.</p>
+<p>35. Bartók Béla Cantata profana című műve a szarvassá változott fiúk román eredetű mondáját dolgozza fel, amely rokon a magyar szarvasmítosszal. – Béla Bartóks Werk „Cantata profana“ bearbeitet die Sage rumänischen Ursprungs von den in Hirsche verwandelten Söhnen, die mit dem ungarischen Hirschmythos verwandt ist.</p>
+<p>36. Bár a Cantata profana nem azonos a csodaszarvas mondájával, a szarvas ősi, mitikus jelentése köti össze a két művet. – Obwohl die „Cantata profana“ nicht mit der Sage vom Wunderhirsch identisch ist, verbindet die uralte, mythische Bedeutung des Hirsches die beiden Werke.</p>
+<p>37. Bartók műve azt bizonyítja, hogy a szarvas jelképe a Kárpát-medence több népének közös, mélyen gyökerező hagyománya. – Bartóks Werk beweist, dass das Sinnbild des Hirsches eine gemeinsame, tief verwurzelte Überlieferung mehrerer Völker des Karpatenbeckens ist.</p>
+<p>38. A csodaszarvas mondája így nemcsak a magyar, hanem a tágabb közép-európai kultúra ősi képzetvilágába is beágyazódik. – Die Sage vom Wunderhirsch ist so nicht nur in die urtümliche Vorstellungswelt der ungarischen, sondern auch der weiteren mitteleuropäischen Kultur eingebettet.</p>
+<p>39. A monda utóélete a 20. században sem szakadt meg, mert az írók és költők újra meg újra visszatértek a nemzeti eredet e nagy jelképéhez. – Das Nachleben der Sage riss auch im 20. Jahrhundert nicht ab, weil die Schriftsteller und Dichter immer wieder zu diesem großen Sinnbild des nationalen Ursprungs zurückkehrten.</p>
+<p>40. A modern feldolgozások gyakran új szemszögből közelítettek a mondához, mert a régi történetben a jelen kérdéseire kerestek választ. – Die modernen Bearbeitungen näherten sich der Sage häufig aus einem neuen Blickwinkel, weil sie in der alten Geschichte Antworten auf die Fragen der Gegenwart suchten.</p>
+<p>41. A csodaszarvas így hol a nemzeti sors, hol a keresés, hol a szabadság és az útmutatás jelképeként jelent meg a különböző korokban. – Der Wunderhirsch erschien so in den verschiedenen Zeitaltern bald als Sinnbild des nationalen Schicksals, bald der Suche, bald der Freiheit und der Wegweisung.</p>
+<p>42. A monda rugalmassága éppen abban áll, hogy egyszerű képei minden kor számára új értelmezést tesznek lehetővé. – Die Wandlungsfähigkeit der Sage besteht gerade darin, dass ihre einfachen Bilder jedem Zeitalter eine neue Deutung ermöglichen.</p>
+<p>43. A csodálatos állat űzése az ember örök keresését jelképezi, amely mindig a beteljesülés és az új kezdet felé mutat. – Die Jagd auf das wunderbare Tier versinnbildlicht die ewige Suche des Menschen, die stets auf die Erfüllung und den neuen Anfang hinweist.</p>
+<p>44. Ez az egyetemes jelentés teszi a mondát időtállóvá, mert nemcsak a magyarság, hanem minden ember számára érthető üzenetet hordoz. – Diese allgemeingültige Bedeutung macht die Sage dauerhaft, weil sie nicht nur für das Ungartum, sondern für jeden Menschen eine verständliche Botschaft in sich trägt.</p>
+<p>45. A monda utóélete tehát a nemzeti és az egyetemes jelentés folyamatos kölcsönhatásában bontakozik ki. – Das Nachleben der Sage entfaltet sich also in der ständigen Wechselwirkung der nationalen und der allgemeingültigen Bedeutung.</p>
+<p>46. A csodaszarvas a magyar kultúrában ma is eleven jelkép, mert megjelenik a közéletben, a művészetben és a nemzeti emlékezetben. – Der Wunderhirsch ist in der ungarischen Kultur bis heute ein lebendiges Sinnbild, weil er im öffentlichen Leben, in der Kunst und im nationalen Gedächtnis erscheint.</p>
+<p>47. A monda iskolai tananyagként és közismert kulturális utalásként a mai nemzedékek gondolkodásában is jelen van. – Die Sage ist als Schulstoff und als allgemein bekannte kulturelle Anspielung auch im Denken der heutigen Generationen gegenwärtig.</p>
+<p>48. A csodaszarvas képe filmekben, illusztrációkban és jelvényekben él tovább, ezért a monda a modern vizuális kultúrának is része lett. – Das Bild des Wunderhirsches lebt in Filmen, Illustrationen und Abzeichen fort, weshalb die Sage auch ein Teil der modernen visuellen Kultur wurde.</p>
+<p>49. A monda utóélete azt mutatja, hogy egy ősi történet nem múzeumi tárgy, hanem a kultúra folyamatosan újraértelmezett, eleven öröksége. – Das Nachleben der Sage zeigt, dass eine uralte Geschichte kein Museumsstück ist, sondern ein ständig neu gedeutetes, lebendiges Erbe der Kultur.</p>
+<p>50. A csodaszarvas mondája a krónikáktól Arany Jánosig és a modern művészetig folyamatos, megszakítatlan hagyományt alkot. – Die Sage vom Wunderhirsch bildet von den Chroniken über János Arany bis zur modernen Kunst eine ununterbrochene, fortlaufende Überlieferung.</p>
+<p>51. E hagyomány ereje abban rejlik, hogy minden kor a saját nyelvén és a saját kérdéseivel szólaltatja meg ugyanazt az ősi történetet. – Die Kraft dieser Überlieferung liegt darin, dass jedes Zeitalter dieselbe uralte Geschichte in seiner eigenen Sprache und mit seinen eigenen Fragen zum Sprechen bringt.</p>
+<p>52. A monda így összeköti a régmúlt szóbeli kultúráját a jelen írott, képi és zenei művészetével. – Die Sage verbindet so die mündliche Kultur der fernen Vergangenheit mit der geschriebenen, bildlichen und musikalischen Kunst der Gegenwart.</p>
+<p>53. Arany János feldolgozása kiemelkedő szerepet játszik ebben a folytonosságban, mert a monda máig meghatározó irodalmi arcát ő teremtette meg. – Die Bearbeitung von János Arany spielt in dieser Kontinuität eine herausragende Rolle, weil er das bis heute maßgebliche literarische Gesicht der Sage schuf.</p>
+<p>54. A Rege a csodaszarvasról óta a legtöbb magyar olvasó Arany szavain és ritmusán keresztül képzeli el a csodálatos vadászatot. – Seit der „Rege a csodaszarvasról“ stellt sich die meisten ungarischen Leser die wunderbare Jagd durch Aranys Worte und Rhythmus vor.</p>
+<p>55. Ez a példa jól mutatja, hogy egy nagy költői feldolgozás miként válhat maga is a hagyomány részévé és továbbadójává. – Dieses Beispiel zeigt gut, wie eine große dichterische Bearbeitung selbst zu einem Teil und Weitergeber der Überlieferung werden kann.</p>
+<p>56. A monda utóélete tehát nemcsak az eredeti történet, hanem annak nagy feldolgozásai köré is szerveződik. – Das Nachleben der Sage organisiert sich also nicht nur um die ursprüngliche Geschichte, sondern auch um ihre großen Bearbeitungen.</p>
+<p>57. A csodaszarvas a nemzeti romantika korában a magyar őstörténet iránti vágy legfontosabb kifejezőjévé vált. – Der Wunderhirsch wurde im Zeitalter der nationalen Romantik zum wichtigsten Ausdruck der Sehnsucht nach der ungarischen Urgeschichte.</p>
+<p>58. E korban a költők a mondában a nemzet dicső, hősi múltjának bizonyítékát látták, amely erőt adott a jelen küzdelmeihez. – In diesem Zeitalter sahen die Dichter in der Sage den Beweis der ruhmreichen, heldenhaften Vergangenheit der Nation, der Kraft für die Kämpfe der Gegenwart gab.</p>
+<p>59. A monda így politikai és érzelmi jelentőséget is kapott, mert a nemzeti önállóság és büszkeség eszméjét támogatta. – Die Sage erhielt so auch eine politische und emotionale Bedeutung, weil sie den Gedanken der nationalen Selbstständigkeit und des Stolzes unterstützte.</p>
+<p>60. A 19. századi feldolgozások ereje éppen abban állt, hogy az ősi történetet a jelen nemzeti törekvéseivel kötötték össze. – Die Kraft der Bearbeitungen des 19. Jahrhunderts lag gerade darin, dass sie die uralte Geschichte mit den nationalen Bestrebungen der Gegenwart verbanden.</p>
+<p>61. A csodaszarvas motívuma ugyanakkor az egyetemes mondakincs része is, mert a szarvasűzés más európai hagyományokban is megjelenik. – Das Motiv des Wunderhirsches ist zugleich ein Teil des allgemeinen Sagenschatzes, weil die Hirschjagd auch in anderen europäischen Überlieferungen erscheint.</p>
+<p>62. Ez a párhuzam gazdagítja a magyar monda értelmezését, mert megmutatja egyetemes, emberi gyökereit. – Diese Parallele bereichert die Deutung der ungarischen Sage, weil sie ihre allgemeinen, menschlichen Wurzeln aufzeigt.</p>
+<p>63. A monda utóélete tehát a magyar és az európai hagyomány kölcsönhatásában is értelmezhető, nemcsak elszigetelt nemzeti jelenségként. – Das Nachleben der Sage lässt sich also auch in der Wechselwirkung der ungarischen und der europäischen Überlieferung deuten, nicht nur als isolierte nationale Erscheinung.</p>
+<p>64. A csodálatos szarvas képe a keresztény kultúrában is ismerős, mert a szarvas az európai legendákban gyakran isteni útmutatás hordozója. – Das Bild des wunderbaren Hirsches ist auch in der christlichen Kultur vertraut, weil der Hirsch in den europäischen Legenden häufig Träger göttlicher Wegweisung ist.</p>
+<p>65. Ez a rokonság megkönnyítette, hogy a pogány eredetű magyar monda a keresztény korban is fennmaradjon és új értelmezést nyerjen. – Diese Verwandtschaft erleichterte es, dass die ungarische Sage heidnischen Ursprungs auch im christlichen Zeitalter fortbestand und eine neue Deutung erhielt.</p>
+<p>66. A monda tehát a különböző hagyományok találkozási pontján áll, ezért képes folyamatosan új jelentésekkel gazdagodni. – Die Sage steht also am Treffpunkt der verschiedenen Überlieferungen, weshalb sie sich fortwährend mit neuen Bedeutungen bereichern kann.</p>
+<p>67. A csodaszarvas mondája a magyar irodalom önértelmezésében a legkorábbi, ősi réteget képviseli, amelyhez a későbbi korok újra és újra visszanyúltak. – Die Sage vom Wunderhirsch vertritt in der Selbstdeutung der ungarischen Literatur die früheste, urtümliche Schicht, auf die die späteren Zeitalter immer wieder zurückgriffen.</p>
+<p>68. E visszanyúlás minden alkalommal megerősítette a folytonosság érzését a régmúlt és a jelen között. – Dieses Zurückgreifen bekräftigte jedes Mal das Gefühl der Kontinuität zwischen der fernen Vergangenheit und der Gegenwart.</p>
+<p>69. A monda így a nemzeti emlékezet egyik legfontosabb hídjává vált, amely a legrégibb kort a modern kultúrával köti össze. – Die Sage wurde so zu einer der wichtigsten Brücken des nationalen Gedächtnisses, die das älteste Zeitalter mit der modernen Kultur verbindet.</p>
+<p>70. A csodaszarvas képe a magyarság számára ma is az eredet, az útkeresés és a sorsszerűség sűrített jelképe. – Das Bild des Wunderhirsches ist für das Ungartum bis heute das verdichtete Sinnbild des Ursprungs, der Wegsuche und der Schicksalhaftigkeit.</p>
+<p>71. A monda utóéletének vizsgálata megmutatja, hogyan él tovább egy ősi szöveg a folyamatos újraalkotás révén. – Die Untersuchung des Nachlebens der Sage zeigt, wie ein uralter Text durch die ständige Neuschöpfung fortlebt.</p>
+<p>72. Minden új feldolgozás egyszerre őrzi és átalakítja az eredetit, ezért a hagyomány egyszerre állandó és változó. – Jede neue Bearbeitung bewahrt und verwandelt zugleich das Ursprüngliche, weshalb die Überlieferung zugleich beständig und veränderlich ist.</p>
+<p>73. A csodaszarvas mondája ennek a kettősségnek a legszebb magyar példája, mert ősi magja mindig ugyanaz, formája mégis koronként új. – Die Sage vom Wunderhirsch ist das schönste ungarische Beispiel dieser Doppelheit, weil ihr urtümlicher Kern stets derselbe ist, ihre Form aber von Zeitalter zu Zeitalter neu.</p>
+<p>74. A monda az irodalmon túl a nemzeti önismeret eszközévé is vált, mert a magyarság önmagáról gondolkodva mindig visszatér eredetéhez. – Die Sage wurde über die Literatur hinaus auch zu einem Mittel der nationalen Selbsterkenntnis, weil das Ungartum, über sich selbst nachdenkend, stets zu seinem Ursprung zurückkehrt.</p>
+<p>75. A csodaszarvas így nemcsak a múlt emléke, hanem a jelen önértelmezésének is eleven eszköze. – Der Wunderhirsch ist so nicht nur die Erinnerung an die Vergangenheit, sondern auch ein lebendiges Mittel der Selbstdeutung der Gegenwart.</p>
+<p>76. A monda irodalmi utóélete jól szemlélteti a szóbeli hagyomány és az írott irodalom közötti folytonos kapcsolatot. – Das literarische Nachleben der Sage veranschaulicht gut die fortwährende Verbindung zwischen der mündlichen Überlieferung und der geschriebenen Literatur.</p>
+<p>77. A szóban élő monda a krónikák révén írásba került, majd az írott irodalom ismét visszaadta a közösségnek megújított formában. – Die mündlich lebende Sage gelangte durch die Chroniken in die Schrift, und die geschriebene Literatur gab sie der Gemeinschaft dann erneut in erneuerter Form zurück.</p>
+<p>78. Ez a körforgás mutatja, hogy a szóbeliség és az írásbeliség nem elválik, hanem folyamatosan táplálja egymást. – Dieser Kreislauf zeigt, dass die Mündlichkeit und die Schriftlichkeit sich nicht trennen, sondern einander fortwährend nähren.</p>
+<p>79. A csodaszarvas mondája így a magyar irodalom egészének kicsinyített mása, amelyben a szóbeli eredet és az írott továbbélés egyszerre van jelen. – Die Sage vom Wunderhirsch ist so ein verkleinertes Abbild der gesamten ungarischen Literatur, in dem der mündliche Ursprung und das geschriebene Fortleben zugleich gegenwärtig sind.</p>
+<p>80. A monda utóélete arra tanít, hogy a nemzeti kultúra nem kész örökség, hanem minden nemzedék által újraépített, eleven hagyomány. – Das Nachleben der Sage lehrt, dass die nationale Kultur kein fertiges Erbe ist, sondern eine von jeder Generation neu aufgebaute, lebendige Überlieferung.</p>
+<p>81. Arany János feldolgozása után a monda költői ereje új nemzedékeket ihletett meg, akik a maguk módján folytatták a hagyományt. – Nach der Bearbeitung von János Arany begeisterte die dichterische Kraft der Sage neue Generationen, die die Überlieferung auf ihre Weise fortsetzten.</p>
+<p>82. A 20. századi költők közül többen is visszanyúltak a szarvas jelképéhez, hogy a modern ember keresését és otthontalanságát fejezzék ki. – Von den Dichtern des 20. Jahrhunderts griffen mehrere auf das Sinnbild des Hirsches zurück, um die Suche und die Heimatlosigkeit des modernen Menschen auszudrücken.</p>
+<p>83. A régi mondai kép így alkalmassá vált a legmélyebb egzisztenciális kérdések megjelenítésére is. – Das alte Sagenbild wurde so auch geeignet, die tiefsten existenziellen Fragen darzustellen.</p>
+<p>84. A csodaszarvas űzése a beteljesíthetetlen vágy, az örök úton levés és a haza keresésének modern jelképévé is válhatott. – Die Jagd auf den Wunderhirsch konnte auch zum modernen Sinnbild der unerfüllbaren Sehnsucht, des ewigen Unterwegsseins und der Suche nach der Heimat werden.</p>
+<p>85. Ez a jelentésgazdagság biztosítja, hogy a monda a jövőben is új feldolgozásokat és értelmezéseket hívjon életre. – Dieser Bedeutungsreichtum sichert, dass die Sage auch in der Zukunft neue Bearbeitungen und Deutungen ins Leben ruft.</p>
+<p>86. A csodaszarvas mondája tehát nem lezárt történet, hanem nyitott, folyamatosan alakuló kulturális jelkép. – Die Sage vom Wunderhirsch ist also keine abgeschlossene Geschichte, sondern ein offenes, sich ständig wandelndes kulturelles Sinnbild.</p>
+<p>87. A monda utóélete a magyar kultúra egyik legszebb példája arra, hogyan válik a történelem előtti idő öröksége élő jelenné. – Das Nachleben der Sage ist eines der schönsten Beispiele der ungarischen Kultur dafür, wie das Erbe der vorgeschichtlichen Zeit zur lebendigen Gegenwart wird.</p>
+<p>88. A csodaszarvas a legrégibb magyar mondai örökség és a mindenkori jelen kreativitásának találkozási pontja. – Der Wunderhirsch ist der Treffpunkt des ältesten ungarischen Sagenerbes und der Schöpferkraft der jeweiligen Gegenwart.</p>
+<p>89. E találkozásból születnek azok az új művek, amelyek a régi történetet mindig új fényben mutatják meg. – Aus dieser Begegnung entstehen jene neuen Werke, die die alte Geschichte stets in einem neuen Licht zeigen.</p>
+<p>90. A monda utóélete így a magyar irodalmi hagyomány folytonosságának és megújuló képességének egyik legfontosabb bizonyítéka. – Das Nachleben der Sage ist so einer der wichtigsten Beweise für die Kontinuität und die Erneuerungsfähigkeit der ungarischen literarischen Überlieferung.</p>
+<p>91. A csodaszarvas mondája a középkori krónikáktól a mai kultúráig ívelő, töretlen hagyományvonalat képvisel. – Die Sage vom Wunderhirsch vertritt eine ununterbrochene Überlieferungslinie, die sich von den mittelalterlichen Chroniken bis zur heutigen Kultur spannt.</p>
+<p>92. E hagyományvonal mentén a monda mindvégig megőrizte ősi magját, miközben formája koronként megújult. – Entlang dieser Überlieferungslinie bewahrte die Sage durchweg ihren urtümlichen Kern, während sich ihre Form von Zeitalter zu Zeitalter erneuerte.</p>
+<p>93. A monda tartósságának titka éppen ez a rugalmasság, amely lehetővé teszi az állandó újraértelmezést. – Das Geheimnis der Beständigkeit der Sage ist gerade diese Wandlungsfähigkeit, die die ständige Neudeutung ermöglicht.</p>
+<p>94. A csodaszarvas így a magyar kulturális emlékezet egyik legmélyebb és legmaradandóbb rétegévé vált. – Der Wunderhirsch wurde so zu einer der tiefsten und bleibendsten Schichten des ungarischen kulturellen Gedächtnisses.</p>
+<p>95. A monda utóéletének megismerése segít megérteni, hogyan épül fel és él tovább egy nemzet közös jelképvilága. – Die Kenntnis des Nachlebens der Sage hilft zu verstehen, wie sich die gemeinsame Sinnbildwelt einer Nation aufbaut und fortlebt.</p>
+<p>96. A csodaszarvas mondája a szóbeliségből indult, az írásbeliségben őrződött meg, és a művészet minden ágában új életre kelt. – Die Sage vom Wunderhirsch ging aus der Mündlichkeit hervor, wurde in der Schriftlichkeit bewahrt und erwachte in jedem Zweig der Kunst zu neuem Leben.</p>
+<p>97. E hosszú út során a monda a magyar kultúra egyik legjellemzőbb és legszeretettebb jelképévé emelkedett. – Auf diesem langen Weg stieg die Sage zu einem der kennzeichnendsten und beliebtesten Sinnbilder der ungarischen Kultur auf.</p>
+<p>98. A csodaszarvas képe ma is a nemzeti eredet és a közös múlt eleven jelenlétét idézi fel a magyar emberek tudatában. – Das Bild des Wunderhirsches ruft auch heute die lebendige Gegenwart des nationalen Ursprungs und der gemeinsamen Vergangenheit im Bewusstsein der ungarischen Menschen wach.</p>
+<p>99. A monda utóélete tehát nem lezárult, hanem folytatódó történet, amelyhez minden új nemzedék hozzáteszi a maga értelmezését. – Das Nachleben der Sage ist also keine abgeschlossene, sondern eine fortdauernde Geschichte, zu der jede neue Generation ihre eigene Deutung hinzufügt.</p>
+<p>100. A csodaszarvas mondája így a magyar irodalom élő gyökere marad, amely a legrégibb kortól napjainkig folyamatosan táplálja a nemzeti képzeletet. – Die Sage vom Wunderhirsch bleibt so eine lebendige Wurzel der ungarischen Literatur, die von der ältesten Zeit bis in unsere Tage die nationale Phantasie fortwährend nährt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A csodaszarvas mondája nem maradt a középkori krónikák lapjaira zárva, hanem évszázadokon át megújulva élt tovább a magyar irodalomban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A monda utóélete jól mutatja, hogyan válik egy ősi eredettörténetből a nemzeti kultúra időtlen, újra meg újra felidézett jelképe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A történet első írott formáit a 13. századi krónikák, mindenekelőtt Kézai Simon műve és a későbbi Képes krónika rögzítették.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. E krónikák a mondát a hun–magyar rokonság gondolatának szolgálatába állították, ezért a csodaszarvas a nemzeti eredet bizonyítékává vált.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A középkori feldolgozások a szóbeli hagyományt latin nyelven és keresztény keretben őrizték meg, ezzel biztosítva a monda fennmaradását.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A monda ezután hosszú időre háttérbe szorult, mert a reneszánsz és a barokk irodalom más témák felé fordult.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A 18. század végén és a 19. század elején azonban a nemzeti múlt iránti érdeklődés újra ráirányította a figyelmet a régi eredetmondákra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A felvilágosodás és a nemzeti ébredés írói a magyar őstörténetben keresték a közösség önazonosságának gyökereit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Ebben a szellemi légkörben a csodaszarvas mondája ismét fontos témává vált, mert a nemzeti eredet költői megjelenítésére kínált anyagot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. A magyar romantika költői a nemzeti eposz megteremtésén fáradoztak, ezért az ősmondák, köztük a csodaszarvas története, különös jelentőséget kaptak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Vörösmarty Mihály nagy eposzaiban a honfoglalás és az őstörténet világát idézte fel, és ezzel a mondai anyagot a magas irodalomba emelte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Bár Vörösmarty központi műve, a Zalán futása inkább a honfoglalás küzdelmeit ábrázolja, munkássága megnyitotta az utat az ősmondák költői feldolgozása előtt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. A csodaszarvas mondájának legjelentősebb és legszebb irodalmi feldolgozása mégis Arany János nevéhez fűződik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Arany a monda anyagát a Buda halála című eposzának egyik betétjében, a híres Rege a csodaszarvasról című részben dolgozta fel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. A Buda halála 1863-ban jelent meg, és a tervezett hun-trilógia egyetlen elkészült darabja lett, mert a folytatás töredékben maradt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. A Rege a csodaszarvasról a monda cselekményét követi, mert Hunor és Magor a csodálatos szarvast űzve jut el a mocsaras új hazába.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Arany azonban nem pusztán újramondja a történetet, hanem sajátos ritmussal, zeneiséggel és képekkel új életet lehel belé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. A költemény lüktető, ismétlődő ritmusa a régi szóbeli költészet ütemhangsúlyos hagyományát idézi, ezért a mű archaikus és eleven egyszerre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. Arany tudatosan törekedett arra, hogy a nemzeti eposz hangját a népköltészet formáiból és dallamaiból teremtse meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. A Rege a csodaszarvasról ezért nemcsak tartalmában, hanem hangzásában is a magyar őshagyomány felidézésének remekműve.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. A vers refrénszerű ismétlései, a „Száll a madár, ágrul ágra” típusú sorok a monda időtlen, dalszerű jellegét emelik ki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>22. Arany feldolgozásában a csodaszarvas nemcsak vezető, hanem a titokzatos sors megtestesítője, amely a hősöket kijelölt útjukon vezeti.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>23. A költő a monda ősi magját megőrizte, de a lélektani mélységet és a művészi formát a 19. század igényei szerint bontotta ki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>24. Arany műve nyomán a csodaszarvas végleg a magyar nemzeti költészet egyik központi jelképévé vált.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>25. A Rege a csodaszarvasról az iskolai oktatás része lett, ezért a monda nemzedékek közös műveltségi élményévé vált.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>26. A monda hatása azonban nem korlátozódott a szépirodalomra, mert a képzőművészet is felfedezte magának a csodaszarvas gazdag jelképiségét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>27. A 19. és 20. század magyar festői és szobrászai gyakran ábrázolták az agancsos, fényes szarvast, amely a hősöket új haza felé vezeti.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>28. A csodaszarvas képe így a nemzeti önazonosság vizuális jelképévé is vált, amely középületeken, festményeken és emlékműveken egyaránt feltűnt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>29. A szarvasmotívum a magyar szecesszió művészetében is fontos szerepet kapott, mert a mesterek a régi keleti örökséget keresték díszítményeikben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>30. A monda tehát nemcsak szövegként, hanem képként is beépült a magyar kultúra jelképrendszerébe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>31. A csodaszarvas motívuma a néphagyományban is fennmaradt, mert a regösénekek megőrizték a csodálatos, agancsán tüzet hordozó szarvas képét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>32. A regösének „csodafiúszarvasa” a monda és a népi hagyomány szoros kapcsolatáról tanúskodik, mert ugyanaz az ősi kép él mindkettőben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>33. E kapcsolat mutatja, hogy a csodaszarvas nem csupán a krónikák tudós kitalálása, hanem a szóbeli kultúra mélyen gyökerező öröksége.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>34. A 20. század zenéje szintén megérintette a szarvassá válás ősi képzetét, még ha nem is közvetlenül a csodaszarvas mondáját dolgozta fel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>35. Bartók Béla Cantata profana című műve a szarvassá változott fiúk román eredetű mondáját dolgozza fel, amely rokon a magyar szarvasmítosszal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>36. Bár a Cantata profana nem azonos a csodaszarvas mondájával, a szarvas ősi, mitikus jelentése köti össze a két művet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>37. Bartók műve azt bizonyítja, hogy a szarvas jelképe a Kárpát-medence több népének közös, mélyen gyökerező hagyománya.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>38. A csodaszarvas mondája így nemcsak a magyar, hanem a tágabb közép-európai kultúra ősi képzetvilágába is beágyazódik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>39. A monda utóélete a 20. században sem szakadt meg, mert az írók és költők újra meg újra visszatértek a nemzeti eredet e nagy jelképéhez.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>40. A modern feldolgozások gyakran új szemszögből közelítettek a mondához, mert a régi történetben a jelen kérdéseire kerestek választ.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>41. A csodaszarvas így hol a nemzeti sors, hol a keresés, hol a szabadság és az útmutatás jelképeként jelent meg a különböző korokban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>42. A monda rugalmassága éppen abban áll, hogy egyszerű képei minden kor számára új értelmezést tesznek lehetővé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>43. A csodálatos állat űzése az ember örök keresését jelképezi, amely mindig a beteljesülés és az új kezdet felé mutat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>44. Ez az egyetemes jelentés teszi a mondát időtállóvá, mert nemcsak a magyarság, hanem minden ember számára érthető üzenetet hordoz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>45. A monda utóélete tehát a nemzeti és az egyetemes jelentés folyamatos kölcsönhatásában bontakozik ki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>46. A csodaszarvas a magyar kultúrában ma is eleven jelkép, mert megjelenik a közéletben, a művészetben és a nemzeti emlékezetben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>47. A monda iskolai tananyagként és közismert kulturális utalásként a mai nemzedékek gondolkodásában is jelen van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>48. A csodaszarvas képe filmekben, illusztrációkban és jelvényekben él tovább, ezért a monda a modern vizuális kultúrának is része lett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>49. A monda utóélete azt mutatja, hogy egy ősi történet nem múzeumi tárgy, hanem a kultúra folyamatosan újraértelmezett, eleven öröksége.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>50. A csodaszarvas mondája a krónikáktól Arany Jánosig és a modern művészetig folyamatos, megszakítatlan hagyományt alkot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>51. E hagyomány ereje abban rejlik, hogy minden kor a saját nyelvén és a saját kérdéseivel szólaltatja meg ugyanazt az ősi történetet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>52. A monda így összeköti a régmúlt szóbeli kultúráját a jelen írott, képi és zenei művészetével.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>53. Arany János feldolgozása kiemelkedő szerepet játszik ebben a folytonosságban, mert a monda máig meghatározó irodalmi arcát ő teremtette meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>54. A Rege a csodaszarvasról óta a legtöbb magyar olvasó Arany szavain és ritmusán keresztül képzeli el a csodálatos vadászatot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>55. Ez a példa jól mutatja, hogy egy nagy költői feldolgozás miként válhat maga is a hagyomány részévé és továbbadójává.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>56. A monda utóélete tehát nemcsak az eredeti történet, hanem annak nagy feldolgozásai köré is szerveződik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>57. A csodaszarvas a nemzeti romantika korában a magyar őstörténet iránti vágy legfontosabb kifejezőjévé vált.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>58. E korban a költők a mondában a nemzet dicső, hősi múltjának bizonyítékát látták, amely erőt adott a jelen küzdelmeihez.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>59. A monda így politikai és érzelmi jelentőséget is kapott, mert a nemzeti önállóság és büszkeség eszméjét támogatta.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>60. A 19. századi feldolgozások ereje éppen abban állt, hogy az ősi történetet a jelen nemzeti törekvéseivel kötötték össze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>61. A csodaszarvas motívuma ugyanakkor az egyetemes mondakincs része is, mert a szarvasűzés más európai hagyományokban is megjelenik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>62. Ez a párhuzam gazdagítja a magyar monda értelmezését, mert megmutatja egyetemes, emberi gyökereit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>63. A monda utóélete tehát a magyar és az európai hagyomány kölcsönhatásában is értelmezhető, nemcsak elszigetelt nemzeti jelenségként.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>64. A csodálatos szarvas képe a keresztény kultúrában is ismerős, mert a szarvas az európai legendákban gyakran isteni útmutatás hordozója.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>65. Ez a rokonság megkönnyítette, hogy a pogány eredetű magyar monda a keresztény korban is fennmaradjon és új értelmezést nyerjen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>66. A monda tehát a különböző hagyományok találkozási pontján áll, ezért képes folyamatosan új jelentésekkel gazdagodni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>67. A csodaszarvas mondája a magyar irodalom önértelmezésében a legkorábbi, ősi réteget képviseli, amelyhez a későbbi korok újra és újra visszanyúltak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>68. E visszanyúlás minden alkalommal megerősítette a folytonosság érzését a régmúlt és a jelen között.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>69. A monda így a nemzeti emlékezet egyik legfontosabb hídjává vált, amely a legrégibb kort a modern kultúrával köti össze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>70. A csodaszarvas képe a magyarság számára ma is az eredet, az útkeresés és a sorsszerűség sűrített jelképe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>71. A monda utóéletének vizsgálata megmutatja, hogyan él tovább egy ősi szöveg a folyamatos újraalkotás révén.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>72. Minden új feldolgozás egyszerre őrzi és átalakítja az eredetit, ezért a hagyomány egyszerre állandó és változó.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>73. A csodaszarvas mondája ennek a kettősségnek a legszebb magyar példája, mert ősi magja mindig ugyanaz, formája mégis koronként új.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>74. A monda az irodalmon túl a nemzeti önismeret eszközévé is vált, mert a magyarság önmagáról gondolkodva mindig visszatér eredetéhez.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>75. A csodaszarvas így nemcsak a múlt emléke, hanem a jelen önértelmezésének is eleven eszköze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>76. A monda irodalmi utóélete jól szemlélteti a szóbeli hagyomány és az írott irodalom közötti folytonos kapcsolatot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>77. A szóban élő monda a krónikák révén írásba került, majd az írott irodalom ismét visszaadta a közösségnek megújított formában.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>78. Ez a körforgás mutatja, hogy a szóbeliség és az írásbeliség nem elválik, hanem folyamatosan táplálja egymást.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>79. A csodaszarvas mondája így a magyar irodalom egészének kicsinyített mása, amelyben a szóbeli eredet és az írott továbbélés egyszerre van jelen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>80. A monda utóélete arra tanít, hogy a nemzeti kultúra nem kész örökség, hanem minden nemzedék által újraépített, eleven hagyomány.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>81. Arany János feldolgozása után a monda költői ereje új nemzedékeket ihletett meg, akik a maguk módján folytatták a hagyományt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>82. A 20. századi költők közül többen is visszanyúltak a szarvas jelképéhez, hogy a modern ember keresését és otthontalanságát fejezzék ki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>83. A régi mondai kép így alkalmassá vált a legmélyebb egzisztenciális kérdések megjelenítésére is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>84. A csodaszarvas űzése a beteljesíthetetlen vágy, az örök úton levés és a haza keresésének modern jelképévé is válhatott.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>85. Ez a jelentésgazdagság biztosítja, hogy a monda a jövőben is új feldolgozásokat és értelmezéseket hívjon életre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>86. A csodaszarvas mondája tehát nem lezárt történet, hanem nyitott, folyamatosan alakuló kulturális jelkép.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>87. A monda utóélete a magyar kultúra egyik legszebb példája arra, hogyan válik a történelem előtti idő öröksége élő jelenné.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>88. A csodaszarvas a legrégibb magyar mondai örökség és a mindenkori jelen kreativitásának találkozási pontja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>89. E találkozásból születnek azok az új művek, amelyek a régi történetet mindig új fényben mutatják meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>90. A monda utóélete így a magyar irodalmi hagyomány folytonosságának és megújuló képességének egyik legfontosabb bizonyítéka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>91. A csodaszarvas mondája a középkori krónikáktól a mai kultúráig ívelő, töretlen hagyományvonalat képvisel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>92. E hagyományvonal mentén a monda mindvégig megőrizte ősi magját, miközben formája koronként megújult.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>93. A monda tartósságának titka éppen ez a rugalmasság, amely lehetővé teszi az állandó újraértelmezést.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>94. A csodaszarvas így a magyar kulturális emlékezet egyik legmélyebb és legmaradandóbb rétegévé vált.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>95. A monda utóéletének megismerése segít megérteni, hogyan épül fel és él tovább egy nemzet közös jelképvilága.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>96. A csodaszarvas mondája a szóbeliségből indult, az írásbeliségben őrződött meg, és a művészet minden ágában új életre kelt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>97. E hosszú út során a monda a magyar kultúra egyik legjellemzőbb és legszeretettebb jelképévé emelkedett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>98. A csodaszarvas képe ma is a nemzeti eredet és a közös múlt eleven jelenlétét idézi fel a magyar emberek tudatában.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>99. A monda utóélete tehát nem lezárult, hanem folytatódó történet, amelyhez minden új nemzedék hozzáteszi a maga értelmezését.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>100. A csodaszarvas mondája így a magyar irodalom élő gyökere marad, amely a legrégibb kortól napjainkig folyamatosan táplálja a nemzeti képzeletet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Sage vom Wunderhirsch blieb nicht auf die Seiten der mittelalterlichen Chroniken beschränkt, sondern lebte über Jahrhunderte hinweg immer wieder erneuert in der ungarischen Literatur fort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Das Nachleben der Sage zeigt gut, wie aus einer uralten Ursprungsgeschichte ein zeitloses, immer wieder aufgerufenes Sinnbild der nationalen Kultur wird.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die ersten schriftlichen Formen der Geschichte hielten die Chroniken des 13. Jahrhunderts fest, vor allem das Werk Simon Kézais und die spätere Bilderchronik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Diese Chroniken stellten die Sage in den Dienst des Gedankens der hunnisch-ungarischen Verwandtschaft, weshalb der Wunderhirsch zum Beweis des nationalen Ursprungs wurde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Die mittelalterlichen Bearbeitungen bewahrten die mündliche Überlieferung in lateinischer Sprache und in christlichem Rahmen und sicherten damit den Fortbestand der Sage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Die Sage trat danach für lange Zeit in den Hintergrund, weil sich die Literatur der Renaissance und des Barock anderen Themen zuwandte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Am Ende des 18. und zu Beginn des 19. Jahrhunderts lenkte jedoch das Interesse an der nationalen Vergangenheit die Aufmerksamkeit erneut auf die alten Ursprungssagen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Die Schriftsteller der Aufklärung und des nationalen Erwachens suchten in der ungarischen Urgeschichte die Wurzeln der Selbstidentität der Gemeinschaft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. In diesem geistigen Klima wurde die Sage vom Wunderhirsch erneut zu einem wichtigen Thema, weil sie Stoff für die dichterische Darstellung des nationalen Ursprungs bot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Die Dichter der ungarischen Romantik mühten sich um die Schaffung eines nationalen Epos, weshalb die Ursagen, darunter die Geschichte des Wunderhirsches, eine besondere Bedeutung erhielten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Mihály Vörösmarty rief in seinen großen Epen die Welt der Landnahme und der Urgeschichte in Erinnerung und erhob damit den Sagenstoff in die hohe Literatur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Obwohl Vörösmartys zentrales Werk „Zalán futása“ eher die Kämpfe der Landnahme darstellt, öffnete sein Schaffen den Weg zur dichterischen Bearbeitung der Ursagen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Die bedeutendste und schönste literarische Bearbeitung der Sage vom Wunderhirsch ist gleichwohl mit dem Namen János Arany verbunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Arany bearbeitete den Stoff der Sage in einer Einlage seines Epos „Buda halála“, im berühmten Teil mit dem Titel „Rege a csodaszarvasról“.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. „Buda halála“ erschien 1863 und wurde das einzige vollendete Stück der geplanten Hunnen-Trilogie, weil die Fortsetzung Bruchstück blieb.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. Die „Rege a csodaszarvasról“ folgt der Handlung der Sage, weil Hunor und Magor, den wunderbaren Hirsch verfolgend, in die sumpfige neue Heimat gelangen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Arany erzählt die Geschichte jedoch nicht bloß nach, sondern haucht ihr mit einem eigentümlichen Rhythmus, mit Musikalität und mit Bildern neues Leben ein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Der pulsierende, sich wiederholende Rhythmus des Gedichts ruft die taktbetonte Tradition der alten mündlichen Dichtung in Erinnerung, weshalb das Werk zugleich archaisch und lebendig ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. Arany strebte bewusst danach, den Ton des nationalen Epos aus den Formen und Melodien der Volksdichtung zu schaffen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. Die „Rege a csodaszarvasról“ ist deshalb nicht nur ihrem Inhalt, sondern auch ihrem Klang nach ein Meisterwerk der Vergegenwärtigung der ungarischen Urüberlieferung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. Die kehrreimartigen Wiederholungen des Gedichts, die Zeilen vom Typ „Száll a madár, ágrul ágra“, heben den zeitlosen, liedhaften Charakter der Sage hervor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>22. In Aranys Bearbeitung ist der Wunderhirsch nicht nur ein Führer, sondern die Verkörperung des geheimnisvollen Schicksals, das die Helden auf ihrem vorbestimmten Weg leitet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>23. Der Dichter bewahrte den urtümlichen Kern der Sage, entfaltete aber die seelische Tiefe und die künstlerische Form nach den Ansprüchen des 19. Jahrhunderts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>24. Im Gefolge von Aranys Werk wurde der Wunderhirsch endgültig zu einem der zentralen Sinnbilder der ungarischen nationalen Dichtung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>25. Die „Rege a csodaszarvasról“ wurde ein Teil des schulischen Unterrichts, weshalb die Sage zu einem gemeinsamen Bildungserlebnis von Generationen wurde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>26. Die Wirkung der Sage beschränkte sich jedoch nicht auf die schöne Literatur, weil auch die bildende Kunst die reiche Sinnbildlichkeit des Wunderhirsches für sich entdeckte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>27. Die ungarischen Maler und Bildhauer des 19. und 20. Jahrhunderts stellten häufig den geweihtragenden, glänzenden Hirsch dar, der die Helden einer neuen Heimat entgegenführt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>28. Das Bild des Wunderhirsches wurde so auch zu einem visuellen Sinnbild der nationalen Selbstidentität, das an öffentlichen Gebäuden, auf Gemälden und an Denkmälern gleichermaßen erschien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>29. Das Hirschmotiv erhielt auch in der Kunst des ungarischen Jugendstils eine wichtige Rolle, weil die Meister in ihren Verzierungen das alte östliche Erbe suchten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>30. Die Sage ging also nicht nur als Text, sondern auch als Bild in das Sinnbildsystem der ungarischen Kultur ein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>31. Das Motiv des Wunderhirsches blieb auch in der Volksüberlieferung erhalten, weil die Regös-Lieder das Bild des wunderbaren, auf seinem Geweih Feuer tragenden Hirsches bewahrten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>32. Der „Wunderknabenhirsch“ des Regös-Liedes zeugt von der engen Verbindung der Sage und der volkstümlichen Überlieferung, weil dasselbe urtümliche Bild in beiden lebt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>33. Diese Verbindung zeigt, dass der Wunderhirsch nicht bloß eine gelehrte Erfindung der Chroniken ist, sondern ein tief verwurzeltes Erbe der mündlichen Kultur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>34. Auch die Musik des 20. Jahrhunderts berührte die urtümliche Vorstellung der Verwandlung in einen Hirsch, wenn auch nicht unmittelbar die Sage vom Wunderhirsch bearbeitend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>35. Béla Bartóks Werk „Cantata profana“ bearbeitet die Sage rumänischen Ursprungs von den in Hirsche verwandelten Söhnen, die mit dem ungarischen Hirschmythos verwandt ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>36. Obwohl die „Cantata profana“ nicht mit der Sage vom Wunderhirsch identisch ist, verbindet die uralte, mythische Bedeutung des Hirsches die beiden Werke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>37. Bartóks Werk beweist, dass das Sinnbild des Hirsches eine gemeinsame, tief verwurzelte Überlieferung mehrerer Völker des Karpatenbeckens ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>38. Die Sage vom Wunderhirsch ist so nicht nur in die urtümliche Vorstellungswelt der ungarischen, sondern auch der weiteren mitteleuropäischen Kultur eingebettet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>39. Das Nachleben der Sage riss auch im 20. Jahrhundert nicht ab, weil die Schriftsteller und Dichter immer wieder zu diesem großen Sinnbild des nationalen Ursprungs zurückkehrten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>40. Die modernen Bearbeitungen näherten sich der Sage häufig aus einem neuen Blickwinkel, weil sie in der alten Geschichte Antworten auf die Fragen der Gegenwart suchten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>41. Der Wunderhirsch erschien so in den verschiedenen Zeitaltern bald als Sinnbild des nationalen Schicksals, bald der Suche, bald der Freiheit und der Wegweisung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>42. Die Wandlungsfähigkeit der Sage besteht gerade darin, dass ihre einfachen Bilder jedem Zeitalter eine neue Deutung ermöglichen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>43. Die Jagd auf das wunderbare Tier versinnbildlicht die ewige Suche des Menschen, die stets auf die Erfüllung und den neuen Anfang hinweist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>44. Diese allgemeingültige Bedeutung macht die Sage dauerhaft, weil sie nicht nur für das Ungartum, sondern für jeden Menschen eine verständliche Botschaft in sich trägt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>45. Das Nachleben der Sage entfaltet sich also in der ständigen Wechselwirkung der nationalen und der allgemeingültigen Bedeutung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>46. Der Wunderhirsch ist in der ungarischen Kultur bis heute ein lebendiges Sinnbild, weil er im öffentlichen Leben, in der Kunst und im nationalen Gedächtnis erscheint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>47. Die Sage ist als Schulstoff und als allgemein bekannte kulturelle Anspielung auch im Denken der heutigen Generationen gegenwärtig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>48. Das Bild des Wunderhirsches lebt in Filmen, Illustrationen und Abzeichen fort, weshalb die Sage auch ein Teil der modernen visuellen Kultur wurde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>49. Das Nachleben der Sage zeigt, dass eine uralte Geschichte kein Museumsstück ist, sondern ein ständig neu gedeutetes, lebendiges Erbe der Kultur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>50. Die Sage vom Wunderhirsch bildet von den Chroniken über János Arany bis zur modernen Kunst eine ununterbrochene, fortlaufende Überlieferung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>51. Die Kraft dieser Überlieferung liegt darin, dass jedes Zeitalter dieselbe uralte Geschichte in seiner eigenen Sprache und mit seinen eigenen Fragen zum Sprechen bringt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>52. Die Sage verbindet so die mündliche Kultur der fernen Vergangenheit mit der geschriebenen, bildlichen und musikalischen Kunst der Gegenwart.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>53. Die Bearbeitung von János Arany spielt in dieser Kontinuität eine herausragende Rolle, weil er das bis heute maßgebliche literarische Gesicht der Sage schuf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>54. Seit der „Rege a csodaszarvasról“ stellt sich die meisten ungarischen Leser die wunderbare Jagd durch Aranys Worte und Rhythmus vor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>55. Dieses Beispiel zeigt gut, wie eine große dichterische Bearbeitung selbst zu einem Teil und Weitergeber der Überlieferung werden kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>56. Das Nachleben der Sage organisiert sich also nicht nur um die ursprüngliche Geschichte, sondern auch um ihre großen Bearbeitungen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>57. Der Wunderhirsch wurde im Zeitalter der nationalen Romantik zum wichtigsten Ausdruck der Sehnsucht nach der ungarischen Urgeschichte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>58. In diesem Zeitalter sahen die Dichter in der Sage den Beweis der ruhmreichen, heldenhaften Vergangenheit der Nation, der Kraft für die Kämpfe der Gegenwart gab.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>59. Die Sage erhielt so auch eine politische und emotionale Bedeutung, weil sie den Gedanken der nationalen Selbstständigkeit und des Stolzes unterstützte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>60. Die Kraft der Bearbeitungen des 19. Jahrhunderts lag gerade darin, dass sie die uralte Geschichte mit den nationalen Bestrebungen der Gegenwart verbanden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>61. Das Motiv des Wunderhirsches ist zugleich ein Teil des allgemeinen Sagenschatzes, weil die Hirschjagd auch in anderen europäischen Überlieferungen erscheint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>62. Diese Parallele bereichert die Deutung der ungarischen Sage, weil sie ihre allgemeinen, menschlichen Wurzeln aufzeigt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>63. Das Nachleben der Sage lässt sich also auch in der Wechselwirkung der ungarischen und der europäischen Überlieferung deuten, nicht nur als isolierte nationale Erscheinung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>64. Das Bild des wunderbaren Hirsches ist auch in der christlichen Kultur vertraut, weil der Hirsch in den europäischen Legenden häufig Träger göttlicher Wegweisung ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>65. Diese Verwandtschaft erleichterte es, dass die ungarische Sage heidnischen Ursprungs auch im christlichen Zeitalter fortbestand und eine neue Deutung erhielt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>66. Die Sage steht also am Treffpunkt der verschiedenen Überlieferungen, weshalb sie sich fortwährend mit neuen Bedeutungen bereichern kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>67. Die Sage vom Wunderhirsch vertritt in der Selbstdeutung der ungarischen Literatur die früheste, urtümliche Schicht, auf die die späteren Zeitalter immer wieder zurückgriffen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>68. Dieses Zurückgreifen bekräftigte jedes Mal das Gefühl der Kontinuität zwischen der fernen Vergangenheit und der Gegenwart.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>69. Die Sage wurde so zu einer der wichtigsten Brücken des nationalen Gedächtnisses, die das älteste Zeitalter mit der modernen Kultur verbindet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>70. Das Bild des Wunderhirsches ist für das Ungartum bis heute das verdichtete Sinnbild des Ursprungs, der Wegsuche und der Schicksalhaftigkeit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>71. Die Untersuchung des Nachlebens der Sage zeigt, wie ein uralter Text durch die ständige Neuschöpfung fortlebt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>72. Jede neue Bearbeitung bewahrt und verwandelt zugleich das Ursprüngliche, weshalb die Überlieferung zugleich beständig und veränderlich ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>73. Die Sage vom Wunderhirsch ist das schönste ungarische Beispiel dieser Doppelheit, weil ihr urtümlicher Kern stets derselbe ist, ihre Form aber von Zeitalter zu Zeitalter neu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>74. Die Sage wurde über die Literatur hinaus auch zu einem Mittel der nationalen Selbsterkenntnis, weil das Ungartum, über sich selbst nachdenkend, stets zu seinem Ursprung zurückkehrt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>75. Der Wunderhirsch ist so nicht nur die Erinnerung an die Vergangenheit, sondern auch ein lebendiges Mittel der Selbstdeutung der Gegenwart.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>76. Das literarische Nachleben der Sage veranschaulicht gut die fortwährende Verbindung zwischen der mündlichen Überlieferung und der geschriebenen Literatur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>77. Die mündlich lebende Sage gelangte durch die Chroniken in die Schrift, und die geschriebene Literatur gab sie der Gemeinschaft dann erneut in erneuerter Form zurück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>78. Dieser Kreislauf zeigt, dass die Mündlichkeit und die Schriftlichkeit sich nicht trennen, sondern einander fortwährend nähren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>79. Die Sage vom Wunderhirsch ist so ein verkleinertes Abbild der gesamten ungarischen Literatur, in dem der mündliche Ursprung und das geschriebene Fortleben zugleich gegenwärtig sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>80. Das Nachleben der Sage lehrt, dass die nationale Kultur kein fertiges Erbe ist, sondern eine von jeder Generation neu aufgebaute, lebendige Überlieferung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>81. Nach der Bearbeitung von János Arany begeisterte die dichterische Kraft der Sage neue Generationen, die die Überlieferung auf ihre Weise fortsetzten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>82. Von den Dichtern des 20. Jahrhunderts griffen mehrere auf das Sinnbild des Hirsches zurück, um die Suche und die Heimatlosigkeit des modernen Menschen auszudrücken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>83. Das alte Sagenbild wurde so auch geeignet, die tiefsten existenziellen Fragen darzustellen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>84. Die Jagd auf den Wunderhirsch konnte auch zum modernen Sinnbild der unerfüllbaren Sehnsucht, des ewigen Unterwegsseins und der Suche nach der Heimat werden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>85. Dieser Bedeutungsreichtum sichert, dass die Sage auch in der Zukunft neue Bearbeitungen und Deutungen ins Leben ruft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>86. Die Sage vom Wunderhirsch ist also keine abgeschlossene Geschichte, sondern ein offenes, sich ständig wandelndes kulturelles Sinnbild.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>87. Das Nachleben der Sage ist eines der schönsten Beispiele der ungarischen Kultur dafür, wie das Erbe der vorgeschichtlichen Zeit zur lebendigen Gegenwart wird.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>88. Der Wunderhirsch ist der Treffpunkt des ältesten ungarischen Sagenerbes und der Schöpferkraft der jeweiligen Gegenwart.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>89. Aus dieser Begegnung entstehen jene neuen Werke, die die alte Geschichte stets in einem neuen Licht zeigen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>90. Das Nachleben der Sage ist so einer der wichtigsten Beweise für die Kontinuität und die Erneuerungsfähigkeit der ungarischen literarischen Überlieferung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>91. Die Sage vom Wunderhirsch vertritt eine ununterbrochene Überlieferungslinie, die sich von den mittelalterlichen Chroniken bis zur heutigen Kultur spannt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>92. Entlang dieser Überlieferungslinie bewahrte die Sage durchweg ihren urtümlichen Kern, während sich ihre Form von Zeitalter zu Zeitalter erneuerte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>93. Das Geheimnis der Beständigkeit der Sage ist gerade diese Wandlungsfähigkeit, die die ständige Neudeutung ermöglicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>94. Der Wunderhirsch wurde so zu einer der tiefsten und bleibendsten Schichten des ungarischen kulturellen Gedächtnisses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>95. Die Kenntnis des Nachlebens der Sage hilft zu verstehen, wie sich die gemeinsame Sinnbildwelt einer Nation aufbaut und fortlebt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>96. Die Sage vom Wunderhirsch ging aus der Mündlichkeit hervor, wurde in der Schriftlichkeit bewahrt und erwachte in jedem Zweig der Kunst zu neuem Leben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>97. Auf diesem langen Weg stieg die Sage zu einem der kennzeichnendsten und beliebtesten Sinnbilder der ungarischen Kultur auf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>98. Das Bild des Wunderhirsches ruft auch heute die lebendige Gegenwart des nationalen Ursprungs und der gemeinsamen Vergangenheit im Bewusstsein der ungarischen Menschen wach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>99. Das Nachleben der Sage ist also keine abgeschlossene, sondern eine fortdauernde Geschichte, zu der jede neue Generation ihre eigene Deutung hinzufügt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>100. Die Sage vom Wunderhirsch bleibt so eine lebendige Wurzel der ungarischen Literatur, die von der ältesten Zeit bis in unsere Tage die nationale Phantasie fortwährend nährt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/1-2-2-literatur-lang/">« Zurück zu Kapitel 1.2.2</a> &nbsp;|&nbsp; <span>Kapitel 1.2.3</span> &nbsp;|&nbsp; <a href="/1-3-literatur-lang/">Weiter zu Kapitel 1.3 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-literatur-lang/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
