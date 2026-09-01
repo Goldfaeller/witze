@@ -1,0 +1,660 @@
+{{Navigation hoch|
+ hochtext=Inhaltsverzeichnis: Ungarisch-Lesebuch|
+ hochlink=Ungarisch#Ungarisch-Lesebuch}}
+{{Navigation zurückhochvor|
+ zurücklink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 6|
+ zurücktext=6. Teil – Kurze Witze|
+ hochlink=Ungarisch/Ungarisch-Lesebuch-Witze|
+ hochtext=Witze, witzige Sprüche, Sprichwörter|
+ vorlink=Ungarisch/Ungarisch-Lesebuch-Witze/Kurze Witze 8|
+vortext=8. Teil – Kurze Witze 
+}}
+
+;7. Teil - Kurze Witze 
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+:'''rövid viccek - kurze Witze'''
+
+
+=== 121a ===
+
+:1. Három hónapig tanultam a francia közlekedési szabályokat.
+:2. Aztán elutaztam Párizsba.
+:3. Istenem, inkább imádkozni kellett volna megtanulnom.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Három hónapig tanultam a francia közlekedési szabályokat. - Drei Monate lang habe ich die Verkehrsregeln für Frankreich gelernt.
+:2. Aztán elutaztam Párizsba. - Und dann bin ich nach Paris gefahren.
+:3. Istenem, inkább imádkozni kellett volna megtanulnom. - Mein Gott, ich hätte lieber beten lernen sollen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Drei Monate lang habe ich die Verkehrsregeln für Frankreich gelernt.
+:2. Und dann bin ich nach Paris gefahren.
+:3. Mein Gott, ich hätte lieber beten lernen sollen.
+|}
+
+=== 121b ===
+
+:1. Három hónapon át a francia KRESZ-t magoltam (Közúti Rendelkezések Egységes Szabályozása
+:2. Végül Párizsba mentem vezetni.
+:3. Uramisten, jobb lett volna egy imakönyv.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Három hónapon át a francia KRESZ-t magoltam (Közúti Rendelkezések Egységes Szabályozása - StVO). – Drei Monate habe ich die französischen Verkehrsregeln gepaukt.
+:2. Végül Párizsba mentem vezetni. - Endlich fuhr ich nach Paris und (dort) fuhr ich (Auto).
+:3. Uramisten, jobb lett volna egy imakönyv. - Mein Gott, ein Gebetbuch wäre besser gewesen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. StVO). – Drei Monate habe ich die französischen Verkehrsregeln gepaukt.
+:2. Endlich fuhr ich nach Paris und (dort) fuhr ich (Auto).
+:3. Mein Gott, ein Gebetbuch wäre besser gewesen.
+|}
+
+=== 121c ===
+
+:1. Hónapokig készültem a francia közlekedésre.
+:2. Azt hittem, jól felkészülten érkezem Párizsba.
+:3. Tévedtem: imádkozni kellett volna tanulnom.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Hónapokig készültem a francia közlekedésre. - Monatelang habe ich mich auf den französischen Verkehr vorbereitet.
+:2. Azt hittem, jól felkészülten érkezem Párizsba. - Ich dachte, ich komme gut vorbereitet in Paris an.
+:3. Tévedtem: imádkozni kellett volna tanulnom. - Falsch gedacht: Ich hätte beten lernen sollen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Monatelang habe ich mich auf den französischen Verkehr vorbereitet.
+:2. Ich dachte, ich komme gut vorbereitet in Paris an.
+:3. Falsch gedacht: Ich hätte beten lernen sollen.
+|}
+
+=== 122a ===
+
+:1. Az emberi test a huszonötödik életévéig növekszik.
+:2. Úgy tűnik azonban, hogy erről a has és a fenék nem kaptak értesítést.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Az emberi test a huszonötödik életévéig növekszik. - Der menschliche Körper wächst bis zu seinem 25. Lebensjahr.
+:2. Úgy tűnik azonban, hogy erről a has és a fenék nem kaptak értesítést. - Es scheint jedoch, dass Bauch und Po davon nichts mitbekommen haben.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Der menschliche Körper wächst bis zu seinem 25. Lebensjahr.
+:2. Es scheint jedoch, dass Bauch und Po davon nichts mitbekommen haben.
+|}
+
+=== 122b ===
+
+:1. A testünk elvileg huszonöt éves korig nő.
+:2. A has és a popsi ezt láthatóan nem vette tudomásul.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. A testünk elvileg huszonöt éves korig nő. - Unser Körper wächst im Prinzip bis zum 25. Lebensjahr.
+:2. A has és a popsi ezt láthatóan nem vette tudomásul. - Bauch und Hintern haben das offenbar nicht zur Kenntnis genommen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Unser Körper wächst im Prinzip bis zum 25. Lebensjahr.
+:2. Bauch und Hintern haben das offenbar nicht zur Kenntnis genommen.
+|}
+
+=== 122c ===
+
+:1. Hivatalosan a növekedés huszonöt éves korban megáll.
+:2. Csak a has és a hátsó tovább „fejlődik”.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Hivatalosan a növekedés huszonöt éves korban megáll. - Offiziell endet das Wachstum mit 25.
+:2. Csak a has és a hátsó tovább „fejlődik”. - Nur Bauch und Hinterteil „entwickeln“ sich weiter.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Offiziell endet das Wachstum mit 25.
+:2. Nur Bauch und Hinterteil „entwickeln“ sich weiter.
+|}
+
+=== 123a ===
+
+:1. Három gyerek az óvodában.
+:2. „Engem a szüleim a boltban vettek.”
+:3. „Engem a szüleim az internetről töltöttek le.”
+:4. „Az én szüleim szegények. Engem maguk csináltak.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Három gyerek az óvodában. - Drei Kinder im Kindergarten.
+:2. „Engem a szüleim a boltban vettek.” - „Meine Eltern haben mich im Geschäft gekauft.“
+:3. „Engem a szüleim az internetről töltöttek le.” - „Meine Eltern haben mich aus dem Internet heruntergeladen.“
+:4. „Az én szüleim szegények. Engem maguk csináltak.” - „Meine Eltern sind arm. Sie haben mich selber gemacht.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Drei Kinder im Kindergarten.
+:2. „Meine Eltern haben mich im Geschäft gekauft.“
+:3. „Meine Eltern haben mich aus dem Internet heruntergeladen.“
+:4. „Meine Eltern sind arm. Sie haben mich selber gemacht.“
+|}
+
+=== 123b ===
+
+:1. Három óvodás beszélget.
+:2. „A szüleim a boltban szereztek be.”
+:3. „Engem online töltöttek le.”
+:4. „Nálunk nincs pénz. Engem otthon csináltak.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Három óvodás beszélget. - Drei Kindergartenkinder unterhalten sich.
+:2. „A szüleim a boltban szereztek be.” - „Meine Eltern haben mich im Laden besorgt.“
+:3. „Engem online töltöttek le.” - „Mich haben sie online heruntergeladen.“
+:4. „Nálunk nincs pénz. Engem otthon csináltak.” - „Bei uns gibt es kein Geld. Mich haben sie zu Hause gemacht.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Drei Kindergartenkinder unterhalten sich.
+:2. „Meine Eltern haben mich im Laden besorgt.“
+:3. „Mich haben sie online heruntergeladen.“
+:4. „Bei uns gibt es kein Geld. Mich haben sie zu Hause gemacht.“
+|}
+
+=== 123c ===
+
+:1. Az óvodában három gyerek dicsekszik.
+:2. „Én boltból származom.”
+:3. „Én a netről vagyok.”
+:4. „Az én szüleimnek nem tellett rá, úgyhogy saját gyártás.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Az óvodában három gyerek dicsekszik. - Im Kindergarten prahlen drei Kinder.
+:2. „Én boltból származom.” - „Ich komme aus dem Geschäft.“
+:3. „Én a netről vagyok.” - „Ich bin aus dem Internet.“
+:4. „Az én szüleimnek nem tellett rá, úgyhogy saját gyártás.” - „Meine Eltern konnten es sich nicht leisten, also Eigenproduktion.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Im Kindergarten prahlen drei Kinder.
+:2. „Ich komme aus dem Geschäft.“
+:3. „Ich bin aus dem Internet.“
+:4. „Meine Eltern konnten es sich nicht leisten, also Eigenproduktion.“
+|}
+
+=== 124 ===
+
+:1. Azért dolgozom, hogy éljek, de nem azért élek, hogy dolgozzak.
+::Célhatározói mellékmondat (vagy céhatározós alárendelő mellékmondat), amelyben a mellékmondat állítmánya felszólító módban (imperativus) áll.
+:2. (Dolgozom az életért, nem a munkáért élek.
+:3. (A munka az élet eszköze, nem az élet célja.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Azért dolgozom, hogy éljek, de nem azért élek, hogy dolgozzak. - Ich arbeite, um zu leben, aber ich lebe nicht, um zu arbeiten.
+::Célhatározói mellékmondat (vagy céhatározós alárendelő mellékmondat), amelyben a mellékmondat állítmánya felszólító módban (imperativus) áll. - Zielbestimmender Nebensatz (oder zielbestimmender untergeordneter Nebensatz), in dem das Prädikat des Nebensatzes im Imperativ steht.
+:2. (Dolgozom az életért, nem a munkáért élek. - Ich arbeite für dasLeben, ich lebe nicht für die Arbeit.)
+:3. (A munka az élet eszköze, nem az élet célja. - Arbeit ist ein Mittel zum Leben, nicht das Ziel des Lebens.)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ich arbeite, um zu leben, aber ich lebe nicht, um zu arbeiten.
+::Zielbestimmender Nebensatz (oder zielbestimmender untergeordneter Nebensatz), in dem das Prädikat des Nebensatzes im Imperativ steht.
+:2. Ich arbeite für dasLeben, ich lebe nicht für die Arbeit.)
+:3. Arbeit ist ein Mittel zum Leben, nicht das Ziel des Lebens.)
+|}
+
+=== 125 ===
+
+:1. Minden jön és megy, ami megmarad, azok az emlékek.
+:2. (Minden elmúlik, csak az emlékeink maradnak velünk.
+:3. (Az idő elsodor mindent, de az emlékek megmaradnak.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Minden jön és megy, ami megmarad, azok az emlékek. - Alles kommt und geht, das, was bleibt, sind die Erinnerungen.
+:2. (Minden elmúlik, csak az emlékeink maradnak velünk. - Alles vergeht, nur unsere Erinnerungen bleiben bei uns.)
+:3. (Az idő elsodor mindent, de az emlékek megmaradnak. - Die Zeit trägt alles fort, doch die Erinnerungen bleiben.)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Alles kommt und geht, das, was bleibt, sind die Erinnerungen.
+:2. Alles vergeht, nur unsere Erinnerungen bleiben bei uns.)
+:3. Die Zeit trägt alles fort, doch die Erinnerungen bleiben.)
+|}
+
+=== 126 ===
+
+:1. Ne álmokkal halj [hajj] meg, hanem emlékekkel!
+:2. (Ne úgy menj [menny] el, hogy csak álmaid voltak, hanem hogy emlékeid vannak.
+:3. (Az élet végén ne beteljesületlen álmok maradjanak, hanem megélt pillanatok.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Ne álmokkal halj [hajj] meg, hanem emlékekkel! - Stirb nicht mit Träumen, sondern mit Erinnerungen!
+:2. (Ne úgy menj [menny] el, hogy csak álmaid voltak, hanem hogy emlékeid vannak. - Geh nicht so, dass du nur Träume hattest, sondern dass du Erinnerungen hast.)
+:3. (Az élet végén ne beteljesületlen álmok maradjanak, hanem megélt pillanatok. - Am Ende des Lebens sollen keine unerfüllten Träume bleiben, sondern gelebte Momente.)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Stirb nicht mit Träumen, sondern mit Erinnerungen!
+:2. Geh nicht so, dass du nur Träume hattest, sondern dass du Erinnerungen hast.)
+:3. Am Ende des Lebens sollen keine unerfüllten Träume bleiben, sondern gelebte Momente.)
+|}
+
+=== 127a ===
+
+:1. Ha valaki fél beleszeretni, ez nem feltétlenül a jövőtől való félelem.
+:2. Az is lehet, hogy a múlttól fél.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Ha valaki fél beleszeretni, ez nem feltétlenül a jövőtől való félelem. - Wenn jemand Angst hat, sich zu verlieben, muss es nicht die Angst vor der Zukunft sein.
+:2. Az is lehet, hogy a múlttól fél. - Er kann auch Angst vor der Vergangenheit haben.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wenn jemand Angst hat, sich zu verlieben, muss es nicht die Angst vor der Zukunft sein.
+:2. Er kann auch Angst vor der Vergangenheit haben.
+|}
+
+=== 127b ===
+
+:1. Ha valaki nem mer beleszeretni, nem biztos, hogy a jövő rémiszti (= ijeszti) meg.
+:2. Lehet, hogy a múlt emlékei ijesztik meg.
+:3. megrémít
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Ha valaki nem mer beleszeretni, nem biztos, hogy a jövő rémiszti (= ijeszti) meg. - Wenn jemand sich nicht zu verlieben traut, ist es vielleicht nicht die Zukunft, die ihn erschreckt.
+:2. Lehet, hogy a múlt emlékei ijesztik meg. - Vielleicht erschrecken ihn die Erinnerungen an die Vergangenheit.
+:3. (megrémít - megrémiszt - erschrecken)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wenn jemand sich nicht zu verlieben traut, ist es vielleicht nicht die Zukunft, die ihn erschreckt.
+:2. Vielleicht erschrecken ihn die Erinnerungen an die Vergangenheit.
+:3. megrémiszt - erschrecken
+|}
+
+=== 127c ===
+
+:1. A szerelemtől való félelem nem mindig előre tekint.
+:2. Gyakran inkább a múlt árnyékaitól tartunk.
+:3. (tart
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. A szerelemtől való félelem nem mindig előre tekint. - Die Angst vor dem Verlieben schaut nicht immer nach vorn.
+:2. Gyakran inkább a múlt árnyékaitól tartunk. - Oft fürchten wir eher die Schatten der Vergangenheit.
+:3. (tart - vkitől/vmitől - fürchten)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Die Angst vor dem Verlieben schaut nicht immer nach vorn.
+:2. Oft fürchten wir eher die Schatten der Vergangenheit.
+:3. vkitől/vmitől - fürchten)
+|}
+
+=== 128a ===
+
+:1. „Megbocsátani és elfelejteni?”
+:2. „Nem! Nem vagyok se Jézus, se Alzheimer-kóros.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Megbocsátani és elfelejteni?” - „Vergeben und vergessen?“
+:2. „Nem! Nem vagyok se Jézus, se Alzheimer-kóros.” - „Nein! Ich bin weder Jesus noch habe ich Alzheimer.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Vergeben und vergessen?“
+:2. „Nein! Ich bin weder Jesus noch habe ich Alzheimer.“
+|}
+
+=== 128b ===
+
+:1. „Megbocsátasz és elfelejted?”
+:2. „Ugyan már! Nem vagyok szent, és nem vagyok demens sem.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Megbocsátasz és elfelejted?” - „Du vergibst und vergisst?“
+:2. „Ugyan már! Nem vagyok szent, és nem vagyok demens sem.” - „Ach was! Ich bin kein Heiliger und auch nicht dement.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Du vergibst und vergisst?“
+:2. „Ach was! Ich bin kein Heiliger und auch nicht dement.“
+|}
+
+=== 128c ===
+
+:1. „Bocsáss meg, felejtsd [felejcsd] el!”
+:2. „Kizárt: nem Jézus vagyok, és az emlékezetem is rendben van.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Bocsáss meg, felejtsd [felejcsd] el!” - „Vergib es, vergiss es!“
+:2. „Kizárt: nem Jézus vagyok, és az emlékezetem is rendben van.” - „Ausgeschlossen: Ich bin nicht Jesus, und mein Gedächtnis funktioniert.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Vergib es, vergiss es!“
+:2. „Ausgeschlossen: Ich bin nicht Jesus, und mein Gedächtnis funktioniert.“
+|}
+
+=== 129a ===
+
+:1. „Doktor úr, influenzám van?”
+:2. „Igen.”
+:3. „Sertésinfluenza?”
+:4. „Igen.”
+:5. „Biztos benne?”
+:6. „Teljesen! Csak egy disznó hívja ki reggel négykor az orvosi ügyeletet harminchat egész hét tized fokos lázzal.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Doktor úr, influenzám van?” - „Herr Doktor, habe ich Grippe?“
+:2. „Igen.” - „Ja.“
+:3. „Sertésinfluenza?” - „Schweinegrippe?“
+:4. „Igen.” - „Ja.“
+:5. „Biztos benne?” - „Sind Sie sicher?“
+:6. „Teljesen! Csak egy disznó hívja ki reggel négykor az orvosi ügyeletet harminchat egész hét tized fokos lázzal.” - „Absolut! Nur ein Schwein ruft um vier Uhr früh mit einer Temperatur von 36,7 °C den Notarzt.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Herr Doktor, habe ich Grippe?“
+:2. „Ja.“
+:3. „Schweinegrippe?“
+:4. „Ja.“
+:5. „Sind Sie sicher?“
+:6. „Absolut! Nur ein Schwein ruft um vier Uhr früh mit einer Temperatur von 36,7 °C den Notarzt.“
+|}
+
+=== 129b ===
+
+:1. „Doktor úr, elkaptam az influenzát?”
+:2. „Igen.”
+:3. „A sertés?”
+:4. „Az.”
+:5. „Biztos ez?”
+:6. „Száz százalék: csak egy disznó telefonál hajnali négykor harminchat egész hét tized fokkal.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Doktor úr, elkaptam az influenzát?” - „Herr Doktor, habe ich mir die Grippe eingefangen?“
+:2. „Igen.” - „Ja.“
+:3. „A sertés?” - „Die Schweinegrippe?“
+:4. „Az.” - „Die.“
+:5. „Biztos ez?” - „Sind Sie sicher?“
+:6. „Száz százalék: csak egy disznó telefonál hajnali négykor harminchat egész hét tized fokkal.” - „Hundertprozentig: Nur ein Schwein ruft um vier Uhr morgens mit 36,7 Grad an.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Herr Doktor, habe ich mir die Grippe eingefangen?“
+:2. „Ja.“
+:3. „Die Schweinegrippe?“
+:4. „Die.“
+:5. „Sind Sie sicher?“
+:6. „Hundertprozentig: Nur ein Schwein ruft um vier Uhr morgens mit 36,7 Grad an.“
+|}
+
+=== 129c ===
+
+:1. „Doktor úr, beteg vagyok?”
+:2. „Igen.”
+:3. „Sertésinfluenza?”
+:4. „Kétségtelen.”
+:5. „Ennyire (= Egészen) biztos?”
+:6. „Abszolút: normális ember nem riasztja a mentőt hajnalban harminchat egész hét tized fokkal.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Doktor úr, beteg vagyok?” - „Herr Doktor, bin ich krank?“
+:2. „Igen.” - „Ja.“
+:3. „Sertésinfluenza?” - „Schweinegrippe?“
+:4. „Kétségtelen.” - „Zweifellos.“
+:5. „Ennyire (= Egészen) biztos?” - „Ganz sicher?“
+:6. „Abszolút: normális ember nem riasztja a mentőt hajnalban harminchat egész hét tized fokkal.” - „Absolut: Ein normaler Mensch alarmiert mit 36,7 Grad morgens um vier keinen Notarzt.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Herr Doktor, bin ich krank?“
+:2. „Ja.“
+:3. „Schweinegrippe?“
+:4. „Zweifellos.“
+:5. „Ganz sicher?“
+:6. „Absolut: Ein normaler Mensch alarmiert mit 36,7 Grad morgens um vier keinen Notarzt.“
+|}
+
+=== 130a ===
+
+:1. Szexuális felvilágosítás óra
+:2. Három fiú rossz jegyet kapott a szexuális felvilágosítás órán.
+:3. Bosszút akarnak állni a szexuális felvilágosítást tartó tanárnőn, és terveket szőnek:
+:4. „Én őt fogom meg.”
+:5. „Én felhúzom a szoknyáját.”
+:6. „Én meg csípem meg a golyóit.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Szexuális felvilágosítás óra - Sexualkundeunterricht
+:2. Három fiú rossz jegyet kapott a szexuális felvilágosítás órán. - Drei Jungen haben schlechte Zensuren im Sexualkundeunterricht bekommen.
+:3. Bosszút akarnak állni a szexuális felvilágosítást tartó tanárnőn, és terveket szőnek: - Sie wollen sich an der Sexualkundelehrerin rächen und machen Pläne:
+:4. „Én őt fogom meg.” - „Ich halte sie fest.“
+:5. „Én felhúzom a szoknyáját.” - „Ich hebe ihr den Rock hoch.“
+:6. „Én meg csípem meg a golyóit.” - „Und ich kneife ihr in die Eier.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Sexualkundeunterricht
+:2. Drei Jungen haben schlechte Zensuren im Sexualkundeunterricht bekommen.
+:3. Sie wollen sich an der Sexualkundelehrerin rächen und machen Pläne:
+:4. „Ich halte sie fest.“
+:5. „Ich hebe ihr den Rock hoch.“
+:6. „Und ich kneife ihr in die Eier.“
+|}
+
+=== 130b ===
+
+:1. Elhatározzák, hogy megbosszulják a szexuális felvilágosítást tartó tanárnőn, és terveket szőnek:
+:2. „Én elterelem a figyelmét.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Elhatározzák, hogy megbosszulják a szexuális felvilágosítást tartó tanárnőn, és terveket szőnek: - Sie beschließen, sich an der Sexualkundelehrerin zu rächen, und schmieden Pläne:
+:2. „Én elterelem a figyelmét.” - „Ich lenke sie ab.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Sie beschließen, sich an der Sexualkundelehrerin zu rächen, und schmieden Pläne:
+:2. „Ich lenke sie ab.“
+|}
+
+=== 130c ===
+
+:1. Három srác megbukott a szexuális felvilágosítás órán.
+:2. Bosszút forralnak, és ötletelnek:
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Három srác megbukott a szexuális felvilágosítás órán. - Drei Jungs sind im Sexualkundeunterricht durchgefallen.
+:2. Bosszút forralnak, és ötletelnek: - Sie schmieden Rachepläne und überlegen sich Ideen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Drei Jungs sind im Sexualkundeunterricht durchgefallen.
+:2. Sie schmieden Rachepläne und überlegen sich Ideen.
+|}
+
+=== 130c ===
+
+:1. Három diák pocsék (= rossz) jegyet kap a szexuális felvilágosítás órán.
+:2. Összedugják a fejüket:
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Három diák pocsék (= rossz) jegyet kap a szexuális felvilágosítás órán. - Drei Schüler bekommen miese Noten im Sexualkundeunterricht .
+:2. Összedugják a fejüket: - Sie stecken die Köpfe zusammen:
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Drei Schüler bekommen miese Noten im Sexualkundeunterricht .
+:2. Sie stecken die Köpfe zusammen:
+|}
