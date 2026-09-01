@@ -1,0 +1,944 @@
+ 
+
+;1. Teil - Kurze Witze 
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+:'''rövid viccek - kurze Witze'''
+
+=== 1 ===
+
+:1. A kutyám nem szeret autóval menni.(A kutyám nem szeret autót vezetni.)
+:2. Az enyémnek nincs egyáltalán jogosítványa (= jogsija).
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. A kutyám nem szeret autóval menni.(A kutyám nem szeret autót vezetni.) - Mein Hund fährt nicht gerne Auto. (Anmerkung: Im Ungarischen ist "mitfahren" oder "lenken/steuern" eindeutig.)
+:2. Az enyémnek nincs egyáltalán jogosítványa (= jogsija). - Meiner hat gar keinen Führerschein.
+|}
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Mein Hund fährt nicht gerne Auto. (Anmerkung: Im Ungarischen ist "mitfahren" oder "lenken/steuern" eindeutig.)
+:2. Meiner hat gar keinen Führerschein.
+|}
+
+=== 2 ===
+
+:1. Két ok, miért nem hozom el (elhoz) a barátnőmet a porsémmal.
+:2. első  ok: nincs barátnőm
+:3. másik ok: nincs porsém
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Két ok, miért nem hozom el (elhoz) a barátnőmet a porsémmal. - Zwei Gründe warum ich meine Freundin nicht mit dem Porsche abhole.
+:2. első  ok: nincs barátnőm - Erster Grund: keine Freundin
+:3. másik ok: nincs porsém - zweiter Grund: Kein Porsche
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Zwei Gründe warum ich meine Freundin nicht mit dem Porsche abhole.
+:2. Erster Grund: keine Freundin
+:3. zweiter Grund: Kein Porsche
+|}
+
+=== 3 ===
+
+:1. Figyelmeztetlek titeket!
+:2. Utolsó figyelmeztetés!
+:3. Ne legyetek felnőttek!
+:4. Ez egy nagy csapda.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Figyelmeztetlek titeket! - Ich warne euch!
+:2. Utolsó figyelmeztetés! - Letzte Warnung!
+:3. Ne legyetek felnőttek! - Werdet nicht erwachsen!
+:4. Ez egy nagy csapda. - Es ist eine große Falle.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ich warne euch!
+:2. Letzte Warnung!
+:3. Werdet nicht erwachsen!
+:4. Es ist eine große Falle.
+|}
+
+=== 4 ===
+
+:1. Anya, minket ma beoltottak az iskolában.
+:2. Remélem nem sírtál.
+:3. De hogy, nem tudtak elkapni engem. Elfutottam.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Anya, minket ma beoltottak az iskolában. - Mama, wir wurden heute in der Schule geimpft.
+:2. Remélem nem sírtál. - Ich hoffe, du hast nicht geweint.
+:3. De hogy, nem tudtak elkapni engem. Elfutottam. - Aber nein, sie haben mich nicht gekriegt. Ich bin weggelaufen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Mama, wir wurden heute in der Schule geimpft.
+:2. Ich hoffe, du hast nicht geweint.
+:3. Aber nein, sie haben mich nicht gekriegt. Ich bin weggelaufen.
+|}
+
+=== 5a ===
+
+:nyugdíjas vicc
+
+:1. Mi volt a legbolondabb dolog az Ön életében, amit a pénzért megtett.
+:2. Dolgoztam.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:nyugdíjas vicc - Rentnerwitz
+
+:1. Mi volt a legbolondabb dolog az Ön életében, amit a pénzért megtett. - Was war das Verrückteste in Ihrem Leben, das Sie für Geld gemacht haben?
+:2. Dolgoztam. - Ich habe gearbeitet.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Rentnerwitz
+
+:1. Was war das Verrückteste in Ihrem Leben, das Sie für Geld gemacht haben?
+:2. Ich habe gearbeitet.
+|}
+
+=== 5b ===
+
+:1. Mi a legőrültebb dolog, amit valaha a pénzért tettél?
+:2. Dolgoztam.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Mi a legőrültebb dolog, amit valaha a pénzért tettél? - Was ist das Verrückteste, das du schon mal für Geld gemacht hast?
+:2. Dolgoztam. - Ich habe gearbeitet.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Was ist das Verrückteste, das du schon mal für Geld gemacht hast?
+:2. Ich habe gearbeitet.
+|}
+
+=== 6 ===
+
+:1. Van, hogy ő hangot hall, anélkül hogy látna valakit?
+:2. Igen, meglehetősen gyakran.
+:3. És mikor történik ezt?
+:4. Ha, telefonálok.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Van, hogy ő hangot hall, anélkül hogy látna valakit? - Kommt es vor, dass Sie Stimmen hören ohne jemanden zu sehen?
+:2. Igen, meglehetősen gyakran. - Ja, ziemlich oft.
+:3. És mikor történik ezt? - Und wann passiert das?
+:4. Ha, telefonálok. - Wenn ich telefoniere.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Kommt es vor, dass Sie Stimmen hören ohne jemanden zu sehen?
+:2. Ja, ziemlich oft.
+:3. Und wann passiert das?
+:4. Wenn ich telefoniere.
+|}
+
+=== 7 ===
+
+:1. Megkérdeztem száz nőt, hogy melyik sampont használják tusolásnál.
+:2. Kilencvenkilenc felelte - Ki ön, és hogy a fenébe jött be?
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Megkérdeztem száz nőt, hogy melyik sampont használják tusolásnál. - Ich habe 100 Frauen gefragt, welches Shampoo sie beim Duschen verwenden.
+:2. Kilencvenkilenc felelte - Ki ön, és hogy a fenébe jött be? - 99 haben geantwortet: “Wer sind Sie und wie zum Teufel sind Sie hier reingekommen?
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ich habe 100 Frauen gefragt, welches Shampoo sie beim Duschen verwenden.
+:2. 99 haben geantwortet: “Wer sind Sie und wie zum Teufel sind Sie hier reingekommen?
+|}
+
+=== 8 ===
+
+:1. Mi megy át a fején a porse vezetőnek ami 120-szal (százhúsz-szal) a falnak ütközik?
+:2. A hátsó spoiler.
+::porsevezető
+::Mi játszodik a fejében?
+::ütközik egy falba
+::tarkó
+::a fejemben van egy ötlet (mit geht etwas durch den Hinterkopf) ich habe eine Idee im Kopf
+::agy
+::átvillant az agyamon egy ötlet
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Mi megy át a fején a porse vezetőnek ami 120-szal (százhúsz-szal) a falnak ütközik? - Was geht einem Porschefahrer durch den Hinterkopf, wenn er mit 120 gegen eine Mauer fährt?
+:2. A hátsó spoiler. - Heckspoiler.
+::porsevezető - Porschefahrer
+::Mi játszodik a fejében? - Was geht ihm durch den Kopf?
+::ütközik egy falba - an eine Wand fahren
+::tarkó - Hinterkopf
+::a fejemben van egy ötlet (mit geht etwas durch den Hinterkopf) ich habe eine Idee im Kopf
+::agy - Gehirn
+::átvillant az agyamon egy ötlet - eine Idee im Kopf haben
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Was geht einem Porschefahrer durch den Hinterkopf, wenn er mit 120 gegen eine Mauer fährt?
+:2. Heckspoiler.
+::Porschefahrer
+::Was geht ihm durch den Kopf?
+::an eine Wand fahren
+::Hinterkopf
+::a fejemben van egy ötlet (mit geht etwas durch den Hinterkopf) ich habe eine Idee im Kopf
+::Gehirn
+::eine Idee im Kopf haben
+|}
+
+=== 9 ===
+
+:1. Mitől fél legjobban egy öngyilkos merénylő?
+:2. Fél hogy egyedül hal meg.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Mitől fél legjobban egy öngyilkos merénylő? - Wovor hat ein Selbstmordattentäter am meisten Angst?
+:2. Fél hogy egyedül hal meg. - Er hat Angst, dass er alleine stirbt.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wovor hat ein Selbstmordattentäter am meisten Angst?
+:2. Er hat Angst, dass er alleine stirbt.
+|}
+
+=== 10 ===
+
+:1. Űrhajós akarok lenni, mint az apám.
+:2. Valóban űrhajós volt az apád?
+:3. Nem, de ő is az akart lenni.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Űrhajós akarok lenni, mint az apám. - Ich möchte ein Astronaut werden, wie mein Vater.
+:2. Valóban űrhajós volt az apád? - War dein Vater wirklich Astronaut?
+:3. Nem, de ő is az akart lenni. - Nein, aber er wollte es auch werden.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ich möchte ein Astronaut werden, wie mein Vater.
+:2. War dein Vater wirklich Astronaut?
+:3. Nein, aber er wollte es auch werden.
+|}
+
+=== 11 ===
+
+:1. A feleségemmel eldöntöttük, hogy nem akarunk gyereket.
+:2. Ma este vacsora után fogjuk, azt mondani nekik.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. A feleségemmel eldöntöttük, hogy nem akarunk gyereket. - Wir haben mit meiner Frau beschlossen, dass wir keine Kinder wollen.
+:2. Ma este vacsora után fogjuk, azt mondani nekik. - Heute Abend nach dem Abendbrot werden wir es ihnen sagen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wir haben mit meiner Frau beschlossen, dass wir keine Kinder wollen.
+:2. Heute Abend nach dem Abendbrot werden wir es ihnen sagen.
+|}
+
+=== 12a ===
+
+:1. „Jó napot, szeretnék vásárolni egy Bluetooth fejhallgatót mikrofonnal egy mobiltelefonhoz. A legolcsóbb modellt kérem.”
+:2. „Milyen típusú mobiltelefonja van?”
+:3. „Nem, nincs mobiltelefonom. Csak magamban beszélek az utcán, és nem akarom, hogy mások meghallják.”
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Jó napot, szeretnék vásárolni egy Bluetooth fejhallgatót mikrofonnal egy mobiltelefonhoz. A legolcsóbb modellt kérem.” - „Guten Tag, ich möchte einen Blutooth-Kopfhörer mit Mikrofon für ein Handy kaufen. Das billigste Modell bitte.“
+:2. „Milyen típusú mobiltelefonja van?” - „Was für ein Handymodell haben Sie?“
+:3. „Nem, nincs mobiltelefonom. Csak magamban beszélek az utcán, és nem akarom, hogy mások meghallják.” - „Nein, ich habe kein Handy. Ich führe nur auf der Straße Selbstgespräche und ich will nicht, dass die Leute das mitbekommen.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Guten Tag, ich möchte einen Blutooth-Kopfhörer mit Mikrofon für ein Handy kaufen. Das billigste Modell bitte.“
+:2. „Was für ein Handymodell haben Sie?“
+:3. „Nein, ich habe kein Handy. Ich führe nur auf der Straße Selbstgespräche und ich will nicht, dass die Leute das mitbekommen.“
+|}
+
+=== 12b ===
+
+:1. „Jó napot kívánok, szeretnék venni egy bluetoothos fülhallgatót mikrofonnal egy mobiltelefonhoz. A legolcsóbb modellt kérem.”
+:2. „Milyen típusú telefonja van?”
+:3. „Nincs telefonom. Csak az utcán szoktam magamban beszélni, és nem akarom, hogy az emberek észrevegyék.”
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Jó napot kívánok, szeretnék venni egy bluetoothos fülhallgatót mikrofonnal egy mobiltelefonhoz. A legolcsóbb modellt kérem.” – „Guten Tag, ich möchte einen Bluetooth-Kopfhörer mit Mikrofon für ein Handy kaufen. Das billigste Modell bitte.“
+:2. „Milyen típusú telefonja van?” – „Was für ein Handymodell haben Sie?“
+:3. „Nincs telefonom. Csak az utcán szoktam magamban beszélni, és nem akarom, hogy az emberek észrevegyék.” – „Nein, ich habe kein Handy. Ich führe nur auf der Straße Selbstgespräche und ich will nicht, dass die Leute das mitbekommen.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Guten Tag, ich möchte einen Bluetooth-Kopfhörer mit Mikrofon für ein Handy kaufen. Das billigste Modell bitte.“
+:2. „Was für ein Handymodell haben Sie?“
+:3. „Nein, ich habe kein Handy. Ich führe nur auf der Straße Selbstgespräche und ich will nicht, dass die Leute das mitbekommen.“
+|}
+
+=== 12c ===
+
+:1. „Jó napot, bluetoothos headsetet szeretnék mikrofonnal telefonhoz, lehetőleg a legolcsóbbat.”
+:2. „Milyen telefonhoz lesz?”
+:3. „Semmilyenhez. Nincs telefonom, csak az utcán beszélek gyakran magamban, és az orvosom javasolt nekem egy ilyen fülhallgatót viselni, hogy  ne vegyék észre.”
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Jó napot, bluetoothos headsetet szeretnék mikrofonnal telefonhoz, lehetőleg a legolcsóbbat.” – „Guten Tag, ich hätte gern ein Bluetooth-Headset mit Mikrofon fürs Handy, am besten das günstigste.“
+:2. „Milyen telefonhoz lesz?” – „Für welches Handymodell?“
+:3. „Semmilyenhez. Nincs telefonom, csak az utcán beszélek gyakran magamban, és az orvosom javasolt nekem egy ilyen fülhallgatót viselni, hogy  ne vegyék észre.” – „Für keines. Ich habe kein Handy, ich rede nur auf der Straße oft mit mir selbst und mein Arzt hat mir empfohlen solche Kopfhörer zu tragen, damit man das nicht merkt..“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Guten Tag, ich hätte gern ein Bluetooth-Headset mit Mikrofon fürs Handy, am besten das günstigste.“
+:2. „Für welches Handymodell?“
+:3. „Für keines. Ich habe kein Handy, ich rede nur auf der Straße oft mit mir selbst und mein Arzt hat mir empfohlen solche Kopfhörer zu tragen, damit man das nicht merkt..“
+|}
+
+=== 12d ===
+
+:1. „Jó napot, a legolcsóbb bluetoothos fülhallgatót keresem mikrofonnal.”
+:2. „Melyik telefonhoz?”
+:3. „Egyikhez sem. Csak azért kell, hogy az utcán nyugodtan beszélhessek magamban, anélkül hogy furcsán néznének rám.”
+:4. („Csak azért kell, hogy az utcán nyugodtan beszélhessek magamban, hogy ne nézzenek furcsán rám.”)
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Jó napot, a legolcsóbb bluetoothos fülhallgatót keresem mikrofonnal.” – „Guten Tag, ich suche den billigsten Bluetooth-Kopfhörer mit Mikrofon.“
+:2. „Melyik telefonhoz?” – „Für welches Handy?“
+:3. „Egyikhez sem. Csak azért kell, hogy az utcán nyugodtan beszélhessek magamban, anélkül hogy furcsán néznének rám.” – „Für keins. Ich brauche ihn nur, damit ich auf der Straße ungestört Selbstgespräche führen kann, ohne dass die Leute komisch schauen.“
+:4. („Csak azért kell, hogy az utcán nyugodtan beszélhessek magamban, hogy ne nézzenek furcsán rám.” - „Ich brauche ihn nur deshalb, damit ich auf der Straße in Ruhe mit mir selber sprechen kann, damit man mich nicht seltsam anschaut.”)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Guten Tag, ich suche den billigsten Bluetooth-Kopfhörer mit Mikrofon.“
+:2. „Für welches Handy?“
+:3. „Für keins. Ich brauche ihn nur, damit ich auf der Straße ungestört Selbstgespräche führen kann, ohne dass die Leute komisch schauen.“
+:4. („Ich brauche ihn nur deshalb, damit ich auf der Straße in Ruhe mit mir selber sprechen kann, damit man mich nicht seltsam anschaut.”)
+|}
+
+=== 13 ===
+
+:1. Holnap, holnap, csak nem ma, mondja minden lusta ember.
+:2. Holnap, holnap, csak nem ma, mondja minden lusta.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Holnap, holnap, csak nem ma, mondja minden lusta ember. - Morgen, morgen, nur nicht heute, sagen alle faulen Leute.
+:2. Holnap, holnap, csak nem ma, mondja minden lusta. - Morgen, morgen, nur nicht heute, sagen alle Faulen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Morgen, morgen, nur nicht heute, sagen alle faulen Leute.
+:2. Morgen, morgen, nur nicht heute, sagen alle Faulen.
+|}
+
+=== 14 ===
+
+:Korosztályok
+:1.) fél a horrorfilmektől
+:2.) nevet a horrorfilmeken
+:3.) egyetért a horrorfilmmel
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:Korosztályok - Altersstufen
+:1.) fél a horrorfilmektől - man hat Angst bei Horrorfilmen
+:2.) nevet a horrorfilmeken -  man lacht bei Horrorfilmen
+:3.) egyetért a horrorfilmmel - man ist einverstanden mit Horrorfilmen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Altersstufen
+:1.) man hat Angst bei Horrorfilmen
+:2.) man lacht bei Horrorfilmen
+:3.) man ist einverstanden mit Horrorfilmen
+|}
+
+=== 15 ===
+
+:1. Mit csináltál tegnap?
+:2. Semmi!
+:3. És mit csinálsz ma?
+:4. Megint semmit.
+:5. Hát azt már tegnap csináltad
+:6. Igen, de nem lettem kész tegnap.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Mit csináltál tegnap? - Was hast du gestern gemacht? - Nichts?
+:2. Semmi! -  - Nichts?
+:3. És mit csinálsz ma? - Und was machst du heute?
+:4. Megint semmit. - Auch nichts? (megint - erneut; noch einmal)
+:5. Hát azt már tegnap csináltad - Aber das hast du doch gestern schon gemacht.
+:6. Igen, de nem lettem kész tegnap. - Ja, aber ich bin gestern nicht fertig geworden.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Was hast du gestern gemacht? - Nichts?
+:2.  - Nichts?
+:3. Und was machst du heute?
+:4. Auch nichts? (megint - erneut; noch einmal)
+:5. Aber das hast du doch gestern schon gemacht.
+:6. Ja, aber ich bin gestern nicht fertig geworden.
+|}
+
+=== 16a ===
+
+:A patikában
+
+:1. Egy nő bemegy a patikába, és megkérdezi, milyen nyugtatók vannak.
+:2. Kinek lesz?
+:3. A férjemnek.
+:4. Mi a diagnózisa?
+:5. Egy új, kilencszáz eurós kézitáska.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:A patikában – In der Apotheke.
+
+:1. Egy nő bemegy a patikába, és megkérdezi, milyen nyugtatók vannak. – Eine Frau kommt in die Apotheke und fragt, welche Beruhigungsmittel es gibt.
+:2. Kinek lesz? – Für wen ist es denn?
+:3. A férjemnek. – Für meinen Mann.
+:4. Mi a diagnózisa? – Was hat er denn für eine Diagnose?
+:5. Egy új, kilencszáz eurós kézitáska. – Eine neue Handtasche für 900 Euro.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:In der Apotheke.
+
+:1. Eine Frau kommt in die Apotheke und fragt, welche Beruhigungsmittel es gibt.
+:2. Für wen ist es denn?
+:3. Für meinen Mann.
+:4. Was hat er denn für eine Diagnose?
+:5. Eine neue Handtasche für 900 Euro.
+|}
+
+=== 16b ===
+
+:A gyógyszertárban
+
+:1. Egy asszony betér a gyógyszertárba, és érdeklődik a nyugtatók felől.
+:2. Kinek szánja?
+:3. A férjemnek.
+:4. Mi a baja?
+:5. Egy új kézitáska kilencszáz euróért.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:A gyógyszertárban – In der Apotheke.
+
+:1. Egy asszony betér a gyógyszertárba, és érdeklődik a nyugtatók felől. – Eine Frau geht in die Apotheke und erkundigt sich nach Beruhigungsmitteln.
+:2. Kinek szánja? – Für wen ist es gedacht?
+:3. A férjemnek. – Für meinen Mann.
+:4. Mi a baja? – Was hat er denn?
+:5. Egy új kézitáska kilencszáz euróért. – Eine neue Handtasche für 900 Euro.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:In der Apotheke.
+
+:1. Eine Frau geht in die Apotheke und erkundigt sich nach Beruhigungsmitteln.
+:2. Für wen ist es gedacht?
+:3. Für meinen Mann.
+:4. Was hat er denn?
+:5. Eine neue Handtasche für 900 Euro.
+|}
+
+=== 16c ===
+
+:A patikában
+
+:1. Egy nő idegcsillapítószert kér a patikában.
+:2. Kinek?
+:3. A férjemnek.
+:4. Diagnózis?
+:5. Egy kilencszáz eurós új kézitáska.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:A patikában – In der Apotheke.
+
+:1. Egy nő idegcsillapítószert kér a patikában. – Eine Frau fragt in der Apotheke nach einem Nervenberuhigungsmittel.
+:2. Kinek? – Für wen?
+:3. A férjemnek. – Für meinen Mann.
+:4. Diagnózis? – Diagnose?
+:5. Egy kilencszáz eurós új kézitáska. – Eine neue Handtasche für 900 Euro.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:In der Apotheke.
+
+:1. Eine Frau fragt in der Apotheke nach einem Nervenberuhigungsmittel.
+:2. Für wen?
+:3. Für meinen Mann.
+:4. Diagnose?
+:5. Eine neue Handtasche für 900 Euro.
+|}
+
+=== 17 ===
+
+:A kórházban
+
+:1. A sebész a patológusnak:
+:2. „Őn az egyetlen a kórházban aki nem gyógyította  a pácienseit.“
+:3. Erre a patológus: „És én az egyetlen aki nem betegíti meg a pácienseit.“
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:A kórházban - Im Krankenhaus
+
+:1. A sebész a patológusnak: - Chirurg zum Pathologen:
+:2. „Őn az egyetlen a kórházban aki nem gyógyította  a pácienseit.“ - „Sie sind der Einzige im Krankenhaus, der seine Patienten nicht gesund gemacht hat.“
+:3. Erre a patológus: „És én az egyetlen aki nem betegíti meg a pácienseit.“ - „Ich bin der Einzige, der seine Patienten nicht krank macht.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Im Krankenhaus
+
+:1. Chirurg zum Pathologen:
+:2. „Sie sind der Einzige im Krankenhaus, der seine Patienten nicht gesund gemacht hat.“
+:3. „Ich bin der Einzige, der seine Patienten nicht krank macht.“
+|}
+
+=== 18 ===
+
+:1. Nő: Mit szeretnék jobban? Egy kutyát vagy egy férjet?
+:2. Természetesen egy kutyát.
+:3. Jobb bemocskolni a szőnyeget, mint az egész életet.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Nő: Mit szeretnék jobban? Egy kutyát vagy egy férjet? - Frau: Was ich lieber möchte? Einen Hund oder einen Mann?
+:2. Természetesen egy kutyát. - Natürlich einen Hund.
+:3. Jobb bemocskolni a szőnyeget, mint az egész életet. - Besser den Teppich versauen, als das ganze Leben.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frau: Was ich lieber möchte? Einen Hund oder einen Mann?
+:2. Natürlich einen Hund.
+:3. Besser den Teppich versauen, als das ganze Leben.
+|}
+
+=== 19 ===
+
+:1. Mi a különbség egy optimista és egy pesszimista között?
+:2. Az optimista mondja: Rosszabb már nem lehet.
+:3. A pesszimista mondja: De, lehet ez még egy kicsit.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Mi a különbség egy optimista és egy pesszimista között? - Was ist der Unterschied zwischen einem Optimisten und einem Pessimisten?
+:2. Az optimista mondja: Rosszabb már nem lehet. - Der Optimist sagt: Schlimmer kann es nicht mehr werden.
+:3. A pesszimista mondja: De, lehet ez még egy kicsit. - Der Pessimist sagt: Doch, da geht noch was.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Was ist der Unterschied zwischen einem Optimisten und einem Pessimisten?
+:2. Der Optimist sagt: Schlimmer kann es nicht mehr werden.
+:3. Der Pessimist sagt: Doch, da geht noch was.
+|}
+
+=== 20 ===
+
+:1. Anyu, játszhatok a nagymamával?
+:2. Nem, a koporsó ma zárva marad.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Anyu, játszhatok a nagymamával? - Mama, darf ich mit Oma spielen?
+:2. Nem, a koporsó ma zárva marad. - Nein , der Sarg bleibt heute zu.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Mama, darf ich mit Oma spielen?
+:2. Nein , der Sarg bleibt heute zu.
+|}
+
+=== 21 ===
+
+:1. Én harminc éven keresztül rosszul raktam be a tejet a hűtőbe.
+:2. Csak mióta nős vagyok, tudom, hogy a tejet lehet rosszul berakni a hűtőbe.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Én harminc éven keresztül rosszul raktam be a tejet a hűtőbe. - Ich habe die Milch 30 Jahre lang falsch in den Kühlschrank gestellt.
+:2. Csak mióta nős vagyok, tudom, hogy a tejet lehet rosszul berakni a hűtőbe. - Erst seitdem ich verheiratet bin, weiß ich, dass man die Milch falsch in den Kühlschrank stellen kann.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ich habe die Milch 30 Jahre lang falsch in den Kühlschrank gestellt.
+:2. Erst seitdem ich verheiratet bin, weiß ich, dass man die Milch falsch in den Kühlschrank stellen kann.
+|}
+
+=== 22 ===
+
+:1. Egy nő elmegy a fogorvoshoz.
+:2. A nő: Inkább még egy gyerek, mint egy foghúzás.
+:3. Erre a fogorvos: Hölgyem, ezt most kell eldöntenie, hogy én tudjam, hogy a széket, hogy állítsam be.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy nő elmegy a fogorvoshoz. - Eine Frau geht zum Zahnarzt.
+:2. A nő: Inkább még egy gyerek, mint egy foghúzás. - Die Frau: Lieber noch mal ein Kind, als einen Zahn ziehen.
+:3. Erre a fogorvos: Hölgyem, ezt most kell eldöntenie, hogy én tudjam, hogy a széket, hogy állítsam be. - der Zahnarzt: Meine Dame, Sie müssen sich jetzt entscheiden, damit ich weiß, wie ich den Stuhl einstellen soll.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine Frau geht zum Zahnarzt.
+:2. Die Frau: Lieber noch mal ein Kind, als einen Zahn ziehen.
+:3. der Zahnarzt: Meine Dame, Sie müssen sich jetzt entscheiden, damit ich weiß, wie ich den Stuhl einstellen soll.
+|}
+
+=== 23 ===
+
+:1. Ha nem eszed meg a kásádat, akkor hívom a Krampuszt.
+:2. Anyu, igazán azt hiszed, hogy ő megeszi a kását?
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Ha nem eszed meg a kásádat, akkor hívom a Krampuszt. - Wenn du nicht deinen Brei aufisst, dann rufe ich Knecht Ruprecht.
+:2. Anyu, igazán azt hiszed, hogy ő megeszi a kását? - Mama, glaubst du wirklich, dass er ihn dann aufisst?
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wenn du nicht deinen Brei aufisst, dann rufe ich Knecht Ruprecht.
+:2. Mama, glaubst du wirklich, dass er ihn dann aufisst?
+|}
+
+=== 24 ===
+
+:1. Rendőr: Ön nem látta a piros lámpát?
+:2. Vezető: Dehogy nem!
+:3. Rendőr: És miért nem állt meg?
+:4. Vezető: Mert nem láttam Önt.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Rendőr: Ön nem látta a piros lámpát? - Polizist: Haben Sie die rote Ampel nicht gesehen?
+:2. Vezető: Dehogy nem! - Fahrer: Doch!
+:3. Rendőr: És miért nem állt meg? - Polizist: Und warum sind Sie dann nicht angehalten?
+:4. Vezető: Mert nem láttam Önt. - Fahrer: Weil ich Sie nicht gesehen hatte.
+::Dehogy nem! - wörtlich ungefähr: „Aber wie nicht!“ oder „Aber wie denn nicht!“
+::„Dehogy!“ allein bedeutet „Aber nein!“ / „Natürlich nicht!“ (starke Verneinung).
+::Wenn man „Dehogy nem!“ sagt, wird das „nem“ benutzt, um die vorherige Verneinung des Polizisten umzudrehen.
+::Der Polizist sagt implizit: „Du hast die Ampel nicht gesehen, oder?“ → Die Antwort „Dehogy nem!“ bedeutet sinngemäß:
+„Aber wie denn nicht?! Natürlich habe ich sie gesehen!“ (eineGegenbehauptung gegen eine negative Unterstellung)
+::Hogyne! - Wie nicht! ; Aber sicher! ;  Klar doch! ; Aber klar!
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Polizist: Haben Sie die rote Ampel nicht gesehen?
+:2. Fahrer: Doch!
+:3. Polizist: Und warum sind Sie dann nicht angehalten?
+:4. Fahrer: Weil ich Sie nicht gesehen hatte.
+|}
+
+=== 25 ===
+
+:hülyeség
+
+:1. Három disznó egy hídon ül.
+:2. Az első disznó leugrik. ... és meghal.
+:3. A második disznó leugrik. ... és is meghal.
+:4. A harmadik disznó leugrik. ... és él.
+:5. Újra leugrik ... és ő is meghal.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:hülyeség - Nonsens
+
+:1. Három disznó egy hídon ül. - Sitzen drei Schweine auf einer Brücke.
+:2. Az első disznó leugrik. ... és meghal. - Springt das erste Schwein runter... tot.
+:3. A második disznó leugrik. ... és is meghal. - Springt das zweite Schwein runter ... auch tot.
+:4. A harmadik disznó leugrik. ... és él. - Springt das dritte Schwein runter ... lebt.
+:5. Újra leugrik ... és ő is meghal. - Springt noch mal runter... tot!
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Nonsens
+
+:1. Sitzen drei Schweine auf einer Brücke.
+:2. Springt das erste Schwein runter... tot.
+:3. Springt das zweite Schwein runter ... auch tot.
+:4. Springt das dritte Schwein runter ... lebt.
+:5. Springt noch mal runter... tot!
+|}
+
+=== 26 - Elefantenwitze ===
+
+:Elefántviccek
+
+:1. Hogy tesznek be egy elefántot a hűtőbe?
+:2. Ajtó kinyit, elefánt be, ajtó be.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:Elefántviccek - Elefantenwitze
+
+:1. Hogy tesznek be egy elefántot a hűtőbe? - Wie bekommt man einen Elefanten in den Kühlschrank?
+:2. Ajtó kinyit, elefánt be, ajtó be. - Tür öffnen, Elefant rein, Tür zu.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Elefantenwitze
+
+:1. Wie bekommt man einen Elefanten in den Kühlschrank?
+:2. Tür öffnen, Elefant rein, Tür zu.
+|}
+
+=== 27 ===
+
+:1. Hogy tesznek be egy zsiráfot a hűtőbe?
+:2. Ajtó kinyit, elefánt ki, zsiráf be, ajtó be.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Hogy tesznek be egy zsiráfot a hűtőbe? - Wie bekommt man eine Giraffe in den Kühlschrank?
+:2. Ajtó kinyit, elefánt ki, zsiráf be, ajtó be. - Tür auf, Elefant raus, Giraffe rein, Tür zu.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wie bekommt man eine Giraffe in den Kühlschrank?
+:2. Tür auf, Elefant raus, Giraffe rein, Tür zu.
+|}
+
+=== 28 ===
+
+:1. Honnan lehet tudni, hogy egy elefánt volt a hűtőszekrényben?
+:2. Hogy lehet felismerni, hogy egy elefánt volt a hűtőszekrényben?
+:3. Ezt fel lehet ismerni a lábnyomról a vajban.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Honnan lehet tudni, hogy egy elefánt volt a hűtőszekrényben? - Wie erkennt man, dass ein Elefant im Kühlschrank war?
+:2. Hogy lehet felismerni, hogy egy elefánt volt a hűtőszekrényben? - Wie erkennt man, dass ein Elefant im Kühlschrank war?
+:3. Ezt fel lehet ismerni a lábnyomról a vajban. - Das erkennt man an den Fußspuren in der Butter.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wie erkennt man, dass ein Elefant im Kühlschrank war?
+:2. Wie erkennt man, dass ein Elefant im Kühlschrank war?
+:3. Das erkennt man an den Fußspuren in der Butter.
+|}
+
+=== 29 ===
+
+:1. Hogy lehet felismerni, hogy két elefánt volt a hűtőszekrényben?
+:2. Ezt fel lehet ismerni a két különböző lábnyomról a vajban.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Hogy lehet felismerni, hogy két elefánt volt a hűtőszekrényben? - Wie erkennt man, dass zwei Elefanten im Kühlschrank waren?
+:2. Ezt fel lehet ismerni a két különböző lábnyomról a vajban. - Das erkennt man an den zwei verschiedene Fußspuren in der Butter.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wie erkennt man, dass zwei Elefanten im Kühlschrank waren?
+:2. Das erkennt man an den zwei verschiedene Fußspuren in der Butter.
+|}
+
+=== 30 ===
+
+:1. Hogy lehet felismerni, hogy három elefánt volt a hűtőszekrényben?
+:2. Az ajtó nem csukódik rendesen.
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Hogy lehet felismerni, hogy három elefánt volt a hűtőszekrényben? - Wie erkennt man, dass drei Elefanten im Kühlschrank waren?
+:2. Az ajtó nem csukódik rendesen. - Die Tür geht nicht richtig zu.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Wie erkennt man, dass drei Elefanten im Kühlschrank waren?
+:2. Die Tür geht nicht richtig zu.
+|}
