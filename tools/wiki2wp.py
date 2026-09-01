@@ -169,6 +169,36 @@ def parse(text):
     return intro, jokes
 
 
+def joke_block(joke, cfg):
+    """Ein Witz als fertiges WordPress-Blockmarkup.
+
+    Wird auch von seiten_aufteilen.py benutzt, um die Länge einer Seite am
+    fertigen Seitencode zu messen statt an der Wikivorlage.
+    """
+    hu = to_paragraphs(joke["body"])
+    pair_box = next((b for b in joke["boxes"] if "-" in b["title"]), None)
+    de_box = next((b for b in joke["boxes"] if b is not pair_box), None)
+    pairs = to_paragraphs(pair_box["lines"]) if pair_box else []
+    de = to_paragraphs(de_box["lines"]) if de_box else []
+
+    label = joke["heading"].replace(" - ", " – ")
+    o = [SEP,
+         "",
+         '<!-- wp:heading {"level":3} -->',
+         f'<h3 class="wp-block-heading">{cfg["joke_word"]} {esc(label)}</h3>',
+         "<!-- /wp:heading -->",
+         "",
+         "<!-- wp:paragraph -->"]
+    o += [p_tag(html, cls) for html, cls in pairs]
+    o += ["<!-- /wp:paragraph -->",
+          "",
+          collapsible("magyar", hu),
+          "",
+          collapsible("német", de),
+          ""]
+    return "\n".join(o)
+
+
 def build(intro, jokes, cfg):
     o = []
     o.append(STYLE)
@@ -206,29 +236,7 @@ def build(intro, jokes, cfg):
             o.append("")
 
     for joke in jokes:
-        pairs = de = hu = []
-        hu = to_paragraphs(joke["body"])
-        pair_box = next((b for b in joke["boxes"] if "-" in b["title"]), None)
-        de_box = next((b for b in joke["boxes"] if b is not pair_box), None)
-        pairs = to_paragraphs(pair_box["lines"]) if pair_box else []
-        de = to_paragraphs(de_box["lines"]) if de_box else []
-
-        label = joke["heading"].replace(" - ", " – ")
-        o.append(SEP)
-        o.append("")
-        o.append('<!-- wp:heading {"level":3} -->')
-        o.append(f'<h3 class="wp-block-heading">{cfg["joke_word"]} {esc(label)}</h3>')
-        o.append("<!-- /wp:heading -->")
-        o.append("")
-        o.append("<!-- wp:paragraph -->")
-        for html, cls in pairs:
-            o.append(p_tag(html, cls))
-        o.append("<!-- /wp:paragraph -->")
-        o.append("")
-        o.append(collapsible("magyar", hu))
-        o.append("")
-        o.append(collapsible("német", de))
-        o.append("")
+        o.append(joke_block(joke, cfg))
 
     o.append(SEP)
     o.append("")
@@ -247,39 +255,49 @@ def build(intro, jokes, cfg):
     return "\n".join(o) + "\n"
 
 
-CFG = {
-    "title": "Witze 1",
-    # Seiten-Metadaten. Stehen NICHT im Seitencode - WordPress speichert sie
-    # getrennt vom Inhalt. Sie landen in der .meta.json neben der Textdatei und
-    # werden entweder von Hand in der Seitenleiste eingetragen oder spaeter vom
-    # Upload-Programm ueber die REST-API mitgeschickt.
-    "slug": "witze-1",
-    "parent": "Witze",
-    "menu_order": 1,
-    "joke_word": "Witz",
-    "home_nav": ('<a href="/">« Home</a> &nbsp;|&nbsp; '
-                 '<a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; '
-                 '<a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>'),
-    "chapter_nav": ('<a href="/witze-0/">« Zurück zu Witze 0</a> &nbsp;|&nbsp; '
-                    '<span>Witze 1</span> &nbsp;|&nbsp; '
-                    '<a href="/witze-2/">Weiter zu Witze 2 »</a>'),
-}
+HOME_NAV = ('<a href="/">« Home</a> &nbsp;|&nbsp; '
+            '<a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; '
+            '<a href="/startseite/lesebuecher/inhalt-witze/">'
+            '« zurück zu Inhaltsverzeichnis</a>')
+
+
+def konfiguration(nr):
+    """Alles, was sich von Seite zu Seite unterscheidet - aus der Seitennummer.
+
+    Die Metadaten (Titel, Permalink, übergeordnete Seite, Reihenfolge) stehen
+    NICHT im Seitencode: WordPress speichert sie getrennt vom Inhalt. Sie landen
+    in der .meta.json neben der Textdatei und werden entweder von Hand in der
+    Seitenleiste eingetragen oder später vom Upload-Programm über die REST-API
+    mitgeschickt.
+    """
+    return {
+        "title": f"Witze {nr}",
+        "slug": f"{nr:02d}-witze",
+        "parent": "Witze",
+        "menu_order": nr,
+        "joke_word": "Witz",
+        "home_nav": HOME_NAV,
+        "chapter_nav": (f'<a href="/{nr - 1:02d}-witze/">« Zurück zu Witze {nr - 1}</a>'
+                        f' &nbsp;|&nbsp; <span>Witze {nr}</span> &nbsp;|&nbsp; '
+                        f'<a href="/{nr + 1:02d}-witze/">Weiter zu Witze {nr + 1} »</a>'),
+    }
 
 
 def main():
-    src, dst = sys.argv[1], sys.argv[2]
+    src, dst, nr = sys.argv[1], sys.argv[2], int(sys.argv[3])
+    cfg = konfiguration(nr)
     with open(src, encoding="utf-8") as f:
         text = f.read()
     intro, jokes = parse(text)
     with open(dst, "w", encoding="utf-8") as f:
-        f.write(build(intro, jokes, CFG))
+        f.write(build(intro, jokes, cfg))
 
     meta = {
         "post_type": "page",
-        "post_title": CFG["title"],
-        "post_name": CFG["slug"],
-        "post_parent": CFG["parent"],
-        "menu_order": CFG["menu_order"],
+        "post_title": cfg["title"],
+        "post_name": cfg["slug"],
+        "post_parent": cfg["parent"],
+        "menu_order": cfg["menu_order"],
         "content_file": dst,
         "jokes": len(jokes),
     }

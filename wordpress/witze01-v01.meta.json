@@ -1,9 +1,9 @@
 {
   "post_type": "page",
   "post_title": "Witze 1",
-  "post_name": "witze-1",
+  "post_name": "01-witze",
   "post_parent": "Witze",
   "menu_order": 1,
-  "content_file": "witze01-wordpress-v01.txt",
+  "content_file": "wordpress/witze01-v01.txt",
   "jokes": 36
 }

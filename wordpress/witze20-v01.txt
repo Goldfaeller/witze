@@ -1,0 +1,2179 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/19-witze/">« Zurück zu Witze 19</a> &nbsp;|&nbsp; <span>Witze 20</span> &nbsp;|&nbsp; <a href="/21-witze/">Weiter zu Witze 21 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 20</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>20. Teil - Kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>rövid viccek - kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 278a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Egyszerűen el lehet-e magyarázni a különbséget a demokrácia és a népi demokrácia között?” - „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“</p>
+<p>3. „Elvileg igen, olyan a különbség, mint a kabát és a kényszerzubbony között.” - „Im Prinzip ja, das ist so ein Unterschied, wie zwischen Mantel und Zwangsjacke.“</p>
+<p class="pc-note">kény - Willkür; Eigenmächtigkeit</p>
+<p class="pc-note">kényszer - der Zwang</p>
+<p class="pc-note">kényszerít - zwingen</p>
+<p class="pc-note">zubbony - Waffenrock, Bluse, Kittel</p>
+<p class="pc-note">katonai zubbony - Militärjacke</p>
+<p class="pc-note">kényszerzubbony - Zwangsjacke</p>
+<p class="pc-note">önkényes - willkürlich</p>
+<p class="pc-note">önkéntelen (OHNE: “Y”) - unwillkürlich</p>
+<p class="pc-note">akaratlagos izomzat - willkürliche Muskulatur</p>
+<p class="pc-note">akaratlan izomzat - unwillkürliche Muskulatur.</p>
+<p class="pc-note">orvosi kabát = orvosi köpeny - Arztkittel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Egyszerűen el lehet-e magyarázni a különbséget a demokrácia és a népi demokrácia között?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen, olyan a különbség, mint a kabát és a kényszerzubbony között.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kényszer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kényszerít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zubbony</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">katonai zubbony</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kényszerzubbony</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">önkényes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">önkéntelen (OHNE: “Y”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">akaratlagos izomzat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">akaratlan izomzat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">orvosi kabát = orvosi köpeny</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja, das ist so ein Unterschied, wie zwischen Mantel und Zwangsjacke.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Willkür; Eigenmächtigkeit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Zwang</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zwingen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Waffenrock, Bluse, Kittel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Militärjacke</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Zwangsjacke</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">willkürlich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">unwillkürlich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">willkürliche Muskulatur</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">unwillkürliche Muskulatur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Arztkittel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 278b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Könnyen megmagyarázható-e, miben tér el a demokrácia a népi demokráciától?” - „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“ (Ist es einfach zu erklären, worin Demokratie und Volksdemokratie (voneinander) abweichen?)</p>
+<p>2. „Alapvetően igen: nagyjából annyi a különbség, mint egy dzseki és egy kényszerzubbony között.” - „Im Prinzip ja; im Großen und Ganzen ist der Unterschied so wie zwischen einer Jacke und einer Zwangsjacke.“</p>
+<p class="pc-note">eltér - abweichen (sich unterscheiden)</p>
+<p class="pc-note">miben tér el? = mi a különbség [külömség]? - worin besteht der Unterschied?</p>
+<p class="pc-note">nagyjából [naggyából] - im Großen und Ganzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Könnyen megmagyarázható-e, miben tér el a demokrácia a népi demokráciától?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen: nagyjából annyi a különbség, mint egy dzseki és egy kényszerzubbony között.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eltér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">miben tér el? = mi a különbség [külömség]?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nagyjából [naggyából]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Kann man den Unterschied zwischen Demokratie und Volksdemokratie einfach erklären?“ (Ist es einfach zu erklären, worin Demokratie und Volksdemokratie (voneinander) abweichen?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja; im Großen und Ganzen ist der Unterschied so wie zwischen einer Jacke und einer Zwangsjacke.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">abweichen (sich unterscheiden)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">worin besteht der Unterschied?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">im Großen und Ganzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 279a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Lehet-e egy orosz autóval orosz utakon százhúsz kilométer per órával haladni?” - „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“</p>
+<p>3. „Elvileg igen. De csak egyszer.” - „Im Prinzip ja. Aber nur einmal.“</p>
+<p class="pc-note">halad - fortschreiten, schaffen, vorankommen, weiterfahren, fortfahren, fahren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Lehet-e egy orosz autóval orosz utakon százhúsz kilométer per órával haladni?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen. De csak egyszer.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">halad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja. Aber nur einmal.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fortschreiten, schaffen, vorankommen, weiterfahren, fortfahren, fahren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 279b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Megoldható-e, hogy egy szovjet autó 120-szal menjen a hazai utakon?” - „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“ (Ist es machbar mit einem sowjetischen Auto mit 120 auf einheimischen Straßen zu fahren?)</p>
+<p>2. „Alapjában véve igen, ám ez egyszeri alkalom.” - „Im Prinzip (grundsätzlich genommen) ja, allerdings nur ein einziges Mal. (aber das ist eine einmalige Sache/Gelegenheit/Anlass)“</p>
+<p class="pc-note">120-szal [százhúsz-szal]</p>
+<p class="pc-note">megoldható - lösbar, machbar</p>
+<p class="pc-note">ház - Haus</p>
+<p class="pc-note">haza - Heimat</p>
+<p class="pc-note">hazai - heimatlich, einheimisch</p>
+<p class="pc-note">titkos - heimlich</p>
+<p class="pc-note">megy - fahren</p>
+<p class="pc-note">..., hogy ...menjen - zu fahren (Imperativ, weil Final-Nebensatz)</p>
+<p class="pc-note">ám = de = csakhogy - aber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Megoldható-e, hogy egy szovjet autó 120-szal menjen a hazai utakon?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapjában véve igen, ám ez egyszeri alkalom.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">120-szal [százhúsz-szal]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megoldható</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ház</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">haza</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hazai</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">titkos</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">..., hogy ...menjen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ám = de = csakhogy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Kann man mit einem russischen Auto auf russischen Straßen 120 km/h fahren?“ (Ist es machbar mit einem sowjetischen Auto mit 120 auf einheimischen Straßen zu fahren?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip (grundsätzlich genommen) ja, allerdings nur ein einziges Mal. (aber das ist eine einmalige Sache/Gelegenheit/Anlass)“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lösbar, machbar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Haus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Heimat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">heimatlich, einheimisch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">heimlich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fahren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zu fahren (Imperativ, weil Final-Nebensatz)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 280a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Lehetséges-e Kanadában is a szocializmus?” - „Kann es in Kanada auch Sozialismus geben?“</p>
+<p>3. „Elvileg igen, de akkor ki szállítja majd nekünk a búzát?” - „Im Prinzip ja, aber wer liefert uns dann den Weizen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Lehetséges-e Kanadában is a szocializmus?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen, de akkor ki szállítja majd nekünk a búzát?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Kann es in Kanada auch Sozialismus geben?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja, aber wer liefert uns dann den Weizen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 280b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Bevezethető lenne-e a szocializmus Kanadában?” - „Kann man in Kanada auch Sozialismus einführen?“</p>
+<p>2. „Alapvetően igen, csakhogy (= de) akkor honnan kapnánk a gabonát?” - „Im Prinzip ja, aber woher würden wir dann Weizen bekommen?“</p>
+<p class="pc-note">csakhogy  = ám = de - aber</p>
+<p class="pc-note">kap - bekommen, erhalten,  beziehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Bevezethető lenne-e a szocializmus Kanadában?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen, csakhogy (= de) akkor honnan kapnánk a gabonát?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csakhogy  = ám = de</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kap</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Kann man in Kanada auch Sozialismus einführen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja, aber woher würden wir dann Weizen bekommen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bekommen, erhalten,  beziehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 281</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Elérheti-e a Trabant a kétszáz kilométer per órát? - „Kann ein Trabant 200 km/h erreichen?“</p>
+<p>3. „Elvileg igen, attól függ, milyen magasról esik le.” - „Im Prinzip ja, es hängt davon ab, aus welcher Höhe er runterfällt.“</p>
+<p>4. („Alapjában véve igen, ha elég nagy magasságból zuhan.”) - („Im Prinzip ja, wenn er aus einer ausreichend großen Höhe fällt.“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Elérheti-e a Trabant a kétszáz kilométer per órát?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen, attól függ, milyen magasról esik le.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. („Alapjában véve igen, ha elég nagy magasságból zuhan.”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Kann ein Trabant 200 km/h erreichen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja, es hängt davon ab, aus welcher Höhe er runterfällt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. („Im Prinzip ja, wenn er aus einer ausreichend großen Höhe fällt.“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 282a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan</p>
+<p>2. „Igaz-e, hogy az Egyesült Államokban mindenkinek van autója?” - „Stimmt es, dass in den USA jeder ein Auto hat?“</p>
+<p>3. „Elvileg igen, viszont (= de) nálunk cserébe mindenkinek van parkolóhelye.” - „Im Prinzip ja, aber bei uns hat dafür jeder einen Parkplatz.“</p>
+<p class="pc-note">viszont - dafür, hingegen</p>
+<p class="pc-note">viszont nálunk cserébe - bei uns hingegen im Gegenzug; bei uns dagegen als Ausgleich; bei uns wiederum dafür</p>
+<p class="pc-note">csere - Tausch, Austausch, Wechsel</p>
+<p class="pc-note">csere tárgya - Tauschobjekt</p>
+<p class="pc-note">kormánycsere - Regierungswechsel</p>
+<p class="pc-note">cserél - tauschen, austauschen</p>
+<p class="pc-note">mindenkinek van parkolóhelye - für jeden gibt es seinen Parkplatz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kérdés a Jereváni Rádióhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igaz-e, hogy az Egyesült Államokban mindenkinek van autója?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Elvileg igen, viszont (= de) nálunk cserébe mindenkinek van parkolóhelye.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">viszont</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">viszont nálunk cserébe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csere</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csere tárgya</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kormánycsere</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">cserél</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mindenkinek van parkolóhelye</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frage an Radio Jerewan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Stimmt es, dass in den USA jeder ein Auto hat?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Im Prinzip ja, aber bei uns hat dafür jeder einen Parkplatz.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dafür, hingegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bei uns hingegen im Gegenzug; bei uns dagegen als Ausgleich; bei uns wiederum dafür</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Tausch, Austausch, Wechsel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Tauschobjekt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Regierungswechsel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tauschen, austauschen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">für jeden gibt es seinen Parkplatz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 282b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Tényleg igaz, hogy Amerikában mindenkinek jut egy autó?” - „Stimmt es, dass in den USA jeder ein Auto hat?“ (… dass in Amerika jedem ein Auto zuteilwird? )</p>
+<p>2. „Alapvetően igen, de nálunk legalább parkolóhely mindenkinek akad.” - „Im Prinzip ja, aber bei bei uns hat jeder mindestens (minimum) einen Parkplatz.“</p>
+<p class="pc-note">jut egy autó = kap egy autó - bekommt ein Auto</p>
+<p class="pc-note">jut - gelangen, hinkommen, kommen zu, zuteilwerden, übrig bleiben für</p>
+<p class="pc-note">jut - auf jemanden entfallen</p>
+<p class="pc-note">mindenkinek jut egy autó - auf jeden kommt ein Auto; für jeden ist ein Auto da</p>
+<p class="pc-note">juttat vkinek vmit (= ad vkinek) - jemandem etwas zukommen lassen</p>
+<p class="pc-note">akad (= van) - es gibt</p>
+<p class="pc-note">legalább = minimum - mindestens, minimum</p>
+<p class="pc-note">legfeljebb = maximum - höchstens, maximum</p>
+<p class="pc-note">legeslegfeljebb - allerhöchstens</p>
+<p class="pc-note">legeslegalább - allermindestens</p>
+<p class="pc-note">legeslegalul - zuallerunterst</p>
+<p class="pc-note">legeslegfelül - zualleroberst</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Tényleg igaz, hogy Amerikában mindenkinek jut egy autó?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Alapvetően igen, de nálunk legalább parkolóhely mindenkinek akad.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jut egy autó = kap egy autó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mindenkinek jut egy autó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">juttat vkinek vmit (= ad vkinek)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">akad (= van)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">legalább = minimum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">legfeljebb = maximum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">legeslegfeljebb</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">legeslegalább</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">legeslegalul</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">legeslegfelül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Stimmt es, dass in den USA jeder ein Auto hat?“ (… dass in Amerika jedem ein Auto zuteilwird? )</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Im Prinzip ja, aber bei bei uns hat jeder mindestens (minimum) einen Parkplatz.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bekommt ein Auto</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gelangen, hinkommen, kommen zu, zuteilwerden, übrig bleiben für</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf jemanden entfallen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf jeden kommt ein Auto; für jeden ist ein Auto da</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemandem etwas zukommen lassen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es gibt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mindestens, minimum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">höchstens, maximum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">allerhöchstens</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">allermindestens</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zuallerunterst</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zualleroberst</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 283a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa: „Ha valaki megsért, akkor üsd meg egy lapáttal!” - Der Vater: „Wenn dich jemand beleidigt, dann schlag ihn mit einer Schaufel!“</p>
+<p>2. A lány: „De hát én lány vagyok.” - Die Tochter: „Aber ich bin doch ein Mädchen.“</p>
+<p>3. Az apa: „Akkor vedd a rózsaszín lapátot!” - Der Vater: „Dann nimm die rosa Schaufel!“</p>
+<p class="pc-note">üt - schlagen</p>
+<p class="pc-note">üsd! [üzsd] - Schlag! (Imperativ)</p>
+<p class="pc-note">vesz - nehmen</p>
+<p class="pc-note">vedd! - nimm!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa: „Ha valaki megsért, akkor üsd meg egy lapáttal!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A lány: „De hát én lány vagyok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az apa: „Akkor vedd a rózsaszín lapátot!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">üt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">üsd! [üzsd]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vedd!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Vater: „Wenn dich jemand beleidigt, dann schlag ihn mit einer Schaufel!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Tochter: „Aber ich bin doch ein Mädchen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Vater: „Dann nimm die rosa Schaufel!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schlagen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schlag! (Imperativ)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehmen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nimm!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 283b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa azt mondja: „Ha bárki sérteget, üsd meg lapáttal!” - Der Vater sagt: „Wenn irgendjemand dich beleidigt, schlag ihn mit einer Schaufel!“</p>
+<p>2. A lánya így válaszol: „De én lány vagyok.” - Seine Tochter antwortet so: „Aber ich bin ein Mädchen.“</p>
+<p>3. Az apa: „Akkor használd a rózsaszín lapátot!” - Der Vater: „Dann benutze die rosafarbene Schaufel!“</p>
+<p class="pc-note">bárki - irgendjemand</p>
+<p class="pc-note">valaki - jemand</p>
+<p class="pc-note">használ - benutzen, verwenden</p>
+<p class="pc-note">használd! - benutze!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa azt mondja: „Ha bárki sérteget, üsd meg lapáttal!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A lánya így válaszol: „De én lány vagyok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az apa: „Akkor használd a rózsaszín lapátot!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bárki</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">valaki</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">használ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">használd!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Vater sagt: „Wenn irgendjemand dich beleidigt, schlag ihn mit einer Schaufel!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Seine Tochter antwortet so: „Aber ich bin ein Mädchen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Vater: „Dann benutze die rosafarbene Schaufel!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">irgendjemand</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemand</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">benutzen, verwenden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">benutze!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 283c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa így szól: „Ha megsértenek, csapj [csapje] oda egy lapáttal!” - Der Vater spricht so: „Wenn sie dich beleidigen (wenn man dich beleidigt; wenn du beleidigt wirst), dann hau mit einer Schaufel drauf!“</p>
+<p>2. A lány tiltakozik: „De hiszen lány vagyok.” - Die Tochter widerspricht: „Aber ich bin ja ein Mädchen.“</p>
+<p>3. Az apa felel: „Akkor fogd a rózsaszín lapátot!” - Der Vater antwortet: „Dann nimm die rosa Schaufel!“</p>
+<p class="pc-note">odacsap - zuschlagen</p>
+<p class="pc-note">tiltakozás - Protest, Widerspruch</p>
+<p class="pc-note">tiltakozik - protestieren, widersprechen, einwenden</p>
+<p class="pc-note">de hiszen = de = hiszen - aber</p>
+<p class="pc-note">fog - nehmen, greifen</p>
+<p class="pc-note">fogd! - nimm!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa így szól: „Ha megsértenek, csapj [csapje] oda egy lapáttal!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A lány tiltakozik: „De hiszen lány vagyok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az apa felel: „Akkor fogd a rózsaszín lapátot!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">odacsap</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tiltakozás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tiltakozik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">de hiszen = de = hiszen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fog</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fogd!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Vater spricht so: „Wenn sie dich beleidigen (wenn man dich beleidigt; wenn du beleidigt wirst), dann hau mit einer Schaufel drauf!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Tochter widerspricht: „Aber ich bin ja ein Mädchen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Vater antwortet: „Dann nimm die rosa Schaufel!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zuschlagen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Protest, Widerspruch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">protestieren, widersprechen, einwenden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehmen, greifen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nimm!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 284a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van egy szőkének egy agysejttel [atysejtel] több, mint egy lónak? - Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?</p>
+<p>2. Azért, hogy lépcsőpucolás közben ne igyon a vödörből. - Deshalb, damit sie beim Treppenputzen nicht aus dem Eimer trinkt. (Imperativ - Final-Nebensatz: igyon - inni - iszik)</p>
+<p class="pc-note">sejt - die Zelle</p>
+<p class="pc-note">vmivel több van - jemand hat mehr</p>
+<p class="pc-note">vmivel több, mint - (mit) mehr als</p>
+<p class="pc-note">vmivel kevesebb van - jemand hat weniger</p>
+<p class="pc-note">pucolás közben - während des Putzens; beim Putzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van egy szőkének egy agysejttel [atysejtel] több, mint egy lónak?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy lépcsőpucolás közben ne igyon a vödörből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sejt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vmivel több van</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vmivel több, mint</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vmivel kevesebb van</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">pucolás közben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie beim Treppenputzen nicht aus dem Eimer trinkt. (Imperativ - Final-Nebensatz: igyon - inni - iszik)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Zelle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemand hat mehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(mit) mehr als</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemand hat weniger</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">während des Putzens; beim Putzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 284b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló? - Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?</p>
+<p>2. Azért, hogy takarításkor ne szürcsöljön a vödörből. - Deshalb, damit sie beim Putzen nicht aus dem Eimer schlürft. (Imperativ - Final-Nebensatz)</p>
+<p class="pc-note">rendelkezik vmivel - über (mit) etwas verfügen</p>
+<p class="pc-note">rendelkezik több agysejttel - über mehr Hirnzellen verfügen</p>
+<p class="pc-note">vmivel több - mehr als</p>
+<p class="pc-note">több mint egy - mehr als eins</p>
+<p class="pc-note">eggyel több - eine mehr</p>
+<p class="pc-note">több mint kettő - mehr als zwei</p>
+<p class="pc-note">kettővel több - (mit) zwei mehr</p>
+<p class="pc-note">hárommal több - (mit) drei mehr</p>
+<p class="pc-note">több mint három - mehr als drei</p>
+<p class="pc-note">néggyel több - vier mehr</p>
+<p class="pc-note">több mint négy - mehr als vier</p>
+<p class="pc-note">öttel több - fünf mehr</p>
+<p class="pc-note">több mint öt - mehr als fünf</p>
+<p class="pc-note">hattal több - sechs mehr</p>
+<p class="pc-note">több mint hat - mehr als sechs</p>
+<p class="pc-note">szürcsöl - schlürfen, nippen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy takarításkor ne szürcsöljön a vödörből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rendelkezik vmivel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rendelkezik több agysejttel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vmivel több</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">több mint egy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eggyel több</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">több mint kettő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kettővel több</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hárommal több</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">több mint három</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">néggyel több</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">több mint négy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">öttel több</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">több mint öt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hattal több</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">több mint hat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szürcsöl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie beim Putzen nicht aus dem Eimer schlürft. (Imperativ - Final-Nebensatz)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">über (mit) etwas verfügen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">über mehr Hirnzellen verfügen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mehr als</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mehr als eins</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eine mehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mehr als zwei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(mit) zwei mehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(mit) drei mehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mehr als drei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vier mehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mehr als vier</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fünf mehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mehr als fünf</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sechs mehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mehr als sechs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schlürfen, nippen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 284c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkének egy plusz agysejtje a lóhoz képest? - Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?</p>
+<p>2. Azért, hogy lépcsőt mosva ne igyon a vizes vödörből. - Deshalb, damit sie beim Treppenwaschen nicht aus dem Wassereimer trinkt.</p>
+<p class="pc-note">a lóhoz képest - im Vergleich zum Pferd</p>
+<p class="pc-note">tegnaphoz képest - im Vergleich zu gestern</p>
+<p class="pc-note">hozzád képest - im Vergleich zu dir</p>
+<p class="pc-note">(neki) van egy agysejtje - sie hat eine Hirnzelle</p>
+<p class="pc-note">(neki) van egy plusz agysejtje = van egy további agysejtje - sie hat eine zusätzliche Hirnzelle</p>
+<p class="pc-note">egy plusz agysejtje a lóhoz képest - sie hat eine Hirnzelle mehr, im Vergleich zum Pferd</p>
+<p class="pc-note">egy plusz agysejtje, mint a lónak - sie hat eine Hirnzelle mehr, als ein Pferde (als dem Pferd gehört)</p>
+<p class="pc-note">neki több van a lóhoz</p>
+<p class="pc-note">benzines kanna - Benzinkanister</p>
+<p class="pc-note">vizes - Wasserkanister, Wasserkanne</p>
+<p class="pc-note">vizes vödör - Wassereimer</p>
+<p class="pc-note">nedves - feucht</p>
+<p class="pc-note">vizes - nass</p>
+<p class="pc-note">száraz - trocken</p>
+<p class="pc-note">lépcsőt mosva - beim Treppenwaschen; (die Treppe waschend)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkének egy plusz agysejtje a lóhoz képest?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy lépcsőt mosva ne igyon a vizes vödörből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a lóhoz képest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tegnaphoz képest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hozzád képest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(neki) van egy agysejtje</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(neki) van egy plusz agysejtje = van egy további agysejtje</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egy plusz agysejtje a lóhoz képest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egy plusz agysejtje, mint a lónak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">neki több van a lóhoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">benzines kanna</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vizes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vizes vödör</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nedves</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vizes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">száraz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lépcsőt mosva</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie beim Treppenwaschen nicht aus dem Wassereimer trinkt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">im Vergleich zum Pferd</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">im Vergleich zu gestern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">im Vergleich zu dir</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie hat eine Hirnzelle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie hat eine zusätzliche Hirnzelle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie hat eine Hirnzelle mehr, im Vergleich zum Pferd</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie hat eine Hirnzelle mehr, als ein Pferde (als dem Pferd gehört)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Benzinkanister</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wasserkanister, Wasserkanne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wassereimer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feucht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nass</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">trocken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">beim Treppenwaschen; (die Treppe waschend)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 285a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van egy szőkének egy agysejttel több, mint egy tehénnek? - Warum hat eine Blondine eine Gehirnzelle mehr als eine Kuh?</p>
+<p>2. Azért, hogy ne bőgjön, ha valaki a tőgyéhez nyúl. - Deshalb, damit sie nicht muht, wenn jemand an ihr Euter greift. (Imperativ - Final-Nebensatz vorangestellt)</p>
+<p class="pc-note">bőg - muhen</p>
+<p class="pc-note">A szarvas bőg. - Der Hirsch röhrt.</p>
+<p class="pc-note">A gyerek bőg. - Das Kind plärrt/brüllt.</p>
+<p>3. .tőgy - Euter</p>
+<p class="pc-note">tejel - melken</p>
+<p class="pc-note">nyúl - greifen, berühren</p>
+<p class="pc-note">nyúl - Kaninchen, Hase</p>
+<p class="pc-note">házi nyúl - Hauskaninchen</p>
+<p class="pc-note">üregi nyúl - Wildkaninchen</p>
+<p class="pc-note">mezei nyúl - Feldhase</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van egy szőkének egy agysejttel több, mint egy tehénnek?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy ne bőgjön, ha valaki a tőgyéhez nyúl.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bőg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">A szarvas bőg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">A gyerek bőg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. .tőgy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tejel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nyúl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nyúl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">házi nyúl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">üregi nyúl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mezei nyúl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat eine Blondine eine Gehirnzelle mehr als eine Kuh?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie nicht muht, wenn jemand an ihr Euter greift. (Imperativ - Final-Nebensatz vorangestellt)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">muhen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Der Hirsch röhrt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das Kind plärrt/brüllt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Euter</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">melken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">greifen, berühren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kaninchen, Hase</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Hauskaninchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wildkaninchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Feldhase</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 285b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy tehén? - Warum verfügt eine Blondine über eine Gehirnzelle mehr als eine Kuh?</p>
+<p>2. Azért, hogy ne kezdjen el bőgni, amikor megfogják a tőgyét. - Deshalb, damit sie nicht anfängt zu muhen, wenn man ihr Euter anfasst.</p>
+<p class="pc-note">elkezd - anfangen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy tehén?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy ne kezdjen el bőgni, amikor megfogják a tőgyét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elkezd</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum verfügt eine Blondine über eine Gehirnzelle mehr als eine Kuh?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie nicht anfängt zu muhen, wenn man ihr Euter anfasst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">anfangen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 285c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkének egy plusz agysejtje a tehénhez képest? - Warum hat die Blondine im Vergleich zur Kuh eine zusätzliche Gehirnzelle?</p>
+<p>2. Azért, hogy ne adjon ki „mú” hangot, ha valaki hozzányúl a tőgyéhez. - Deshalb, damit sie keinen „Muh“-Laut von sich gibt, wenn jemand ihr Euter berührt.</p>
+<p class="pc-note">hozzányúl vmihez - berühren, anfassen</p>
+<p class="pc-note">megérint - berühren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkének egy plusz agysejtje a tehénhez képest?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy ne adjon ki „mú” hangot, ha valaki hozzányúl a tőgyéhez.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hozzányúl vmihez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megérint</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat die Blondine im Vergleich zur Kuh eine zusätzliche Gehirnzelle?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie keinen „Muh“-Laut von sich gibt, wenn jemand ihr Euter berührt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">berühren, anfassen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">berühren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 286a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van egy szőkének egy agysejttel többje, mint egy lónak? - Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?</p>
+<p>2. Azért, hogy autómosás közben ne igyon a vödörből. - Deshalb, damit sie beim Autowaschen nicht aus dem Eimer trinkt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van egy szőkének egy agysejttel többje, mint egy lónak?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy autómosás közben ne igyon a vödörből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat eine Blondine eine Gehirnzelle mehr als ein Pferd?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie beim Autowaschen nicht aus dem Eimer trinkt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 286b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló? - Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?</p>
+<p>2. Azért, hogy kocsimosáskor ne kortyolgasson a vödörből. - Deshalb, damit sie beim Wagenwaschen nicht aus dem Eimer schlürft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért rendelkezik egy szőke nő eggyel több agysejttel, mint egy ló?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy kocsimosáskor ne kortyolgasson a vödörből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum verfügt eine Blondine über eine Gehirnzelle mehr als ein Pferd?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie beim Wagenwaschen nicht aus dem Eimer schlürft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 286c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkének egy plusz agysejtje [atysejtye] a lóhoz képest? - Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?</p>
+<p>2. Azért, hogy ne igyon a vizes vödörből, amikor az autót tisztítja. [tisztíttya] - Deshalb, damit sie nicht aus dem Wassereimer trinkt, wenn sie das Auto reinigt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért van a szőkének egy plusz agysejtje [atysejtye] a lóhoz képest?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, hogy ne igyon a vizes vödörből, amikor az autót tisztítja. [tisztíttya]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat die Blondine im Vergleich zum Pferd eine zusätzliche Gehirnzelle?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, damit sie nicht aus dem Wassereimer trinkt, wenn sie das Auto reinigt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/19-witze/">« Zurück zu Witze 19</a> &nbsp;|&nbsp; <span>Witze 20</span> &nbsp;|&nbsp; <a href="/21-witze/">Weiter zu Witze 21 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

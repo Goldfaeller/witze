@@ -1,0 +1,2192 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/20-witze/">« Zurück zu Witze 20</a> &nbsp;|&nbsp; <span>Witze 21</span> &nbsp;|&nbsp; <a href="/22-witze/">Weiter zu Witze 22 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 21</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>21. Teil - Kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>rövid viccek - kurze Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 287a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő bemegy a könyvtárba, és panaszkodik a könyvtárosnak: „Múlt héten kölcsönöztem maguktól egy könyvet. Ez volt a legunalmasabb, amit valamikor olvastam.“ - Eine Blondine kommt in die Bücherei und beschwert sich beim Bibliothekar: „Letzte Woche habe ich mir ein Buch von Ihnen ausgeliehen. Es war das langweiligste, das ich jemals gelesen habe.“</p>
+<p>2. „Gyenge volt a történet, és túl sok szereplő volt benne!” - „Die Story war schwach und es kamen viel zu viele Personen vor!“</p>
+<p>3. A könyvtáros mosolyog: „Ó, akkor ön lehetett az, aki a telefonkönyvet vitte el…” - Der Bibliothekar lächelt: „Oh, Sie müssen die Person gewesen sein (dann konnten-es-sein Sie diejenige), die das Telefonbuch mitgenommen hat…“</p>
+<p class="pc-note">kölcsönöz - verleihen, ausleihen</p>
+<p class="pc-note">kölcsön - das Darlehen</p>
+<p class="pc-note">kölcsön ad - ein Darlehen geben</p>
+<p class="pc-note">kölcsön vesz - ein Darlehen nehmen</p>
+<p class="pc-note">kölcsön - Darlehen, Leihgabe, geliehenes Geld oder geliehene Sache; (konkreter: etwas wird ausgeliehen und später zurückgegeben.)</p>
+<p class="pc-note">hitel - Kredit</p>
+<p class="pc-note">hitel - Kredit, Kreditwürdigkeit, Vertrauen im finanziellen Sinn; (eher institutionell, abstrakt, banksprachlich)</p>
+<p class="pc-note">Minden hitel kölcsönszerű, de nem minden kölcsön hitel. - Jeder Kredit ist darlehensartig, aber nicht jedes Geliehene ist ein Kredit.</p>
+<p class="pc-note">bankhitel - Bankkredit</p>
+<p class="pc-note">lakáshitel - Immobilienkredit; Wohnungsbaudarlehen</p>
+<p class="pc-note">hitelre vásárol - auf Kredit kaufen</p>
+<p class="pc-note">kölcsönt ad - ein Darlehen geben; Geld leihen</p>
+<p class="pc-note">kölcsönt vesz fel - ein Darlehen aufnehmen</p>
+<p class="pc-note">pénzt kér kölcsön - sich Geld leihen</p>
+<p class="pc-note">könyvet ad kölcsön - ein Buch verleihen</p>
+<p class="pc-note">kölcsönkér - ausleihen; sich leihen</p>
+<p class="pc-note">hitel - klingt mehr nach Bankprodukt/Kreditrahmen.</p>
+<p class="pc-note">kölcsön - klingt mehr nach konkretem Darlehensbetrag.</p>
+<p class="pc-note">kölcsönad - verleihen; geben</p>
+<p class="pc-note">kölcsönvesz - ausleihen;/ nehmen</p>
+<p class="pc-note">kölcsönkér - sich ausbitten; sich leihen</p>
+<p class="pc-note">kölcsönös - gegenseitig</p>
+<p class="pc-note">kölcsönösen - gegenseitig, wechselseitig</p>
+<p class="pc-note">A könyvtár könyvet kölcsönöz (kölcsön ad vkinek) Annának. - Die Bibliothek leiht Anna ein Buch.</p>
+<p class="pc-note">Anna könyvet kölcsönöz (kölcsön vesz vkitől/vhonnan) a könyvtárból. - Anna leiht ein Buch aus der Bibliothek aus.</p>
+<p class="pc-note">kölcsönöz - leihen (kann je nach Subjekt beide Richtungen haben)</p>
+<p class="pc-note">A könyvtár könyveket kölcsönöz. - Die Bibliothek verleiht Bücher.</p>
+<p class="pc-note">valaki kölcsönöz valamit valakinek - jemand verleiht etwas an jemanden</p>
+<p class="pc-note">A szomszéd fűnyírót kölcsönöz nekünk. - Der Nachbar leiht uns einen Rasenmäher.</p>
+<p class="pc-note">valaha - jemals</p>
+<p class="pc-note">valamikor (= vmikor) - irgendwann; jemals</p>
+<p class="pc-note">lenni - sein</p>
+<p class="pc-note">lehet - es kann sein</p>
+<p class="pc-note">lehetett - es konnte sein; es dürfte gewesen sein; es muss wohl gewesen sein</p>
+<p class="pc-note">elvisz - wegbringen, mitnehmen</p>
+<p class="pc-note">mosolys - mosolygás - das Lächeln</p>
+<p class="pc-note">mosolyog - lächeln</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő bemegy a könyvtárba, és panaszkodik a könyvtárosnak: „Múlt héten kölcsönöztem maguktól egy könyvet. Ez volt a legunalmasabb, amit valamikor olvastam.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Gyenge volt a történet, és túl sok szereplő volt benne!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A könyvtáros mosolyog: „Ó, akkor ön lehetett az, aki a telefonkönyvet vitte el…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönöz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsön</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsön ad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsön vesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsön</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hitel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hitel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Minden hitel kölcsönszerű, de nem minden kölcsön hitel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bankhitel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lakáshitel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hitelre vásárol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönt ad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönt vesz fel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">pénzt kér kölcsön</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">könyvet ad kölcsön</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönkér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hitel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsön</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönvesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönkér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönös</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönösen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">A könyvtár könyvet kölcsönöz (kölcsön ad vkinek) Annának.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Anna könyvet kölcsönöz (kölcsön vesz vkitől/vhonnan) a könyvtárból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kölcsönöz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">A könyvtár könyveket kölcsönöz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">valaki kölcsönöz valamit valakinek</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">A szomszéd fűnyírót kölcsönöz nekünk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">valaha</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">valamikor (= vmikor)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lenni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lehet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lehetett</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elvisz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mosolys - mosolygás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mosolyog</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine kommt in die Bücherei und beschwert sich beim Bibliothekar: „Letzte Woche habe ich mir ein Buch von Ihnen ausgeliehen. Es war das langweiligste, das ich jemals gelesen habe.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Die Story war schwach und es kamen viel zu viele Personen vor!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Bibliothekar lächelt: „Oh, Sie müssen die Person gewesen sein (dann konnten-es-sein Sie diejenige), die das Telefonbuch mitgenommen hat…“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verleihen, ausleihen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Darlehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Darlehen geben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Darlehen nehmen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Darlehen, Leihgabe, geliehenes Geld oder geliehene Sache; (konkreter: etwas wird ausgeliehen und später zurückgegeben.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kredit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kredit, Kreditwürdigkeit, Vertrauen im finanziellen Sinn; (eher institutionell, abstrakt, banksprachlich)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Jeder Kredit ist darlehensartig, aber nicht jedes Geliehene ist ein Kredit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Bankkredit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Immobilienkredit; Wohnungsbaudarlehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf Kredit kaufen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Darlehen geben; Geld leihen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Darlehen aufnehmen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich Geld leihen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ein Buch verleihen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ausleihen; sich leihen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">klingt mehr nach Bankprodukt/Kreditrahmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">klingt mehr nach konkretem Darlehensbetrag.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verleihen; geben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ausleihen;/ nehmen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich ausbitten; sich leihen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gegenseitig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gegenseitig, wechselseitig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Die Bibliothek leiht Anna ein Buch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Anna leiht ein Buch aus der Bibliothek aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">leihen (kann je nach Subjekt beide Richtungen haben)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Die Bibliothek verleiht Bücher.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemand verleiht etwas an jemanden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Der Nachbar leiht uns einen Rasenmäher.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemals</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">irgendwann; jemals</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es kann sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">es konnte sein; es dürfte gewesen sein; es muss wohl gewesen sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wegbringen, mitnehmen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Lächeln</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lächeln</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 287b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő felháborodva lép be a könyvtárba. - Eine Blondine kommt verärgert in die Bibliothek. (eintreten)</p>
+<p>2. „Egy hete kölcsönöztem egy könyvet, borzalmas volt: semmi cselekmény, és rengeteg név!” - „Ich habe mir vor eine Woche ein Buch ausgeliehen, furchtbar: keine richtige Handlung und unendlich viele Namen!“</p>
+<p>3. A könyvtáros elmosolyodik: „Akkor most már értem, hová tűnt el a telefonkönyv.” - Der Bibliothekar schmunzelt: „Dann verstehe ich jetzt schon, wohin das Telefonbuch verschwunden ist.“</p>
+<p class="pc-note">felháborít - sich empörend</p>
+<p class="pc-note">felháborító - empörend</p>
+<p class="pc-note">háborgat - belästigen; beunruhigen</p>
+<p class="pc-note">hab - der Schaum</p>
+<p class="pc-note">háború - der Krieg</p>
+<p class="pc-note">felháborodik - sich aufregen</p>
+<p class="pc-note">felháborodás - Empörung</p>
+<p class="pc-note">felháborodva - empört</p>
+<p class="pc-note">mérges - giftig, böse, wütend</p>
+<p class="pc-note">méreg - das Gift</p>
+<p class="pc-note">egy hét óta - seit einer Woche</p>
+<p class="pc-note">egy héttel ezelőtt - vor einer Woche (mitlerweile ist es eine Woche)</p>
+<p class="pc-note">egy hete - seit einer Woche; vor einer Woche; (wörtlich: eine Woche her)</p>
+<p class="pc-note">borzalmas - furchtbar, schrecklich</p>
+<p class="pc-note">rettenetes - fürchterlich, furchtbar, schrecklich</p>
+<p class="pc-note">rettenet - Schrecken, Entsetzen, Grauen; (gehoben; literarisch)</p>
+<p class="pc-note">cselekmény - die Handlung</p>
+<p class="pc-note">cselekszik - handlen, verfahren sich verhalten, tun, machen</p>
+<p class="pc-note">rengeteg = nagyon sok - eine Menge; massig; ganz viele; haufenweise; zig</p>
+<p class="pc-note">tűnik - scheinen, erscheinen; so aussehen als ob; auftauchen (wieder da sein)</p>
+<p class="pc-note">eltűnik - verschwinden</p>
+<p class="pc-note">feltűnik - auffallen; auftauchen; erscheinen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő felháborodva lép be a könyvtárba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Egy hete kölcsönöztem egy könyvet, borzalmas volt: semmi cselekmény, és rengeteg név!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A könyvtáros elmosolyodik: „Akkor most már értem, hová tűnt el a telefonkönyv.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felháborít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felháborító</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">háborgat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hab</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">háború</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felháborodik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felháborodás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felháborodva</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mérges</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">méreg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egy hét óta</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egy héttel ezelőtt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egy hete</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">borzalmas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rettenetes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rettenet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">cselekmény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">cselekszik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rengeteg = nagyon sok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tűnik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eltűnik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feltűnik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine kommt verärgert in die Bibliothek. (eintreten)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich habe mir vor eine Woche ein Buch ausgeliehen, furchtbar: keine richtige Handlung und unendlich viele Namen!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Bibliothekar schmunzelt: „Dann verstehe ich jetzt schon, wohin das Telefonbuch verschwunden ist.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich empörend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">empörend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">belästigen; beunruhigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Schaum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Krieg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich aufregen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Empörung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">empört</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">giftig, böse, wütend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Gift</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">seit einer Woche</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vor einer Woche (mitlerweile ist es eine Woche)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">seit einer Woche; vor einer Woche; (wörtlich: eine Woche her)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">furchtbar, schrecklich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fürchterlich, furchtbar, schrecklich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schrecken, Entsetzen, Grauen; (gehoben; literarisch)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Handlung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">handlen, verfahren sich verhalten, tun, machen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eine Menge; massig; ganz viele; haufenweise; zig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">scheinen, erscheinen; so aussehen als ob; auftauchen (wieder da sein)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verschwinden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auffallen; auftauchen; erscheinen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 287c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő reklamál a könyvtárban egy könyv miatt. - Eine Blondine beschwert in der Bücherei wegen eines Buches.</p>
+<p>2. „Unalmas volt, gyenge történettel, és tele volt szereplőkkel.” - „Es war langweilig, die Handlung war schwach und es war voller von Figuren.“ (handelnde Person)</p>
+<p>3. A könyvtáros nyugodtan válaszol: „Értem… ön volt az, aki elvitte a telefonkönyvet.” - Der Bibliothekar antwortet ruhig: „Verstehe… Sie waren (also) diejenige, die das  Telefonbuch mitgenommen hatte.“</p>
+<p class="pc-note">miatt - wegen</p>
+<p class="pc-note">elvesz - nehmen, wegnehme</p>
+<p class="pc-note">elvisz - wegbringen. mitnehmen, wegtragen</p>
+<p class="pc-note">elvisz magával - mitnehmen (mit sich selber)</p>
+<p class="pc-note">magával hoz - mitbringen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő reklamál a könyvtárban egy könyv miatt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Unalmas volt, gyenge történettel, és tele volt szereplőkkel.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A könyvtáros nyugodtan válaszol: „Értem… ön volt az, aki elvitte a telefonkönyvet.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">miatt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elvesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elvisz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elvisz magával</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">magával hoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine beschwert in der Bücherei wegen eines Buches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Es war langweilig, die Handlung war schwach und es war voller von Figuren.“ (handelnde Person)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Bibliothekar antwortet ruhig: „Verstehe… Sie waren (also) diejenige, die das  Telefonbuch mitgenommen hatte.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehmen, wegnehme</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wegbringen. mitnehmen, wegtragen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mitnehmen (mit sich selber)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mitbringen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 288a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő belefut egy közúti ellenőrzésbe. - Eine Blondine gerät in eine Verkehrskontrolle.</p>
+<p>2. A rendőrnő fényképes igazolványt kér, mire a szőke megkérdezi tőle, mi az. - Die Polizistin bittet um einen Lichtbildausweis, worauf hin die Blondine von ihr erfragt gefragt, was das ist.</p>
+<p>3. Elmagyarázza: „Az a dolog, amin rajta van a képe.” - Sie erklärt: „Na das Ding, auf dem Ihrem Bild.“</p>
+<p>4. A szőke kis kotorászás után átadja [átaggya] a sminktükrét. - Die Blondine überreicht nach kurzem Kramen ihren Schminkspiegel.</p>
+<p>5. A rendőrnő belenéz, majd elnézést kér: „Bocsánat, mondhatta volna, hogy kolléganő!” - Die Polizistin blickt hinein und entschuldigt sich dann: „ Entschuldigung, hätten Sie doch gesagt, dass Sie eine Kollegin sind!“</p>
+<p class="pc-note">ellenőrzés - die Kontrolle</p>
+<p class="pc-note">ellenőriz - kontrollieren</p>
+<p class="pc-note">ellenőr - der Kontrolleur (Gegen-Wächter; Gegen-Kontrolle)</p>
+<p class="pc-note">őr - Wächter</p>
+<p class="pc-note">ellen - gegen</p>
+<p class="pc-note">ellenőrzetlen (falsch aber gebräuchlich) - ellenőrizetlen (die offizielle Form) - unkontrolliert</p>
+<p class="pc-note">őrizetlen - unbewacht</p>
+<p class="pc-note">őriz - bewacht</p>
+<p class="pc-note">közút - Straße</p>
+<p class="pc-note">közúti forgalom - Straßenverkehr</p>
+<p class="pc-note">belefut - reinlaufen (mitten rein; ganz rein laufen)</p>
+<p class="pc-note">befut - reinlaufen</p>
+<p class="pc-note">fényképes igazolványt - Lichtbildausweis; (en: photo ID)</p>
+<p class="pc-note">igaz - wahr</p>
+<p class="pc-note">igen - ja</p>
+<p class="pc-note">igazol - bestätigen. nachweisen, beweisen; (bewahrheiten)</p>
+<p class="pc-note">mire - worauf, wozu, woraufhin</p>
+<p class="pc-note">Mire vársz? - Worauf wartest du?</p>
+<p class="pc-note">kotorászik - wühlen, kramen, stöbern</p>
+<p class="pc-note">keres - suchen</p>
+<p class="pc-note">keresgél - kramen, stöbern</p>
+<p class="pc-note">kotorászás - das Gewühl, die Kramerei</p>
+<p class="pc-note">átad - überreichen, geben</p>
+<p class="pc-note">tükör (tükröt, tükre, tükrök) - Spiegel</p>
+<p class="pc-note">tükre - ihr Spiegel</p>
+<p class="pc-note">ő adja a tükrét - sie gibt ihren Spiegel</p>
+<p class="pc-note">ő ad egy tükröt - sie gibt einen Spiegel</p>
+<p class="pc-note">ő adja a tükreit - sie gibt ihre Spiegel</p>
+<p class="pc-note">mondhatta volna - hätten sie gesagt</p>
+<p class="pc-note">mond - sagen</p>
+<p class="pc-note">mandat - der Satz</p>
+<p class="pc-note">mondhat - man kann sagen; es ist sagbar</p>
+<p class="pc-note">fizet - bezahlen</p>
+<p class="pc-note">fizethetett volna - hätten sie bezahlt</p>
+<p class="pc-note">olvashatott volna - hätten sie (es) gelesen</p>
+<p class="pc-note">olvashatam volna - hätten ich (es) gelesen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő belefut egy közúti ellenőrzésbe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A rendőrnő fényképes igazolványt kér, mire a szőke megkérdezi tőle, mi az.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Elmagyarázza: „Az a dolog, amin rajta van a képe.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A szőke kis kotorászás után átadja [átaggya] a sminktükrét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A rendőrnő belenéz, majd elnézést kér: „Bocsánat, mondhatta volna, hogy kolléganő!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ellenőrzés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ellenőriz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ellenőr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">őr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ellen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ellenőrzetlen (falsch aber gebräuchlich) - ellenőrizetlen (die offizielle Form)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">őrizetlen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">őriz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">közút</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">közúti forgalom</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">belefut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">befut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fényképes igazolványt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igaz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mire vársz?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kotorászik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">keres</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">keresgél</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kotorászás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">átad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tükör (tükröt, tükre, tükrök)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tükre</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ő adja a tükrét</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ő ad egy tükröt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ő adja a tükreit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mondhatta volna</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mond</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mandat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mondhat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fizet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fizethetett volna</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">olvashatott volna</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">olvashatam volna</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine gerät in eine Verkehrskontrolle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Polizistin bittet um einen Lichtbildausweis, worauf hin die Blondine von ihr erfragt gefragt, was das ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sie erklärt: „Na das Ding, auf dem Ihrem Bild.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Blondine überreicht nach kurzem Kramen ihren Schminkspiegel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Die Polizistin blickt hinein und entschuldigt sich dann: „ Entschuldigung, hätten Sie doch gesagt, dass Sie eine Kollegin sind!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Kontrolle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kontrollieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Kontrolleur (Gegen-Wächter; Gegen-Kontrolle)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wächter</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">unkontrolliert</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">unbewacht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bewacht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Straße</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Straßenverkehr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">reinlaufen (mitten rein; ganz rein laufen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">reinlaufen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Lichtbildausweis; (en: photo ID)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wahr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ja</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bestätigen. nachweisen, beweisen; (bewahrheiten)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">worauf, wozu, woraufhin</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Worauf wartest du?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wühlen, kramen, stöbern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">suchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kramen, stöbern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Gewühl, die Kramerei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">überreichen, geben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Spiegel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ihr Spiegel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie gibt ihren Spiegel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie gibt einen Spiegel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie gibt ihre Spiegel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hätten sie gesagt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sagen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Satz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">man kann sagen; es ist sagbar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bezahlen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hätten sie bezahlt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hätten sie (es) gelesen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hätten ich (es) gelesen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 288b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nőnél igazoltatást tartanak. - Eine Blondine wird von der Polizei kontrolliert. (Bei einer Blondine wird eine Ausweiskontrolle durchgeführt.)</p>
+<p>2. A rendőrnő fényképes okmányt kér, amit a nő nem ért. - Die Polizistin verlangt einen Ausweis mit Foto, was die Blondine nicht versteht.</p>
+<p>3. „A képes cucc, tudja…” – magyarázza a rendőrnő. - „Das Ding mit Bild, wissen Sie …“, erklärt die Polizistin.</p>
+<p>4. A szőke előveszi a sminktükrét és odaadja. - Die Blondine holt ihren Schminkspiegel hervor und reicht ihn rüber.</p>
+<p>5. A rendőrnő belenéz, majd mentegetőzik: „Elnézést, nem tudtam, hogy maga is rendőr.” - Die Polizistin schaut hinein und sagt entschuldigend: „Oh, entschuldigen Sie, ich wusste nicht, dass Sie auch Polizistin sind.“</p>
+<p class="pc-note">igazoltatás - Kontrolle der Personalien; Ausweiskontrolle; Identitätskontrolle</p>
+<p class="pc-note">igazoltat - jemanden etwas nachweisen lassen; jemanden sich ausweisen lassen; jemanden kontrollieren;  (-tat/-tet = Kausativ - jemanden/etwas veranlassen - machen lassen)</p>
+<p class="pc-note">igazol - bestätigen, nachweisen, belegen</p>
+<p class="pc-note">igazoltat - jemanden seine Identität nachweisen lassen; jemanden kontrollieren</p>
+<p class="pc-note">igazoltatás - das Kontrollieren der Personalien; die Ausweiskontrolle</p>
+<p class="pc-note">igazoltatást tartani - eine Ausweiskontrolle durchführen</p>
+<p class="pc-note">tart - halten, abhalten, durchführen</p>
+<p class="pc-note">tart egy beszédet - eine Rede halten</p>
+<p class="pc-note">előadást tart - einen Vortrag/Vorlesung halten</p>
+<p class="pc-note">ok - der Grund</p>
+<p class="pc-note">okmány - Urkunde, Dokument, Papiere</p>
+<p class="pc-note">cucc (Umgangssprache) - Ding, Sache, Kram, Zeug, Klamotten</p>
+<p class="pc-note">elővesz - hervorholen</p>
+<p class="pc-note">odaad - überreichen; hingeben</p>
+<p class="pc-note">ment - retten</p>
+<p class="pc-note">menteget - entschuldigen, beschönigen</p>
+<p class="pc-note">mentegetőzik - sich entschuldigen</p>
+<p class="pc-note">hiba - Fehler, Schuld</p>
+<p class="pc-note">bűn (juristisch) - Sünde, Schuld</p>
+<p class="pc-note">elnéz - wegschauen, drüber hinweg schauen, verzeihen</p>
+<p class="pc-note">elnézés - Verzeihung (das-drüber-Hinwegschauen; Weg-Schauen)</p>
+<p class="pc-note">megbocsát - vergeben, entschuldigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nőnél igazoltatást tartanak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A rendőrnő fényképes okmányt kér, amit a nő nem ért.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „A képes cucc, tudja…” – magyarázza a rendőrnő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A szőke előveszi a sminktükrét és odaadja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A rendőrnő belenéz, majd mentegetőzik: „Elnézést, nem tudtam, hogy maga is rendőr.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazoltatás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazoltat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazoltat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazoltatás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazoltatást tartani</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tart</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tart egy beszédet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">előadást tart</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">okmány</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">cucc (Umgangssprache)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elővesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">odaad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ment</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">menteget</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mentegetőzik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hiba</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bűn (juristisch)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elnéz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elnézés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megbocsát</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine wird von der Polizei kontrolliert. (Bei einer Blondine wird eine Ausweiskontrolle durchgeführt.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Polizistin verlangt einen Ausweis mit Foto, was die Blondine nicht versteht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Das Ding mit Bild, wissen Sie …“, erklärt die Polizistin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Blondine holt ihren Schminkspiegel hervor und reicht ihn rüber.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Die Polizistin schaut hinein und sagt entschuldigend: „Oh, entschuldigen Sie, ich wusste nicht, dass Sie auch Polizistin sind.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kontrolle der Personalien; Ausweiskontrolle; Identitätskontrolle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemanden etwas nachweisen lassen; jemanden sich ausweisen lassen; jemanden kontrollieren;  (-tat/-tet = Kausativ - jemanden/etwas veranlassen - machen lassen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bestätigen, nachweisen, belegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemanden seine Identität nachweisen lassen; jemanden kontrollieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Kontrollieren der Personalien; die Ausweiskontrolle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eine Ausweiskontrolle durchführen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">halten, abhalten, durchführen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eine Rede halten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">einen Vortrag/Vorlesung halten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Grund</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Urkunde, Dokument, Papiere</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ding, Sache, Kram, Zeug, Klamotten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hervorholen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">überreichen; hingeben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">retten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">entschuldigen, beschönigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich entschuldigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Fehler, Schuld</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Sünde, Schuld</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wegschauen, drüber hinweg schauen, verzeihen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Verzeihung (das-drüber-Hinwegschauen; Weg-Schauen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vergeben, entschuldigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 288c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nőt megállítanak egy ellenőrzésnél. - Eine Blondine wird bei einer (Verkehrs-)Kontrolle angehalten.</p>
+<p>2. A rendőrnő fényképes igazolványt kér, és megmagyarázza, mit ért alatta. - Die Polizistin bittet um einen Lichtbildausweis und erklärt, was sie darunter versteht (meint).</p>
+<p>3. A szőke előkotor egy sminktükröt és átadja (azt). - Die Blondine kramt einen Schminkspiegel raus und überreicht (ihn).</p>
+<p>4. A rendőrnő belenéz, majd gyorsan elnézést kér: „Jaj, bocsánat, nem tudtam, hogy kolléga!” - Die Polizistin schaut hinein und bittet schnell um Entschuldigung: „Oh, Entschuldigung, ich wusste nicht, dass Sie Kollegin sind!“</p>
+<p class="pc-note">megállít vkit - jemanden anhalten</p>
+<p class="pc-note">előkotor - elővesz -</p>
+<p class="pc-note">kotor = kotorászik = keresgél - kramen, suchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nőt megállítanak egy ellenőrzésnél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A rendőrnő fényképes igazolványt kér, és megmagyarázza, mit ért alatta.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A szőke előkotor egy sminktükröt és átadja (azt).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A rendőrnő belenéz, majd gyorsan elnézést kér: „Jaj, bocsánat, nem tudtam, hogy kolléga!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megállít vkit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">előkotor</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kotor = kotorászik = keresgél</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine wird bei einer (Verkehrs-)Kontrolle angehalten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Polizistin bittet um einen Lichtbildausweis und erklärt, was sie darunter versteht (meint).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Blondine kramt einen Schminkspiegel raus und überreicht (ihn).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Polizistin schaut hinein und bittet schnell um Entschuldigung: „Oh, Entschuldigung, ich wusste nicht, dass Sie Kollegin sind!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemanden anhalten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elővesz -</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kramen, suchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 289a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nincs a szőkének jégkockája a fagyasztóban? - Warum hat die Blondine keine Eiswürfel im Gefrierfach?</p>
+<p>2. Azért, mert elfelejtette a receptet. - Deshalb, weil sie das Rezept vergessen hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nincs a szőkének jégkockája a fagyasztóban?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert elfelejtette a receptet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat die Blondine keine Eiswürfel im Gefrierfach?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil sie das Rezept vergessen hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 289b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nem tart a szőke jégkockát a mélyhűtőben? - Warum bewahrt die Blondine keine Eiswürfel im Gefrierschrank auf?</p>
+<p>2. Azért, mert nem emlékszik a készítés módjára. [móggyára] - Deshalb, weil sie sich an die Zubereitungsweise nicht erinnert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nem tart a szőke jégkockát a mélyhűtőben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert nem emlékszik a készítés módjára. [móggyára]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum bewahrt die Blondine keine Eiswürfel im Gefrierschrank auf?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil sie sich an die Zubereitungsweise nicht erinnert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 289c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nincs jégkocka a szőke nő fagyasztójában? - Warum gibt es im Gefrierfach der Blondine keine Eiswürfel?</p>
+<p>2. Azért, mert elfelejtette, hogyan kell elkészíteni. - Deshalb, weil sie vergessen hat, wie man sie herstellt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nincs jégkocka a szőke nő fagyasztójában?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert elfelejtette, hogyan kell elkészíteni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum gibt es im Gefrierfach der Blondine keine Eiswürfel?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil sie vergessen hat, wie man sie herstellt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 290a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért teremtette Isten a szőkéket? - Warum hat Gott die Blondinen erschaffen?</p>
+<p>2. Azért, mert a juhok nem tudnak sört hozni. - Deshalb, weil Schafe kein Bier bringen können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért teremtette Isten a szőkéket?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a juhok nem tudnak sört hozni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat Gott die Blondinen erschaffen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil Schafe kein Bier bringen können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 290b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért hozta létre Isten a szőke nőket? - Warum hat Gott die blonden Frauen erschaffen?</p>
+<p>2. Azért, mert a birkák nem képesek sört vinni. - Deshalb, weil Schafe nicht fähig sind, Bier zu bringen.</p>
+<p class="pc-note">megalkot - erschaffen</p>
+<p class="pc-note">létrehoz - erschaffen, hervorbringen</p>
+<p class="pc-note">lenni - sein, (haben)</p>
+<p class="pc-note">van - er/sie ist; es gibt</p>
+<p class="pc-note">die Existenz, das Dasein</p>
+<p class="pc-note">hoz - bringen; (holen)</p>
+<p class="pc-note">(létrehoz) - (zur Existenz bringen = erschaffen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért hozta létre Isten a szőke nőket?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a birkák nem képesek sört vinni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megalkot</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">létrehoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lenni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">van</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(létrehoz)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat Gott die blonden Frauen erschaffen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil Schafe nicht fähig sind, Bier zu bringen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erschaffen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erschaffen, hervorbringen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sein, (haben)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er/sie ist; es gibt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Existenz, das Dasein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bringen; (holen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(zur Existenz bringen = erschaffen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 290c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért alkotta meg Isten a szőkéket? - Warum hat Gott die Blondinen geschaffen?</p>
+<p>2. Azért, mert a juhok nem tudnak sört szállítani. - Deshalb, weil Schafe kein Bier transportieren können.</p>
+<p class="pc-note">alkot - bilden, erschaffen, machen</p>
+<p class="pc-note">szállít - transportieren, liefern, verfrachten</p>
+<p class="pc-note">száll = repül - fliegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért alkotta meg Isten a szőkéket?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert a juhok nem tudnak sört szállítani.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">alkot</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szállít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">száll = repül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum hat Gott die Blondinen geschaffen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil Schafe kein Bier transportieren können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bilden, erschaffen, machen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">transportieren, liefern, verfrachten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fliegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 291a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért a BMW a szőkék kedvenc autója? - Warum ist der BMW das Lieblingsauto der Blondinen?</p>
+<p>2. Azért, mert ezt ők is ki tudják betűzni. - Deshalb, weil sie das auch buchstabieren können.</p>
+<p class="pc-note">kibetűz - buchstabieren</p>
+<p class="pc-note">betű - Buchstabe</p>
+<p class="pc-note">betűz - alphabetisieren; buchstabieren</p>
+<p>3. . betűrebdes - alphabetisch</p>
+<p class="pc-note">ábécé - Alphabet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért a BMW a szőkék kedvenc autója?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert ezt ők is ki tudják betűzni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kibetűz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">betű</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">betűz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. . betűrebdes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ábécé</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist der BMW das Lieblingsauto der Blondinen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil sie das auch buchstabieren können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">buchstabieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Buchstabe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">alphabetisieren; buchstabieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. alphabetisch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Alphabet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 291b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért szeretik a szőkék leginkább a BMW-t? - Warum mögen Blondinen am meisten den BMW?</p>
+<p>2. Azért, mert ezt még ők is ki tudják betűzni. - Deshalb, weil sogar sie das buchstabieren können.</p>
+<p class="pc-note">még ők is - sogar sie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért szeretik a szőkék leginkább a BMW-t?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert ezt még ők is ki tudják betűzni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">még ők is</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum mögen Blondinen am meisten den BMW?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil sogar sie das buchstabieren können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sogar sie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 291c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért a BMW a szőke nők kedvence az autók közül? - Warum ist der BMW unter den Autos der Favorit der blonden Frauen?</p>
+<p>2. Azért, mert képesek ezt a nevet betűről betűre kimondani. - Deshalb, weil sie diesen Namen Buchstabe für Buchstabe aussprechen können (fähig sind).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért a BMW a szőke nők kedvence az autók közül?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert képesek ezt a nevet betűről betűre kimondani.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum ist der BMW unter den Autos der Favorit der blonden Frauen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Deshalb, weil sie diesen Namen Buchstabe für Buchstabe aussprechen können (fähig sind).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/20-witze/">« Zurück zu Witze 20</a> &nbsp;|&nbsp; <span>Witze 21</span> &nbsp;|&nbsp; <a href="/22-witze/">Weiter zu Witze 22 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

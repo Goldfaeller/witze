@@ -1,0 +1,20 @@
+Pruefbericht Sprachtrennung
+Abschnitte gesamt: 108, davon unveraendert uebernommen: 13
+Zeilen zum Nachsehen: 14
+Arbeitsmarke uebersprungen: 'WEITER WEITER' (0 Zeichen Inhalt)
+Arbeitsmarke uebersprungen: 'M' (0 Zeichen Inhalt)
+
+[nur-ungarisch] Witz 269a: bíró
+[ungetrennt] Witz 269b: jóvá (-vá/-vé = Transformativ - “zum Guten werden”)
+[unsicher] Witz 274b: „Megvalósítható lenne-e a szocializmus Svájcban?” – „Könnte man auch in der Schweiz den Sozialismus einführen?“ („Könnte man in der Schweiz den Sozialismus realisieren?“
+[nur-deutsch] Witz 274b: (Im Ungarischen gibt es keinen eigenen „Gegenwarts-Konditional“ vs. „Futur-Konditional“ wie im Deutschen. Der Konditional ist zeitlich nicht festgelegt. Die Zeit ergibt sich aus Kontext oder zusätzlichen Wörtern. )
+[nur-ungarisch] Witz 279b: 120-szal [százhúsz-szal]
+[unsicher] Witz 281: „Elérheti-e a Trabant a kétszáz kilométer per órát? – „Kann ein Trabant 200 km/h erreichen?“
+[nur-ungarisch] Witz 284c: neki több van a lóhoz
+[unsicher] Witz 287a: mosolys - mosolygás - das Lächeln
+[unsicher] Witz 288a: ellenőrzetlen (falsch aber gebräuchlich) - ellenőrizetlen (die offizielle Form) - unkontrolliert
+[nur-deutsch] Witz 290b: die Existenz, das Dasein
+[nur-deutsch] Witz 294c: puzzle-t [puzzlt] (mit Bindestrich, um das Original ausländische Wort nicht zu verstümmeln. NICHT: puzzlt; ABER auch NICHT: puzzlet)
+[nur-deutsch] Witz 299a: wetten
+[nur-ungarisch] Witz 300b: fuldoklik -
+[nur-deutsch] Witz 305: Auf Ungarisch funktioniert dieser Witz nicht, denn die Redewendung “Stroh im Kopf” ist unbekannt.
