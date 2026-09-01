@@ -1,0 +1,844 @@
+{{Navigation hoch|
+ hochtext=Inhaltsverzeichnis: Ungarisch-Lesebuch|
+ hochlink=Ungarisch#Ungarisch-Lesebuch}}
+{{Navigation zurückhochvor|
+ zurücklink=Ungarisch/Ungarisch-Lesebuch-Witze/Anekdote|
+ zurücktext=ENDE: Vierter Teil – Anekdote, Sprichwörter|
+ hochlink=Ungarisch/Ungarisch-Lesebuch-Witze|
+ hochtext=Witze, witzige Sprüche, Sprichwörter|
+ vorlink=Ungarisch/Ungarisch-Lesebuch-Witze/Längere Witze|
+vortext=Zweiter Teil – Längere Witze 
+}}
+
+;17. Teil - Kurze Witze 
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+:'''rövid viccek - kurze Witze'''
+
+
+=== 250a ===
+
+:1. „Egy riporter ellátogat egy idősotthonba, és időseket kérdez.”
+:2. „Beszélget egy idős úrral, és azt mondja: Írja le a napi programját.”
+:3. „Az idős válaszol: Tudja, fiatalember, reggel fél nyolckor vizelnem (= pisilnem) kell.”
+:4. „És utána?”
+:5. „Nyolc körül van a székelés.”
+:6. „És utána?”
+:7. „Kilenc körül kelek fel.”
+::víz
+::vizel
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Egy riporter ellátogat egy idősotthonba, és időseket kérdez.” - „Ein Reporter kommt in ein Seniorenheim und interviewt ältere Menschen.“
+:2. „Beszélget egy idős úrral, és azt mondja: Írja le a napi programját.” - „Er unterhält sich mit einem älteren Mann und sagt: Beschreiben Sie mal Ihren Tagesablauf.“
+:3. „Az idős válaszol: Tudja, fiatalember, reggel fél nyolckor vizelnem (= pisilnem) kell.” - „Der Alte sagt: Ach, wissen Sie, junger Mann, morgens um halb acht muss ich Wasser lassen.“
+:4. „És utána?” - „Ja, und dann?“
+:5. „Nyolc körül van a székelés.” - „So um acht habe ich Stuhlgang.“
+:6. „És utána?” - „Ja, und dann?“
+:7. „Kilenc körül kelek fel.” - „So gegen neun stehe ich auf.“
+::víz - Wasser
+::vizel - Wasser lassen; urinieren
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Ein Reporter kommt in ein Seniorenheim und interviewt ältere Menschen.“
+:2. „Er unterhält sich mit einem älteren Mann und sagt: Beschreiben Sie mal Ihren Tagesablauf.“
+:3. „Der Alte sagt: Ach, wissen Sie, junger Mann, morgens um halb acht muss ich Wasser lassen.“
+:4. „Ja, und dann?“
+:5. „So um acht habe ich Stuhlgang.“
+:6. „Ja, und dann?“
+:7. „So gegen neun stehe ich auf.“
+::Wasser
+::Wasser lassen; urinieren
+|}
+
+=== 250b ===
+
+:1. „Egy újságíró egy idősek otthonába érkezik, hogy interjút készítsen. [készíccsen]” (Finalsatz verlangt Imperativ)
+:2. „Egy idős férfit kérdez: Mesélne a napirendjéről?”
+:3. „Az öreg így felel: Reggel fél nyolckor pisilnem kell.”
+:4. „És aztán mi történik?”
+:5. „Nyolc óra körül jön a nagy dolog.”
+:6. „És utána?”
+:7. „Kilenc tájban kelek ki az ágyból.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Egy újságíró egy idősek otthonába érkezik, hogy interjút készítsen. [készíccsen]” (Finalsatz verlangt Imperativ) - „Ein Reporter besucht (kommt an) ein Seniorenheim und macht (um zu machen) Interviews.“
+:2. „Egy idős férfit kérdez: Mesélne a napirendjéről?” - „Er fragt einen alten Mann: Könnten Sie etwas über Ihren Tagesablauf erzählen.“
+:3. „Az öreg így felel: Reggel fél nyolckor pisilnem kell.” - „Der Alte antwortet: Morgens um halb acht muss ich Wasser lassen.“
+:4. „És aztán mi történik?” - „Und dann?“
+:5. „Nyolc óra körül jön a nagy dolog.” - „Gegen acht habe ich Stuhlgang (kommt die große Sache).“
+:6. „És utána?” - „Und dann?“
+:7. „Kilenc tájban kelek ki az ágyból.” - „Gegen neun (in der Gegend von 9; ca.) stehe ich auf.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Ein Reporter besucht (kommt an) ein Seniorenheim und macht (um zu machen) Interviews.“
+:2. „Er fragt einen alten Mann: Könnten Sie etwas über Ihren Tagesablauf erzählen.“
+:3. „Der Alte antwortet: Morgens um halb acht muss ich Wasser lassen.“
+:4. „Und dann?“
+:5. „Gegen acht habe ich Stuhlgang (kommt die große Sache).“
+:6. „Und dann?“
+:7. „Gegen neun (in der Gegend von 9; ca.) stehe ich auf.“
+|}
+
+=== 250c ===
+
+:1. „Egy riporter időseket faggat egy idősotthonban.”
+:2. „Egy idős úrhoz fordul: Milyen egy átlagos napja?”
+:3. „Az idős ember mondja: Fél nyolckor vizelnem kell.”
+:4. „És utána?”
+:5. „Nyolc körül van a széklet.”
+:6. „És mi következik?”
+:7. „Kilenc körül végre felkelek.”
+::faggat
+::lyukat kérdez a hasába
+::kifaggatás = faggatás
+::fagáz
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Egy riporter időseket faggat egy idősotthonban.” - „Ein Reporter interviewt (löchert; hartnäckig befragen) ältere Menschen in einem Seniorenheim.“
+:2. „Egy idős úrhoz fordul: Milyen egy átlagos napja?” - „Er wendet sich an einen alten Mann: Wie sieht Ihr durchschnittlicher Tag aus (Wie ist)?“
+:3. „Az idős ember mondja: Fél nyolckor vizelnem kell.” - „Der Mann sagt: Um halb acht muss ich Wasser lassen.“
+:4. „És utána?” - „Und dann?“
+:5. „Nyolc körül van a széklet.” - „Um acht habe ich Stuhlgang.“
+:6. „És mi következik?” - „Und was kommt (folgt) dann?“
+:7. „Kilenc körül végre felkelek.” - „Gegen neun stehe ich schließlich (endlich) auf.“
+::faggat - (streng/störend/bohrend) fragen; nachbohren
+::lyukat kérdez a hasába - Löcher in den Bauch fragen
+::kifaggatás = faggatás - Kreuzverhör (das Ausfragen)
+::fagáz - Holzgas (fa-gáz)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. „Ein Reporter interviewt (löchert; hartnäckig befragen) ältere Menschen in einem Seniorenheim.“
+:2. „Er wendet sich an einen alten Mann: Wie sieht Ihr durchschnittlicher Tag aus (Wie ist)?“
+:3. „Der Mann sagt: Um halb acht muss ich Wasser lassen.“
+:4. „Und dann?“
+:5. „Um acht habe ich Stuhlgang.“
+:6. „Und was kommt (folgt) dann?“
+:7. „Gegen neun stehe ich schließlich (endlich) auf.“
+::(streng/störend/bohrend) fragen; nachbohren
+::Löcher in den Bauch fragen
+::Kreuzverhör (das Ausfragen)
+::Holzgas (fa-gáz)
+|}
+
+=== 251a ===
+
+:Egy NDK-vicc  
+:1. A nő: Ideje választani (én) köztem és a sör között.
+:2. A férfi: Pontosan mennyi sör?
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:Egy NDK-vicc – Ein DDR-Witz
+:1. A nő: Ideje választani (én) köztem és a sör között. - Die Frau: Es ist Zeit zu entscheiden, zwischen mir und dem Bier.
+:2. A férfi: Pontosan mennyi sör? - Der Mann: Wie viel Bier genau?
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Ein DDR-Witz
+:1. Die Frau: Es ist Zeit zu entscheiden, zwischen mir und dem Bier.
+:2. Der Mann: Wie viel Bier genau?
+|}
+
+=== 251b ===
+
+:Egy NDK-vicc 
+:1. Az SED Politbürojának tagjai vettek maguknak egy teknősbékát.
+:2. Az ok?
+:3. Állítólag a teknősbékák akár kétszáz évig is élnek, ezt szeretnék kipróbálni.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:Egy NDK-vicc – Ein DDR-Witz
+:1. Az SED Politbürojának tagjai vettek maguknak egy teknősbékát. - Die Mitglieder des SED-Politbüros haben sich eine Schildkröte gekauft.
+:2. Az ok? - Der Grund?
+:3. Állítólag a teknősbékák akár kétszáz évig is élnek, ezt szeretnék kipróbálni. - „Angeblich leben Schildkröten sogar bis zu zweihundert Jahre, das möchten sie ausprobieren (testen).“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Ein DDR-Witz
+:1. Die Mitglieder des SED-Politbüros haben sich eine Schildkröte gekauft.
+:2. Der Grund?
+:3. „Angeblich leben Schildkröten sogar bis zu zweihundert Jahre, das möchten sie ausprobieren (testen).“
+|}
+
+=== 251c ===
+
+:1. Politikai vicc az NDK-ból
+:2. Az SED Politbürojában egy teknősbéka lett a házi kedvenc.
+:3. Miért éppen teknősbéka?
+:4. Mert úgy tudják, hogy 200 évig él, és ezt most saját szemükkel akarják látni.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Politikai vicc az NDK-ból - Politischer Witz aus der DDR
+:2. Az SED Politbürojában egy teknősbéka lett a házi kedvenc. - Im SED-Politbüro wurde eine Schildkröte zum Haustier.
+:3. Miért éppen teknősbéka? - Warum ausgerechnet (gerade) eine Schildkröte?
+:4. Mert úgy tudják, hogy 200 évig él, és ezt most saját szemükkel akarják látni. - Weil man weiß, dass sie 200 Jahre leben, und das wollen sie nun mit eigenen Augen sehen.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Politischer Witz aus der DDR
+:2. Im SED-Politbüro wurde eine Schildkröte zum Haustier.
+:3. Warum ausgerechnet (gerade) eine Schildkröte?
+:4. Weil man weiß, dass sie 200 Jahre leben, und das wollen sie nun mit eigenen Augen sehen.
+|}
+
+=== 252a ===
+
+:1. Egy amerikai, egy orosz és egy NDK-polgár sétál Kelet-Berlin utcáin.
+:2. Hirtelen meglátnak egy sort egy üzlet előtt.
+:3. Az amerikai megkérdezi: Mi ez?
+:4. Az NDK-polgár válaszol: Ez egy sor, húsért állnak.
+:5. Az amerikai kérdez: Mi az a sor?
+:6. Az orosz kérdez: Mi az a hús?
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy amerikai, egy orosz és egy NDK-polgár sétál Kelet-Berlin utcáin. - Ein Amerikaner, ein Russe und ein DDR-Bürger gehen (spazieren) durch die Straßen von Ost-Berlin.
+:2. Hirtelen meglátnak egy sort egy üzlet előtt. - Plötzlich sehen sie vor einem Geschäft eine Schlange.
+:3. Az amerikai megkérdezi: Mi ez? - Der Amerikaner fragt: Was ist das?
+:4. Az NDK-polgár válaszol: Ez egy sor, húsért állnak. - Der DDR-Bürger sagt: Das ist eine Schlange, die nach Fleisch ansteht.
+:5. Az amerikai kérdez: Mi az a sor? - Der Amerikaner fragt: Was ist eine Schlange?
+:6. Az orosz kérdez: Mi az a hús? - Der Russe fragt: Was ist Fleisch?
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ein Amerikaner, ein Russe und ein DDR-Bürger gehen (spazieren) durch die Straßen von Ost-Berlin.
+:2. Plötzlich sehen sie vor einem Geschäft eine Schlange.
+:3. Der Amerikaner fragt: Was ist das?
+:4. Der DDR-Bürger sagt: Das ist eine Schlange, die nach Fleisch ansteht.
+:5. Der Amerikaner fragt: Was ist eine Schlange?
+:6. Der Russe fragt: Was ist Fleisch?
+|}
+
+=== 252b ===
+
+:1. Egy amerikai, egy orosz és egy keletnémet együtt sétálnak Berlinben.
+:2. Egy bolt előtt hosszú sorra lesznek figyelmesek.
+:3. Az amerikai érdeklődik: Mit jelent ez?
+:4. A keletnémet feleli (azt): Ez egy sor, húst lehet kapni.
+:5. Az amerikai visszakérdez: Mi az a sor?
+:6. Az orosz pedig csodálkozik: Mi az a hús?
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy amerikai, egy orosz és egy keletnémet együtt sétálnak Berlinben. - Ein Amerikaner, ein Russe und ein DDR-Bürger spazieren gemeinsam durch Berlin.
+:2. Egy bolt előtt hosszú sorra lesznek figyelmesek. - Vor einem einem werden sie auf eine lange Schlange aufmerksam.
+:3. Az amerikai érdeklődik: Mit jelent ez? - Der Amerikaner erkundigt sich: Was bedeutet das?
+:4. A keletnémet feleli (azt): Ez egy sor, húst lehet kapni. - Der DDR-Bürger antwortet: Das ist eine Schlange, man steht für Fleisch an (man kann Fleisch bekommen).
+:5. Az amerikai visszakérdez: Mi az a sor? - Der Amerikaner fragt zurück: Was ist eine Schlange?
+:6. Az orosz pedig csodálkozik: Mi az a hús? - Der Russe wundert sich: Was ist Fleisch?
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ein Amerikaner, ein Russe und ein DDR-Bürger spazieren gemeinsam durch Berlin.
+:2. Vor einem einem werden sie auf eine lange Schlange aufmerksam.
+:3. Der Amerikaner erkundigt sich: Was bedeutet das?
+:4. Der DDR-Bürger antwortet: Das ist eine Schlange, man steht für Fleisch an (man kann Fleisch bekommen).
+:5. Der Amerikaner fragt zurück: Was ist eine Schlange?
+:6. Der Russe wundert sich: Was ist Fleisch?
+|}
+
+=== 252c ===
+
+:1. Egy amerikai, egy orosz és egy NDK-s férfi járják Kelet-Berlin utcáit.
+:2. Egy üzlet előtt tömeg gyűlt össze.
+:3. Az amerikai kérdi (= kérdezi): Ez micsoda?
+:4. Az NDK-polgár magyarázza: Egy sor, húsra várnak.
+:5. Az amerikai értetlenkedik: És mi az a sor?
+:6. Az orosz még tovább kérdez: És mi az a hús?
+::szarv
+::szarvas
+::NDK
+::értetlen
+::értetlenkedik
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy amerikai, egy orosz és egy NDK-s férfi járják Kelet-Berlin utcáit. - Ein Amerikaner, ein Russe und ein DDR-Bürger laufen durch Ost-Berlin.
+:2. Egy üzlet előtt tömeg gyűlt össze. - Vor einem Geschäft hat sich eine Menge (Leute) versammelt.
+:3. Az amerikai kérdi (= kérdezi): Ez micsoda? - Der Amerikaner fragt: Was ist das?
+:4. Az NDK-polgár magyarázza: Egy sor, húsra várnak. - Der DDR-Bürger erklärt: Eine Schlange, man wartet auf Fleisch.
+:5. Az amerikai értetlenkedik: És mi az a sor? - Der Amerikaner ist verwundert (verständnislos): Was ist eine Schlange?
+:6. Az orosz még tovább kérdez: És mi az a hús? - Der Russe fragt weiter: Was ist Fleisch?
+::szarv - Geweih, Horn
+::szarvas - Hirsch (der mit dem Geweih) (-as/-os/-es/-s -  machen aus einem Substantiv ein Adjektiv)
+::NDK - DDR
+::NDK + s machen NDK zu einem Adjektiv - “DDR-”
+::értetlen - verstädnislos
+::értetlenkedik - verstädnislos sein; verwundert sein
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ein Amerikaner, ein Russe und ein DDR-Bürger laufen durch Ost-Berlin.
+:2. Vor einem Geschäft hat sich eine Menge (Leute) versammelt.
+:3. Der Amerikaner fragt: Was ist das?
+:4. Der DDR-Bürger erklärt: Eine Schlange, man wartet auf Fleisch.
+:5. Der Amerikaner ist verwundert (verständnislos): Was ist eine Schlange?
+:6. Der Russe fragt weiter: Was ist Fleisch?
+::Geweih, Horn
+::Hirsch (der mit dem Geweih) (-as/-os/-es/-s -  machen aus einem Substantiv ein Adjektiv)
+::DDR
+::verstädnislos
+::verstädnislos sein; verwundert sein
+|}
+
+=== 253 ===
+
+:1. Páciens: Doktor úr, a mellemben van egy csomó.
+:2. Orvos: Ugyan ki csinál ilyet?
+::De hát ki csinál ilyet?
+::Ugyan ki az, aki ilyet csinál?
+::Ki a franc csinál ilyet?
+::Mégis ki csinál ilyet?
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Páciens: Doktor úr, a mellemben van egy csomó. - Herr Doktor, in meiner Brust ist ein Knoten.
+:2. Orvos: Ugyan ki csinál ilyet? - Arzt: Wer macht denn so was?
+::De hát ki csinál ilyet? - Wer macht denn so was?
+::Ugyan ki az, aki ilyet csinál? - Wer ist denn so jemand, der so etwas macht?
+::Ki a franc csinál ilyet? - Wer zum Teufel macht denn so was?
+::Mégis ki csinál ilyet? - Wer um alles in der Welt macht so was? (noch schärfer und erkennbar fassungsloser; wütend)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Herr Doktor, in meiner Brust ist ein Knoten.
+:2. Arzt: Wer macht denn so was?
+::Wer macht denn so was?
+::Wer ist denn so jemand, der so etwas macht?
+::Wer zum Teufel macht denn so was?
+::Wer um alles in der Welt macht so was? (noch schärfer und erkennbar fassungsloser; wütend)
+|}
+
+=== 254a ===
+
+:1. A Föld gömbölyű [gömböjű], és ha elég sokáig menekülsz valami elől, egyszer csak szembejössz vele.
+::gömb alakú = gömbölyű
+::gömb
+::golyó
+::két gömb eperfagyi
+::tekegolyó
+::golyóscsapágy 
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. A Föld gömbölyű [gömböjű], és ha elég sokáig menekülsz valami elől, egyszer csak szembejössz vele. - Die Erde ist rund (kugelförmig), und wenn du genügend lange vor etwas davonläufst, läufst du ihm (nur) irgendwann (einmal) entgegen.
+::gömb alakú = gömbölyű - kugelförmig
+::gömb - Kugel (geometrischer Körper)
+::golyó - Kugel, Kügelchen, Ball, Geschoss, Pellet; (das konkrete Ding)
+::két gömb eperfagyi - zwei Kugeln Erdbeereis
+::tekegolyó - Kegelball (Bowlingkugel)
+::golyóscsapágy = Kugellager (csap - der Zapfen; ágy - das Bett)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Die Erde ist rund (kugelförmig), und wenn du genügend lange vor etwas davonläufst, läufst du ihm (nur) irgendwann (einmal) entgegen.
+::kugelförmig
+::Kugel (geometrischer Körper)
+::Kugel, Kügelchen, Ball, Geschoss, Pellet; (das konkrete Ding)
+::zwei Kugeln Erdbeereis
+::Kegelball (Bowlingkugel)
+::der Zapfen
+::das Bett
+|}
+
+=== 254b ===
+
+:A Föld kerek, ezért ha elég hosszan futsz valami elől, végül találkozol vele.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:A Föld kerek, ezért ha elég hosszan futsz valami elől, végül találkozol vele. - Die Erde ist rund, und wenn du lange genug vor etwas davonläuft, triffst du es (mit ihm) letztendlich.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Die Erde ist rund, und wenn du lange genug vor etwas davonläuft, triffst du es (mit ihm) letztendlich.
+|}
+
+=== 254c ===
+
+:Mivel a Föld gömb alakú, ha elég ideig elszaladsz valami elől, előbb-utóbb újra szembetalálkozol vele.
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:Mivel a Föld gömb alakú, ha elég ideig elszaladsz valami elől, előbb-utóbb újra szembetalálkozol vele. - Weil die Erde kugelförmig ist, (und) wenn du lange genug (ausreichend Zeit) vor etwas wegläufst, begegnest du ihm früher oder später irgendwann wieder (aufs Neue).
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:Weil die Erde kugelförmig ist, (und) wenn du lange genug (ausreichend Zeit) vor etwas wegläufst, begegnest du ihm früher oder später irgendwann wieder (aufs Neue).
+|}
+
+=== 255a ===
+
+:„Szemet szemért, fogat fogért” - mondta a szűz az első szex után, és betörte a férfi orrát.
+::betör
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:„Szemet szemért, fogat fogért” - mondta a szűz az első szex után, és betörte a férfi orrát. – „Auge um Auge, Zahn um Zahn“, sagte die Jungfrau nach ihrem ersten Sex und schlug ihm die Nase blutig (schlug die Nase des Mannes ein).
+::betör - einbrechen, einschlagen, brechen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:„Auge um Auge, Zahn um Zahn“, sagte die Jungfrau nach ihrem ersten Sex und schlug ihm die Nase blutig (schlug die Nase des Mannes ein).
+::einbrechen, einschlagen, brechen
+|}
+
+=== 255b ===
+
+:„Szemet szemért, fogat fogért” - jegyezte meg az addig szűz nő az első együttlét után, majd véresre ütötte a férfi orrát.
+::az addig szűz nő
+::együttlét
+::együtt
+::az első alkalom után
+::alkalom
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:„Szemet szemért, fogat fogért” - jegyezte meg az addig szűz nő az első együttlét után, majd véresre ütötte a férfi orrát. – „Auge um Auge, Zahn um Zahn“, sagte die Jungfrau nach ihrem ersten Mal, dann schlug sie die Nase des Mannes (die Mannes-Nase) blutig.
+::az addig szűz nő - die bisherige (bis jetzt-ige) Jungfrau)
+::együttlét - Beisammensein
+::együtt - zusammen, gemeinsam; miteinander, insgesamt
+::az első alkalom után - nach dem ersten Mal
+::alkalom - Gelegenheit
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:„Auge um Auge, Zahn um Zahn“, sagte die Jungfrau nach ihrem ersten Mal, dann schlug sie die Nase des Mannes (die Mannes-Nase) blutig.
+::die bisherige (bis jetzt-ige) Jungfrau)
+::Beisammensein
+::zusammen, gemeinsam; miteinander, insgesamt
+::nach dem ersten Mal
+::Gelegenheit
+|}
+
+=== 256a ===
+
+:1. Egy fiatal nő meztelenül beszáll egy taxiba, a sofőr tetőtől talpig végigméri.
+:2. A nő: „Soha nem látott még meztelen nőt?”
+:3. A taxis: „De igen, csak azon gondolkodom, honnan fogja elővenni a pénzt a fuvar kifizetésére.”
+::talp
+::fuvar
+::kifizetés
+::elővesz (elővenni)
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy fiatal nő meztelenül beszáll egy taxiba, a sofőr tetőtől talpig végigméri. - Eine junge Frau setzt sich nackt in ein Taxi, der Fahrer schaut sie von oben bis unten (von Kopf bis Fuß) an (mustern; messen, durchmessen).
+:2. A nő: „Soha nem látott még meztelen nőt?” - Die Frau: „Haben Sie noch nie eine nackte Frau gesehen?“
+:3. A taxis: „De igen, csak azon gondolkodom, honnan fogja elővenni a pénzt a fuvar kifizetésére.” - Der Taxifahrer: „Doch, aber ich frage mich (ich denke nur daran), wo Sie das Geld rausziehen willst, um Ihre Fahrt zu bezahlen. (für die Bezahlung der Fahrt)“
+::talp - Fußsohle
+::fuvar - Fahrt, Lieferung
+::kifizetés - Auszahlung, Bezahlung
+::elővesz (elővenni) - herausnehmen, zücken, hernehmen, rauskramen, (hervor-nehmen)
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine junge Frau setzt sich nackt in ein Taxi, der Fahrer schaut sie von oben bis unten (von Kopf bis Fuß) an (mustern; messen, durchmessen).
+:2. Die Frau: „Haben Sie noch nie eine nackte Frau gesehen?“
+:3. Der Taxifahrer: „Doch, aber ich frage mich (ich denke nur daran), wo Sie das Geld rausziehen willst, um Ihre Fahrt zu bezahlen. (für die Bezahlung der Fahrt)“
+::Fußsohle
+::Fahrt, Lieferung
+::Auszahlung, Bezahlung
+::herausnehmen, zücken, hernehmen, rauskramen, (hervor-nehmen)
+|}
+
+=== 256b ===
+
+:1. Egy fiatal nő ruhátlanul beül egy taxiba, a sofőr alaposan végignézi.
+:2. Az utas: „Tényleg még sosem látott meztelen nőt?”
+:3. A sofőr: „Láttam már, csak nem tudom, honnan veszi elő a viteldíjat.”
+::Transport
+::vitet
+::kivitel = export
+::behozatal = import
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy fiatal nő ruhátlanul beül egy taxiba, a sofőr alaposan végignézi. - Eine junge Frau setzt sich nackt (ohne Bekleidung) in ein Taxi, der Fahrer mustert sie gründlich.
+:2. Az utas: „Tényleg még sosem látott meztelen nőt?” - Die Frau: „Haben Sie tatsächlich noch nie eine nackte Frau gesehen?“
+:3. A sofőr: „Láttam már, csak nem tudom, honnan veszi elő a viteldíjat.” - Der Fahrer: „(Das) habe ich schon gesehen, aber ich weiß nicht, woher Sie das Fahrgeld nehmen (hervorholen).“
+::Transport - Transport
+::vitet - bringen lassen
+::kivitel = export - Ausfuhr, Export
+::behozatal = import - Einfuhr, Import
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine junge Frau setzt sich nackt (ohne Bekleidung) in ein Taxi, der Fahrer mustert sie gründlich.
+:2. Die Frau: „Haben Sie tatsächlich noch nie eine nackte Frau gesehen?“
+:3. Der Fahrer: „(Das) habe ich schon gesehen, aber ich weiß nicht, woher Sie das Fahrgeld nehmen (hervorholen).“
+::Transport
+::bringen lassen
+::Ausfuhr, Export
+::Einfuhr, Import
+|}
+
+=== 256c ===
+
+:1. Egy fiatal nő meztelenül ül be a taxiba, a taxis végigpásztázza (a nőt; öt).
+:2. A nő: „Ennyire ritka látvány egy meztelen nő?”
+:3. A taxis: „Nem, csak kíváncsi vagyok, hol tartja a pénzt a fizetéshez.”
+::(végig)pásztáz
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy fiatal nő meztelenül ül be a taxiba, a taxis végigpásztázza (a nőt; öt). - Eine junge Frau setzt sich nackt ins Taxi, der Taxifahrer betrachtet sie von oben bis unten.
+:2. A nő: „Ennyire ritka látvány egy meztelen nő?” - Die Frau: „So ein seltener Anblick ist eine nackte Frau?“
+:3. A taxis: „Nem, csak kíváncsi vagyok, hol tartja a pénzt a fizetéshez.” - Der Taxifahrer: „Nein, ich bin nur neugierig, wo Sie das Geld fürs Bezahlen aufbewahren.“
+::(végig)pásztáz - scannen, durchleuchten, abtasten
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Eine junge Frau setzt sich nackt ins Taxi, der Taxifahrer betrachtet sie von oben bis unten.
+:2. Die Frau: „So ein seltener Anblick ist eine nackte Frau?“
+:3. Der Taxifahrer: „Nein, ich bin nur neugierig, wo Sie das Geld fürs Bezahlen aufbewahren.“
+::scannen, durchleuchten, abtasten
+|}
+
+=== 257a ===
+
+:1. Egy férj karácsony előtt megkérdezi a feleségét: „Te, mit szeretnél karácsonyra?”
+:2. A feleség így felel: „A válást.”
+:3. A férj válaszol: „Ennyit nem akartam költeni.”
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy férj karácsony előtt megkérdezi a feleségét: „Te, mit szeretnél karácsonyra?” - Ein Ehemann fragt seine Frau vor Weihnachten: „Du, was wünschst du dir denn zu Weihnachten?“ (was würdest du dir wünschen)
+:2. A feleség így felel: „A válást.” - Dann sagt sie: „Ich wünsche mir die Scheidung.“
+:3. A férj válaszol: „Ennyit nem akartam költeni.” - Dann sagt er: „So viel (Geld )wollte ich nicht ausgeben.“
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ein Ehemann fragt seine Frau vor Weihnachten: „Du, was wünschst du dir denn zu Weihnachten?“ (was würdest du dir wünschen)
+:2. Dann sagt sie: „Ich wünsche mir die Scheidung.“
+:3. Dann sagt er: „So viel (Geld )wollte ich nicht ausgeben.“
+|}
+
+=== 257b ===
+
+:1. Karácsony előtt a férj megkérdezi a feleségét: „Mondd, mit kérsz karácsonyra?”
+:2. A nő azt mondja: „A válást szeretném.”
+:3. A férj sóhajt: „Nem számoltam ekkora kiadással. (= kiadásra)”
+::sóhaj
+::sóhajt
+::ekkora
+::ilyen nagy
+::Mekkora?
+::Mekkora ez a szoba?
+::Ez a szoba akkora, mint a régi szobám szegeden.
+::A mostani szoba ekkora, és a régi is ugyanekkora volt.
+::kiadás
+::pénzkiadás
+::költség [kölcség]
+::számol (vmivel/mire)
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Karácsony előtt a férj megkérdezi a feleségét: „Mondd, mit kérsz karácsonyra?” - Vor Weihnachten fragt der Mann seine Frau: „Sag, was wünschst du (dir) zu Weihnachten?“
+:2. A nő azt mondja: „A válást szeretném.” - Sie sagt: „Ich hätte gerne (ich möchte) die Scheidung.“
+:3. A férj sóhajt: „Nem számoltam ekkora kiadással. (= kiadásra)” - Der Mann seufzt (= stöhnt): „Ich rechnete nicht mit einer Ausgabe von dieser Größe.“ (Ich habe nicht mit einer so großen Ausgabe gerechnet.)
+::sóhaj - der Seufzer
+::sóhajt - saufzen; stöhnen
+::ekkora - so groß
+::ilyen nagy - so groß
+::Mekkora? - Wie groß?
+::Mekkora ez a szoba? - Wie groß ist dieses Zimmer?
+::Ez a szoba akkora, mint a régi szobám szegeden. - Dieses Zimmer ist so groß wie mein altes Zimmer in Szeged.
+::A mostani szoba ekkora, és a régi is ugyanekkora volt. - Das jetzige Zimmer ist so groß, und das alte war genauso groß.
+::kiadás - Ausgabe
+::pénzkiadás - Geldausgabe
+::költség [kölcség] - Ausgabe; Kosen; Spesen; Aufwendung
+::számol (vmivel/mire) - (mit etwas) rechnen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Vor Weihnachten fragt der Mann seine Frau: „Sag, was wünschst du (dir) zu Weihnachten?“
+:2. Sie sagt: „Ich hätte gerne (ich möchte) die Scheidung.“
+:3. Der Mann seufzt (= stöhnt): „Ich rechnete nicht mit einer Ausgabe von dieser Größe.“ (Ich habe nicht mit einer so großen Ausgabe gerechnet.)
+::der Seufzer
+::saufzen; stöhnen
+::so groß
+::so groß
+::Wie groß?
+::Wie groß ist dieses Zimmer?
+::Dieses Zimmer ist so groß wie mein altes Zimmer in Szeged.
+::Das jetzige Zimmer ist so groß, und das alte war genauso groß.
+::Ausgabe
+::Geldausgabe
+::Ausgabe; Kosen; Spesen; Aufwendung
+::(mit etwas) rechnen
+|}
+
+=== 257c ===
+
+:1. Egy férj ünnepek előtt érdeklődik: „Mit szeretnél karácsonyra?”
+:2. A feleség válasza: „A válást.”
+:3. A férj megjegyzi: „Erre nem szántam ennyi pénzt.”
+::megjegyez
+::szán
+::pénzt szán vmire
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Egy férj ünnepek előtt érdeklődik: „Mit szeretnél karácsonyra?” - Ein Ehemann erkundig sich vor den Feiertagen: „Was möchtest du dir zu Weihnachten?“
+:2. A feleség válasza: „A válást.” - Die Antwort der Frau (Der Frau ihre Antwort): „Die Scheidung.“
+:3. A férj megjegyzi: „Erre nem szántam ennyi pénzt.” - Der Mann meint: „So viel Geld wollte ich dafür nicht ausgeben.“ (Dafür habe ich nicht so viel Geld vorgesehen.)
+::megjegyez - bemerken; anmerken; notieren; sich merken
+::szán - der Schlitten
+::pénzt szán vmire - Geld für etwas vorsehen; Geld für etwas einplanen; Geld für etwas bereitstellen; bereit sein Geld für etwas auszugeben
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Ein Ehemann erkundig sich vor den Feiertagen: „Was möchtest du dir zu Weihnachten?“
+:2. Die Antwort der Frau (Der Frau ihre Antwort): „Die Scheidung.“
+:3. Der Mann meint: „So viel Geld wollte ich dafür nicht ausgeben.“ (Dafür habe ich nicht so viel Geld vorgesehen.)
+::bemerken; anmerken; notieren; sich merken
+::der Schlitten
+::Geld für etwas vorsehen; Geld für etwas einplanen; Geld für etwas bereitstellen; bereit sein Geld für etwas auszugeben
+|}
+
+=== 258 - Kérdés a Jereváni Rádióhoz – Frage an Radio Jerewan===
+
+:1. „Kérdés a Jereváni Rádióhoz
+:2. „Szabad-e újra megenni a csernobili gombákat?”
+:3. „Elvileg igen, de a WC nem lehet rákötve a közcsatornára.”
+::elvileg
+::elv
+::elvtárs
+::elvtársnő
+::társ
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. „Kérdés a Jereváni Rádióhoz - Frage an Radio Jerewan.“
+:2. „Szabad-e újra megenni a csernobili gombákat?” - „Darf man die Pilze aus Tschernobyl wieder essen?“
+:3. „Elvileg igen, de a WC nem lehet rákötve a közcsatornára.” - „Im Prinzip ja, aber Sie dürfen Ihre Toilette nicht an die öffentliche Kanalisation angeschlossen haben.“
+::elvileg - grundsätzlich; prinzipiell; im Prinzip
+::elv - Grundsatz; Prinzip
+::elvtárs - Genosse
+::elvtársnő - Genossin - Genosse
+::társ - Gefährte; Kamerad; Partner
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan.“
+:2. „Darf man die Pilze aus Tschernobyl wieder essen?“
+:3. „Im Prinzip ja, aber Sie dürfen Ihre Toilette nicht an die öffentliche Kanalisation angeschlossen haben.“
+::grundsätzlich; prinzipiell; im Prinzip
+::Grundsatz; Prinzip
+::Genosse
+::Genossin - Genosse
+::Gefährte; Kamerad; Partner
+|}
+
+=== 259 ===
+
+:1. Kérdés a Jereváni Rádióhoz:
+:2. „El lehetett volna kerülni a csernobili katasztrófát?”
+:3. „Elvileg igen, ha a svédek nem fecsegtek volna el mindent.”
+::elkerül
+::el lehetett volna kerülni
+::lehetett volna
+::lehetne
+::fecseg
+::beszélget
+::dumcsizik
+::elfecseg
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Kérdés a Jereváni Rádióhoz: - Frage an Radio Jerewan:
+:2. „El lehetett volna kerülni a csernobili katasztrófát?” - „Hätte die Katastrophe von Tschernobyl vermieden werden können?“
+:3. „Elvileg igen, ha a svédek nem fecsegtek volna el mindent.” - „Im Prinzip ja, wenn nur die Schweden nicht alles ausgeplaudert hätten.“
+::elkerül - vermeiden; ausweichen; entgehen; umgehen
+::el lehetett volna kerülni - haätte man vermeiden können
+::lehetett volna - hätte man können
+::lehetne - man könnte
+::fecseg - plappern; plaudern; schwafeln
+::beszélget - reden; sich unterhalten
+::dumcsizik - plaudern
+::elfecseg - ausplappern; ausplaudern; verplaudern; ausschwatzen
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Frage an Radio Jerewan:
+:2. „Hätte die Katastrophe von Tschernobyl vermieden werden können?“
+:3. „Im Prinzip ja, wenn nur die Schweden nicht alles ausgeplaudert hätten.“
+::vermeiden; ausweichen; entgehen; umgehen
+::haätte man vermeiden können
+::hätte man können
+::man könnte
+::plappern; plaudern; schwafeln
+::reden; sich unterhalten
+::plaudern
+::ausplappern; ausplaudern; verplaudern; ausschwatzen
+|}
+
+=== 260 ===
+
+:1. Repülhetek német  személyigazolvánnyal Budapestre?  
+:2. Nem, neked kell egy repülőgép.  
+
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">magyar - német</span> '''
+|-
+|
+:1. Repülhetek német  személyigazolvánnyal Budapestre? - Kann ich mit einem deutschen Personalausweis nach Budapest fliegen?
+:2. Nem, neked kell egy repülőgép. - Nein, du brauchst ein Flugzeug.
+|}
+{| class="mw-collapsible mw-collapsed wikitable" style="width: 100%" 
+|-
+!'''<span style="color:#F0F;">deutsch</span> '''
+|-
+|
+:1. Kann ich mit einem deutschen Personalausweis nach Budapest fliegen?
+:2. Nein, du brauchst ein Flugzeug.
+|}
