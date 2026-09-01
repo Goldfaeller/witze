@@ -1,6 +1,4 @@
-<title>Inhaltsverzeichnis Witze</title>
-<style>body{background:#e8e5df;margin:0;padding:24px 0;font-family:system-ui,sans-serif}.pc-container{background:#fff;padding:24px 20px 32px;border:1px solid #d5d1c9}</style>
-
+<!-- wp:html -->
 <style>
 html {
     scroll-behavior: smooth;
@@ -115,9 +113,9 @@ html, body, main, .wp-site-blocks, .entry-content,
     color: #2980b9;
 }
 </style>
+<!-- /wp:html -->
 
-
-
+<!-- wp:html -->
 <div class="pc-container" id="top">
   <img src="https://modjor.de/wp-content/uploads/2026/07/Skelett-hell-21_41_01.png" alt="Witze Banner" class="pc-banner">
 
@@ -177,4 +175,4 @@ html, body, main, .wp-site-blocks, .entry-content,
     <a href="https://modjor.de/">« Home</a> | <a href="https://modjor.de/lesebuecher/">Zurück zu Lesebücher</a> | <a href="#top">↑ Hoch zum Seitenanfang</a>
   </div>
 </div>
-
+<!-- /wp:html -->

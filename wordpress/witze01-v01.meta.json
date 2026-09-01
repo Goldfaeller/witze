@@ -1,7 +1,7 @@
 {
   "post_type": "page",
   "post_title": "Witze 1",
-  "post_name": "01-witze",
+  "post_name": "1-witze",
   "post_parent": "Witze",
   "menu_order": 1,
   "content_file": "wordpress/witze01-v01.txt",

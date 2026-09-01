@@ -1,0 +1,8 @@
+{
+  "post_type": "page",
+  "post_title": "Witze",
+  "post_name": "inhalt-witze",
+  "post_parent": "Lesebücher",
+  "menu_order": 0,
+  "content_file": "wordpress/inhalt-witze-v03.txt"
+}

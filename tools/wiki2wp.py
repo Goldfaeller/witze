@@ -340,14 +340,14 @@ def konfiguration(nr):
     """
     return {
         "title": f"Witze {nr}",
-        "slug": f"{nr:02d}-witze",
+        "slug": f"{nr}-witze",
         "parent": "Witze",
         "menu_order": nr,
         "joke_word": "Witz",
         "home_nav": HOME_NAV,
-        "chapter_nav": (f'<a href="/{nr - 1:02d}-witze/">« Zurück zu Witze {nr - 1}</a>'
+        "chapter_nav": (f'<a href="/{nr - 1}-witze/">« Zurück zu Witze {nr - 1}</a>'
                         f' &nbsp;|&nbsp; <span>Witze {nr}</span> &nbsp;|&nbsp; '
-                        f'<a href="/{nr + 1:02d}-witze/">Weiter zu Witze {nr + 1} »</a>'),
+                        f'<a href="/{nr + 1}-witze/">Weiter zu Witze {nr + 1} »</a>'),
     }
 
 
