@@ -123,12 +123,14 @@ def neu_nummerieren(bloecke):
 
 
 def navzeile(nr, teil, teile, basis, zurueck_aussen, weiter_aussen):
+    """Beschriftet wird mit der Seitennummer, nicht mit der Nummer innerhalb
+    der Reihe - so tragen Permalink und Aufschrift dieselbe Zahl."""
     links = (zurueck_aussen if teil == 1 else
-             f'<a href="/{nr - 1}-witze/">« Zurück zu {basis} {teil - 1}</a>')
+             f'<a href="/{nr - 1}-witze/">« Zurück zu {basis} {nr - 1}</a>')
     rechts = (weiter_aussen if teil == teile else
-              f'<a href="/{nr + 1}-witze/">Weiter zu {basis} {teil + 1} »</a>')
+              f'<a href="/{nr + 1}-witze/">Weiter zu {basis} {nr + 1} »</a>')
     return (f'<div class="pc-chapter-nav">\n  {links} &nbsp;|&nbsp; '
-            f'<span>{basis} {teil}</span> &nbsp;|&nbsp; {rechts}\n</div>\n')
+            f'<span>{basis} {nr}</span> &nbsp;|&nbsp; {rechts}\n</div>\n')
 
 
 def main():
@@ -165,14 +167,14 @@ def main():
         if k + 1 < len(reihen):
             ziel = reihen[k + 1]
             weiter = (f'<a href="/{ziel["erste"]}-witze/">Weiter zu - '
-                      f'{ziel["auftrag"]["basis"]} 1 »</a>')
+                      f'{ziel["auftrag"]["basis"]} {ziel["erste"]} »</a>')
         else:
             weiter = auftrag["weiter"]
         if k > 0:
             vorige = reihen[k - 1]
-            zurueck = (f'<a href="/{vorige["erste"] + len(vorige["aufteilung"]) - 1}'
-                       f'-witze/">« Zurück zu - {vorige["auftrag"]["basis"]} '
-                       f'{len(vorige["aufteilung"])}</a>')
+            letzte_vorige = vorige["erste"] + len(vorige["aufteilung"]) - 1
+            zurueck = (f'<a href="/{letzte_vorige}-witze/">« Zurück zu - '
+                       f'{vorige["auftrag"]["basis"]} {letzte_vorige}</a>')
         else:
             zurueck = auftrag["zurueck"]
 
@@ -185,7 +187,7 @@ def main():
             pfad = f"wordpress/{nummer}-witze.txt"
             open(pfad, "w", encoding="utf-8").write(seite)
             json.dump({"post_type": "page",
-                       "post_title": f"{auftrag['basis']} {t}",
+                       "post_title": f"{auftrag['basis']} {nummer}",
                        "post_name": f"{nummer}-witze", "post_parent": "Witze",
                        "menu_order": nummer, "content_file": pfad},
                       open(f"wordpress/{nummer}-witze.meta.json", "w",

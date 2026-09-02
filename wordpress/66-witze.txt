@@ -25,7 +25,7 @@
   <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
 </div>
 <div class="pc-chapter-nav">
-  <a href="/65-witze/">« Zurück zu Anekdote und mehr 4</a> &nbsp;|&nbsp; <span>Anekdote und mehr 5</span> &nbsp;|&nbsp; <a href="/67-witze/">Weiter zu Anekdote und mehr 6 »</a>
+  <a href="/65-witze/">« Zurück zu Anekdote und mehr 65</a> &nbsp;|&nbsp; <span>Anekdote und mehr 66</span> &nbsp;|&nbsp; <a href="/67-witze/">Weiter zu Anekdote und mehr 67 »</a>
 </div>
 <!-- /wp:html -->
 
@@ -1171,7 +1171,7 @@
 <div class="pc-footer-nav">
   <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
   <div class="pc-chapter-nav">
-  <a href="/65-witze/">« Zurück zu Anekdote und mehr 4</a> &nbsp;|&nbsp; <span>Anekdote und mehr 5</span> &nbsp;|&nbsp; <a href="/67-witze/">Weiter zu Anekdote und mehr 6 »</a>
+  <a href="/65-witze/">« Zurück zu Anekdote und mehr 65</a> &nbsp;|&nbsp; <span>Anekdote und mehr 66</span> &nbsp;|&nbsp; <a href="/67-witze/">Weiter zu Anekdote und mehr 67 »</a>
 </div>
   <div class="pc-home-link">
   <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
