@@ -1,0 +1,1684 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-bild-rechts{float:right;width:min(42%,340px);height:auto;margin:6px 0 14px 22px;border-radius:4px;border:1px solid #a2a9b1}
+.pc-freistellen{clear:both}
+@media (max-width:640px){.pc-bild-rechts{float:none;width:100%;margin:12px 0 16px}}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/64-witze/">« Zurück zu Anekdote und mehr 3</a> &nbsp;|&nbsp; <span>Anekdote und mehr 4</span> &nbsp;|&nbsp; <a href="/66-witze/">Weiter zu Anekdote und mehr 5 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+
+<!-- wp:paragraph -->
+<p><strong>Anekdote; Rechenaufgabe; Sprichwörter; Zungenbrecher; Verballhornung; Türschilder und T-Shirt-Sprüche</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern dahinter. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2,"className":"pc-gruppe"} -->
+<h2 class="wp-block-heading pc-gruppe">Sprichwörter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. közmondás</p>
+<p>2. Az okos ráhagyja.</p>
+<p>3. Okos enged, szamár szenved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. közmondás - Sprichwort</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az okos ráhagyja. - Der Klügere gibt nach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Okos enged, szamár szenved. - Der Kluge gibt nach, der Esel leidet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Sprichwort</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Klügere gibt nach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Kluge gibt nach, der Esel leidet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A szükségben lehet felismerni a barátokat.</p>
+<p>2. (A szükségben ismerjük fel a barátokat.)</p>
+<p>3. (A szükségben ismerjük meg a barátokat.)</p>
+<p>4. Minél nagyobb a szükség, annál egyértelműbben fel lehet ismerni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A szükségben lehet felismerni a barátokat. - Freunde erkennt man in der Not.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (A szükségben ismerjük fel a barátokat.) - (Freunde erkennt man in der Not.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (A szükségben ismerjük meg a barátokat.) - (Freunde erkennt man in der Not.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Minél nagyobb a szükség, annál egyértelműbben fel lehet ismerni. - Und je größer die Not ist, umso deutlicher erkennt man sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Freunde erkennt man in der Not.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (Freunde erkennt man in der Not.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (Freunde erkennt man in der Not.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Und je größer die Not ist, umso deutlicher erkennt man sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Inkább okos ellenfelek, mint buta barátok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Inkább okos ellenfelek, mint buta barátok. - Lieber kluge Feinde, als dumme Freunde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Lieber kluge Feinde, als dumme Freunde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A kivételek erősítik a szabályt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A kivételek erősítik a szabályt. - Ausnahmen bestätigen die Regel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ausnahmen bestätigen die Regel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nyugodtságban van az erő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nyugodtságban van az erő. - In der Ruhe liegt die Kraft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. In der Ruhe liegt die Kraft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A szerelem vakká tesz.</p>
+<p>2. De aki házas, az hirtelen újra tud látni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A szerelem vakká tesz. - Liebe macht blind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. De aki házas, az hirtelen újra tud látni. - Aber wer verheiratet ist, kann plötzlich wieder sehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Liebe macht blind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aber wer verheiratet ist, kann plötzlich wieder sehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A korai madár fogja a kukacot.</p>
+<p>2. kukac</p>
+<p>3. gilista</p>
+<p>4. kukac</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A korai madár fogja a kukacot. - Der frühe Vogel fängt den Wurm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. kukac - Wurm, Made</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. gilista - Wurm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. kukac - @ (at-Zeichen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der frühe Vogel fängt den Wurm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Wurm, Made</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Wurm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. @ (at-Zeichen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A hit hegyeket tud mozgatni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A hit hegyeket tud mozgatni. - Der Glaube kann Berge versetzen. (auch in Ungarn sehr bekanntes Sprchwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Glaube kann Berge versetzen. (auch in Ungarn sehr bekanntes Sprchwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 9</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Evés közben jön meg az étvágy.</p>
+<p>2. megjön</p>
+<p>3. evőeszköz</p>
+<p>4. ivóvíz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Evés közben jön meg az étvágy. - Der Appetit kommt beim Essen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. megjön - ankommen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. evőeszköz - Eßbesteck</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. ivóvíz - Trinkwasser</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Appetit kommt beim Essen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. ankommen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Eßbesteck</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Trinkwasser</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 10</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ember tervez, isten végez.</p>
+<p>2. Márk evangéliuma</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ember tervez, isten végez. - Der Mensch denkt, Gott lenkt. (Matthäus 4 ; bibliai idézet - Bibelzitat; Máté evangéliuma)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Márk evangéliuma - Markusevangelium</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Mensch denkt, Gott lenkt. (Matthäus 4 ; bibliai idézet - Bibelzitat; Máté evangéliuma)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Markusevangelium</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 11</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A vágy az ötlet atyja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A vágy az ötlet atyja. - Der Wunsch ist der Vater des Gedanken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Wunsch ist der Vater des Gedanken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 12</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A cél szentesíti az eszközt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A cél szentesíti az eszközt. - Der Zweck heiligt die Mittel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Zweck heiligt die Mittel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 13</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Először a munka, aztán a szórakozás.</p>
+<p>2. Először a munka, aztán a pihenés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Először a munka, aztán a szórakozás. - Erst die Arbeit, dann das Spiel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Először a munka, aztán a pihenés. - Erst die Arbeit, dann das Ausruhen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Erst die Arbeit, dann das Spiel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Erst die Arbeit, dann das Ausruhen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 14</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A szomszéd csresznyéje kértben mindig édesebb.</p>
+<p>2. A szomszéd fűje mindig zöldebb.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A szomszéd csresznyéje kértben mindig édesebb. - Die Kirschen in Nachbars Garten sind immer süßer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A szomszéd fűje mindig zöldebb. - Des Nachbarns Gras ist immer grüner</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Kirschen in Nachbars Garten sind immer süßer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Des Nachbarns Gras ist immer grüner</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 15</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kis gyerek - kis gond, nagy gyerek - nagy gond.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kis gyerek - kis gond, nagy gyerek - nagy gond. - Kleine Kinder - kleine Probleme, große Kinder - große Probleme.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kleine Kinder - kleine Probleme, große Kinder - große Probleme.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 16</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Minél kevesebben tudják, annál nyugodtabban alszanak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Minél kevesebben tudják, annál nyugodtabban alszanak. - Je weniger man weiß, umso ruhiger schläft man.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Je weniger man weiß, umso ruhiger schläft man.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 17</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kolbászból van a kerítés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kolbászból van a kerítés. - (Sein Zaun ist aus Würsten gebaut - ungar. Ausdruck) - Er lebt in Saus und Braus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. (Sein Zaun ist aus Würsten gebaut - ungar. Ausdruck) - Er lebt in Saus und Braus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 18</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A hülyeség örök.</p>
+<p>2. Az ostobák (tökfejek, buták, idióták) soha nem halnak ki.</p>
+<p>3. kihal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A hülyeség örök. - Dummheit ist ewig. (ungar. Sprichwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az ostobák (tökfejek, buták, idióták) soha nem halnak ki. - Die Dummen sterben nicht aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. kihal - austerben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Dummheit ist ewig. (ungar. Sprichwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Dummen sterben nicht aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. austerben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 19</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Ej, ráérünk arra még!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Ej, ráérünk arra még!“ - (Wörtlich: „Ach, dafür haben wir noch Zeit!“) (bekanntes Gedicht-Zitat, Petőfi Sándor: „Pató Pál úr“) (Eile mit Weile)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. (Wörtlich: „Ach, dafür haben wir noch Zeit!“) (bekanntes Gedicht-Zitat, Petőfi Sándor: „Pató Pál úr“) (Eile mit Weile)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2,"className":"pc-gruppe"} -->
+<h2 class="wp-block-heading pc-gruppe">Zungenbrecher</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Zungenbrecher 20</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. <strong>nyelvtörő</strong></p>
+<p>2. Nem minden szarka farka tarka,</p>
+<p>3. csak a tarka farkú szarka</p>
+<p>4. farka tarka.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. <strong>nyelvtörő</strong> - <strong>Zungenbrecher</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nem minden szarka farka tarka, - Nicht jede Elster hat einen bunten Schwanz,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. csak a tarka farkú szarka - nur der Schwanz der buntschwänzigen Elster</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. farka tarka. - hat einen bunten Schwanz ([nur dieser Elster] ist ihr  Schwanz bunt)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. <strong>Zungenbrecher</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nicht jede Elster hat einen bunten Schwanz,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. nur der Schwanz der buntschwänzigen Elster</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. hat einen bunten Schwanz ([nur dieser Elster] ist ihr  Schwanz bunt)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Zungenbrecher 21</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. sárga bögre, görbe bögre</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. sárga bögre, görbe bögre - gelber Becher, krummer Becher</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. gelber Becher, krummer Becher</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Zungenbrecher 22</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az ibafai papnak fapipája van, tehát az ibafai papi pipa papi fapipa.</p>
+<p>2. fa</p>
+<p>3. pipa</p>
+<p>4. fapipa</p>
+<p>5. fapipája</p>
+<p>6. papi fapipa</p>
+<p>7. Ibafa</p>
+<p>8. ibafai pipamúzeum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az ibafai papnak fapipája van, tehát az ibafai papi pipa papi fapipa. - Der Priester von Ibafa hat eine Holzpfeife, also ist die Pfeife des Priesters von Ibafa eine Priester-Holzpfeife.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. fa - Hoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. pipa - Pfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. fapipa - Hozpfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. fapipája - seine Holzpfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. papi fapipa - Priester-Holzpfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Ibafa - ein Dorf westlich von Péscs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. ibafai pipamúzeum - Peifenmuseum in Ibafa (https://pipamuzeum.hu/)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Priester von Ibafa hat eine Holzpfeife, also ist die Pfeife des Priesters von Ibafa eine Priester-Holzpfeife.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Hoz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Pfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Hozpfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. seine Holzpfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Priester-Holzpfeife</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. ein Dorf westlich von Péscs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Peifenmuseum in Ibafa (https://pipamuzeum.hu/)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:heading {"level":2,"className":"pc-gruppe"} -->
+<h2 class="wp-block-heading pc-gruppe">Verballhornung</h2>
+<!-- /wp:heading -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Verballhornung 23</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. <strong>elferdít</strong></p>
+<p>2. fordítva</p>
+<p>3. szójáték</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. <strong>elferdít</strong> - <strong>verballhornen (verdrehen)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. fordítva - umgekehrt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. szójáték - Wortspiel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. <strong>verballhornen (verdrehen)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. umgekehrt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Wortspiel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 24</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Holnap, holnap, csak nem ma, minden lusta ember mondja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Holnap, holnap, csak nem ma, minden lusta ember mondja. - Morgen, Morgen, nur nicht heute, sagen alle faulen Leute.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Morgen, Morgen, nur nicht heute, sagen alle faulen Leute.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Verballhornung 25</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az idő minden sebet begyógyít.</p>
+<p>2. Az idő nem minden sebet gyógyít be.</p>
+<p>3. Erre találták ki a vodkát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az idő minden sebet begyógyít. - Die Zeit heilt alle Wunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az idő nem minden sebet gyógyít be. - Die Zeit heilt nicht alle Wunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Erre találták ki a vodkát. - Dafür wurde der Wodka erfunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Zeit heilt alle Wunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Zeit heilt nicht alle Wunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Dafür wurde der Wodka erfunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Verballhornung 26</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Balszerencsés a szerelemben, szerencsés a játékokban.</p>
+<p>2. Szerencsés a játékokban, pénz a szerelemhez.</p>
+<p>3. szerencse</p>
+<p>4. balszerencse</p>
+<p>5. változat</p>
+<p>6. szerencsejáték</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Balszerencsés a szerelemben, szerencsés a játékokban. - Pech in der Liebe, Glück im Spiel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Szerencsés a játékokban, pénz a szerelemhez. - Glück im Spiel, Geld für die Liebe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. szerencse - Glück</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. balszerencse - Pech (schlechtes Glück)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. változat - Version, Variante,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. szerencsejáték - Glücksspiel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Pech in der Liebe, Glück im Spiel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Glück im Spiel, Geld für die Liebe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Glück</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Pech (schlechtes Glück)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Version, Variante,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Glücksspiel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Redewendung 27</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. két ballábas</p>
+<p>2. két balkezes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. két ballábas - ein ungeschickter Mensch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. két balkezes - er hat zwei linke Hände</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. ein ungeschickter Mensch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. er hat zwei linke Hände</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sprichwort 28</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Amit ma megtehetsz, ne halaszd holnapra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Amit ma megtehetsz, ne halaszd holnapra. - Was du schon heute kannst besorgen, das verschiebe nicht auf Morgen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Was du schon heute kannst besorgen, das verschiebe nicht auf Morgen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Verballhornung 29</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az emberek akik valamit máról holnapra halasztanak, azok ugyanazok akik már tegnapról mára halasztottak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az emberek akik valamit máról holnapra halasztanak, azok ugyanazok akik már tegnapról mára halasztottak. - Die Menschen, die etwas von heute auf morgen verschieben, sind dieselben, die es bereits von gestern auf heute verschoben haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Menschen, die etwas von heute auf morgen verschieben, sind dieselben, die es bereits von gestern auf heute verschoben haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Verballhornung 30</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A végén minden jó lesz.</p>
+<p>2. és ha ez nem lesz jó,</p>
+<p>3. akkor még nincs vége.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A végén minden jó lesz. - Am Ende wird alles gut.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. és ha ez nem lesz jó, - und wenn es nicht gut ist,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. akkor még nincs vége. - dann ist es noch nicht das Ende.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Am Ende wird alles gut.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. und wenn es nicht gut ist,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. dann ist es noch nicht das Ende.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/64-witze/">« Zurück zu Anekdote und mehr 3</a> &nbsp;|&nbsp; <span>Anekdote und mehr 4</span> &nbsp;|&nbsp; <a href="/66-witze/">Weiter zu Anekdote und mehr 5 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

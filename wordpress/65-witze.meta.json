@@ -1,0 +1,8 @@
+{
+  "post_type": "page",
+  "post_title": "Anekdote und mehr 4",
+  "post_name": "65-witze",
+  "post_parent": "Witze",
+  "menu_order": 65,
+  "content_file": "wordpress/65-witze.txt"
+}

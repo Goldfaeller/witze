@@ -1,0 +1,8 @@
+{
+  "post_type": "page",
+  "post_title": "Sprüche 12",
+  "post_name": "60-witze",
+  "post_parent": "Witze",
+  "menu_order": 60,
+  "content_file": "wordpress/60-witze.txt"
+}

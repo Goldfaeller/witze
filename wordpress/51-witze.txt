@@ -1,0 +1,1433 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/50-witze/">« Zurück zu Sprüche 2</a> &nbsp;|&nbsp; <span>Sprüche 3</span> &nbsp;|&nbsp; <a href="/52-witze/">Weiter zu Sprüche 4 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+<!-- wp:paragraph -->
+<p><strong>Sprüche</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern direkt dahinter. :Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ötöt hívtak meg, tízen jöttek el, önts vizet a leveshez, és köszöntsd őket szívélyesen. - Fünf sind geladen, zehn sind gekommen, gieß Wasser zur Suppe, heiß sie herzlich willkommen.</p>
+<p>2. Version 2:</p>
+<p>3. Ötre számítottunk, de tízen érkeztek; higítsd a levest, és fogadd őket szeretettel. - Wir haben mit fünf gerechnet, aber zehn sind angekommen; verdünne die Suppe, und empfange sie mit Liebe.</p>
+<p>4. Version 3:</p>
+<p>5. Öt vendéget vártunk, tíz toppant be; húzd fel a levest vízzel, és mosollyal üdvözöld mindet. - Wir haben fünf Gäste erwartet, zehn sind hereingestolpert; streck’ die Suppe mit Wasser, und begrüß’ sie alle mit einem Lächeln.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ötöt hívtak meg, tízen jöttek el, önts vizet a leveshez, és köszöntsd őket szívélyesen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Version 2:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ötre számítottunk, de tízen érkeztek; higítsd a levest, és fogadd őket szeretettel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Version 3:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Öt vendéget vártunk, tíz toppant be; húzd fel a levest vízzel, és mosollyal üdvözöld mindet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Fünf sind geladen, zehn sind gekommen, gieß Wasser zur Suppe, heiß sie herzlich willkommen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Wir haben mit fünf gerechnet, aber zehn sind angekommen; verdünne die Suppe, und empfange sie mit Liebe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Wir haben fünf Gäste erwartet, zehn sind hereingestolpert; streck’ die Suppe mit Wasser, und begrüß’ sie alle mit einem Lächeln.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Tanulok más emberek hibaiból, aki az én tanácsomat megfogadta. - Ich lerne von den Fehlern anderer Leute, die meinen Rat befolgt haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Tanulok más emberek hibaiból, aki az én tanácsomat megfogadta.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich lerne von den Fehlern anderer Leute, die meinen Rat befolgt haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Én egy olyan életkorban vagyok, amiben a testem a következő napon halkan súgja a fülembe: „Ezt ne csináld soha többet!” - Ich bin jetzt in so einem Alter, in dem mir mein Körper am nächsten Tag ganz leise ins Ohr flüstert: „Mach das nie wieder!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Én egy olyan életkorban vagyok, amiben a testem a következő napon halkan súgja a fülembe: „Ezt ne csináld soha többet!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich bin jetzt in so einem Alter, in dem mir mein Körper am nächsten Tag ganz leise ins Ohr flüstert: „Mach das nie wieder!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Még senki sem esett le a mennyből mesterként. - Es ist noch kein Meister vom Himmel gefallen. (Sprichwort)</p>
+<p>2. Még nem született senki mestereként. - Noch wurde niemand als Meister geboren.</p>
+<p>3. Senki sem lesz mester egyik napról a másikra. - Niemand wird Meister von einem Tag auf den anderen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Még senki sem esett le a mennyből mesterként.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Még nem született senki mestereként.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Senki sem lesz mester egyik napról a másikra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Es ist noch kein Meister vom Himmel gefallen. (Sprichwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Noch wurde niemand als Meister geboren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Niemand wird Meister von einem Tag auf den anderen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Nő a kormánynál, ez drága lesz. - Frau am Steuer, das wird teuer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Nő a kormánynál, ez drága lesz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Frau am Steuer, das wird teuer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A faszomba, nemsokára özvegy leszek. A férjemnek harminchét egész öt tized fokos láza van. - Oh, Mist, ich bin bald Witwe. Mein Mann hat 37,5 °C Fieber.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A faszomba, nemsokára özvegy leszek. A férjemnek harminchét egész öt tized fokos láza van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Oh, Mist, ich bin bald Witwe. Mein Mann hat 37,5 °C Fieber.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az életben ez olyan mint az esőben, valamikor jön a pillanat, ahol egyszerűen minden mindegy. - Im Leben ist es wie im Regen, irgendwann kommt der Moment, wo einem einfach alles egal ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az életben ez olyan mint az esőben, valamikor jön a pillanat, ahol egyszerűen minden mindegy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Im Leben ist es wie im Regen, irgendwann kommt der Moment, wo einem einfach alles egal ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban. - Er benimmt sich wie ein Elefant im Prozellanladen.</p>
+<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben. - Lieber eine Fliege im Porzellanladen als einen Elefanten in der Suppe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Er benimmt sich wie ein Elefant im Prozellanladen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Lieber eine Fliege im Porzellanladen als einen Elefanten in der Suppe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 9</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kézművesüzlet reklámja: - Werbung eines Handwerksbetriebes:</p>
+<p>2. (Egy kézműves reklámja:)</p>
+<p>3. (Egy kézműves vállalkozás reklámja: )</p>
+<p>4. Tudunk három dolgot, de mindig csak két dolgot egyszerre. - Wir können drei Dinge, aber immer nur zwei auf einmal.</p>
+<p>5. (Három dolgot tudunk kínálni, de egyszerre mindig csak kettőt.)</p>
+<p>6. (Három dolgot tudunk, de egyszerre csak kettőt.)</p>
+<p>7. Elődször: Gyorsan és előnyösen, de ez akkor nem lesz jó. - Erstens: Schnell und günstig, aber dann wird es nicht gut.</p>
+<p>8. (Első: gyors és olcsó) - (de akkor nem lesz jó.)</p>
+<p>9. Másodszor: Jól és gyorsan, de ez akkor nem lesz kevező. - Zweitens: Gut und schnell, aber dann wird es nicht günstig.</p>
+<p>10. (Második: jó és gyors) - (de akkor nem lesz olcsó.)</p>
+<p>11. Harmadszor: Olcsón és jól, de ez akkor nem megy gyorsan. - Drittens: Günstig und gut, aber dann geht es nicht schnell.</p>
+<p>12. (Harmadik: olcsó és jó) - (de akkor nem lesz gyors.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kézművesüzlet reklámja:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (Egy kézműves reklámja:)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (Egy kézműves vállalkozás reklámja: )</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Tudunk három dolgot, de mindig csak két dolgot egyszerre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. (Három dolgot tudunk kínálni, de egyszerre mindig csak kettőt.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. (Három dolgot tudunk, de egyszerre csak kettőt.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Elődször: Gyorsan és előnyösen, de ez akkor nem lesz jó.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. (Első: gyors és olcsó)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Másodszor: Jól és gyorsan, de ez akkor nem lesz kevező.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. (Második: jó és gyors)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Harmadszor: Olcsón és jól, de ez akkor nem megy gyorsan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. (Harmadik: olcsó és jó)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Werbung eines Handwerksbetriebes:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Wir können drei Dinge, aber immer nur zwei auf einmal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Erstens: Schnell und günstig, aber dann wird es nicht gut.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. (de akkor nem lesz jó.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Zweitens: Gut und schnell, aber dann wird es nicht günstig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. (de akkor nem lesz olcsó.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Drittens: Günstig und gut, aber dann geht es nicht schnell.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. (de akkor nem lesz gyors.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 10</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Szép, okos és boldog nők soha nem függetlenek. - Schöne, kluge und fröhliche Frauen sind nie ungebunden.</p>
+<p>2. (A szép, okos és vidám nők valójában sosem igazán szabadok.)</p>
+<p>3. (A szép, okos és vidám nők soha nem kötetlenek.)</p>
+<p>4. (Egy szép, okos és életvidám nő sosem teljesen egyedülálló.)</p>
+<p>5. Mégis mondják, hogy szabadok. - Auch wenn sie sagen, dass sie frei sind.</p>
+<p>6. (Akkor sem, ha ezt állítják.)</p>
+<p>7. (Még akkor sem, ha azt mondják, hogy szabadok.)</p>
+<p>8. (A szabadság gyakran csak szó.)</p>
+<p>9. Nekik mindig van valaki - vagy az ágyban, vagy a fejben vagy a szívben. - Sie haben immer irgendjemanden - ob im Bett, im Kopf oder im Herzen.</p>
+<p>10. (Mindig kötődnek valakihez) - (testben, gondolatban vagy lélekben.)</p>
+<p>11. (Mindig van valaki) - (akár az ágyban, akár a fejükben, akár a szívükben.)</p>
+<p>12. (Mindig van valakijük) - (akár az ágyukban, a fejükben vagy a szívükben.)</p>
+<p>13. (Valaki mindig ott van az életében) - (az ágyában, a fejében vagy a szívében.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Szép, okos és boldog nők soha nem függetlenek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (A szép, okos és vidám nők valójában sosem igazán szabadok.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (A szép, okos és vidám nők soha nem kötetlenek.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Egy szép, okos és életvidám nő sosem teljesen egyedülálló.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Mégis mondják, hogy szabadok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. (Akkor sem, ha ezt állítják.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. (Még akkor sem, ha azt mondják, hogy szabadok.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. (A szabadság gyakran csak szó.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Nekik mindig van valaki - vagy az ágyban, vagy a fejben vagy a szívben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. (Mindig kötődnek valakihez)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. (Mindig van valaki)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. (Mindig van valakijük)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. (Valaki mindig ott van az életében)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Schöne, kluge und fröhliche Frauen sind nie ungebunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Auch wenn sie sagen, dass sie frei sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Sie haben immer irgendjemanden - ob im Bett, im Kopf oder im Herzen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. (testben, gondolatban vagy lélekben.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. (akár az ágyban, akár a fejükben, akár a szívükben.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. (akár az ágyukban, a fejükben vagy a szívükben.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. (az ágyában, a fejében vagy a szívében.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 11</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Soha se hagytam abba, hogy szeresselek téged, csak neked mutatni hagytam abba. - Ich habe nie aufgehört dich zu lieben, ich habe nur aufgehört es dir zu zeigen.</p>
+<p>2. (Soha nem hagytam abba, hogy szeresselek, csak azt hagytam abba, hogy kimutassam neked.)</p>
+<p>3. (Sosem hagytalak abba szeretni, csak azt hagytam abba, hogy kimutassam neked.)</p>
+<p>4. (Soha nem szűntem meg szeretni téged, csak már nem mutattam ki.)</p>
+<p>5. (A szerelmem nem múlt el irántad – csak elhallgattam, és nem mutattam többé.) - (Meine Liebe zu dir ist nicht vergangen – ich habe nur geschwiegen und sie nicht mehr gezeigt.  - Meine Liebe zu dir ist nicht vergangen – ich habe nur aufgehört, sie zu zeigen.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Soha se hagytam abba, hogy szeresselek téged, csak neked mutatni hagytam abba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (Soha nem hagytam abba, hogy szeresselek, csak azt hagytam abba, hogy kimutassam neked.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (Sosem hagytalak abba szeretni, csak azt hagytam abba, hogy kimutassam neked.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Soha nem szűntem meg szeretni téged, csak már nem mutattam ki.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. (A szerelmem nem múlt el irántad – csak elhallgattam, és nem mutattam többé.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich habe nie aufgehört dich zu lieben, ich habe nur aufgehört es dir zu zeigen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. (Meine Liebe zu dir ist nicht vergangen – ich habe nur geschwiegen und sie nicht mehr gezeigt.  - Meine Liebe zu dir ist nicht vergangen – ich habe nur aufgehört, sie zu zeigen.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 12</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Azért, hogy egy nőt meghódítsunk türelem kell, - Um eine Frau zu erobern braucht es Geduld,</p>
+<p>2. azért, hogy egy nőt megtartsunk figyelem kell, - um eine Frau zu halten braucht man Aufmerksamkeit,</p>
+<p>3. azért, hogy egy nőt elveszítsünk közömbösség kell. - um eine Frau zu verlieren braucht man Gleichgültigkeit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Azért, hogy egy nőt meghódítsunk türelem kell,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. azért, hogy egy nőt megtartsunk figyelem kell,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. azért, hogy egy nőt elveszítsünk közömbösség kell.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Um eine Frau zu erobern braucht es Geduld,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. um eine Frau zu halten braucht man Aufmerksamkeit,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. um eine Frau zu verlieren braucht man Gleichgültigkeit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 13</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Soha se játssz egy nővel. - Spiele nie mit einer Frau.</p>
+<p>2. Sose lehet tudni, talán jobban játszik, mint te. - Man kann ja nie wissen, vielleicht spielt sie besser als du.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Soha se játssz egy nővel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sose lehet tudni, talán jobban játszik, mint te.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Spiele nie mit einer Frau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Man kann ja nie wissen, vielleicht spielt sie besser als du.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 14</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az első szabály a téli szeksznél: Akinek az orra folyik, annak lent kell feküdni. - Die erste Regel beim Wintersex: Wem die Nase läuft, der muss unten liegen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az első szabály a téli szeksznél: Akinek az orra folyik, annak lent kell feküdni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die erste Regel beim Wintersex: Wem die Nase läuft, der muss unten liegen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 15</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Férfiak és nők gyakrabban néznek egymás szemébe, mintha nem lenne melle (= keble). - Männer und Frauen würden sich öfter in die Augen sehen, wenn es keine Brüste gäbe.</p>
+<p>2. (Ha nem lennének mellek, a férfiak és a nők gyakrabban néznének egymás szemébe.)</p>
+<p>3. (A férfiak és a nők sokkal gyakrabban tartanák a szemkontaktust, ha nem lennének ott a mellek.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Férfiak és nők gyakrabban néznek egymás szemébe, mintha nem lenne melle (= keble).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (Ha nem lennének mellek, a férfiak és a nők gyakrabban néznének egymás szemébe.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (A férfiak és a nők sokkal gyakrabban tartanák a szemkontaktust, ha nem lennének ott a mellek.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Männer und Frauen würden sich öfter in die Augen sehen, wenn es keine Brüste gäbe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 16</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Mi a siker? - Was ist Erfolg?</p>
+<p>2. Négy évesen: ha nem pisilsz be a nadrágodba. - Mit 4 Jahren: wenn du nicht in die Hosen machst.</p>
+<p>3. Tizenkét évesen: ha barátaid vannak. - Mit 12 Jahren: wenn du Freunde hast.</p>
+<p>4. Húsz évesen: ha szeksz van. - Mit 20 Jahren: wenn du Sex hast.</p>
+<p>5. Harmincöt évesen: ha sok pénzt keresel. - Mit 35 Jahren: wenn du viel verdienst.</p>
+<p>6. Hatvan évesen: ha szeksz van. - Mit 60 Jahren: wenn du Sex hast.</p>
+<p>7. Hetven évesen:  ha barátaid vannak. - Mit 70 Jahren: wenn du Freunde hast.</p>
+<p>8. Nyolcvan évesen: ha nem pisilsz be a nadrágodba. - Mit 80 Jahren: wenn du nicht in die Hosen machst</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mi a siker?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Négy évesen: ha nem pisilsz be a nadrágodba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Tizenkét évesen: ha barátaid vannak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Húsz évesen: ha szeksz van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Harmincöt évesen: ha sok pénzt keresel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Hatvan évesen: ha szeksz van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Hetven évesen:  ha barátaid vannak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Nyolcvan évesen: ha nem pisilsz be a nadrágodba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Was ist Erfolg?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mit 4 Jahren: wenn du nicht in die Hosen machst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Mit 12 Jahren: wenn du Freunde hast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Mit 20 Jahren: wenn du Sex hast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Mit 35 Jahren: wenn du viel verdienst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Mit 60 Jahren: wenn du Sex hast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Mit 70 Jahren: wenn du Freunde hast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Mit 80 Jahren: wenn du nicht in die Hosen machst</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 17</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Milyen kevés is kell az embernek a boldogsághoz. - Wie wenig der Mensch doch zum Glücklichsein braucht.</p>
+<p>2. De milyen sok idő kell ahhoz, hogy ezt megértse. - Aber wie viel es braucht, bis er das verstanden hat.</p>
+<p>3. (De mennyi időbe telik, mire ezt megérti.)</p>
+<p>4. (De mennyi idő, mire ezt megérti.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Milyen kevés is kell az embernek a boldogsághoz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. De milyen sok idő kell ahhoz, hogy ezt megértse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (De mennyi időbe telik, mire ezt megérti.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (De mennyi idő, mire ezt megérti.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wie wenig der Mensch doch zum Glücklichsein braucht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aber wie viel es braucht, bis er das verstanden hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 18</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ha az élet száz okot ad a sírásra, mutasd meg neki, hogy neked ezer okod van a nevetésre. - Wenn dir das Leben 100 Gründe zum Weinen gibt, dann zeige ihm, dass du 1.000 Gründe zum Lachen hast.</p>
+<p>2. (Ha az élet száz okot ad neked a sírásra, akkor mutasd meg neki, hogy ezer okod van a nevetésre.)</p>
+<p>3. (Ha az élet száz okot ad neked a sírásra, akkor mutasd meg neki, hogy ezerszer több okod van a nevetésre.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ha az élet száz okot ad a sírásra, mutasd meg neki, hogy neked ezer okod van a nevetésre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (Ha az élet száz okot ad neked a sírásra, akkor mutasd meg neki, hogy ezer okod van a nevetésre.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (Ha az élet száz okot ad neked a sírásra, akkor mutasd meg neki, hogy ezerszer több okod van a nevetésre.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn dir das Leben 100 Gründe zum Weinen gibt, dann zeige ihm, dass du 1.000 Gründe zum Lachen hast.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 19</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „A kozmetikum: idősebbeket megfiatalítja, a fiatalok meg öregíti.” - Kosmetik - Sie macht dich im Alter jünger und in jungen Jahren älter.</p>
+<p>2. („A kozmetika öregkorban fiatalít, fiatalkorban öregít.”)</p>
+<p>3. („Kozmetikumok) - (öregkorban fiatalabbá, fiatal korban pedig öregebbé tesznek.”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „A kozmetikum: idősebbeket megfiatalítja, a fiatalok meg öregíti.” - Kosmetik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. („A kozmetika öregkorban fiatalít, fiatalkorban öregít.”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. („Kozmetikumok)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Sie macht dich im Alter jünger und in jungen Jahren älter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (öregkorban fiatalabbá, fiatal korban pedig öregebbé tesznek.”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 20</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ha a te álmaid erősebbek, mint a félelmeid, akkor teljesülni fognak. - Wenn deine Träume stärker sind als deine Ängste, dann werden sie in Erfüllung gehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ha a te álmaid erősebbek, mint a félelmeid, akkor teljesülni fognak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn deine Träume stärker sind als deine Ängste, dann werden sie in Erfüllung gehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 21</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért boldogok mindig a férfiak? - Warum sind Männer immer glücklich?</p>
+<p>2. A családnevük nem változik meg, és egész életükben ugyanaz marad. - Ihr Familienname ändert sich nicht und bleibt ihr ganzes Leben lang gleich.</p>
+<p>3. A telefonbeszélgetéseik nem tartanak tovább harminc másodpercnél. - Ihre Telefongespräche dauern nicht länger als 30 Sekunden.</p>
+<p>4. Egyhetes nyaraláshoz elég nekik egyetlen farmer. - Für eine Woche Urlaub brauchen sie nur eine Jeans.</p>
+<p>5. Ha valaki elfelejti meghívni őket, attól még barátok maradnak (= attól még barátok maradnak). - Wenn jemand vergisst, sie einzuladen, dann bleiben sie doch weiter Freunde.</p>
+<p>6. A frizurájuk évekig nem változik. - Ihre Frisur ändert sich jahrelang nicht.</p>
+<p>7. Huszonöt perc alatt bevásárolnak egy üzletben. - Sie können in 25 Minuten in einem Geschäft einkaufen.</p>
+<p>8. Ha egy esti rendezvényen valakivel ugyanabban az ingben találkoznak, mint amit ők viselnek, az nem zavarja őket, inkább viccesnek találják. - Wenn sie auf einer Abendveranstaltung jemanden mit dem gleichen Hemd treffen, das sie selber anhaben, dann stört es sie nicht, sondern sie finden es eher lustig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért boldogok mindig a férfiak?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A családnevük nem változik meg, és egész életükben ugyanaz marad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A telefonbeszélgetéseik nem tartanak tovább harminc másodpercnél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Egyhetes nyaraláshoz elég nekik egyetlen farmer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Ha valaki elfelejti meghívni őket, attól még barátok maradnak (= attól még barátok maradnak).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A frizurájuk évekig nem változik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Huszonöt perc alatt bevásárolnak egy üzletben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Ha egy esti rendezvényen valakivel ugyanabban az ingben találkoznak, mint amit ők viselnek, az nem zavarja őket, inkább viccesnek találják.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum sind Männer immer glücklich?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ihr Familienname ändert sich nicht und bleibt ihr ganzes Leben lang gleich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ihre Telefongespräche dauern nicht länger als 30 Sekunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Für eine Woche Urlaub brauchen sie nur eine Jeans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Wenn jemand vergisst, sie einzuladen, dann bleiben sie doch weiter Freunde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Ihre Frisur ändert sich jahrelang nicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Sie können in 25 Minuten in einem Geschäft einkaufen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Wenn sie auf einer Abendveranstaltung jemanden mit dem gleichen Hemd treffen, das sie selber anhaben, dann stört es sie nicht, sondern sie finden es eher lustig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 22</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Bár csak villanyszerelő vagyok, és nem nőgyógyász, mégis meg tudom nézni ezt. - Ich bin zwar nur Elektriker und kein Frauenarzt, aber ich kann es mir ja trotzdem mal anschauen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Bár csak villanyszerelő vagyok, és nem nőgyógyász, mégis meg tudom nézni ezt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich bin zwar nur Elektriker und kein Frauenarzt, aber ich kann es mir ja trotzdem mal anschauen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/50-witze/">« Zurück zu Sprüche 2</a> &nbsp;|&nbsp; <span>Sprüche 3</span> &nbsp;|&nbsp; <a href="/52-witze/">Weiter zu Sprüche 4 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

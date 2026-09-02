@@ -1,0 +1,1028 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/47-witze/">« Zurück zu Längere Witze 8</a> &nbsp;|&nbsp; <span>Längere Witze 9</span> &nbsp;|&nbsp; <a href="/49-witze/">Weiter zu - Sprüche 1 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+
+<!-- wp:paragraph -->
+<p><strong>Längere Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern dahinter. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>hosszabb viccek - längere Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Három szőke nő jelentkezik a rendőrséghez. - Drei Blondinen bewerben sich bei der Polizei.</p>
+<p>2. Egy felvételi vizsgára kell menniük. - Sie müssen zu einem Einstellungstest gehen.</p>
+<p>3. Először azt tesztelik, milyen jól tudnak arcokat megjegyezni és felismerni. - Zuerst wird getestet, wie gut sie sich Gesichter merken und wiedererkennen können.</p>
+<p>4. Erre a rendőrségen gyakran szükség van, amikor tettest keresnek. - Das braucht man bei der Polizei oft, wenn man einen Täter sucht.</p>
+<p>5. Az első szőkének egy fényképet mutatnak. - Der ersten Blondine wird ein Foto vorgelegt.</p>
+<p>6. „Mondja meg, miről ismerné fel ezt a személyt.” - „Sagen Sie uns, woran Sie diese Person wiedererkennen würden.“</p>
+<p>7. A szőke nő: „Ez nagyon könnyű. Csak EGY szeme van, arról könnyen felismerem.” - Die Blondine: „Das ist ganz leicht. Er hat ja nur ein Auge, daran erkenne ich ihn leicht wieder.“</p>
+<p>8. A vizsgáztató: „Megbukott. A képen csak oldalról látható a személy.” - Der Prüfer: „Sie sind durchgefallen. Denn das Bild zeigt die Person nur von der Seite.“</p>
+<p>9. A második szőkének ugyanazt a képet mutatják [mutattyák], és ugyanazt a kérdést teszik fel. - Der zweiten Blondine wird das gleiche Foto vorgelegt und die gleiche Frage gestellt.</p>
+<p>10. „Mondja [mongya] meg, miről ismerné fel ezt a személyt.” - „Sagen Sie uns, woran Sie diese Person wiedererkennen würden.“</p>
+<p>11. A második szőke: „Ez nagyon könnyű. Csak EGY füle van, arról könnyen felismerem.” - Die zweite Blondine: „Das ist ganz leicht. Er hat ja nur ein Ohr, daran erkenne ich ihn leicht wieder.“</p>
+<p>12. A vizsgáztató: „Megbukott. A képen csak profilból látható a személy.” - Der Prüfer: „Sie sind durchgefallen. Denn das Bild zeigt die Person nur im Profil.“</p>
+<p>13. A harmadik szőkének ugyanazt a képet mutatják, és ugyanazt a kérdést teszik fel. - Der dritten Blondine wird das gleiche Foto vorgelegt und die gleiche Frage gestellt.</p>
+<p>14. „Mondja meg, miről ismerné fel ezt [eszt] a személyt.” - „Sagen Sie uns, woran Sie diese Person wiedererkennen würden.“</p>
+<p>15. A harmadik szőke alaposan megnézi a képet, majd hosszasan gondolkodik. - Die dritte Blondine schaut sich das Bild intensiv (gründlich) an und denkt dann lange nach.</p>
+<p>16. „Ez nehéz volt. De felismerem, mert kontaktlencsét visel.” - „Das war schwer. Aber ich erkenne ihn wieder, denn er trägt Kontaktlinsen.“</p>
+<p>17. A vizsgáztató: „Hm, ez érdekes. Erről nincs információm az iratokban, ezt először ellenőriznem kell.” - Der Prüfer: „Hm, das ist interessant. Ich habe hier keine Information in den Unterlagen darüber. Das muss ich  erst überprüfen.“</p>
+<p>18. Egy idő múlva visszatér, és azt mondja: „Igaza van, a férfi a képen kontaktlencsét visel. Átment a vizsgán.” - Er kommt nach einer Weile zurück und sagt: „Sie haben Recht, der Mann auf dem Bild trägt Kontaktlinsen. Sie haben den Test bestanden.“</p>
+<p>19. A vizsgáztató: „De árulja el, honnan tudta ezt.” - Der Prüfer: „Aber verraten Sie mir bitte, woher Sie das wussten.“</p>
+<p>20. A szőke nő: „Hát, hiányzik egy szeme és egy füle, ezért nem tud szemüveget viselni.” - Die Blondine: „Na ja, ihm fehlt ein Auge und ein Ohr, also kann er keine Brille tragen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Három szőke nő jelentkezik a rendőrséghez.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy felvételi vizsgára kell menniük.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Először azt tesztelik, milyen jól tudnak arcokat megjegyezni és felismerni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Erre a rendőrségen gyakran szükség van, amikor tettest keresnek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Az első szőkének egy fényképet mutatnak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Mondja meg, miről ismerné fel ezt a személyt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A szőke nő: „Ez nagyon könnyű. Csak EGY szeme van, arról könnyen felismerem.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A vizsgáztató: „Megbukott. A képen csak oldalról látható a személy.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. A második szőkének ugyanazt a képet mutatják [mutattyák], és ugyanazt a kérdést teszik fel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. „Mondja [mongya] meg, miről ismerné fel ezt a személyt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. A második szőke: „Ez nagyon könnyű. Csak EGY füle van, arról könnyen felismerem.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. A vizsgáztató: „Megbukott. A képen csak profilból látható a személy.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. A harmadik szőkének ugyanazt a képet mutatják, és ugyanazt a kérdést teszik fel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. „Mondja meg, miről ismerné fel ezt [eszt] a személyt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. A harmadik szőke alaposan megnézi a képet, majd hosszasan gondolkodik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. „Ez nehéz volt. De felismerem, mert kontaktlencsét visel.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. A vizsgáztató: „Hm, ez érdekes. Erről nincs információm az iratokban, ezt először ellenőriznem kell.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Egy idő múlva visszatér, és azt mondja: „Igaza van, a férfi a képen kontaktlencsét visel. Átment a vizsgán.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. A vizsgáztató: „De árulja el, honnan tudta ezt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. A szőke nő: „Hát, hiányzik egy szeme és egy füle, ezért nem tud szemüveget viselni.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Drei Blondinen bewerben sich bei der Polizei.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sie müssen zu einem Einstellungstest gehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Zuerst wird getestet, wie gut sie sich Gesichter merken und wiedererkennen können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Das braucht man bei der Polizei oft, wenn man einen Täter sucht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der ersten Blondine wird ein Foto vorgelegt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Sagen Sie uns, woran Sie diese Person wiedererkennen würden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Die Blondine: „Das ist ganz leicht. Er hat ja nur ein Auge, daran erkenne ich ihn leicht wieder.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Der Prüfer: „Sie sind durchgefallen. Denn das Bild zeigt die Person nur von der Seite.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Der zweiten Blondine wird das gleiche Foto vorgelegt und die gleiche Frage gestellt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. „Sagen Sie uns, woran Sie diese Person wiedererkennen würden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Die zweite Blondine: „Das ist ganz leicht. Er hat ja nur ein Ohr, daran erkenne ich ihn leicht wieder.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Der Prüfer: „Sie sind durchgefallen. Denn das Bild zeigt die Person nur im Profil.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Der dritten Blondine wird das gleiche Foto vorgelegt und die gleiche Frage gestellt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. „Sagen Sie uns, woran Sie diese Person wiedererkennen würden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. Die dritte Blondine schaut sich das Bild intensiv (gründlich) an und denkt dann lange nach.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. „Das war schwer. Aber ich erkenne ihn wieder, denn er trägt Kontaktlinsen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Der Prüfer: „Hm, das ist interessant. Ich habe hier keine Information in den Unterlagen darüber. Das muss ich  erst überprüfen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Er kommt nach einer Weile zurück und sagt: „Sie haben Recht, der Mann auf dem Bild trägt Kontaktlinsen. Sie haben den Test bestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. Der Prüfer: „Aber verraten Sie mir bitte, woher Sie das wussten.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. Die Blondine: „Na ja, ihm fehlt ein Auge und ein Ohr, also kann er keine Brille tragen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Hogy a horgász ne túlozzon megint úgy, amikor kitárt karokkal mutatja, mekkorák voltak a kifogott halak, tréfából egy bulin bilincsbe tették a kezét. - Damit der Angler nicht wieder so übertreibt, wenn er mit ausgebreiteten Armen zeigt, wie groß die gefangenen Fische waren, haben sie ihm auf einer Party aus Spaß die Hände in Handschellen gelegt.</p>
+<p>2. Ennek ellenére mesélt a nagy fogásáról. - Trotz dessen erzählte er von seinem großen Fang.</p>
+<p>3. Az összebilincselt kezeivel még így is megmutatta a vendégeknek, milyen hatalmasak voltak már csak a hal szemei is. - Mit seinen zusammengefesselten Händen zeigte er den Gästen trotzdem, wie riesig schon nur die Augen des Fisches waren.</p>
+<p>4. (Kb. 20–30 centire szét tudta feszíteni a bilincselt kezeit.) - (Er konnte die gefesselten Hände etwa 20–30 Zentimeter auseinanderbiegen.)</p>
+<p class="pc-note">túloz - übertreiben</p>
+<p class="pc-note">megint = ismét = újra - wieder, erneut, noch einmal</p>
+<p class="pc-note">Mekkora? - Wie groß? (wie lang? wie schwer? wie klein?)</p>
+<p class="pc-note">ekkora - so groß, (so klein)</p>
+<p class="pc-note">akkora - so groß</p>
+<p class="pc-note">meddig? - bis wann? bis wohin?</p>
+<p class="pc-note">merre? - in welche Richtung?</p>
+<p class="pc-note">melyik? - welche?</p>
+<p class="pc-note">mennyi? - wie viel?</p>
+<p class="pc-note">milyen? - was für ein?</p>
+<p class="pc-note">milyen ez? - wie ist es?</p>
+<p class="pc-note">mi? - was?</p>
+<p class="pc-note">kitárt kar - den Arm ausstrecken</p>
+<p class="pc-note">kitárt karok - die Arme ausstrecken</p>
+<p class="pc-note">kitárt karokkal - mit ausgestreckten Armen</p>
+<p class="pc-note">bilincsbe tesz = megbilincsel - fesseln; Handschellen anlegen</p>
+<p class="pc-note">szétfeszít - auseinanderspreizen</p>
+<p class="pc-note">feszít - spreizen</p>
+<p class="pc-note">feszített betonhíd - Spannbetonbrücke</p>
+<p class="pc-note">feszültség - Spannung, Anspannung</p>
+<p class="pc-note">áramfeszültség - Stromspannung</p>
+<p class="pc-note">már csak - (schon nur); allein; schon allein; selbst nur; bereits für sich genommen; nur noch (Rest, zeitlich)</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Annak érdekében, hogy a horgász ne hencegjen újra túlzóan, amikor széttárt karokkal jelzi a halak méretét, egy mulatságon [mulaccságon] viccből megbilincselték a kezét. - Um zu erreichen (im Interesse), dass der Angler nicht wieder übertrieben prahlt, wenn er mit ausgebreiteten Armen die Größe der Fische anzeigt, haben sie ihm auf einer Feier scherzhaft die Hände gefesselt (in Handschellen).</p>
+<p>2. Ő azonban így is [ígyis] a nagy zsákmányáról beszélt. - Er jedoch sprach trotzdem von seinem großen Fang (Beute).</p>
+<p>3. Összekötött kézzel is képes volt megmutatni a vendégeknek, mekkorák voltak legalább a hal szemei. - Mit zusammengebundenen Händen war er auch fähig, den Gästen zu zeigen, wie groß zumindest die Augen des Fisches waren.</p>
+<p>4. (A kezeit még így is 20–30 cm-re szétfeszítette.) - (Seine Hände spreizte er trotzdem noch auf 20–30 cm auseinander.)</p>
+<p class="pc-note">herceg - Herzog</p>
+<p class="pc-note">henceg - angeben; prahlen; aufschneiden</p>
+<p class="pc-note">hencegés - Amgeberei</p>
+<p class="pc-note">kérkedik - prahlen; aufschneiden</p>
+<p class="pc-note">kérkedés - Prahlerei</p>
+<p class="pc-note">felvág - aufschneiden; prahlen; angeben</p>
+<p class="pc-note">felvágás - Angeberei</p>
+<p class="pc-note">felvágós ember - Angeber</p>
+<p class="pc-note">kérkedős ember - Angeber</p>
+<p class="pc-note">hencegő; kérkedő; felvágó; hetvenkedő; dicsekvő - Angeber</p>
+<p class="pc-note">felvágott - der Aufschnitt (Wurst, Schinken; das Aufgeschnittene)</p>
+<p class="pc-note">hetven - 70</p>
+<p class="pc-note">hetvenkedik - prahlen, großtun, angeben, sich brüsten, den starken Mann markieren; (hetvenkedik = „siebzig machen“)</p>
+<p class="pc-note">dicsőség - Ruhm</p>
+<p class="pc-note">dicső - herrlich, glorreich; ruhmreich</p>
+<p class="pc-note">dicső múlt - die ruhmreiche Vergangenheit</p>
+<p class="pc-note">érdek - Interesse</p>
+<p class="pc-note">érdekes - interessant</p>
+<p class="pc-note">jel - Signal</p>
+<p class="pc-note">jelez - signalisieren; anzeigen, deuten, melden, ankündigen, markieren, kennzeichnen</p>
+<p class="pc-note">mulatság = buli = parti = zsúr - Party</p>
+<p class="pc-note">bilincs - Handschellen</p>
+<p class="pc-note">zsákmány - Fang; Beute</p>
+<p class="pc-note">zsák - Sack; Beutel, Tasche</p>
+<p class="pc-note">zsákba tesz = bezsákol - einsacken</p>
+<p class="pc-note">így is = mégis - trotzdem</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Azért, hogy a horgász ne nagyítson [nagyíccson] ismét, amikor karjait szélesen széttárva mutogatja a kifogott halak nagyságát [naccságát], egy partin tréfából bilincset tettek a kezére. - Damit der Angler nicht wieder übertreibt, wenn er seine Arme weit ausbreitet und die Größe der gefangenen Fische zeigt, haben sie ihm auf einer Party aus Spaß die Hände in Handschellen gelegt.</p>
+<p>2. Mégis tovább mesélt a hatalmas fogásról. - Trotzdem erzählte er weiter über den riesigen Fang.</p>
+<p>3. Még összebilincselt kézzel is szemléltette a vendégeknek, hogy már a hal szemei [szeme-i] is milyen óriásiak [óriásijak] voltak. - Selbst (noch) mit gefesselten Händen veranschaulichte er den Gästen, dass schon die Augen des Fisches wie riesig waren.</p>
+<p>4. (Körülbelül 20–30 centiméterre szét tudta hajlítani a kezeit.) - (Er konnte seine Hände ungefähr 20–30 Zentimeter auseinanderbiegen.)</p>
+<p class="pc-note">nagyít - vergrößern</p>
+<p class="pc-note">kicsinyít = kisebbít - verkleinern</p>
+<p class="pc-note">nagyítás - Vergrößung</p>
+<p class="pc-note">kicsinyítés - Verkleinerung</p>
+<p class="pc-note">széles - breit</p>
+<p class="pc-note">szűk - eng</p>
+<p class="pc-note">széttár - ausbreiten</p>
+<p class="pc-note">mutat - zeigen; sehen lassen</p>
+<p class="pc-note">mutogat - zeigen (oft zeigen)</p>
+<p class="pc-note">szemléltet - veranschauen, darstellen, illustrieren, (vor Augen führen)</p>
+<p class="pc-note">szemlél = néz - betrachten, anschauen, gründlich ansehen</p>
+<p class="pc-note">szemügyre vesz - betrachten, anschauen; (in Augen-Angelegenheit nehmen)</p>
+<p class="pc-note">szem - Auge</p>
+<p class="pc-note">hajlít - biegen, beugen</p>
+<p class="pc-note">összehajt - falten (Papier), zusammenfalten, zusammenlegen (Kleidung), zusammenfalten</p>
+<p class="pc-note">hajt - treiben, antreiben, drängen</p>
+<p class="pc-note">hajtómű - Triebwerk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hogy a horgász ne túlozzon megint úgy, amikor kitárt karokkal mutatja, mekkorák voltak a kifogott halak, tréfából egy bulin bilincsbe tették a kezét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ennek ellenére mesélt a nagy fogásáról.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az összebilincselt kezeivel még így is megmutatta a vendégeknek, milyen hatalmasak voltak már csak a hal szemei is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Kb. 20–30 centire szét tudta feszíteni a bilincselt kezeit.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">túloz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megint = ismét = újra</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mekkora?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ekkora</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">akkora</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">meddig?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">merre?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">melyik?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mennyi?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">milyen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">milyen ez?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mi?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kitárt kar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kitárt karok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kitárt karokkal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bilincsbe tesz = megbilincsel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szétfeszít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feszít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feszített betonhíd</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feszültség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">áramfeszültség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">már csak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Annak érdekében, hogy a horgász ne hencegjen újra túlzóan, amikor széttárt karokkal jelzi a halak méretét, egy mulatságon [mulaccságon] viccből megbilincselték a kezét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ő azonban így is [ígyis] a nagy zsákmányáról beszélt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Összekötött kézzel is képes volt megmutatni a vendégeknek, mekkorák voltak legalább a hal szemei.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (A kezeit még így is 20–30 cm-re szétfeszítette.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">herceg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">henceg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hencegés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kérkedik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kérkedés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felvág</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felvágás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felvágós ember</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kérkedős ember</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hencegő; kérkedő; felvágó; hetvenkedő; dicsekvő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">felvágott</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hetven</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hetvenkedik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dicsőség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dicső</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dicső múlt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érdek</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érdekes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jelez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mulatság = buli = parti = zsúr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bilincs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zsákmány</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zsák</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zsákba tesz = bezsákol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">így is = mégis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Azért, hogy a horgász ne nagyítson [nagyíccson] ismét, amikor karjait szélesen széttárva mutogatja a kifogott halak nagyságát [naccságát], egy partin tréfából bilincset tettek a kezére.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mégis tovább mesélt a hatalmas fogásról.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Még összebilincselt kézzel is szemléltette a vendégeknek, hogy már a hal szemei [szeme-i] is milyen óriásiak [óriásijak] voltak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Körülbelül 20–30 centiméterre szét tudta hajlítani a kezeit.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nagyít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kicsinyít = kisebbít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nagyítás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kicsinyítés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">széles</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szűk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">széttár</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mutat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mutogat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szemléltet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szemlél = néz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szemügyre vesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hajlít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">összehajt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hajt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hajtómű</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Damit der Angler nicht wieder so übertreibt, wenn er mit ausgebreiteten Armen zeigt, wie groß die gefangenen Fische waren, haben sie ihm auf einer Party aus Spaß die Hände in Handschellen gelegt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Trotz dessen erzählte er von seinem großen Fang.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Mit seinen zusammengefesselten Händen zeigte er den Gästen trotzdem, wie riesig schon nur die Augen des Fisches waren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Er konnte die gefesselten Hände etwa 20–30 Zentimeter auseinanderbiegen.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">übertreiben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wieder, erneut, noch einmal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wie groß? (wie lang? wie schwer? wie klein?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">so groß, (so klein)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">so groß</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bis wann? bis wohin?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">in welche Richtung?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">welche?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wie viel?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">was für ein?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wie ist es?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">was?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">den Arm ausstrecken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Arme ausstrecken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mit ausgestreckten Armen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fesseln; Handschellen anlegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auseinanderspreizen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">spreizen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Spannbetonbrücke</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Spannung, Anspannung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Stromspannung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(schon nur); allein; schon allein; selbst nur; bereits für sich genommen; nur noch (Rest, zeitlich)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Um zu erreichen (im Interesse), dass der Angler nicht wieder übertrieben prahlt, wenn er mit ausgebreiteten Armen die Größe der Fische anzeigt, haben sie ihm auf einer Feier scherzhaft die Hände gefesselt (in Handschellen).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er jedoch sprach trotzdem von seinem großen Fang (Beute).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Mit zusammengebundenen Händen war er auch fähig, den Gästen zu zeigen, wie groß zumindest die Augen des Fisches waren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Seine Hände spreizte er trotzdem noch auf 20–30 cm auseinander.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Herzog</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">angeben; prahlen; aufschneiden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Amgeberei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">prahlen; aufschneiden</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Prahlerei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aufschneiden; prahlen; angeben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Angeberei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Angeber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Angeber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Angeber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Aufschnitt (Wurst, Schinken; das Aufgeschnittene)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">70</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">prahlen, großtun, angeben, sich brüsten, den starken Mann markieren; (hetvenkedik = „siebzig machen“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ruhm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">herrlich, glorreich; ruhmreich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die ruhmreiche Vergangenheit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Interesse</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">interessant</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Signal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">signalisieren; anzeigen, deuten, melden, ankündigen, markieren, kennzeichnen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Party</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Handschellen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Fang; Beute</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Sack; Beutel, Tasche</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">einsacken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">trotzdem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Damit der Angler nicht wieder übertreibt, wenn er seine Arme weit ausbreitet und die Größe der gefangenen Fische zeigt, haben sie ihm auf einer Party aus Spaß die Hände in Handschellen gelegt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Trotzdem erzählte er weiter über den riesigen Fang.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Selbst (noch) mit gefesselten Händen veranschaulichte er den Gästen, dass schon die Augen des Fisches wie riesig waren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Er konnte seine Hände ungefähr 20–30 Zentimeter auseinanderbiegen.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vergrößern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verkleinern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Vergrößung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Verkleinerung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">breit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eng</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ausbreiten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zeigen; sehen lassen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zeigen (oft zeigen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">veranschauen, darstellen, illustrieren, (vor Augen führen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">betrachten, anschauen, gründlich ansehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">betrachten, anschauen; (in Augen-Angelegenheit nehmen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Auge</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">biegen, beugen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">falten (Papier), zusammenfalten, zusammenlegen (Kleidung), zusammenfalten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">treiben, antreiben, drängen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Triebwerk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/47-witze/">« Zurück zu Längere Witze 8</a> &nbsp;|&nbsp; <span>Längere Witze 9</span> &nbsp;|&nbsp; <a href="/49-witze/">Weiter zu - Sprüche 1 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

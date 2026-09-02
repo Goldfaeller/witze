@@ -1,0 +1,982 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/43-witze/">« Zurück zu Längere Witze 4</a> &nbsp;|&nbsp; <span>Längere Witze 5</span> &nbsp;|&nbsp; <a href="/45-witze/">Weiter zu Längere Witze 6 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+
+<!-- wp:paragraph -->
+<p><strong>Längere Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern dahinter. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>hosszabb viccek - längere Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa a heverőn hever. - Der Vater liegt auf dem Sofa.</p>
+<p>2. A fia jön és kérdezi őt: „Miért van balmenetes menete a propánpalackoknak, és jobbos menete az oxigénpalackoknak?” - Sein Sohn kommt und fragt ihn: „Warum haben Propanflaschen ein Linksgewinde und Sauerstoffflaschen ein Rechtsgewinde?“</p>
+<p>3. („Miért van a propánpalackoknak balos menete, az oxigénpalackoknak pedig jobbos menete?”)</p>
+<p>4. Az apa válaszol: „Ezt nem tudom.“ - Der Vater antwortet: „Das weiß ich nicht.“</p>
+<p>5. Kicsivel azután (= Rövid idővel később) a fia kérdezi: „Miért nem esznek a jegesmedvék pingvineket?“ - Kurz danach fragt der Sohn: „Warum essen Eisbären keine Pinguine?“</p>
+<p>6. Az apja felel: „Nem tudom.“ - Der Vater antwortet: „Das weiß ich nicht.“</p>
+<p>7. Egy kis idő múlva (= Egy kicsivel később) újra jön a fiú és kérdezi: „Miért csak a jobb és a bal oldalt cseréli fel a tükör, és a felső részt és az alsó részt nem?” - Nach einer Weile kommt der Sohn wieder und fragt: „Warum vertauscht der Spiegel nur die rechte und linke Seite, nicht aber oben und unten?“</p>
+<p>8. („Miért cseréli fel a tükör csak a jobb és a bal oldalt, de nem a felső és az alsó részt?”)</p>
+<p>9. („A tükör miért cseréli fel csak a jobb és a bal oldalt, de a felső és az alsó részt nem?”)</p>
+<p>10. Az apa újra: „nem tudom.“ - Der Vater wieder: „Das weiß ich nicht.“</p>
+<p>11. Ekkor az anya közbelép, és így szól a fiához: „Hagyd már végre békén az apádat a kérdéseiddel!” - Jetzt geht die Mutter dazwischen und sagt zu ihrem Sohn: „Lass deinen Vater endlich mit deinen Fragen in Ruhe!“</p>
+<p>12. (Most az anya közbeavatkozik, és azt mondja a fiának: „Hagyd már békén az apádat a kérdéseiddel!” - Jetzt geht die Mutter dazwischen und sagt zu ihrem Sohn: „Lass deinen Vater endlich mit deinen Fragen in Ruhe!“</p>
+<p>13. Erre az apa: „Nem, nem, hagyd csak. Kérdezzen tőlem bármit, amit tudni akar, hadd tanuljon tőlem.” - Darauf der Vater: „Nein, nein, lass ihn nur. Er soll mich alles fragen, was er wissen will, damit er etwas lernt bei mir.“</p>
+<p>14. („Nem, nem, hagyd csak. Kérdezzen tőlem mindent, amit tudni akar, hogy tanuljon tőlem valamit.”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az apa a heverőn hever.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A fia jön és kérdezi őt: „Miért van balmenetes menete a propánpalackoknak, és jobbos menete az oxigénpalackoknak?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. („Miért van a propánpalackoknak balos menete, az oxigénpalackoknak pedig jobbos menete?”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az apa válaszol: „Ezt nem tudom.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Kicsivel azután (= Rövid idővel később) a fia kérdezi: „Miért nem esznek a jegesmedvék pingvineket?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Az apja felel: „Nem tudom.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Egy kis idő múlva (= Egy kicsivel később) újra jön a fiú és kérdezi: „Miért csak a jobb és a bal oldalt cseréli fel a tükör, és a felső részt és az alsó részt nem?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. („Miért cseréli fel a tükör csak a jobb és a bal oldalt, de nem a felső és az alsó részt?”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. („A tükör miért cseréli fel csak a jobb és a bal oldalt, de a felső és az alsó részt nem?”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Az apa újra: „nem tudom.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Ekkor az anya közbelép, és így szól a fiához: „Hagyd már végre békén az apádat a kérdéseiddel!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. (Most az anya közbeavatkozik, és azt mondja a fiának: „Hagyd már békén az apádat a kérdéseiddel!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Erre az apa: „Nem, nem, hagyd csak. Kérdezzen tőlem bármit, amit tudni akar, hadd tanuljon tőlem.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. („Nem, nem, hagyd csak. Kérdezzen tőlem mindent, amit tudni akar, hogy tanuljon tőlem valamit.”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Vater liegt auf dem Sofa.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sein Sohn kommt und fragt ihn: „Warum haben Propanflaschen ein Linksgewinde und Sauerstoffflaschen ein Rechtsgewinde?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Vater antwortet: „Das weiß ich nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Kurz danach fragt der Sohn: „Warum essen Eisbären keine Pinguine?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Der Vater antwortet: „Das weiß ich nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Nach einer Weile kommt der Sohn wieder und fragt: „Warum vertauscht der Spiegel nur die rechte und linke Seite, nicht aber oben und unten?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Der Vater wieder: „Das weiß ich nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Jetzt geht die Mutter dazwischen und sagt zu ihrem Sohn: „Lass deinen Vater endlich mit deinen Fragen in Ruhe!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Jetzt geht die Mutter dazwischen und sagt zu ihrem Sohn: „Lass deinen Vater endlich mit deinen Fragen in Ruhe!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Darauf der Vater: „Nein, nein, lass ihn nur. Er soll mich alles fragen, was er wissen will, damit er etwas lernt bei mir.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi hidat épít. - Ein Mann baut eine Brücke.</p>
+<p>2. Az átkelésért mindenkitől egy tallért kér. - Für das Überqueren verlangt er von jedem einen Taler.</p>
+<p>3. Így gazdag lesz, de a lakók a kapzsisága [kabzsisága] miatt gyűlölik. - Er wird dadurch reich, aber von den Bewohnern wegen seiner Gier gehasst.</p>
+<p>4. Amikor meghal, ezt mondja a fiának: Tegyél valamit, hogy többé ne gyűlöljön engem senki, és csak jót mondjanak rólam. - Als er stirbt, sagt er seinem Sohn: Mache etwas, damit man mich nicht mehr hasst und nur noch gut über mich redet.</p>
+<p>5. A fiú sokáig gondolkodik, végül a híd használati díját három tallérra emeli. - Der Sohn denkt lange nach und schließlich erhöht er die Gebühr für die Brückenbenutzung auf drei Taler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi hidat épít.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az átkelésért mindenkitől egy tallért kér.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Így gazdag lesz, de a lakók a kapzsisága [kabzsisága] miatt gyűlölik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Amikor meghal, ezt mondja a fiának: Tegyél valamit, hogy többé ne gyűlöljön engem senki, és csak jót mondjanak rólam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A fiú sokáig gondolkodik, végül a híd használati díját három tallérra emeli.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann baut eine Brücke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Für das Überqueren verlangt er von jedem einen Taler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Er wird dadurch reich, aber von den Bewohnern wegen seiner Gier gehasst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Als er stirbt, sagt er seinem Sohn: Mache etwas, damit man mich nicht mehr hasst und nur noch gut über mich redet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der Sohn denkt lange nach und schließlich erhöht er die Gebühr für die Brückenbenutzung auf drei Taler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy skót azt mondja egy másik skótnak: - Ein Schotte sagt zu einem anderen Schotten:</p>
+<p>2. Nagyon magányosnak érzem magam, mert a feleségem már régebben meghalt. - Ich fühle mich ganz einsam, weil meine Frau schon vor längerer Zeit gestorben ist.</p>
+<p>3. Most egy feleséget keresek. - Ich suche jetzt eine Frau.</p>
+<p>4. A másik skót megkérdezi: Milyen legyen? - Der andere Schotte fragt: Wie soll sie denn sein.</p>
+<p>5. Az első így válaszol: Tulajdonképpen semmilyen különösebb elvárásom (= követelésem) nincs. - Darauf der erste: Ich habe eigentlich keine Anforderungen in dieser Hinsicht.</p>
+<p>6. Szemszín, magasság, külső megjelenés, mindegy. - Augenfarbe, Größe, Aussehen, alles egal.</p>
+<p>7. De asztmás legyen. - Aber sie sollte Asthma haben.</p>
+<p>8. A másik rákérdez: Miért asztmás? - Fragt der andere: Warum denn Asthma?</p>
+<p>9. Az első azt mondja: Mert a feleségem asztmában halt meg, és még nagyon sok gyógyszer megmaradt. - Nun, meine Frau ist an Asthma gestorben und es sind noch so viele Medikamente übrig geblieben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy skót azt mondja egy másik skótnak:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nagyon magányosnak érzem magam, mert a feleségem már régebben meghalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Most egy feleséget keresek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A másik skót megkérdezi: Milyen legyen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Az első így válaszol: Tulajdonképpen semmilyen különösebb elvárásom (= követelésem) nincs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Szemszín, magasság, külső megjelenés, mindegy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. De asztmás legyen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A másik rákérdez: Miért asztmás?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Az első azt mondja: Mert a feleségem asztmában halt meg, és még nagyon sok gyógyszer megmaradt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Schotte sagt zu einem anderen Schotten:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ich fühle mich ganz einsam, weil meine Frau schon vor längerer Zeit gestorben ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ich suche jetzt eine Frau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der andere Schotte fragt: Wie soll sie denn sein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Darauf der erste: Ich habe eigentlich keine Anforderungen in dieser Hinsicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Augenfarbe, Größe, Aussehen, alles egal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Aber sie sollte Asthma haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Fragt der andere: Warum denn Asthma?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Nun, meine Frau ist an Asthma gestorben und es sind noch so viele Medikamente übrig geblieben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Két fösvény skót fogadást köt, ki ad a legkevesebbet a templomban a perselybe. - Zwei geizige Schotten wetten, wer in der Kirche am wenigsten in den Klingelbeutel gibt.</p>
+<p>2. Amikor körbejár a persely, az egyik skót elájul, a másik pedig kiviszi. - Als der Klingelbeutel rumgeht, fällt der erste Schotte in Ohnmacht und der andere trägt ihn raus.</p>
+<p>3. A következő hétvégén újra fogadnak. - Am nächsten Wochenende wetten sie wieder.</p>
+<p>4. Az első skót csak egy gombot dob a perselybe. - Der erste Schotte gibt nur einen Knopf in den Klingelbeutel.</p>
+<p>5. A másik ezt mondja: „Ez kettőnkért volt.” - Der zweite sagt: „Das war für uns beide.“</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Két spórolós skót versenyez, ki tud kevesebbet adományozni a templomban. - Zwei sparsame Schotten wetteifern darum, wer weniger in der Kirche spenden kann.</p>
+<p>2. A perselyezéskor az egyik összeesik, a másik kicipeli. - Beim Herumgehen des Klingelbeutels fällt der eine in Ohnmacht, der andere trägt ihn hinaus.</p>
+<p>3. Egy héttel később ismét fogadnak. - Eine Woche später wetten sie wieder.</p>
+<p>4. Az egyik csak egy gombot dob be. - Einer wirft nur einen Knopf hinein.</p>
+<p>5. A társa megjegyzi: „Ez kettőnkre szólt.” - Sein kamerad bemerkt: „Das war für uns beide.“</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Két hírhedten fösvény skót fogadást köt a perselynél. - Zwei berüchtigt geizige Schotten wetten am Klingelbeutel.</p>
+<p>2. Az első elájul, a másik kiviszi a templomból. - Der erste fällt in Ohnmacht, der andere trägt ihn aus der Kirche.</p>
+<p>3. A következő vasárnap megismétlik. - Am nächsten Sonntag wiederholen sie es.</p>
+<p>4. Egyetlen gomb kerül a perselybe. - Ein einzelner Knopf landet im Klingelbeutel.</p>
+<p>5. „Kettőnk nevében” – mondja a másik. - „Für uns beide“, sagt der andere.</p>
+<p class="pc-note"><strong>Version 4</strong></p>
+<p>1. Két legendásan fukar skót azon verseng a vasárnapi mise alatt, hogy melyiküknek sikerül kevesebb adományt felajánlania. - Zwei legendär knauserige Schotten wetteifern während der Sonntagsmesse darum, wem von ihnen es gelingt, die geringere Spende zu erbringen.</p>
+<p>2. Amikor a sekrestyés az adománygyűjtő kosárral a sorukhoz ér, az egyikük hirtelen eszméletét veszti, a társa pedig rögtön a karjaiba veszi és kicipeli az épületből. - Als der Kirchendiener mit dem Kollektenkorb an ihre Reihe tritt, verliert einer von ihnen plötzlich das Bewusstsein, woraufhin ihn sein Gefährte sofort auf die Arme nimmt und aus dem Gebäude schleppt.</p>
+<p>3. A következő alkalommal ismét próbára teszik a zsugoriságukat a szertartáson. - Beim nächsten Mal stellen sie ihre Habgier während des Gottesdienstes erneut auf die Probe.</p>
+<p>4. Az egyik a kettő közül nagy nehezen előbányászik a zsebéből egyetlen inggombot  és azt ejti bele a perselybe. - Der erste der beiden kramt sehr mühsam einen einzelnen Hemdenknopf aus seiner Tasche und lässt ihn in den Klingelbeutel fallen.</p>
+<p>5. Az másik a kettő közül ekkor huncut mosollyal csak ennyit súg: „Ezt mindkettőnk nevében adta.” - Sein Freund flüstert daraufhin mit einem verschmitzten Lächeln lediglich: „Das war die Gabe für uns beide zusammen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Két fösvény skót fogadást köt, ki ad a legkevesebbet a templomban a perselybe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Amikor körbejár a persely, az egyik skót elájul, a másik pedig kiviszi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A következő hétvégén újra fogadnak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az első skót csak egy gombot dob a perselybe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A másik ezt mondja: „Ez kettőnkért volt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Két spórolós skót versenyez, ki tud kevesebbet adományozni a templomban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A perselyezéskor az egyik összeesik, a másik kicipeli.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egy héttel később ismét fogadnak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az egyik csak egy gombot dob be.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A társa megjegyzi: „Ez kettőnkre szólt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Két hírhedten fösvény skót fogadást köt a perselynél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az első elájul, a másik kiviszi a templomból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A következő vasárnap megismétlik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Egyetlen gomb kerül a perselybe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Kettőnk nevében” – mondja a másik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 4</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Két legendásan fukar skót azon verseng a vasárnapi mise alatt, hogy melyiküknek sikerül kevesebb adományt felajánlania.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Amikor a sekrestyés az adománygyűjtő kosárral a sorukhoz ér, az egyikük hirtelen eszméletét veszti, a társa pedig rögtön a karjaiba veszi és kicipeli az épületből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A következő alkalommal ismét próbára teszik a zsugoriságukat a szertartáson.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az egyik a kettő közül nagy nehezen előbányászik a zsebéből egyetlen inggombot  és azt ejti bele a perselybe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Az másik a kettő közül ekkor huncut mosollyal csak ennyit súg: „Ezt mindkettőnk nevében adta.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei geizige Schotten wetten, wer in der Kirche am wenigsten in den Klingelbeutel gibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Als der Klingelbeutel rumgeht, fällt der erste Schotte in Ohnmacht und der andere trägt ihn raus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am nächsten Wochenende wetten sie wieder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der erste Schotte gibt nur einen Knopf in den Klingelbeutel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der zweite sagt: „Das war für uns beide.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei sparsame Schotten wetteifern darum, wer weniger in der Kirche spenden kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Beim Herumgehen des Klingelbeutels fällt der eine in Ohnmacht, der andere trägt ihn hinaus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Eine Woche später wetten sie wieder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Einer wirft nur einen Knopf hinein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Sein kamerad bemerkt: „Das war für uns beide.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei berüchtigt geizige Schotten wetten am Klingelbeutel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der erste fällt in Ohnmacht, der andere trägt ihn aus der Kirche.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am nächsten Sonntag wiederholen sie es.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Ein einzelner Knopf landet im Klingelbeutel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Für uns beide“, sagt der andere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 4</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei legendär knauserige Schotten wetteifern während der Sonntagsmesse darum, wem von ihnen es gelingt, die geringere Spende zu erbringen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Als der Kirchendiener mit dem Kollektenkorb an ihre Reihe tritt, verliert einer von ihnen plötzlich das Bewusstsein, woraufhin ihn sein Gefährte sofort auf die Arme nimmt und aus dem Gebäude schleppt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Beim nächsten Mal stellen sie ihre Habgier während des Gottesdienstes erneut auf die Probe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der erste der beiden kramt sehr mühsam einen einzelnen Hemdenknopf aus seiner Tasche und lässt ihn in den Klingelbeutel fallen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Sein Freund flüstert daraufhin mit einem verschmitzten Lächeln lediglich: „Das war die Gabe für uns beide zusammen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az idő. - Die Uhrzeit.</p>
+<p>2. A hegyekben, egy alpesi legelőn. - Auf der Alm im Gebirge.</p>
+<p>3. A gazda egy tehenet fej. - Der Bauer melkt eine Kuh.</p>
+<p>4. Egy kiránduló arra megy, és megkérdezi: „Adjon Isten! Meg tudná mondani, mennyi az idő?” - Ein Wanderer kommt vorbei und fragt: „Grüß Gott! Können Sie mir sagen, wie spät es ist?“</p>
+<p>5. A gazda kissé megemeli a tehén tőgyét, jobbra-balra tolja, és azt mondja: „Kilenc óra lesz tíz perc múlva.” - Der Bauer hebt das Euter der Kuh etwas hoch, schiebt es nach links und nach rechts und sagt: „10 vor 9“.</p>
+<p>6. Délután a kiránduló ismét arra jön, és újra megkérdezi a gazdát az időről. - Am Nachmittag kommt der Wanderer wieder vorbei und fragt den Bauern nach der Zeit.</p>
+<p>7. A gazda megint megemeli a tőgyet, jobbra-balra tolja, és azt mondja: „Négy óra múlt húsz perccel. (= Húsz perccel múlt négy óra = Négy óra húsz perc)” - Der hebt wieder das Euter hoch, schiebt es nach links und nach rechts und sagt: „20 nach 4“.</p>
+<p>8. A kiránduló csodálkozva kérdezi: „Ezt hogy csinálja?” - Der Wanderer fragt erstaunt: „Wie machen Sie das?“</p>
+<p>9. A gazda így felel: „Ez egészen egyszerű. Ha oldalra tolom a tőgyet, akkor lent a faluban látom a templomtorony óráját.” - Der Bauer erwidert: „Das ist ganz einfach. Wenn ich das Euter zur Seite schiebe, dann kann ich die Kirchturmuhr unten im Dorf sehen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az idő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A hegyekben, egy alpesi legelőn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A gazda egy tehenet fej.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Egy kiránduló arra megy, és megkérdezi: „Adjon Isten! Meg tudná mondani, mennyi az idő?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A gazda kissé megemeli a tehén tőgyét, jobbra-balra tolja, és azt mondja: „Kilenc óra lesz tíz perc múlva.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Délután a kiránduló ismét arra jön, és újra megkérdezi a gazdát az időről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A gazda megint megemeli a tőgyet, jobbra-balra tolja, és azt mondja: „Négy óra múlt húsz perccel. (= Húsz perccel múlt négy óra = Négy óra húsz perc)”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A kiránduló csodálkozva kérdezi: „Ezt hogy csinálja?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. A gazda így felel: „Ez egészen egyszerű. Ha oldalra tolom a tőgyet, akkor lent a faluban látom a templomtorony óráját.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Uhrzeit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Auf der Alm im Gebirge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Bauer melkt eine Kuh.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Ein Wanderer kommt vorbei und fragt: „Grüß Gott! Können Sie mir sagen, wie spät es ist?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der Bauer hebt das Euter der Kuh etwas hoch, schiebt es nach links und nach rechts und sagt: „10 vor 9“.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Am Nachmittag kommt der Wanderer wieder vorbei und fragt den Bauern nach der Zeit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Der hebt wieder das Euter hoch, schiebt es nach links und nach rechts und sagt: „20 nach 4“.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Der Wanderer fragt erstaunt: „Wie machen Sie das?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Der Bauer erwidert: „Das ist ganz einfach. Wenn ich das Euter zur Seite schiebe, dann kann ich die Kirchturmuhr unten im Dorf sehen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A tanú. - Die Zeugin.</p>
+<p>2. Egy kis amerikai város tárgyalótermében. - Im Gerichtssaal in einer kleinen amerikanischen Stadt.</p>
+<p>3. Az ügyész beidézi az első tanúját – egy idős asszonyt. - Der Staatsanwalt ruft seine erste Zeugin auf – eine alte Frau.</p>
+<p>4. Megkezdi a kihallgatást: „Mr. Jones, ismer engem?” - Er beginnt seine Befragung: „Mr. Jones, kennen Sie mich?”</p>
+<p>5. „Igen, természetesen ismerem, Mister Williams. Már kisgyermekkora óta ismerem. És őszintén szólva, nagyon csalódtam önben.” - „Ja, natürlich kenne ich Sie, Mister Williams. Ich kannte Sie schon als kleines Kind. Und ehrlich gesagt, sie haben mich total enttäuscht.”</p>
+<p>6. „Hazudik, megcsalja a feleségét, manipulálja az embereket, és a hátuk mögött rosszakat mond róluk.” - „Sie lügen, Sie betrügen Ihre Frau, Sie manipulieren die Leute und reden hinter ihrem Rücken Schlechtes über sie.”</p>
+<p>7. „Fontos embernek tartja magát.” - „Sie halten sich für einen wichtigen Menschen.”</p>
+<p>8. „De a valóságban csak egy kis, jelentéktelen ember, és túl buta ahhoz, hogy ezt felfogja.” - „Aber in Wirklichkeit sind Sie nur ein kleiner, unbedeutender Mensch und zu dumm, um das zu begreifen.”</p>
+<p>9. Az ügyész megdöbbent. - Der Staatsanwalt war schockiert.</p>
+<p>10. Nem tudta, mitévő legyen. - Er wusste nicht, was er jetzt machen sollte.</p>
+<p>11. Ezért a terem másik oldalán ülő védőre mutat, és megkérdezi: „Mrs. Jones, ismeri a védőügyvédet?” - Also zeigt er auf den Verteidiger, der auf der anderen Seite des Saales saß, und fragt: „Mrs. Jones, kennen Sie den Verteidiger?”</p>
+<p>12. „Igen, természetesen ismerem. Mister Bradlyt is gyerekkora óta ismerem.” - „Ja, natürlich kenne ich ihn. Ich kenne Mister Bradly auch schon seit seiner Kindheit.”</p>
+<p>13. „Lusta, türelmetlen, és alkoholproblémái vannak.” - „Er ist faul, ungeduldig und hat Alkoholprobleme.”</p>
+<p>14. „Senkivel sem tud normális kapcsolatot kialakítani.” - „Er kann mit niemandem eine normale Beziehung aufbauen.”</p>
+<p>15. „Az ügyvédi irodája pedig az egyik legrosszabb az országban.” - „Und seine Anwaltskanzlei ist eine der schlechtesten im Land.”</p>
+<p>16. „Arról már ne is beszéljünk, hogy három másik nővel csalja a feleségét.” - „Wir wollen gar nicht davon reden, dass er seine Frau mit drei anderen Frauen betrügt.”</p>
+<p>17. „Egyébként az egyikük éppen az ön felesége.” - „Übrigens ist gerade eine davon Ihre Frau.”</p>
+<p>18. „Igen, ismerem őt.” - „Ja, ich kenne ihn.”</p>
+<p>19. A védőügyvéd dermedten állt a döbbenettől. - Der Verteidiger stand starr vor Schreck da.</p>
+<p>20. A bíró magához hívta az ügyészt és a védőt az asztalához. - Der Richter rief den Staatsanwalt und den Verteidiger an seinen Tisch.</p>
+<p>21. És halkan odasúgta nekik: „Ha bármelyikőtök, ti idióták, megkérdezi tőle, hogy ismer-e engem, mindkettőtöket a villamosszékbe küldöm.” - Und flüsterte zu ihnen: „Wenn einer von euch beiden Idioten sie fragt, ob sie mich kennt, dann schicke ich euch beide auf den elektrischen Stuhl.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A tanú.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy kis amerikai város tárgyalótermében.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az ügyész beidézi az első tanúját – egy idős asszonyt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Megkezdi a kihallgatást: „Mr. Jones, ismer engem?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Igen, természetesen ismerem, Mister Williams. Már kisgyermekkora óta ismerem. És őszintén szólva, nagyon csalódtam önben.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Hazudik, megcsalja a feleségét, manipulálja az embereket, és a hátuk mögött rosszakat mond róluk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Fontos embernek tartja magát.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „De a valóságban csak egy kis, jelentéktelen ember, és túl buta ahhoz, hogy ezt felfogja.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Az ügyész megdöbbent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Nem tudta, mitévő legyen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Ezért a terem másik oldalán ülő védőre mutat, és megkérdezi: „Mrs. Jones, ismeri a védőügyvédet?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. „Igen, természetesen ismerem. Mister Bradlyt is gyerekkora óta ismerem.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. „Lusta, türelmetlen, és alkoholproblémái vannak.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. „Senkivel sem tud normális kapcsolatot kialakítani.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. „Az ügyvédi irodája pedig az egyik legrosszabb az országban.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. „Arról már ne is beszéljünk, hogy három másik nővel csalja a feleségét.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. „Egyébként az egyikük éppen az ön felesége.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. „Igen, ismerem őt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. A védőügyvéd dermedten állt a döbbenettől.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. A bíró magához hívta az ügyészt és a védőt az asztalához.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. És halkan odasúgta nekik: „Ha bármelyikőtök, ti idióták, megkérdezi tőle, hogy ismer-e engem, mindkettőtöket a villamosszékbe küldöm.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Zeugin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Im Gerichtssaal in einer kleinen amerikanischen Stadt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Staatsanwalt ruft seine erste Zeugin auf – eine alte Frau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Er beginnt seine Befragung: „Mr. Jones, kennen Sie mich?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Ja, natürlich kenne ich Sie, Mister Williams. Ich kannte Sie schon als kleines Kind. Und ehrlich gesagt, sie haben mich total enttäuscht.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Sie lügen, Sie betrügen Ihre Frau, Sie manipulieren die Leute und reden hinter ihrem Rücken Schlechtes über sie.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Sie halten sich für einen wichtigen Menschen.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Aber in Wirklichkeit sind Sie nur ein kleiner, unbedeutender Mensch und zu dumm, um das zu begreifen.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Der Staatsanwalt war schockiert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Er wusste nicht, was er jetzt machen sollte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Also zeigt er auf den Verteidiger, der auf der anderen Seite des Saales saß, und fragt: „Mrs. Jones, kennen Sie den Verteidiger?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. „Ja, natürlich kenne ich ihn. Ich kenne Mister Bradly auch schon seit seiner Kindheit.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. „Er ist faul, ungeduldig und hat Alkoholprobleme.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. „Er kann mit niemandem eine normale Beziehung aufbauen.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. „Und seine Anwaltskanzlei ist eine der schlechtesten im Land.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. „Wir wollen gar nicht davon reden, dass er seine Frau mit drei anderen Frauen betrügt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. „Übrigens ist gerade eine davon Ihre Frau.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. „Ja, ich kenne ihn.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. Der Verteidiger stand starr vor Schreck da.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. Der Richter rief den Staatsanwalt und den Verteidiger an seinen Tisch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. Und flüsterte zu ihnen: „Wenn einer von euch beiden Idioten sie fragt, ob sie mich kennt, dann schicke ich euch beide auf den elektrischen Stuhl.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/43-witze/">« Zurück zu Längere Witze 4</a> &nbsp;|&nbsp; <span>Längere Witze 5</span> &nbsp;|&nbsp; <a href="/45-witze/">Weiter zu Längere Witze 6 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

@@ -1,0 +1,1141 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/44-witze/">« Zurück zu Längere Witze 5</a> &nbsp;|&nbsp; <span>Längere Witze 6</span> &nbsp;|&nbsp; <a href="/46-witze/">Weiter zu Längere Witze 7 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+
+<!-- wp:paragraph -->
+<p><strong>Längere Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern dahinter. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>hosszabb viccek - längere Witze</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A gyilkosság. - Der Mord.</p>
+<p>2. A bíróságon. - Im Gericht.</p>
+<p>3. A bíró: „Vádlott, azzal vádolják, hogy meggyilkolta a feleségét.” - Richter: „Angeklagter, Sie werden beschuldigt, dass Sie Ihre Frau ermordet haben.“</p>
+<p>4. A vádlott: „Nem, bíró úr, ez baleset volt.” - Angeklagter: „Nein, Herr Richter, das war ein Unfall.“</p>
+<p>5. A bíró: „Mesélje el, mi történt!” - Richter: „Erzählen Sie, was ist passiert!“</p>
+<p>6. A vádlott: „Krumplit akartam hámozni, és egy kés volt a kezemben.” - Angeklagter: „Ich wollte Kartoffeln schälen und hatte ein Messer in der Hand.“</p>
+<p>7. „Amikor a feleségem bejött a konyhába, odamentem hozzá, és közben megcsúsztam.” - „Und als meine Frau in die Küche kam, bin ich zu ihr gegangen und dabei ausgerutscht.“</p>
+<p>8. „És közben a késsel a hasába szúrtam.” - „Und dabei hab ich ihr mit dem Messer in den Bauch gestochen.“</p>
+<p>9. „Ez baleset volt.” - „Es war ein Unfall.“</p>
+<p>10. A bíró: „Úgy, úgy, megcsúszott? És huszonhétszer?” - Richter: „So, so, Sie sind ausgerutscht? Und das 27 mal?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A gyilkosság.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A bíróságon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A bíró: „Vádlott, azzal vádolják, hogy meggyilkolta a feleségét.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A vádlott: „Nem, bíró úr, ez baleset volt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A bíró: „Mesélje el, mi történt!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A vádlott: „Krumplit akartam hámozni, és egy kés volt a kezemben.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Amikor a feleségem bejött a konyhába, odamentem hozzá, és közben megcsúsztam.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „És közben a késsel a hasába szúrtam.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. „Ez baleset volt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. A bíró: „Úgy, úgy, megcsúszott? És huszonhétszer?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Mord.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Im Gericht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Richter: „Angeklagter, Sie werden beschuldigt, dass Sie Ihre Frau ermordet haben.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Angeklagter: „Nein, Herr Richter, das war ein Unfall.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Richter: „Erzählen Sie, was ist passiert!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Angeklagter: „Ich wollte Kartoffeln schälen und hatte ein Messer in der Hand.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. „Und als meine Frau in die Küche kam, bin ich zu ihr gegangen und dabei ausgerutscht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. „Und dabei hab ich ihr mit dem Messer in den Bauch gestochen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. „Es war ein Unfall.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Richter: „So, so, Sie sind ausgerutscht? Und das 27 mal?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A férfiak megkapták a fizetésüket, és kijönnek a gyárból. - Die Männer haben ihr Gehalt bekommen und kommen aus der Fabrik.</p>
+<p>2. „Dobjunk fel egy érmét, hogy mire költjük a pénzünket!” - „Lasst uns eine Münze werfen, wie wir unser Geld ausgeben!“</p>
+<p>3. „Hogyhogy? Fej vagy írás?” - „Wie das? Kopf oder Zahl?“</p>
+<p>4. „Úgy csináljuk: ha fej, akkor azonnal veszünk egy üveg pálinkát (= páleszt), ha írás, akkor előbb még eszünk valamit.” - „Wir machen es so: Bei Kopf kaufen wir gleich eine Flasche Schnaps, bei Zahl essen wir vorher noch etwas.“</p>
+<p>5. „Ha az érme az szélén áll meg, akkor csak egy kis sört iszunk.” - „Wenn die Münze auf dem Rand stehen bleibt, dann trinken wir nur ein kleines Bierchen.“</p>
+<p>6. „És ha az érme a levegőben marad, akkor a teljes fizetést odaadjuk a feleségeinknek.” - „Und wenn die Münze in der Luft hängen bleibt, dann geben wir unseren Frauen den ganzen Lohn.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A férfiak megkapták a fizetésüket, és kijönnek a gyárból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Dobjunk fel egy érmét, hogy mire költjük a pénzünket!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Hogyhogy? Fej vagy írás?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Úgy csináljuk: ha fej, akkor azonnal veszünk egy üveg pálinkát (= páleszt), ha írás, akkor előbb még eszünk valamit.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Ha az érme az szélén áll meg, akkor csak egy kis sört iszunk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „És ha az érme a levegőben marad, akkor a teljes fizetést odaadjuk a feleségeinknek.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Männer haben ihr Gehalt bekommen und kommen aus der Fabrik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Lasst uns eine Münze werfen, wie wir unser Geld ausgeben!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Wie das? Kopf oder Zahl?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Wir machen es so: Bei Kopf kaufen wir gleich eine Flasche Schnaps, bei Zahl essen wir vorher noch etwas.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Wenn die Münze auf dem Rand stehen bleibt, dann trinken wir nur ein kleines Bierchen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Und wenn die Münze in der Luft hängen bleibt, dann geben wir unseren Frauen den ganzen Lohn.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Három haver találkozik a városban, úgy körülbelül (= kb.) ötvenesek. - Treffen sich drei Kumpels in der Stadt, so um die 50.</p>
+<p>2. Az egyik azt mondja a másiknak: De hiszen mi egy osztályba jártunk, nem kellene újra osztálytalálkozót szervezni? - Der eine sagt zum anderen: Wir waren doch zusammen in einer Klasse, sollten wir nicht mal wieder ein Klassentreffen machen.</p>
+<p>3. A másik azt feleli: De igen, akkor csináljuk az osztálytalálkozót a városházi borpincében, ott van a legcsinosabb pincérnő. - Der andere sagt: Ja, dann lass uns das doch Klassentreffen im Ratskeller machen, dort ist die schärfste Bedienung.</p>
+<p>4. Tíz évvel később újra találkoznak, már hatvanévesen. - Zehn Jahre später treffen sie sich wieder, mit sechzig.</p>
+<p>5. Az egyik megkérdezi: Szervezzünk újra egy osztálytalálkozót? - Der eine sagt: Organisieren wir wieder ein Klassentreffen?</p>
+<p>6. A válasz így szól: ó igen, csináljunk osztálytalálkozót, menjünk a városházi borpincébe, ott a legjobb az étel. - Der andere sagt: Oh ja, wir machen ein Klassentreffen, wir gehen in den Ratskeller, da gibt es das beste Essen.</p>
+<p>7. Újabb tíz év telik el, és megint találkoznak. - Es vergehen wieder 10 Jahre und sie treffen sich wider.</p>
+<p>8. Az egyik megkérdezi: hova menjünk az osztálytalálkozóra? - Der eine fragt: Wo gehen wir denn hin zum Klassentreffen.</p>
+<p>9. A másik azt mondja: menjünk a városházi borpincébe, oda akadálymentesen be lehet menni. - Der andere sagt: Lass uns in den Ratskeller gehen, dort kann man barrierefrei hineingehen.“</p>
+<p>10. Nyolcvanévesen, megint tíz év múlva, újra összefutnak. - Mit achtzig treffen sie sich wieder, also wieder zehn Jahre später.</p>
+<p>11. Megint felmerül a kérdés: Mit csináljunk? Legyen osztálytalálkozó? És hova menjünk? - Und wieder kommt die Frage auf: Was machen wir? Machen wir ein Klassentreffen? Und wo gehen wir hin?</p>
+<p>12. Erre az egyik ezt mondja: menjünk a városházi borpincébe, ott még sosem voltunk. - Da sagt einer: Lass uns in den Ratskeller gehen, da waren wir noch nie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Három haver találkozik a városban, úgy körülbelül (= kb.) ötvenesek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az egyik azt mondja a másiknak: De hiszen mi egy osztályba jártunk, nem kellene újra osztálytalálkozót szervezni?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A másik azt feleli: De igen, akkor csináljuk az osztálytalálkozót a városházi borpincében, ott van a legcsinosabb pincérnő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Tíz évvel később újra találkoznak, már hatvanévesen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Az egyik megkérdezi: Szervezzünk újra egy osztálytalálkozót?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A válasz így szól: ó igen, csináljunk osztálytalálkozót, menjünk a városházi borpincébe, ott a legjobb az étel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Újabb tíz év telik el, és megint találkoznak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Az egyik megkérdezi: hova menjünk az osztálytalálkozóra?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. A másik azt mondja: menjünk a városházi borpincébe, oda akadálymentesen be lehet menni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Nyolcvanévesen, megint tíz év múlva, újra összefutnak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Megint felmerül a kérdés: Mit csináljunk? Legyen osztálytalálkozó? És hova menjünk?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Erre az egyik ezt mondja: menjünk a városházi borpincébe, ott még sosem voltunk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Treffen sich drei Kumpels in der Stadt, so um die 50.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der eine sagt zum anderen: Wir waren doch zusammen in einer Klasse, sollten wir nicht mal wieder ein Klassentreffen machen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der andere sagt: Ja, dann lass uns das doch Klassentreffen im Ratskeller machen, dort ist die schärfste Bedienung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Zehn Jahre später treffen sie sich wieder, mit sechzig.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der eine sagt: Organisieren wir wieder ein Klassentreffen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Der andere sagt: Oh ja, wir machen ein Klassentreffen, wir gehen in den Ratskeller, da gibt es das beste Essen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Es vergehen wieder 10 Jahre und sie treffen sich wider.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Der eine fragt: Wo gehen wir denn hin zum Klassentreffen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Der andere sagt: Lass uns in den Ratskeller gehen, dort kann man barrierefrei hineingehen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Mit achtzig treffen sie sich wieder, also wieder zehn Jahre später.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Und wieder kommt die Frage auf: Was machen wir? Machen wir ein Klassentreffen? Und wo gehen wir hin?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Da sagt einer: Lass uns in den Ratskeller gehen, da waren wir noch nie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Nem nyílik az ejtőernyő. - Der Fallschirm geht nicht auf.</p>
+<p>2. Egy pilóta egy sportrepülőgépben ül, amikor hirtelen szédítő magasságban leáll a motor, és az egyetlen menekülés az ugrás. - Ein Pilot sitzt in seinem Sportflugzeug und plötzlich hat er in schwindelerregender Höhe einen Triebwerksausfall, und die einzige Rettung ist abzuspringen.</p>
+<p>3. Kinyitja az ajtót, kiugrik, és a hátán van az ejtőernyő. - Er öffnet die Tür, springt raus und hat seinen Fallschirm auf dem Rücken.</p>
+<p>4. Szabadesés közben meghúzza a kioldózsinórt. - Im freien Fall zieht er an der Reißleine.</p>
+<p>5. Azt gondolja: „A fenébe, nem nyílik az ernyő.” - Er denkt: „Ach du Scheiße, der Schirm geht nicht auf.“</p>
+<p>6. „Szerencse, hogy van még egy tartalék ejtőernyőm” – gondolja. - „Zum Glück, habe ich noch einen Reservefallschirm habe“, denkt er.</p>
+<p>7. Meghúzza a második zsinórt, de a tartalékernyő sem nyílik ki. - Er zieht an der zweiten Leine, aber auch der Notfallschirm geht nicht auf.</p>
+<p>8. Hirtelen alulról repül vele szembe valaki. - Plötzlich kommt ihm von unten einer entgegen geflogen.</p>
+<p>9. Megkérdezi tőle: „Maguk ejtőernyőket javítanak?” - Da fragt er ihn: „Sie, reparieren Sie Fallschirme?“</p>
+<p>10. Az így válaszol: „Nem, gázvezetékeket.” - Und der sagt: „Nein, Gasleitungen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Nem nyílik az ejtőernyő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy pilóta egy sportrepülőgépben ül, amikor hirtelen szédítő magasságban leáll a motor, és az egyetlen menekülés az ugrás.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Kinyitja az ajtót, kiugrik, és a hátán van az ejtőernyő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Szabadesés közben meghúzza a kioldózsinórt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Azt gondolja: „A fenébe, nem nyílik az ernyő.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Szerencse, hogy van még egy tartalék ejtőernyőm” – gondolja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Meghúzza a második zsinórt, de a tartalékernyő sem nyílik ki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Hirtelen alulról repül vele szembe valaki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Megkérdezi tőle: „Maguk ejtőernyőket javítanak?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Az így válaszol: „Nem, gázvezetékeket.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Fallschirm geht nicht auf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ein Pilot sitzt in seinem Sportflugzeug und plötzlich hat er in schwindelerregender Höhe einen Triebwerksausfall, und die einzige Rettung ist abzuspringen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Er öffnet die Tür, springt raus und hat seinen Fallschirm auf dem Rücken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Im freien Fall zieht er an der Reißleine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Er denkt: „Ach du Scheiße, der Schirm geht nicht auf.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Zum Glück, habe ich noch einen Reservefallschirm habe“, denkt er.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Er zieht an der zweiten Leine, aber auch der Notfallschirm geht nicht auf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Plötzlich kommt ihm von unten einer entgegen geflogen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Da fragt er ihn: „Sie, reparieren Sie Fallschirme?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Und der sagt: „Nein, Gasleitungen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi minden este imádkozik: „Édes Istenem! Tedd meg, hogy a kövekező héten nyerjek a lottón!“ - Ein Mann betet jeden Abend: „Lieber Gott! Mach, dass ich nächste Woche im Lotto gewinne!“</p>
+<p>2. Tíz éve lottónyeremény nélkül tele van a hócipőm. - Nach 10 Jahren ohne Lottogewinn hat er die Schnauze voll.</p>
+<p>3. (Tíz évnyi lottónyeremény nélkül elege lett.)</p>
+<p>4. (Tíz év lottónyeremény nélkül elege lett.)</p>
+<p>5. (Tíz évnyi lottónyeremény nélkül elege lett az egészből.)</p>
+<p>6. (Tíz év sikertelen lottózás után betelt nála a pohár.)</p>
+<p>7. (Miután tíz évig nem nyert a lottón, végleg megunta.) - („Nachdem er zehn Jahre lang nicht im Lotto gewonnen hatte, hatte er es endgültig satt.“)</p>
+<p>8. A minden esti imádkozása után a lottónyeremény kéréséért feltört belőle: „Milyen Isten vagy te, ha még ezt sem tudod megtenni (= megcsinálni)? “ - Nach seinem abendlichen Gebet mit der Bitte um einen Lottogewinn bricht es aus ihm heraus: „Was bist du für ein Gott, wenn du nicht mal das kannst?“</p>
+<p>9. (Miután minden este imádkozott, hogy nyerjen a lottón, egyszer csak felkiáltott: „Miféle isten vagy te, ha még ezt sem tudod megtenni?”)</p>
+<p>10. (Miután minden este lottónyereményért imádkozott, kitört belőle: „Miféle isten vagy te, ha erre sem vagy képes?“)</p>
+<p>11. (Az esti imája után, amelyben lottónyereményt kért, hirtelen kifakadt: „Milyen isten az, aki még ezt sem tudja megtenni?“)</p>
+<p>12. (Miután minden este elmondta az imáját egy lottónyeremény reményében, végül kibukott belőle: „Micsoda isten vagy te, ha még erre sem futja?“) - (Nachdem er jeden Abend sein Gebet gesprochen hatte, in der Hoffnung auf einen Lottogewinn, platzte es schließlich aus ihm heraus: „Was für ein Gott bist du, wenn du nicht einmal dafür sorgen kannst?“)</p>
+<p>13. („Milyen Isten vagy te, hogy még ennyit sem tudsz.“) - („Was für ein Gott bist du, dass du nicht einmal das kannst?“)</p>
+<p>14. („Milyen Isten vagy te, hogy még ennyire sem vagy képes.“) - („Was für ein Gott bist du, dass du nicht einmal das kannst?“)</p>
+<p>15. Felülről hangos, dühös hang hallatszik: „Akkor végre vegyél egy lottószelvényt!” - Da erschallt von oben eine laute, verärgerte Stimme: „Dann kauf Dir doch endlich mal einen Lottoschein!“</p>
+<p>16. (Erre fentről egy hangos, ingerült hang harsant fel: „Akkor vegyél már végre egy lottószelvényt!“)</p>
+<p>17. (Ekkor odafentről egy dühös, hangos hang szólalt meg: „Hát vegyél már végre egy lottószelvényt!“)</p>
+<p>18. (Abban a pillanatban felülről egy erőteljes, bosszús hang csendült fel: „Végre megvehetnél egy lottószelvényt!“) - (In diesem Moment ertönte von oben eine kräftige, verärgerte Stimme: „Du könntest endlich mal einen Lottoschein kaufen!“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi minden este imádkozik: „Édes Istenem! Tedd meg, hogy a kövekező héten nyerjek a lottón!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Tíz éve lottónyeremény nélkül tele van a hócipőm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (Tíz évnyi lottónyeremény nélkül elege lett.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. (Tíz év lottónyeremény nélkül elege lett.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. (Tíz évnyi lottónyeremény nélkül elege lett az egészből.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. (Tíz év sikertelen lottózás után betelt nála a pohár.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. (Miután tíz évig nem nyert a lottón, végleg megunta.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A minden esti imádkozása után a lottónyeremény kéréséért feltört belőle: „Milyen Isten vagy te, ha még ezt sem tudod megtenni (= megcsinálni)? “</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. (Miután minden este imádkozott, hogy nyerjen a lottón, egyszer csak felkiáltott: „Miféle isten vagy te, ha még ezt sem tudod megtenni?”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. (Miután minden este lottónyereményért imádkozott, kitört belőle: „Miféle isten vagy te, ha erre sem vagy képes?“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. (Az esti imája után, amelyben lottónyereményt kért, hirtelen kifakadt: „Milyen isten az, aki még ezt sem tudja megtenni?“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. (Miután minden este elmondta az imáját egy lottónyeremény reményében, végül kibukott belőle: „Micsoda isten vagy te, ha még erre sem futja?“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. („Milyen Isten vagy te, hogy még ennyit sem tudsz.“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. („Milyen Isten vagy te, hogy még ennyire sem vagy képes.“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. Felülről hangos, dühös hang hallatszik: „Akkor végre vegyél egy lottószelvényt!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. (Erre fentről egy hangos, ingerült hang harsant fel: „Akkor vegyél már végre egy lottószelvényt!“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. (Ekkor odafentről egy dühös, hangos hang szólalt meg: „Hát vegyél már végre egy lottószelvényt!“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. (Abban a pillanatban felülről egy erőteljes, bosszús hang csendült fel: „Végre megvehetnél egy lottószelvényt!“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann betet jeden Abend: „Lieber Gott! Mach, dass ich nächste Woche im Lotto gewinne!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nach 10 Jahren ohne Lottogewinn hat er die Schnauze voll.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. („Nachdem er zehn Jahre lang nicht im Lotto gewonnen hatte, hatte er es endgültig satt.“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Nach seinem abendlichen Gebet mit der Bitte um einen Lottogewinn bricht es aus ihm heraus: „Was bist du für ein Gott, wenn du nicht mal das kannst?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. (Nachdem er jeden Abend sein Gebet gesprochen hatte, in der Hoffnung auf einen Lottogewinn, platzte es schließlich aus ihm heraus: „Was für ein Gott bist du, wenn du nicht einmal dafür sorgen kannst?“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. („Was für ein Gott bist du, dass du nicht einmal das kannst?“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. („Was für ein Gott bist du, dass du nicht einmal das kannst?“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. Da erschallt von oben eine laute, verärgerte Stimme: „Dann kauf Dir doch endlich mal einen Lottoschein!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. (In diesem Moment ertönte von oben eine kräftige, verärgerte Stimme: „Du könntest endlich mal einen Lottoschein kaufen!“)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A biróságon - Im Gericht</p>
+<p>2. „Vádlott, Ön házas?“ - „Angeklagter, sind Sie verheiratet?“</p>
+<p>3. „Igen, bíró úr.“ - „Ja, Herr Richter.“</p>
+<p>4. „Kivel?“ - „Mit wem?“</p>
+<p>5. „Egy nővel, tisztelt bíróság.“ - „Mit einer Frau, Euer Ehren.“</p>
+<p>6. „Ne okoskodjon! [okoskoggyon]. De ez mindenkinek világos, hogy egy nővel házas.“ - „Spielen Sie hier nicht den Klugen! Das ist doch allen klar, dass man mit einer Frau verheiratet ist.“</p>
+<p>7. (Ne játszd itt az okosat! Mindenkinek világos, hogy egy nővel vagy házas.)</p>
+<p>8. (Ne játssza itt az okosat! Mindenki számára világos, hogy az ember egy nővel van házas.)</p>
+<p>9. (Ne tegye magát okosabbnak a kelleténél! Hiszen mindenki tudja, hogy valaki egy nővel házasodik.)</p>
+<p>10. (Ne okoskodjon itt! Teljesen nyilvánvaló mindenki számára, hogy az ember nővel köt házasságot.)</p>
+<p>11. „Ne mondja ezt, bíró úr. Az én lánytestvérem pl. (= például) egy férfivel házas.“ - „Sagen Sie das nicht, Herr Richter. Meine Schwester zum Beispiel ist mit einem Mann verheiratet.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A biróságon</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Vádlott, Ön házas?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Igen, bíró úr.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Kivel?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Egy nővel, tisztelt bíróság.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Ne okoskodjon! [okoskoggyon]. De ez mindenkinek világos, hogy egy nővel házas.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. (Ne játszd itt az okosat! Mindenkinek világos, hogy egy nővel vagy házas.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. (Ne játssza itt az okosat! Mindenki számára világos, hogy az ember egy nővel van házas.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. (Ne tegye magát okosabbnak a kelleténél! Hiszen mindenki tudja, hogy valaki egy nővel házasodik.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. (Ne okoskodjon itt! Teljesen nyilvánvaló mindenki számára, hogy az ember nővel köt házasságot.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. „Ne mondja ezt, bíró úr. Az én lánytestvérem pl. (= például) egy férfivel házas.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Im Gericht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Angeklagter, sind Sie verheiratet?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Ja, Herr Richter.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Mit wem?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Mit einer Frau, Euer Ehren.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. „Spielen Sie hier nicht den Klugen! Das ist doch allen klar, dass man mit einer Frau verheiratet ist.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. „Sagen Sie das nicht, Herr Richter. Meine Schwester zum Beispiel ist mit einem Mann verheiratet.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A feleség üzleti útra megy. - Die Ehefrau geht auf eine Dienstreise.</p>
+<p>2. Két nap múlva a férje SMS-t [esch-em-escht] ír neki: „Hol van az evőeszköz?” - Nach zwei Tagen schreibt ihr Mann ihr eine SMS: „Wo ist das Essbesteck?“</p>
+<p>3. Ő visszaír: „Aludj [Aluggy] otthon!” - Sie schreibt zurück: „Schlaf zu Hause!“</p>
+<p>4. A férj semmit sem ért. - Der Mann versteht überhaupt nichts davon.</p>
+<p>5. Három nap múlva megint ír: „Hol van az evőeszköz?” - Nach drei Tagen schreibt er wieder: „Wo ist das Essbesteck?“</p>
+<p>6. A válasz ugyanaz: „Aludj otthon!” - Die Antwort ist dieselbe: „Schlaf zu Hause!“</p>
+<p>7. Hét nap után a nő hazatér. - Nach sieben Tagen kehrt die Frau zurück.</p>
+<p>8. A férj dühösen kérdezi: „Hol van az evőeszköz?” - Der Mann fragt verärgert: „Wo ist das Essbesteck?“</p>
+<p>9. A nő szó nélkül a hálószobába vezeti. - Die Frau führt ihn wortlos ins Schlafzimmer.</p>
+<p>10. Felhajtja a takarót: az evőeszköz az ágyon van. - Sie schlägt die Bettdecke zurück: Das Essbesteck liegt auf dem Bett.</p>
+<p>11. „Ahogy írtam: aludj otthon!” - „Wie ich dir geschrieben habe: Schlaf zu Hause!“</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A feleség pár napra elutazik dolgozni. - Die Ehefrau reist für ein paar Tage beruflich weg.</p>
+<p>2. Két nap múlva SMS [esch-em-esch] érkezik a férjtől: „Hova tetted az evőeszközt?” - Nach zwei Tagen kommt eine SMS vom Mann: „Wohin hast du das Essbesteck gelegt?“</p>
+<p>3. A válasz rövid: „Aludj otthon!” - Die Antwort ist kurz: „Schlaf zu Hause!“</p>
+<p>4. A férj tanácstalan. - Der Mann ist ratlos.</p>
+<p>5. Pár nap múlva újra kérdez: „És az evőeszköz?” - Ein paar Tage später fragt er wieder: „Und das Essbesteck?“</p>
+<p>6. Megint ugyanaz a válasz. - Wieder dieselbe Antwort.</p>
+<p>7. Amikor a nő egy hét múlva hazajön, a férj azonnal reklamál. - Als die Frau nach einer Woche nach Hause kommt, beschwert sich der Mann sofort.</p>
+<p>8. A nő a hálóba viszi, felhajtja a takarót. - Die Frau bringt ihn ins Schlafzimmer und schlägt die Bettdecke zurück.</p>
+<p>9. Az evőeszköz ott hever az ágyon. (= Az evőeszköz ott van az ágyon.) - Das Essbesteck liegt dort auf dem Bett.</p>
+<p>10. „Ezért írtam: aludj otthon!” (= Ezért írtam, hogy otthon kell aludni.) - „Deshalb habe ich geschrieben: Schlaf zu Hause!“</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A feleség hosszabb üzleti útra indul. - Die Ehefrau bricht zu einer längeren Dienstreise auf.</p>
+<p>2. A férj pár nap múlva kétségbeesetten SMS-ezik az evőeszköz miatt. - Nach ein paar Tagen schreibt der Mann verzweifelt SMS wegen des Essbestecks.</p>
+<p>3. A válasz rejtélyes: „Aludj otthon!” - Die Antwort ist rätselhaft: „Schlaf zu Hause!“</p>
+<p>4. Újabb üzenet, ismét a kérdés, ugyanaz a válasz. - Eine weitere Nachricht, wieder die Frage, dieselbe Antwort.</p>
+<p>5. Egy hét múlva a nő hazatér (= hazaér). - Nach einer Woche kehrt die Frau nach Hause zurück.</p>
+<p>6. A férj már mérges. - Der Mann ist schon verärgert.</p>
+<p>7. A nő szó nélkül a hálószobába húzza. - Die Frau zieht ihn wortlos ins Schlafzimmer.</p>
+<p>8. A takaró alatt ott (= ott van) az evőeszköz. - Unter der Bettdecke ist dort das Essbesteck.</p>
+<p>9. „Ha otthon aludtál volna, megtalálod.” - „Wenn du zu Hause geschlafen hättest, hättest du es gefunden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A feleség üzleti útra megy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Két nap múlva a férje SMS-t [esch-em-escht] ír neki: „Hol van az evőeszköz?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ő visszaír: „Aludj [Aluggy] otthon!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A férj semmit sem ért.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Három nap múlva megint ír: „Hol van az evőeszköz?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A válasz ugyanaz: „Aludj otthon!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Hét nap után a nő hazatér.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A férj dühösen kérdezi: „Hol van az evőeszköz?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. A nő szó nélkül a hálószobába vezeti.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Felhajtja a takarót: az evőeszköz az ágyon van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. „Ahogy írtam: aludj otthon!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A feleség pár napra elutazik dolgozni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Két nap múlva SMS [esch-em-esch] érkezik a férjtől: „Hova tetted az evőeszközt?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A válasz rövid: „Aludj otthon!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A férj tanácstalan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Pár nap múlva újra kérdez: „És az evőeszköz?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Megint ugyanaz a válasz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Amikor a nő egy hét múlva hazajön, a férj azonnal reklamál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A nő a hálóba viszi, felhajtja a takarót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Az evőeszköz ott hever az ágyon. (= Az evőeszköz ott van az ágyon.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. „Ezért írtam: aludj otthon!” (= Ezért írtam, hogy otthon kell aludni.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A feleség hosszabb üzleti útra indul.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A férj pár nap múlva kétségbeesetten SMS-ezik az evőeszköz miatt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A válasz rejtélyes: „Aludj otthon!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Újabb üzenet, ismét a kérdés, ugyanaz a válasz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Egy hét múlva a nő hazatér (= hazaér).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A férj már mérges.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A nő szó nélkül a hálószobába húzza.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A takaró alatt ott (= ott van) az evőeszköz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. „Ha otthon aludtál volna, megtalálod.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehefrau geht auf eine Dienstreise.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nach zwei Tagen schreibt ihr Mann ihr eine SMS: „Wo ist das Essbesteck?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sie schreibt zurück: „Schlaf zu Hause!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Mann versteht überhaupt nichts davon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Nach drei Tagen schreibt er wieder: „Wo ist das Essbesteck?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Die Antwort ist dieselbe: „Schlaf zu Hause!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Nach sieben Tagen kehrt die Frau zurück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Der Mann fragt verärgert: „Wo ist das Essbesteck?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Die Frau führt ihn wortlos ins Schlafzimmer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Sie schlägt die Bettdecke zurück: Das Essbesteck liegt auf dem Bett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. „Wie ich dir geschrieben habe: Schlaf zu Hause!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehefrau reist für ein paar Tage beruflich weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nach zwei Tagen kommt eine SMS vom Mann: „Wohin hast du das Essbesteck gelegt?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Antwort ist kurz: „Schlaf zu Hause!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Mann ist ratlos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Ein paar Tage später fragt er wieder: „Und das Essbesteck?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Wieder dieselbe Antwort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Als die Frau nach einer Woche nach Hause kommt, beschwert sich der Mann sofort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Die Frau bringt ihn ins Schlafzimmer und schlägt die Bettdecke zurück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Das Essbesteck liegt dort auf dem Bett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. „Deshalb habe ich geschrieben: Schlaf zu Hause!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehefrau bricht zu einer längeren Dienstreise auf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nach ein paar Tagen schreibt der Mann verzweifelt SMS wegen des Essbestecks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Antwort ist rätselhaft: „Schlaf zu Hause!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Eine weitere Nachricht, wieder die Frage, dieselbe Antwort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Nach einer Woche kehrt die Frau nach Hause zurück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Der Mann ist schon verärgert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Die Frau zieht ihn wortlos ins Schlafzimmer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Unter der Bettdecke ist dort das Essbesteck.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. „Wenn du zu Hause geschlafen hättest, hättest du es gefunden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/44-witze/">« Zurück zu Längere Witze 5</a> &nbsp;|&nbsp; <span>Längere Witze 6</span> &nbsp;|&nbsp; <a href="/46-witze/">Weiter zu Längere Witze 7 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

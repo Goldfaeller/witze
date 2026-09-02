@@ -1,0 +1,1018 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-bild-rechts{float:right;width:min(42%,340px);height:auto;margin:6px 0 14px 22px;border-radius:4px;border:1px solid #a2a9b1}
+.pc-freistellen{clear:both}
+@media (max-width:640px){.pc-bild-rechts{float:none;width:100%;margin:12px 0 16px}}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/66-witze/">« Zurück zu Anekdote und mehr 5</a> &nbsp;|&nbsp; <span>Anekdote und mehr 6</span> &nbsp;|&nbsp; <a href="/1-witze/">Weiter zum Anfang - Kurze Witze 1 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+
+<!-- wp:paragraph -->
+<p><strong>Anekdote; Rechenaufgabe; Sprichwörter; Zungenbrecher; Verballhornung; Türschilder und T-Shirt-Sprüche</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern dahinter. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ne hidd amit gondolsz!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ne hidd amit gondolsz! - Glaube nicht was du denkst!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Glaube nicht was du denkst!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Aki alvást színlel, azt nem lehet felébreszteni.</p>
+<p>2. Aki úgy tesz, mintha aludna, azt nem lehet felébreszteni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Aki alvást színlel, azt nem lehet felébreszteni. - Wer sich schlafend stellt, den kann man nicht aufwecken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aki úgy tesz, mintha aludna, azt nem lehet felébreszteni. - Wer sich schlafend stellt, den kann man nicht aufwecken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wer sich schlafend stellt, den kann man nicht aufwecken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Wer sich schlafend stellt, den kann man nicht aufwecken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Tábla egy bejárat előtt</p>
+<p>2. Ha neki nincs semmi tennivalója, akkor ezt ne tegye itt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Tábla egy bejárat előtt - Schild vor einem Eingang</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ha neki nincs semmi tennivalója, akkor ezt ne tegye itt. - Wenn Sie nichts zu tun haben, dann tun sie es nicht hier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Schild vor einem Eingang</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Wenn Sie nichts zu tun haben, dann tun sie es nicht hier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ha a te álmaid erősebbek, mint a félelmeid, akkor teljesülni fognak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ha a te álmaid erősebbek, mint a félelmeid, akkor teljesülni fognak. - Wenn deine Träume stärker sind als deine Ängste, dann werden sie in Erfüllung gehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn deine Träume stärker sind als deine Ängste, dann werden sie in Erfüllung gehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Szerencse - Glück.</p>
+<p>2. Mi a szerencse? - Was ist Glück?</p>
+<p>3. Ha a feleséged egy modellre hasonlít, - Wenn deine Frau einem Model ähnelt,</p>
+<p>4. a gyerekeid rád hasonlítanak, - deine Kinder dir ähneln,</p>
+<p>5. a munkád egy hobbinak tűnik, - deine Arbeit einem Hobby ähnelt,</p>
+<p>6. az anyósod nem egy főnökre hasonlít, - deine Schwiegermutter nicht einem Chef ähnelt,</p>
+<p>7. a főnököd nem egy idiótára hasonlít, - dein Chef nicht einem Idioten ähnelt,</p>
+<p>8. és a fizetésed nem a szociális segélyre hasonlít. - und dein Gehalt nicht der Sozialhilfe ähnelt.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Boldogság - Glück.</p>
+<p>2. Mi az igazi boldogság? - Was ist echtes Glück?</p>
+<p>3. Az, ha a feleséged olyan, mint egy modell, - Wenn deine Frau wie ein Model ist,</p>
+<p>4. a gyermekeid rád ütnek, - deine Kinder nach dir kommen,</p>
+<p>5. a munkád inkább hobbinak számít, - deine Arbeit eher einem Hobby gleicht,</p>
+<p>6. az anyósod nem viselkedik főnökként, - deine Schwiegermutter sich nicht wie ein Chef benimmt,</p>
+<p>7. a főnököd nem idiótának tűnik, - dein Chef nicht wie ein Idiot wirkt,</p>
+<p>8. és a fizetésed nem emlékeztet segélyre. - und dein Gehalt nicht an Sozialhilfe erinnert.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Szerencse - Glück.</p>
+<p>2. Mi a szerencse? - Was ist Glück?</p>
+<p>3. Egy modellre hasonlító feleség, - eine Frau, die einem Model ähnelt,</p>
+<p>4. rád hasonlító gyerekek, - Kinder, die dir ähneln,</p>
+<p>5. hobbinak érződő munka, - eine Arbeit, die sich wie ein Hobby anfühlt,</p>
+<p>6. nem főnöknek tűnő anyós, - eine Schwiegermutter, die nicht wie ein Chef wirkt,</p>
+<p>7. nem idiótának látszó főnök, - ein Chef, der nicht wie ein Idiot aussieht,</p>
+<p>8. és segélytől távoli fizetés. - und ein Gehalt fern der Sozialhilfe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Szerencse</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mi a szerencse?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ha a feleséged egy modellre hasonlít,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. a gyerekeid rád hasonlítanak,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. a munkád egy hobbinak tűnik,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. az anyósod nem egy főnökre hasonlít,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. a főnököd nem egy idiótára hasonlít,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. és a fizetésed nem a szociális segélyre hasonlít.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Boldogság</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mi az igazi boldogság?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az, ha a feleséged olyan, mint egy modell,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. a gyermekeid rád ütnek,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. a munkád inkább hobbinak számít,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. az anyósod nem viselkedik főnökként,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. a főnököd nem idiótának tűnik,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. és a fizetésed nem emlékeztet segélyre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Szerencse</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mi a szerencse?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egy modellre hasonlító feleség,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. rád hasonlító gyerekek,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. hobbinak érződő munka,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. nem főnöknek tűnő anyós,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. nem idiótának látszó főnök,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. és segélytől távoli fizetés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Glück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Was ist Glück?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Wenn deine Frau einem Model ähnelt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. deine Kinder dir ähneln,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. deine Arbeit einem Hobby ähnelt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. deine Schwiegermutter nicht einem Chef ähnelt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. dein Chef nicht einem Idioten ähnelt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. und dein Gehalt nicht der Sozialhilfe ähnelt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Glück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Was ist echtes Glück?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Wenn deine Frau wie ein Model ist,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. deine Kinder nach dir kommen,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. deine Arbeit eher einem Hobby gleicht,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. deine Schwiegermutter sich nicht wie ein Chef benimmt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. dein Chef nicht wie ein Idiot wirkt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. und dein Gehalt nicht an Sozialhilfe erinnert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Glück.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Was ist Glück?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. eine Frau, die einem Model ähnelt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Kinder, die dir ähneln,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. eine Arbeit, die sich wie ein Hobby anfühlt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. eine Schwiegermutter, die nicht wie ein Chef wirkt,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. ein Chef, der nicht wie ein Idiot aussieht,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. und ein Gehalt fern der Sozialhilfe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Veszélytelen áthaladás csak függőleges sorompó esetén lehetséges (a függőleges azt jelenti, hogy a csúcsa felül van). - Gefahrlose Durchfahrt nur bei senkrechtem Schlagbaum möglich (Senkrecht bedeutet, dass seine Spitze oben ist).</p>
+<p class="pc-note">áthalad - passieren, durchfahren</p>
+<p class="pc-note">halad - fortschreiten, vorankommen</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Csak akkor lehet biztonságosan áthaladni, ha a sorompó függőlegesen áll (vagyis a vége felfelé mutat). - Nur dann kann man gefahrlos durchfahren, wenn die Schranke senkrecht steht (das heißt, das Ende zeigt nach oben).</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A biztonságos áthaladás kizárólag függőleges állású sorompónál engedélyezett (értsd [ércsd]: amikor a teteje felfelé van). - Eine gefahrlose Durchfahrt ist ausschließlich bei senkrecht stehendem Schlagbaum erlaubt (gemeint ist (Verstehe!): wenn die Spitze (das Dach) nach oben ist).</p>
+<p class="pc-note">kizárólag - ausschließlich</p>
+<p class="pc-note">engedélyez - erlauben, zulassen</p>
+<p class="pc-note">ért - verstehen, kapieren</p>
+<p class="pc-note">Értsd azt! - Verstehe das!</p>
+<p class="pc-note">Értsd ahogy akarod! - Versteh das wie du willst!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Veszélytelen áthaladás csak függőleges sorompó esetén lehetséges (a függőleges azt jelenti, hogy a csúcsa felül van).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">áthalad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">halad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Csak akkor lehet biztonságosan áthaladni, ha a sorompó függőlegesen áll (vagyis a vége felfelé mutat).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A biztonságos áthaladás kizárólag függőleges állású sorompónál engedélyezett (értsd [ércsd]: amikor a teteje felfelé van).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kizárólag</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">engedélyez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ért</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Értsd azt!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Értsd ahogy akarod!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Gefahrlose Durchfahrt nur bei senkrechtem Schlagbaum möglich (Senkrecht bedeutet, dass seine Spitze oben ist).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">passieren, durchfahren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fortschreiten, vorankommen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nur dann kann man gefahrlos durchfahren, wenn die Schranke senkrecht steht (das heißt, das Ende zeigt nach oben).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Eine gefahrlose Durchfahrt ist ausschließlich bei senkrecht stehendem Schlagbaum erlaubt (gemeint ist (Verstehe!): wenn die Spitze (das Dach) nach oben ist).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ausschließlich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erlauben, zulassen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verstehen, kapieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Verstehe das!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Versteh das wie du willst!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Kérjük, itt ne parkoljon [parkojjon]! Még öt percre sem! Még egy pillanatra sem! Egyáltalán ne! - Bitte hier nicht parken! Nicht mal 5 Minuten! (Noch auf 5 Minuten nicht!) Nicht mal ganz kurz! (Noch nicht mal auf einen Augenblick!) Gar nicht!</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Tilos itt parkolni! Még rövid időre sem! Egy percre sem! Soha! - Es ist verboten hier zu parken! Noch nicht mal für kurze Zeit! Nicht auf eine Minute! Nie!</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Itt parkolni nem szabad! Sem öt percre, sem egy pillanatra, egyáltalán nem! - Hier ist parken nicht erlaubt! Nicht für 5 Minuten, nicht für einen Augenblick, überhaupt nicht!</p>
+<p class="pc-note">ingyenes - kostenlos; kostenfrei</p>
+<p class="pc-note">szabad - frei (erlaubt)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Kérjük, itt ne parkoljon [parkojjon]! Még öt percre sem! Még egy pillanatra sem! Egyáltalán ne!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Tilos itt parkolni! Még rövid időre sem! Egy percre sem! Soha!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Itt parkolni nem szabad! Sem öt percre, sem egy pillanatra, egyáltalán nem!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ingyenes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szabad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Bitte hier nicht parken! Nicht mal 5 Minuten! (Noch auf 5 Minuten nicht!) Nicht mal ganz kurz! (Noch nicht mal auf einen Augenblick!) Gar nicht!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Es ist verboten hier zu parken! Noch nicht mal für kurze Zeit! Nicht auf eine Minute! Nie!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hier ist parken nicht erlaubt! Nicht für 5 Minuten, nicht für einen Augenblick, überhaupt nicht!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kostenlos; kostenfrei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">frei (erlaubt)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. E kapu mögött egy 500 lóerős bulldózer áll. Naponta többször is kihajt és beáll (= ki- és behajt), függetlenül attól, hogy ott áll-e [áll e] az autója vagy sem. Én nem parkolnék itt. - Hinter diesem Tor steht ein Bulldozer mit 500 PS. Er fährt sogar mehrmals täglich raus und wieder hinein, egal (unabhängig davon) ob Ihr Auto dort steht oder nicht. Ich würde hier nicht parken.</p>
+<p class="pc-note">többször is - auch mehrmals; sogar mehrmals</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Ezen a kapun túl egy 500 lóerős buldózer áll. Naponta többször is ki-be jár a területre, függetlenül attól, hogy áll-e [áll e] ott (egy) autó. Ide parkolni nem jó ötlet. - Jenseits dieses Tors steht ein 500-PS-Bulldozer. Er verlässt und betritt das Gelände mehrmals am Tag, unabhängig davon, ob dort (ein) Auto steht. Hier (hierher) zu parken ist keine gute Idee.</p>
+<p class="pc-note">kapun (Lokativ: Flächenendung; auf) - Tor (kapu+n)</p>
+<p class="pc-note">vmin túl - jenseits von etwas</p>
+<p class="pc-note">Dunántúl - Transdanubien</p>
+<p class="pc-note">átmegyek az ajtón (Lokativ: Flächenendung; auf) - ich gehe durch die Tür</p>
+<p class="pc-note">átmegy az erdőn (Lokativ: Flächenendung; auf) - er geht durch den Wald</p>
+<p class="pc-note">átmegy vmin - etwas passieren, durchschreiten; (er geht auf etwas drüber hinweg)</p>
+<p class="pc-note">átmegy a hídon - über die Brücke gehen</p>
+<p class="pc-note">vmin keresztül - durch etwas hindurch</p>
+<p class="pc-note">az erdőn keresztül - durch den Wald</p>
+<p class="pc-note">az úton végigmegy - er geht die Straße entlang</p>
+<p class="pc-note">ide parkolni = itt parkolni - hier(her) zu parken</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. E mögött a kapu mögött egy 500 lóerős bulldózer dolgozik. Naponta többször kihajt és visszahajt, parkoló járművekre való tekintet nélkül. Inkább ne parkoljon itt. - Hinter diesem Tor arbeitet ein Bulldozer mit 500 PS. Mehrmals täglich fährt er hinaus und zurück, ohne Rücksicht auf parkende Fahrzeuge. Parken Sie hier besser nicht.</p>
+<p class="pc-note">e mögött a kapu mögött = ez a kapu mögött  = e kapu mögött - hinter diesem Tor</p>
+<p class="pc-note">tekint - betrachten, sehen, schauen</p>
+<p class="pc-note">tekintet - Blick, Hinsicht, Rücksicht</p>
+<p class="pc-note">tekintet nélkül (vmire/vkire) - ohne Rücksicht auf (etwas/jemanden), ungeachtet, unabhängig von</p>
+<p class="pc-note">parkoló járművekre való tekintet - mit Rücksicht auf sich befindende (“seiende”) Fahrzeuge</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. E kapu mögött egy 500 lóerős bulldózer áll. Naponta többször is kihajt és beáll (= ki- és behajt), függetlenül attól, hogy ott áll-e [áll e] az autója vagy sem. Én nem parkolnék itt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">többször is</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ezen a kapun túl egy 500 lóerős buldózer áll. Naponta többször is ki-be jár a területre, függetlenül attól, hogy áll-e [áll e] ott (egy) autó. Ide parkolni nem jó ötlet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kapun (Lokativ: Flächenendung; auf)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vmin túl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Dunántúl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">átmegyek az ajtón (Lokativ: Flächenendung; auf)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">átmegy az erdőn (Lokativ: Flächenendung; auf)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">átmegy vmin</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">átmegy a hídon</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vmin keresztül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">az erdőn keresztül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">az úton végigmegy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ide parkolni = itt parkolni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. E mögött a kapu mögött egy 500 lóerős bulldózer dolgozik. Naponta többször kihajt és visszahajt, parkoló járművekre való tekintet nélkül. Inkább ne parkoljon itt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">e mögött a kapu mögött = ez a kapu mögött  = e kapu mögött</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tekint</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tekintet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tekintet nélkül (vmire/vkire)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">parkoló járművekre való tekintet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hinter diesem Tor steht ein Bulldozer mit 500 PS. Er fährt sogar mehrmals täglich raus und wieder hinein, egal (unabhängig davon) ob Ihr Auto dort steht oder nicht. Ich würde hier nicht parken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auch mehrmals; sogar mehrmals</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Jenseits dieses Tors steht ein 500-PS-Bulldozer. Er verlässt und betritt das Gelände mehrmals am Tag, unabhängig davon, ob dort (ein) Auto steht. Hier (hierher) zu parken ist keine gute Idee.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Tor (kapu+n)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jenseits von etwas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Transdanubien</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ich gehe durch die Tür</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er geht durch den Wald</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">etwas passieren, durchschreiten; (er geht auf etwas drüber hinweg)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">über die Brücke gehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">durch etwas hindurch</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">durch den Wald</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er geht die Straße entlang</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hier(her) zu parken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hinter diesem Tor arbeitet ein Bulldozer mit 500 PS. Mehrmals täglich fährt er hinaus und zurück, ohne Rücksicht auf parkende Fahrzeuge. Parken Sie hier besser nicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hinter diesem Tor</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">betrachten, sehen, schauen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Blick, Hinsicht, Rücksicht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ohne Rücksicht auf (etwas/jemanden), ungeachtet, unabhängig von</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mit Rücksicht auf sich befindende (“seiende”) Fahrzeuge</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/66-witze/">« Zurück zu Anekdote und mehr 5</a> &nbsp;|&nbsp; <span>Anekdote und mehr 6</span> &nbsp;|&nbsp; <a href="/1-witze/">Weiter zum Anfang - Kurze Witze 1 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

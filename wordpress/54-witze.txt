@@ -1,0 +1,1398 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/53-witze/">« Zurück zu Sprüche 5</a> &nbsp;|&nbsp; <span>Sprüche 6</span> &nbsp;|&nbsp; <a href="/55-witze/">Weiter zu Sprüche 7 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+<!-- wp:paragraph -->
+<p><strong>Sprüche</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern direkt dahinter. :Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Kilenc vicces tény - 9 witzige Fakten</p>
+<p>2. Első.) Nem tudod szappannal megmosni a szemed. - Du kannst dir die Augen nicht mit Seife waschen.</p>
+<p>3. Második.) Nem tudod megszámolni a hajszálaidat. - Du kannst nicht deine Haare zählen.</p>
+<p>4. Harmadik.) Nem tudsz az orrodon át lélegezni, miközben a nyelved kilóg a szádból. - Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
+<p>5. Negyedik.) Most kipróbáltad a harmadik pontot. - Du hast gerade Punkt 3 ausprobiert.</p>
+<p>6. Hatodik.) Amikor kipróbáltad a harmadik pontot, rájöttél, hogy mégis lehetséges, és egy lihegő kutyára hasonlítasz. - Als du Punkt 3 ausprobiert hast, ist dir klar geworden, dass es doch möglich ist und du einem hechelnden Hund ähnelst.</p>
+<p>7. Hetedik.) Elmosolyodtál, mert rajtakaptunk. - Du hast gelächelt, weil wir dich erwischt haben.</p>
+<p>8. Nyolcadik.) Kihagytad az ötödik pontot. - Du hast Punkt 5 ausgelassen.</p>
+<p>9. Kilencedik.) Most ellenőrizted, hogy van-e egyáltalán ötödik pont. - Du hast gerade kontrolliert, ob es überhaut einen 5. Punkt gibt.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Nyolc humoros tény - 9 humorvolle Fakten</p>
+<p>2. 1.) Nem lehet szappannal szemet mosni. - Du kannst dir die Augen nicht mit Seife waschen.</p>
+<p>3. 2.) A hajszálaid megszámolása neked (= magadnak) lehetetlen. - Das Abzählen deiner einzelnen Haare ist für dich unmöglich.</p>
+<p>4. 3.) Nem kapsz levegőt az orrodon, ha közben kilóg a nyelved. - Du bekommst keine Luft durch deine Nase, wenn dabei deine Zunge herausragt.</p>
+<p>5. 4.) Épp most tesztelted a 3. pontot. - Du hast gerade Punkt 3 getestet.</p>
+<p>6. 6.) Közben rájöttél, hogy mégis működik, és pont úgy nézel ki, mint egy lihegő kutya. - Dabei hast du gemerkt, dass es doch funktioniert, und du genau so aussiehst wie ein hechelnder Hund.</p>
+<p>7. 7.) Mosolyogtál, mert lebuktál. - Du hast gelächelt, weil du erwischt wurdest.</p>
+<p>8. 8.) Az 5. pontot kihagytad. - Du hast den 5. Punkt ausgelassen.</p>
+<p>9. 9.) Most megnézted, létezik-e az 5. pont. - Du hast gerade kontrolliert, ob ein 5. Punkt existiert.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. 9 mókás (= vidám) tény - 9 lustige Fakten</p>
+<p>2. 1.) A szemedet nem tudod szappannal megmosni. - Du kannst deine Augen nicht mit Seife waschen.</p>
+<p>3. 2.) Nem tudod megszámolni a hajad. - Du kannst nicht deine Haare zählen.</p>
+<p>4. 3.) Nem lehet az orron át lélegezni, miközben a nyelv kilóg. - Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
+<p>5. 4.) Az imént kipróbáltad a 3. pontot. - Du hast gerade Punkt 3 ausprobiert.</p>
+<p>6. 6.) Aztán rájöttél, hogy mégis megy, és egy lihegő kutyára hasonlítasz. - Dann hast du gemerkt, dass es doch geht, und du einem keuchenden Hund ähnelst.</p>
+<p>7. 7.) Elvigyorodtál, mert elkaptunk. - Du hast gegrinst, weil wir dich erwischt haben.</p>
+<p>8. 8.) Átugrottad az 5. pontot. - Du hast Punkt 5 übersprungen.</p>
+<p>9. 9.) Éppen ellenőrizted, van-e 5. pont. - Du hast gerade kontrolliert, ob es einen Punkt 5 gibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Kilenc vicces tény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Első.) Nem tudod szappannal megmosni a szemed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Második.) Nem tudod megszámolni a hajszálaidat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Harmadik.) Nem tudsz az orrodon át lélegezni, miközben a nyelved kilóg a szádból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Negyedik.) Most kipróbáltad a harmadik pontot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Hatodik.) Amikor kipróbáltad a harmadik pontot, rájöttél, hogy mégis lehetséges, és egy lihegő kutyára hasonlítasz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Hetedik.) Elmosolyodtál, mert rajtakaptunk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Nyolcadik.) Kihagytad az ötödik pontot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Kilencedik.) Most ellenőrizted, hogy van-e egyáltalán ötödik pont.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nyolc humoros tény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. 1.) Nem lehet szappannal szemet mosni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. 2.) A hajszálaid megszámolása neked (= magadnak) lehetetlen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. 3.) Nem kapsz levegőt az orrodon, ha közben kilóg a nyelved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. 4.) Épp most tesztelted a 3. pontot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. 6.) Közben rájöttél, hogy mégis működik, és pont úgy nézel ki, mint egy lihegő kutya.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. 7.) Mosolyogtál, mert lebuktál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. 8.) Az 5. pontot kihagytad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. 9.) Most megnézted, létezik-e az 5. pont.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. 9 mókás (= vidám) tény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. 1.) A szemedet nem tudod szappannal megmosni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. 2.) Nem tudod megszámolni a hajad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. 3.) Nem lehet az orron át lélegezni, miközben a nyelv kilóg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. 4.) Az imént kipróbáltad a 3. pontot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. 6.) Aztán rájöttél, hogy mégis megy, és egy lihegő kutyára hasonlítasz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. 7.) Elvigyorodtál, mert elkaptunk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. 8.) Átugrottad az 5. pontot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. 9.) Éppen ellenőrizted, van-e 5. pont.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. 9 witzige Fakten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Du kannst dir die Augen nicht mit Seife waschen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Du kannst nicht deine Haare zählen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Du hast gerade Punkt 3 ausprobiert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Als du Punkt 3 ausprobiert hast, ist dir klar geworden, dass es doch möglich ist und du einem hechelnden Hund ähnelst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Du hast gelächelt, weil wir dich erwischt haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Du hast Punkt 5 ausgelassen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Du hast gerade kontrolliert, ob es überhaut einen 5. Punkt gibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. 9 humorvolle Fakten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Du kannst dir die Augen nicht mit Seife waschen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das Abzählen deiner einzelnen Haare ist für dich unmöglich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Du bekommst keine Luft durch deine Nase, wenn dabei deine Zunge herausragt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Du hast gerade Punkt 3 getestet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Dabei hast du gemerkt, dass es doch funktioniert, und du genau so aussiehst wie ein hechelnder Hund.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Du hast gelächelt, weil du erwischt wurdest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Du hast den 5. Punkt ausgelassen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Du hast gerade kontrolliert, ob ein 5. Punkt existiert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. 9 lustige Fakten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Du kannst deine Augen nicht mit Seife waschen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Du kannst nicht deine Haare zählen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Du hast gerade Punkt 3 ausprobiert.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Dann hast du gemerkt, dass es doch geht, und du einem keuchenden Hund ähnelst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Du hast gegrinst, weil wir dich erwischt haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Du hast Punkt 5 übersprungen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Du hast gerade kontrolliert, ob es einen Punkt 5 gibt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Nő: Fogadj [Fogaggy] el olyannak, amilyen vagyok, vagy szedj [szeggy] tablettákat, hogy olyannak tudj [tuggy] elfogadni, amilyen vagyok. - Frau: Nimm mich so, wie ich bin oder nimm Tabletten, damit du mich so nehmen kannst, wie ich bin.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A nő azt mondja: Fogadj  [Fogaggy] el engem úgy, ahogy vagyok, vagy vegyél be gyógyszert, hogy el tudd viselni, amilyen vagyok. - Frau: Nimm mich so, wie ich bin, oder nimm Medikamente ein, damit du mich so erträgst, wie ich bin.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Nő: Vagy elfogadsz [elfogacc] olyannak, amilyen vagyok, vagy beszeded a pirulákat, hogy képes legyél erre. - Frau: Entweder nimmst du mich so, wie ich bin, oder du nimmst Pillen ein, um dazu fähig zu sein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nő: Fogadj [Fogaggy] el olyannak, amilyen vagyok, vagy szedj [szeggy] tablettákat, hogy olyannak tudj [tuggy] elfogadni, amilyen vagyok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A nő azt mondja: Fogadj  [Fogaggy] el engem úgy, ahogy vagyok, vagy vegyél be gyógyszert, hogy el tudd viselni, amilyen vagyok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nő: Vagy elfogadsz [elfogacc] olyannak, amilyen vagyok, vagy beszeded a pirulákat, hogy képes legyél erre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Frau: Nimm mich so, wie ich bin oder nimm Tabletten, damit du mich so nehmen kannst, wie ich bin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Frau: Nimm mich so, wie ich bin, oder nimm Medikamente ein, damit du mich so erträgst, wie ich bin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Frau: Entweder nimmst du mich so, wie ich bin, oder du nimmst Pillen ein, um dazu fähig zu sein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Ma reggel a pszichoterapeutámnál voltam, és meséltem neki az életemről. - Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
+<p>2. Alig tudtam megnyugtatni, annyira sírt. - Ich konnte ihn kaum beruhigen – so sehr hat er geweint.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Ma reggel elmentem a pszichoterapeutához, és elmondtam neki az életem történetét. - Ich war heute Morgen beim Psychotherapeuten und habe ihm meine Lebensgeschichte erzählt.</p>
+<p>2. Úgy elsírta magát, hogy alig tudtam megvigasztalni. - Er weinte so sehr, dass ich ihn kaum trösten konnte.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Reggel a terapeutámnál [terapëutámnál] jártam, és beszámoltam neki az életemről. - Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
+<p>2. A végén nekem kellett megnyugtatni őt, mert teljesen elsírta magát. - Am Ende musste ich ihn beruhigen, weil er so sehr geweint hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ma reggel a pszichoterapeutámnál voltam, és meséltem neki az életemről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Alig tudtam megnyugtatni, annyira sírt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ma reggel elmentem a pszichoterapeutához, és elmondtam neki az életem történetét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Úgy elsírta magát, hogy alig tudtam megvigasztalni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Reggel a terapeutámnál [terapëutámnál] jártam, és beszámoltam neki az életemről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A végén nekem kellett megnyugtatni őt, mert teljesen elsírta magát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ich konnte ihn kaum beruhigen – so sehr hat er geweint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ich war heute Morgen beim Psychotherapeuten und habe ihm meine Lebensgeschichte erzählt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Er weinte so sehr, dass ich ihn kaum trösten konnte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Am Ende musste ich ihn beruhigen, weil er so sehr geweint hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Apa ráüvöltött anyára. - Papa hat Mama angeschrien.</p>
+<p>2. Anya leszidta a fiút. - Mama hat mit dem Sohn geschimpft.</p>
+<p>3. A fiú leszidta a macskát. - Der Sohn hat mit der Katze geschimpft.</p>
+<p>4. A macska pedig mindenkinek a cipőjébe szart. - Und die Katze hat allen in die Schuhe geschissen.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Apa kiabált anyával. - Papa hat Mama angeschrien.</p>
+<p>2. Anya a fiún vezette le a dühét. - Die Mutter hat ihre Wut an dem Jungen ausgelassen.</p>
+<p>3. A fiú a macskán töltötte ki a mérgét. - Der Junge ließ seine Wut an der Katze aus.</p>
+<p>4. A macska bosszúból mindenkinek a cipőjébe végzett. - Und die Katze hat aus Rache allen in ihre Schuhe gemacht.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Papa összeveszett Mamával. - Papa hat Mama angeschrien.</p>
+<p>2. Mama rászólt a gyerekre. - Mama hat mit dem Sohn geschimpft.</p>
+<p>3. A gyerek a macskát szidta le. - Der Sohn hat mit der Katze geschimpft.</p>
+<p>4. A macska viszont igazságot [igasságot] szolgáltatott a cipőkben. - Die Katze hat dafür an den Schuhen Rache genommen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Apa ráüvöltött anyára.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Anya leszidta a fiút.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A fiú leszidta a macskát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A macska pedig mindenkinek a cipőjébe szart.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Apa kiabált anyával.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Anya a fiún vezette le a dühét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A fiú a macskán töltötte ki a mérgét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A macska bosszúból mindenkinek a cipőjébe végzett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Papa összeveszett Mamával.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mama rászólt a gyerekre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A gyerek a macskát szidta le.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A macska viszont igazságot [igasságot] szolgáltatott a cipőkben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Papa hat Mama angeschrien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mama hat mit dem Sohn geschimpft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Sohn hat mit der Katze geschimpft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Und die Katze hat allen in die Schuhe geschissen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Papa hat Mama angeschrien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Mutter hat ihre Wut an dem Jungen ausgelassen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Junge ließ seine Wut an der Katze aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Und die Katze hat aus Rache allen in ihre Schuhe gemacht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Papa hat Mama angeschrien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Mama hat mit dem Sohn geschimpft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Sohn hat mit der Katze geschimpft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Katze hat dafür an den Schuhen Rache genommen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. „Nincs szeretet fájdalom nélkül” – mondta a nyúl, és átölelte a sündisznót. - „Liebe gibt es nicht ohne Schmerz“, sagte der Hase und umarmte den Igel.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. „A szeretet mindig jár egy kis fájdalommal” – szólalt meg a nyúl, miközben átkarolta a sündisznót. - „Die Liebe geht immer mit ein wenig Schmerz einher.“, sagte der Hase während er den Igel umarmte.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. „Szeretet nem létezik fájdalom nélkül” – mondta a nyúl, és szorosan megölelte a sündisznót. - „Liebe existiert nicht ohne Schmerz“, sagte der Hase und umarmte den Igel eng.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Nincs szeretet fájdalom nélkül” – mondta a nyúl, és átölelte a sündisznót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „A szeretet mindig jár egy kis fájdalommal” – szólalt meg a nyúl, miközben átkarolta a sündisznót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Szeretet nem létezik fájdalom nélkül” – mondta a nyúl, és szorosan megölelte a sündisznót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Liebe gibt es nicht ohne Schmerz“, sagte der Hase und umarmte den Igel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Die Liebe geht immer mit ein wenig Schmerz einher.“, sagte der Hase während er den Igel umarmte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Liebe existiert nicht ohne Schmerz“, sagte der Hase und umarmte den Igel eng.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. „Tévedni emberi dolog” – mondta a sündisznó, és leszállt a keféről. - „Irren ist menschlich“, sagte der Igel und stieg von der Bürste.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. „Az ember tévedhet” – jegyezte meg a sündisznó, majd lemászott a keféről. - „Menschen können sich irren“, sagte der Igel und kletterte von der Bürste herunter.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. „A tévedés az emberi természet része” – mondta a sündisznó, és lelépett a hajkeféről. - „Der Irrtum ist Teil der menschlichen Natur.“, sagte der Igel und stieg von der Haarbürste herunter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Tévedni emberi dolog” – mondta a sündisznó, és leszállt a keféről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Az ember tévedhet” – jegyezte meg a sündisznó, majd lemászott a keféről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „A tévedés az emberi természet része” – mondta a sündisznó, és lelépett a hajkeféről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Irren ist menschlich“, sagte der Igel und stieg von der Bürste.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Menschen können sich irren“, sagte der Igel und kletterte von der Bürste herunter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. „Der Irrtum ist Teil der menschlichen Natur.“, sagte der Igel und stieg von der Haarbürste herunter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Az élet nem főpróba. - Das Leben ist keine Generalprobe.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Az életben nincs lehetőség főpróbára. - Im Leben gibt es keine Gelegenheit für eine Generalprobe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az élet nem főpróba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az életben nincs lehetőség főpróbára.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Das Leben ist keine Generalprobe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Im Leben gibt es keine Gelegenheit für eine Generalprobe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A szerelmi bánat nem éri meg. - Liebeskummer lohnt sich nicht.</p>
+<p>2. Más anyáknak is vannak szép lányaik. - Andere Mütter haben auch hübsche Töchter.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Nem érdemes a szerelmi bánaton rágódni. - Es lohnt sich nicht, auf dem Liebeskummer herumzukauen. (Es lohnt sich nicht, über Liebeskummer zu grübeln.)</p>
+<p>2. Más anyák lányai is csinosak. - Andere Mütter haben auch hübsche Töchter.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak szép lányok. - Eine Liebesenttäuschung lohnt sich nicht, denn auch bei anderen Müttern gibt es schöne Töchter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A szerelmi bánat nem éri meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Más anyáknak is vannak szép lányaik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nem érdemes a szerelmi bánaton rágódni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Más anyák lányai is csinosak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak szép lányok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Liebeskummer lohnt sich nicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Andere Mütter haben auch hübsche Töchter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Es lohnt sich nicht, auf dem Liebeskummer herumzukauen. (Es lohnt sich nicht, über Liebeskummer zu grübeln.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Andere Mütter haben auch hübsche Töchter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Liebesenttäuschung lohnt sich nicht, denn auch bei anderen Müttern gibt es schöne Töchter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 9</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A szerelmi bánat nem éri meg. Más anyáknak is vannak csinos fiaik. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Nem érdemes a szerelmi bánattal foglalkozni. Más anyák fiai is jóképűek. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak jóképű fiúk. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A szerelmi bánat nem éri meg. Más anyáknak is vannak csinos fiaik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nem érdemes a szerelmi bánattal foglalkozni. Más anyák fiai is jóképűek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak jóképű fiúk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 10</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Nincs fodrászod, akinek ezt el tudnád mesélni? - Hast du keinen Friseur, dem du das erzählen könntest?</p>
+<p>2. Miért nekem mondod ezt? - Warum erzählst du mir das?</p>
+<p>3. Ez engem nem érdekel! - Das interessiert mich nicht!</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Nem tudnád ezt inkább a fodrászodnak elmondani? - Warum erzählst du das nicht lieber deinem Friseur?</p>
+<p>2. Miért pont engem zaklatsz [zaklacc] vele? - Warum belästigst du ausgerechnet mich damit?</p>
+<p>3. Egyáltalán nem érdekel. - Das interessiert mich überhaupt nicht.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Nincs valaki más, például a fodrászod, akinek ezt elmondhatnád? - Hast du keinen Anderen, zum Beispiel deinen Friseur, dem du das erzählen kannst?</p>
+<p>2. Miért kell ezt nekem hallgatnom? - Warum muss ich mir das anhören?</p>
+<p>3. Hidegen hagy. - Das lässt mich kalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nincs fodrászod, akinek ezt el tudnád mesélni?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Miért nekem mondod ezt?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ez engem nem érdekel!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nem tudnád ezt inkább a fodrászodnak elmondani?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Miért pont engem zaklatsz [zaklacc] vele?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egyáltalán nem érdekel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nincs valaki más, például a fodrászod, akinek ezt elmondhatnád?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Miért kell ezt nekem hallgatnom?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Hidegen hagy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hast du keinen Friseur, dem du das erzählen könntest?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Warum erzählst du mir das?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das interessiert mich nicht!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Warum erzählst du das nicht lieber deinem Friseur?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Warum belästigst du ausgerechnet mich damit?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das interessiert mich überhaupt nicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hast du keinen Anderen, zum Beispiel deinen Friseur, dem du das erzählen kannst?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Warum muss ich mir das anhören?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Das lässt mich kalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 11</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért tegez engem? - Warum duzt du mich?</p>
+<p>2. Őriztünk mi már együtt disznókat? - Haben wir schon mal zusammen Schweine gehütet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért tegez engem?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Őriztünk mi már együtt disznókat?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum duzt du mich?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Haben wir schon mal zusammen Schweine gehütet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 12</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Túl forró vízben fürödtél? - Du hast wohl zu heiß gebadet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Túl forró vízben fürödtél?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Du hast wohl zu heiß gebadet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/53-witze/">« Zurück zu Sprüche 5</a> &nbsp;|&nbsp; <span>Sprüche 6</span> &nbsp;|&nbsp; <a href="/55-witze/">Weiter zu Sprüche 7 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

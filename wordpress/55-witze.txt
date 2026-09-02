@@ -1,0 +1,1488 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/54-witze/">« Zurück zu Sprüche 6</a> &nbsp;|&nbsp; <span>Sprüche 7</span> &nbsp;|&nbsp; <a href="/56-witze/">Weiter zu Sprüche 8 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+ 
+<!-- wp:paragraph -->
+<p><strong>Sprüche</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort die Aussprache in eckigen Klammern direkt dahinter. :Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Túl sokáig voltál a napon? - Du warst wohl zu lange in der Sonne?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Túl sokáig voltál a napon?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Du warst wohl zu lange in der Sonne?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Így kell kifaggatni az embereket. - So fragt man Leute aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Így kell kifaggatni az embereket.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. So fragt man Leute aus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Tanárok - Lehrer</p>
+<p>2. Délelőtt igazuk van, délután szabadok. - Am Vormittag haben sie recht, am Nachmittag frei.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Reggel még igazuk van, délutánra már szabadidő jár. - Am Vormittag haben sie recht, am Nachmittag frei.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Tanárok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Délelőtt igazuk van, délután szabadok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Reggel még igazuk van, délutánra már szabadidő jár.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Lehrer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Am Vormittag haben sie recht, am Nachmittag frei.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Am Vormittag haben sie recht, am Nachmittag frei.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Két dolog végtelen: az univerzum és az emberi ostobaság. - Zwei Dinge sind unendlich: das Universum und die menschliche Dummheit.</p>
+<p>2. Az univerzummal kapcsolatban azonban nem vagyok teljesen biztos. - In Bezug auf das Universum bin ich mir jedoch nicht völlig sicher. (Albert Einstein)</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Két dolog tűnik végtelennek: a világegyetem és az emberi butaság. - Zwei Dinge scheinen unendlich zu sein, das Universum und die menschliche Dummheit.</p>
+<p>2. Az elsőnél azért vannak kétségeim. - Beim Ersteren bin ich etwas im Zweifel. (Albert Einstein)</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Végtelennek látszik az univerzum és az emberi hülyeség – bár az univerzum esetében nem vagyok teljesen meggyőződve. - Das Universum und die menschliche :Dummheit scheinen unendlich zu sein, obwohl ich beim Universum nicht ganz überzeugt bin.  (Albert Einstein)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Két dolog végtelen: az univerzum és az emberi ostobaság.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az univerzummal kapcsolatban azonban nem vagyok teljesen biztos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Két dolog tűnik végtelennek: a világegyetem és az emberi butaság.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az elsőnél azért vannak kétségeim.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Végtelennek látszik az univerzum és az emberi hülyeség – bár az univerzum esetében nem vagyok teljesen meggyőződve.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Dinge sind unendlich: das Universum und die menschliche Dummheit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. In Bezug auf das Universum bin ich mir jedoch nicht völlig sicher. (Albert Einstein)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Zwei Dinge scheinen unendlich zu sein, das Universum und die menschliche Dummheit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Beim Ersteren bin ich etwas im Zweifel. (Albert Einstein)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Das Universum und die menschliche :Dummheit scheinen unendlich zu sein, obwohl ich beim Universum nicht ganz überzeugt bin.  (Albert Einstein)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A rovarok közül leginkább az imádkozó sáskát csodálom. - Unter den Insekten bewundere ich am meisten die Gottesanbeterin.</p>
+<p>2. Párzás után megeszi a hímet, majd elfelejti. - Sie frisst nach der Paarung das Männchen auf und vergisst es.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A rovarvilágban számomra az imádkozó sáska a leglenyűgözőbb. - Für mich ist in der Insektenwelt die Gottesanbeterin am beeindruckendsten.</p>
+<p>2. A párzás után elfogyasztja a hímet, és továbblép. - Sie frisst nach der Paarung das Männchen auf und geht weiter.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Az összes rovar közül az imádkozó sáskát tisztelem a legjobban. - Unter allen Insekten achte ich Gottesanbeterin am meisten.</p>
+<p>2. Párzás után felfalja a hímet, majd elfelejti. - Nach der Paarung verschlingt sie das Männchen auf und vergisst es.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A rovarok közül leginkább az imádkozó sáskát csodálom.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Párzás után megeszi a hímet, majd elfelejti.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A rovarvilágban számomra az imádkozó sáska a leglenyűgözőbb.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A párzás után elfogyasztja a hímet, és továbblép.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az összes rovar közül az imádkozó sáskát tisztelem a legjobban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Párzás után felfalja a hímet, majd elfelejti.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Unter den Insekten bewundere ich am meisten die Gottesanbeterin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sie frisst nach der Paarung das Männchen auf und vergisst es.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Für mich ist in der Insektenwelt die Gottesanbeterin am beeindruckendsten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sie frisst nach der Paarung das Männchen auf und geht weiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Unter allen Insekten achte ich Gottesanbeterin am meisten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Nach der Paarung verschlingt sie das Männchen auf und vergisst es.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Sokan azt gondolják, hogy ha a feleségük rosszkedvű, akkor neki problémája van. - Viele denken, wenn ihre Frau schlecht gelaunt ist, dann hat sie Probleme.</p>
+<p>2. Valójában azonban nekik van problémájuk, ha a feleségük rosszkedvű. - In Wirklichkeit haben sie jedoch ein Problem, wenn ihre Frau schlecht gelaunt ist.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Sok férfi úgy véli (= vélekedik), hogy a rosszkedvű feleség problémás. - Viele glauben, eine schlecht gelaunte Frau problematisch ist.</p>
+<p>2. Az igazság az, hogy ilyenkor a férjnek van gondja. - Die Wahrheit ist, dass in solchen Fällen der Ehemann ein Problem hat.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Gyakori tévedés, hogy a feleség rossz hangulata az ő baja lenne. - Ein häufiger Irrtum ist, dass die schlechte Laune der Ehefrau ihr Problem ist sei.</p>
+<p>2. Pedig ilyenkor valójában a férj kerül bajba. - Und doch gerät in solchen Fällen in Wirklichkeit der Ehemann in Schwierigkeiten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Sokan azt gondolják, hogy ha a feleségük rosszkedvű, akkor neki problémája van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Valójában azonban nekik van problémájuk, ha a feleségük rosszkedvű.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Sok férfi úgy véli (= vélekedik), hogy a rosszkedvű feleség problémás.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az igazság az, hogy ilyenkor a férjnek van gondja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Gyakori tévedés, hogy a feleség rossz hangulata az ő baja lenne.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Pedig ilyenkor valójában a férj kerül bajba.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Viele denken, wenn ihre Frau schlecht gelaunt ist, dann hat sie Probleme.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. In Wirklichkeit haben sie jedoch ein Problem, wenn ihre Frau schlecht gelaunt ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Viele glauben, eine schlecht gelaunte Frau problematisch ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Wahrheit ist, dass in solchen Fällen der Ehemann ein Problem hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ein häufiger Irrtum ist, dass die schlechte Laune der Ehefrau ihr Problem ist sei.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Und doch gerät in solchen Fällen in Wirklichkeit der Ehemann in Schwierigkeiten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A szépség áldozatokat követel: én vagyok a szépség, a férfi pedig az áldozat. - Schönheit verlangt Opfer: Ich bin die Schönheit. Und der Mann ist das Opfer.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A szépségnek ára van: én képviselem a szépséget, és a férfi fizeti meg az árát. - Schönheit hat ihren Preis: Ich repräsentiere die Schönheit. Und der Mann bezahlt den Preis.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Ha a szépség áldozatot kíván, akkor én vagyok a szépség, a férfi pedig az áldozat. - Wenn die Schönheit ein Opfer verlangt, dann bin ich die Schönheit, und der Mann ist das Opfer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A szépség áldozatokat követel: én vagyok a szépség, a férfi pedig az áldozat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A szépségnek ára van: én képviselem a szépséget, és a férfi fizeti meg az árát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ha a szépség áldozatot kíván, akkor én vagyok a szépség, a férfi pedig az áldozat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Schönheit verlangt Opfer: Ich bin die Schönheit. Und der Mann ist das Opfer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Schönheit hat ihren Preis: Ich repräsentiere die Schönheit. Und der Mann bezahlt den Preis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn die Schönheit ein Opfer verlangt, dann bin ich die Schönheit, und der Mann ist das Opfer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Amit a buszon zsúfoltságnak neveznek, azt a kocsmában hangulatnak hívják. - Was man im Bus Überfüllung nennt, heißt in Kneipen Atmosphäre.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A buszon tömegnyomor, a kocsmában viszont jó atmoszféra. - Was man im Bus Überfüllung nennt, ist in der Kneipe Atmosphäre.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A buszban ez túlzsúfoltság, a kocsmában ugyanez már hangulat. - Im Bus ist das Überfüllung, in der Kneipe ist genau dasselbe schon Atmosphäre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Amit a buszon zsúfoltságnak neveznek, azt a kocsmában hangulatnak hívják.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A buszon tömegnyomor, a kocsmában viszont jó atmoszféra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A buszban ez túlzsúfoltság, a kocsmában ugyanez már hangulat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Was man im Bus Überfüllung nennt, heißt in Kneipen Atmosphäre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Was man im Bus Überfüllung nennt, ist in der Kneipe Atmosphäre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Im Bus ist das Überfüllung, in der Kneipe ist genau dasselbe schon Atmosphäre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 9</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Inkább legyen sörhasam az ivástól, mint púpos hátam a munkától. - Lieber einen Bierbauch vom Saufen, als einen Buckel vom Arbeiten.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Jobb az ivástól nőtt has, mint a munkától görbe hát. - Lieber einen Bauch vom Saufen gewachsenen Bauch, als einen Buckel vom Arbeiten.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Többre tartom az ivástól nőtt pocakot, mint a robotolástól kapott púpot. - Ich schätze den vom Trinken gewachsenen Bauch mehr, als einen Buckel vom Schuften.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Inkább legyen sörhasam az ivástól, mint púpos hátam a munkától.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Jobb az ivástól nőtt has, mint a munkától görbe hát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Többre tartom az ivástól nőtt pocakot, mint a robotolástól kapott púpot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Lieber einen Bierbauch vom Saufen, als einen Buckel vom Arbeiten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Lieber einen Bauch vom Saufen gewachsenen Bauch, als einen Buckel vom Arbeiten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ich schätze den vom Trinken gewachsenen Bauch mehr, als einen Buckel vom Schuften.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 10</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Az alkohol nem oldja meg a problémádat. - Alkohol löst nicht dein Problem.</p>
+<p>2. De alkohol nélkül sem oldódik meg. - Aber ohne Alkohol löst es sich auch nicht.</p>
+<p>3. Egészségedre! - Prost!</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Az alkohol nem jelent megoldást. - Alkohol ist keine Lösung.</p>
+<p>2. Viszont alkohol nélkül sincs megoldás. - Aber kein Alkohol ist auch keine Lösung.</p>
+<p>3. Egészségére! - Prosit!</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Az alkohol nem old meg semmit. - Alkohol löst nichts.</p>
+<p>2. De ha nincs alkohol, akkor sem oldódik meg. - Aber ohne Alkohol löst sich auch nicht.</p>
+<p>3. Egészségünkre! - Prost!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az alkohol nem oldja meg a problémádat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. De alkohol nélkül sem oldódik meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egészségedre!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az alkohol nem jelent megoldást.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Viszont alkohol nélkül sincs megoldás.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egészségére!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az alkohol nem old meg semmit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. De ha nincs alkohol, akkor sem oldódik meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egészségünkre!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Alkohol löst nicht dein Problem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aber ohne Alkohol löst es sich auch nicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Prost!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Alkohol ist keine Lösung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aber kein Alkohol ist auch keine Lösung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Prosit!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Alkohol löst nichts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aber ohne Alkohol löst sich auch nicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Prost!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 11</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Ne igyál alkoholt vezetés közben! - Trinke keinen Alkohol während der Fahrt.</p>
+<p>2. Egy kátyú, és máris mindent kilöttyentesz. - Ein Schlagloch und man verschüttet alles.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Nincs alkohol a volánnál! - Kein Alkohol am Steuer!</p>
+<p>2. Elég egy kátyú, és már megy is kárba az ital. - Ein Schlagloch reicht, und der Drink ist auch schon futsch.</p>
+<p>3. (kárba megy) - (fuccsba megy)</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Vezetés közben nincs alkohol! - Während des Fahrens kein Alkohol!</p>
+<p>2. Egyetlen úthiba, és máris kiöntöd az egészet. - Ein einziges Schlagloch und schon hast du alles verschütte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ne igyál alkoholt vezetés közben!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy kátyú, és máris mindent kilöttyentesz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nincs alkohol a volánnál!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Elég egy kátyú, és már megy is kárba az ital.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (kárba megy)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Vezetés közben nincs alkohol!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egyetlen úthiba, és máris kiöntöd az egészet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Trinke keinen Alkohol während der Fahrt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ein Schlagloch und man verschüttet alles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Kein Alkohol am Steuer!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ein Schlagloch reicht, und der Drink ist auch schon futsch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. (fuccsba megy)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Während des Fahrens kein Alkohol!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ein einziges Schlagloch und schon hast du alles verschütte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 12</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Mit számolnak a juhok, amikor el akarnak aludni? - Was zählen Schafe, wenn sie einschlafen wollen?</p>
+<p>2. Az embereket számolják? - Zählen sie Menschen?</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Mit számol egy birka elalvás előtt? - Was zählt ein Schaf vor dem Einschlafen?</p>
+<p>2. Juhász vagy juhászkutya? - Schäfer oder Schäferhunde?</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Mit számolnak a juhok, amikor álomba merülnek? - Was zählen Schafe, wenn sie einschlafen?</p>
+<p>2. (álomba merül) - (in den Traum eintauchen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Mit számolnak a juhok, amikor el akarnak aludni?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Az embereket számolják?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Mit számol egy birka elalvás előtt?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Juhász vagy juhászkutya?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Mit számolnak a juhok, amikor álomba merülnek?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (álomba merül)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Was zählen Schafe, wenn sie einschlafen wollen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Zählen sie Menschen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Was zählt ein Schaf vor dem Einschlafen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Schäfer oder Schäferhunde?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Was zählen Schafe, wenn sie einschlafen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. (in den Traum eintauchen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 13</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Aki fogyni szeretne, hagyja el az előételt, és a főétel helyett ne egyen desszertet! - Wer abnehmen möchte, soll die Vorspeise weglassen und statt des Hauptgerichts keinen Nachtisch nehmen!</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Fogyókúrához elég kihagyni az előételt, majd lemondani a főfogásról és a desszertről. - Für eine Schlankheitskur reicht es die Vorspeise wegzulassen und Hauptspeise und Nachtisch abzusagen.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Ha valaki le akar fogyni, ne egyen előételt, és a főételt is átugrani és a desszertet is. - Wenn jemand abnehmen möchte, sollte er keine Vorspeise essen und sowohl Hauptspeise als auch Nachtisch überspringen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Aki fogyni szeretne, hagyja el az előételt, és a főétel helyett ne egyen desszertet!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Fogyókúrához elég kihagyni az előételt, majd lemondani a főfogásról és a desszertről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ha valaki le akar fogyni, ne egyen előételt, és a főételt is átugrani és a desszertet is.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wer abnehmen möchte, soll die Vorspeise weglassen und statt des Hauptgerichts keinen Nachtisch nehmen!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Für eine Schlankheitskur reicht es die Vorspeise wegzulassen und Hauptspeise und Nachtisch abzusagen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn jemand abnehmen möchte, sollte er keine Vorspeise essen und sowohl Hauptspeise als auch Nachtisch überspringen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 14</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Az út a cél. - Der Weg ist das Ziel.</p>
+<p>2. A cél az útban áll. - Das Ziel steht im Weg.</p>
+<p>3. Az út nem a cél, hanem maga az út. - Der Weg ist nicht das Ziel, sondern der Weg.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Az út maga a cél. - Der Weg ist das Ziel.</p>
+<p>2. Csakhogy a cél útban van. - Aber das Ziel steht im Weg.</p>
+<p>3. Nem a cél számít, hanem az út. - Nicht das Ziel zählt, sondern der Weg.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Sokan mondják: az út a cél. - Viele sagen: Der Weg ist das Ziel.</p>
+<p>2. De a cél gyakran az út akadálya. - Aber das Ziel ist oft ein Hindernis für den Weg.</p>
+<p>3. Valójában nem a cél, hanem az út a lényeg. - Eigentlich ist nicht das Ziel, sondern der Weg die Hauptsache.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az út a cél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A cél az útban áll.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az út nem a cél, hanem maga az út.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Az út maga a cél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Csakhogy a cél útban van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Nem a cél számít, hanem az út.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Sokan mondják: az út a cél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. De a cél gyakran az út akadálya.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Valójában nem a cél, hanem az út a lényeg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Der Weg ist das Ziel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Das Ziel steht im Weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Weg ist nicht das Ziel, sondern der Weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Der Weg ist das Ziel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aber das Ziel steht im Weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Nicht das Ziel zählt, sondern der Weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Viele sagen: Der Weg ist das Ziel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Aber das Ziel ist oft ein Hindernis für den Weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Eigentlich ist nicht das Ziel, sondern der Weg die Hauptsache.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 15</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Undorodom a szegénységetektől. (Matrica egy Porsche-n.) - Eure Armut kotzt mich an. (Aufkleber auf einem Porsche)</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Hányingerem van a ti szegénységetektől. - Eure Armut kotzt mich an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Undorodom a szegénységetektől. (Matrica egy Porsche-n.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hányingerem van a ti szegénységetektől.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Eure Armut kotzt mich an. (Aufkleber auf einem Porsche)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Eure Armut kotzt mich an.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/54-witze/">« Zurück zu Sprüche 6</a> &nbsp;|&nbsp; <span>Sprüche 7</span> &nbsp;|&nbsp; <a href="/56-witze/">Weiter zu Sprüche 8 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
