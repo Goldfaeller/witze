@@ -1147,14 +1147,21 @@
   "nr": 128,
   "art": "",
   "dt": [
-   "Die Mutigen leben nicht lange. Aber die Feigen leben überhaupt nicht.",
-   "--",
-   "Der Abteilungsleiter ist in den Urlaub gefahren und die ganze Abteilung hat sich erholt."
+   "Die Mutigen leben nicht lange.",
+   "Aber die Feigen leben überhaupt nicht."
   ],
   "ung": []
  },
  {
   "nr": 129,
+  "art": "",
+  "dt": [
+   "Der Abteilungsleiter ist in den Urlaub gefahren und die ganze Abteilung hat sich erholt."
+  ],
+  "ung": []
+ },
+ {
+  "nr": 130,
   "art": "",
   "dt": [
    "„Was ist mit deinen Problemen?“",
@@ -1165,7 +1172,7 @@
   "ung": []
  },
  {
-  "nr": 130,
+  "nr": 131,
   "art": "",
   "dt": [
    "Das Leben ist wie Radfahren: Wenn es dir schwer fällt, dann bedeutet das, dass es bergauf geht."
@@ -1173,7 +1180,7 @@
   "ung": []
  },
  {
-  "nr": 131,
+  "nr": 132,
   "art": "",
   "dt": [
    "Schokolade stellt dir keine dummen Fragen.",
@@ -1182,11 +1189,18 @@
   "ung": []
  },
  {
-  "nr": 132,
+  "nr": 133,
   "art": "",
   "dt": [
-   "Die Welt ist voller netter Menschen. Wenn du keinen finden kannst dann sei einer.",
-   "--",
+   "Die Welt ist voller netter Menschen.",
+   "Wenn du keinen finden kannst dann sei einer."
+  ],
+  "ung": []
+ },
+ {
+  "nr": 134,
+  "art": "",
+  "dt": [
    "„Die Jungs von Heute weinen nicht.“",
    "- „Warum?“",
    "„Weil sei Angst haben, dass ihnen die Wimperntusche verschmiert.“"
@@ -1194,7 +1208,7 @@
   "ung": []
  },
  {
-  "nr": 133,
+  "nr": 135,
   "art": "",
   "dt": [
    "Klein zu sein ist in Ordnung.",
@@ -1203,7 +1217,7 @@
   "ung": []
  },
  {
-  "nr": 134,
+  "nr": 136,
   "art": "",
   "dt": [
    "Folge nicht der Mehrheit, sondern dem richtigen Weg."
@@ -1211,7 +1225,7 @@
   "ung": []
  },
  {
-  "nr": 135,
+  "nr": 137,
   "art": "",
   "dt": [
    "„Mama, wie hast Du Papa kennen gelernt?“",
@@ -1221,7 +1235,7 @@
   "ung": []
  },
  {
-  "nr": 136,
+  "nr": 138,
   "art": "",
   "dt": [
    "Es ist schon alles gesagt was es dazu zu sagen gibt, aber nicht von mir."
@@ -1229,7 +1243,7 @@
   "ung": []
  },
  {
-  "nr": 137,
+  "nr": 139,
   "art": "",
   "dt": [
    "Der Arzt hat mir wegen meiner Lungen Meeresluft empfohlen.",
@@ -1238,20 +1252,26 @@
   "ung": []
  },
  {
-  "nr": 138,
+  "nr": 140,
   "art": "",
   "dt": [
    "Überprüfe nochmals deine Worte, bevor du sie aussprichst:",
    "sind sie wahr?",
    "sind sie notwendig?",
-   "sind sie freundlich?",
-   "--",
+   "sind sie freundlich?"
+  ],
+  "ung": []
+ },
+ {
+  "nr": 141,
+  "art": "",
+  "dt": [
    "Wir hängen an der Vergangenheit weil wir der Zukunft nicht trauen."
   ],
   "ung": []
  },
  {
-  "nr": 139,
+  "nr": 142,
   "art": "",
   "dt": [
    "Ich liebe es einer vollendet vorgetragenen Lüge zu lauschen, wenn ich doch die Wahrheit kenne."
@@ -1259,7 +1279,7 @@
   "ung": []
  },
  {
-  "nr": 140,
+  "nr": 143,
   "art": "",
   "dt": [
    "„Mein Sohn, heirate nie eine schöne Frau, denn sie könnt dich verlassen!“",
@@ -1269,7 +1289,7 @@
   "ung": []
  },
  {
-  "nr": 141,
+  "nr": 144,
   "art": "",
   "dt": [
    "Ich habe so viel über die Schädlichkeit von Alkohol gelesen, dass ich beschlossen habe ab morgen das Lesen aufzugeben."
@@ -1277,7 +1297,7 @@
   "ung": []
  },
  {
-  "nr": 142,
+  "nr": 145,
   "art": "",
   "dt": [
    "Wenn ich träume, dann versage ich mir keinen noch so großen Wunsch."
@@ -1285,7 +1305,7 @@
   "ung": []
  },
  {
-  "nr": 143,
+  "nr": 146,
   "art": "",
   "dt": [
    "Du hast die Wahl und musst dich entscheiden:",
@@ -1295,7 +1315,7 @@
   "ung": []
  },
  {
-  "nr": 144,
+  "nr": 147,
   "art": "",
   "dt": [
    "Familie - das ist wenn man an den Schritten erkennt wer kommt."
@@ -1303,7 +1323,7 @@
   "ung": []
  },
  {
-  "nr": 145,
+  "nr": 148,
   "art": "",
   "dt": [
    "Familienstatut:",
@@ -1316,7 +1336,7 @@
   "ung": []
  },
  {
-  "nr": 146,
+  "nr": 149,
   "art": "",
   "dt": [
    "Es gibt nicht schwereres als leichter zu werde."
@@ -1324,7 +1344,7 @@
   "ung": []
  },
  {
-  "nr": 147,
+  "nr": 150,
   "art": "",
   "dt": [
    "Lebe so als ob du morgen sterben wirst.",
@@ -1333,7 +1353,7 @@
   "ung": []
  },
  {
-  "nr": 148,
+  "nr": 151,
   "art": "",
   "dt": [
    "Sein Alter kann man einfach verbergen.",
@@ -1342,7 +1362,7 @@
   "ung": []
  },
  {
-  "nr": 149,
+  "nr": 152,
   "art": "",
   "dt": [
    "Die Frau sagt immer die Wahrheit.",
@@ -1353,7 +1373,7 @@
   "ung": []
  },
  {
-  "nr": 150,
+  "nr": 153,
   "art": "",
   "dt": [
    "„Angeklagte, warum habe Sie die Bank ausgeraubt?“",
@@ -1362,7 +1382,7 @@
   "ung": []
  },
  {
-  "nr": 151,
+  "nr": 154,
   "art": "",
   "dt": [
    "„Doktor, ich habe ein Problem: jeden Morgen, Punkt 8, pinkle ich.“",
@@ -1372,7 +1392,7 @@
   "ung": []
  },
  {
-  "nr": 152,
+  "nr": 155,
   "art": "",
   "dt": [
    "Drei Dinge muss man geheim halten:",
@@ -1383,7 +1403,7 @@
   "ung": []
  },
  {
-  "nr": 153,
+  "nr": 156,
   "art": "",
   "dt": [
    "Ich bewundere meine Kollegin.",
@@ -1392,7 +1412,7 @@
   "ung": []
  },
  {
-  "nr": 154,
+  "nr": 157,
   "art": "",
   "dt": [
    "Um etwas nicht zu verlieren muss man es schätzen."
@@ -1400,7 +1420,7 @@
   "ung": []
  },
  {
-  "nr": 155,
+  "nr": 158,
   "art": "",
   "dt": [
    "Du kannst nicht zurückgehen und den Anfang ändern.",
@@ -1409,7 +1429,7 @@
   "ung": []
  },
  {
-  "nr": 156,
+  "nr": 159,
   "art": "",
   "dt": [
    "Je besser ich die Menschen kenne, um so mehr gefallen mir die Hunde.",
@@ -1418,7 +1438,7 @@
   "ung": []
  },
  {
-  "nr": 157,
+  "nr": 160,
   "art": "",
   "dt": [
    "Glaube nicht alles was Du denkst!"
@@ -1426,7 +1446,7 @@
   "ung": []
  },
  {
-  "nr": 158,
+  "nr": 161,
   "art": "",
   "dt": [
    "Polizist: „Alles was Sie sagen kann und wird gegen Sie verwendet werden.“",
@@ -1435,7 +1455,7 @@
   "ung": []
  },
  {
-  "nr": 159,
+  "nr": 162,
   "art": "",
   "dt": [
    "Lieber Optimist, lieber Pessimist, lieber Realist!",
@@ -1446,7 +1466,7 @@
   "ung": []
  },
  {
-  "nr": 160,
+  "nr": 163,
   "art": "",
   "dt": [
    "Ich wollte gestern Abend etwas ganz besonderes kochen, mit einer leckeren Rotweinsoße.",
@@ -1455,7 +1475,7 @@
   "ung": []
  },
  {
-  "nr": 161,
+  "nr": 164,
   "art": "",
   "dt": [
    "Zwei Gründe warum ich dick bin:",
@@ -1465,7 +1485,7 @@
   "ung": []
  },
  {
-  "nr": 162,
+  "nr": 165,
   "art": "",
   "dt": [
    "Deine Kinder werden so werden wie Du bist.",
@@ -1474,7 +1494,7 @@
   "ung": []
  },
  {
-  "nr": 163,
+  "nr": 166,
   "art": "",
   "dt": [
    "Das erste Date:",
@@ -1484,7 +1504,7 @@
   "ung": []
  },
  {
-  "nr": 164,
+  "nr": 167,
   "art": "",
   "dt": [
    "Lächle heute!",
@@ -1493,7 +1513,7 @@
   "ung": []
  },
  {
-  "nr": 165,
+  "nr": 168,
   "art": "",
   "dt": [
    "Wenn Du keinen Weg finden kannst, dann erschaffe einen."
@@ -1501,7 +1521,7 @@
   "ung": []
  },
  {
-  "nr": 166,
+  "nr": 169,
   "art": "",
   "dt": [
    "Nur zwei Dinge können die Stimmung einer Frau ändern:",
@@ -1511,7 +1531,7 @@
   "ung": []
  },
  {
-  "nr": 167,
+  "nr": 170,
   "art": "",
   "dt": [
    "Gewinner konzentrieren sich auf den Sieg.",
@@ -1520,7 +1540,7 @@
   "ung": []
  },
  {
-  "nr": 168,
+  "nr": 171,
   "art": "",
   "dt": [
    "Arzt zum Patienten: Auf Ihrem Röntgenbild ist eine gebrochene Rippe zu sehen, aber wir haben es mit Photoshop wegbekommen.",
@@ -1532,7 +1552,7 @@
   "ung": []
  },
  {
-  "nr": 169,
+  "nr": 172,
   "art": "",
   "dt": [
    "Nichts bringt Dich so sehr um wie Deine Gedanken."
@@ -1540,7 +1560,7 @@
   "ung": []
  },
  {
-  "nr": 170,
+  "nr": 173,
   "art": "",
   "dt": [
    "Wahre Weisheit erlangen wir erst, wenn wir begriffen haben wie wenig wir verstehen über das Leben, uns selber und die Welt um uns herum. (Sokrates)"
@@ -1548,7 +1568,7 @@
   "ung": []
  },
  {
-  "nr": 171,
+  "nr": 174,
   "art": "",
   "dt": [
    "Ein Moment Geduld in einem Moment des Ärgers spart die Hundert Momente des Bedauerns."
@@ -1556,7 +1576,7 @@
   "ung": []
  },
  {
-  "nr": 172,
+  "nr": 175,
   "art": "",
   "dt": [
    "„Was ist Deine Lieblingsfarbe?“",
@@ -1567,7 +1587,7 @@
   "ung": []
  },
  {
-  "nr": 173,
+  "nr": 176,
   "art": "",
   "dt": [
    "Ein schönes Leben fängt mit schönen Gedanken an."
@@ -1575,7 +1595,7 @@
   "ung": []
  },
  {
-  "nr": 174,
+  "nr": 177,
   "art": "",
   "dt": [
    "Ich korrigiere die Autokorrektur mehr, als die Autokorrektur mich korrigiert."
@@ -1583,7 +1603,7 @@
   "ung": []
  },
  {
-  "nr": 175,
+  "nr": 178,
   "art": "",
   "dt": [
    "Als ich ein Junge war hat mich meine Mutter mit einem Dollar zum Laden an der Ecke geschickt und ich kam zurück mit 5 Kartoffeln, 2 Laib Brot, 3 Flaschen Milch, einem großen Stück Käse, einer Schachtel Tee und 6 Eiern.",
@@ -1593,7 +1613,7 @@
   "ung": []
  },
  {
-  "nr": 176,
+  "nr": 179,
   "art": "",
   "dt": [
    "Wie sagt meine Nachbarin so schön: Nur die Faulen heiraten nur einmal."
@@ -1601,7 +1621,7 @@
   "ung": []
  },
  {
-  "nr": 177,
+  "nr": 180,
   "art": "",
   "dt": [
    "Erfolg ist - wenn du neun mal hingefallen bist, aber zehn mal aufgestanden bist."
@@ -1609,7 +1629,7 @@
   "ung": []
  },
  {
-  "nr": 178,
+  "nr": 181,
   "art": "",
   "dt": [
    "Ein Kind auf dem Spielplatz rennt zur Mutter, mit einem Hundehaufen in der Hand: „Schau mal Mama, ich wäre fast in das hier reingetreten.“"
@@ -1617,7 +1637,7 @@
   "ung": []
  },
  {
-  "nr": 179,
+  "nr": 182,
   "art": "",
   "dt": [
    "Warum heiraten?",
@@ -1626,7 +1646,7 @@
   "ung": []
  },
  {
-  "nr": 180,
+  "nr": 183,
   "art": "",
   "dt": [
    "Die Jugend endet, wenn der Kosmetikschrank zum Apothekenschrank wird.",
@@ -1637,7 +1657,7 @@
   "ung": []
  },
  {
-  "nr": 181,
+  "nr": 184,
   "art": "",
   "dt": [
    "Frühstücke wie eine Königin.",
@@ -1649,7 +1669,7 @@
   "ung": []
  },
  {
-  "nr": 182,
+  "nr": 185,
   "art": "",
   "dt": [
    "Du wirst immer mein bester Freund sein - Du weißt zu viel von mir."
@@ -1657,7 +1677,7 @@
   "ung": []
  },
  {
-  "nr": 183,
+  "nr": 186,
   "art": "",
   "dt": [
    "Früher war die Zukunft besser."
@@ -1665,7 +1685,7 @@
   "ung": []
  },
  {
-  "nr": 184,
+  "nr": 187,
   "art": "",
   "dt": [
    "Glaubt nicht dem, der im Fernsehen ist, sondern dem, was im Kühlschrank ist."
@@ -1673,7 +1693,7 @@
   "ung": []
  },
  {
-  "nr": 185,
+  "nr": 188,
   "art": "",
   "dt": [
    "Man kann sein Leben nicht von Neuem anfangen, aber man kann es anders fortsetzen."
@@ -1681,7 +1701,7 @@
   "ung": []
  },
  {
-  "nr": 186,
+  "nr": 189,
   "art": "",
   "dt": [
    "Die Tabletten gegen Hunger heißen „Frikadellen“."
@@ -1689,7 +1709,7 @@
   "ung": []
  },
  {
-  "nr": 187,
+  "nr": 190,
   "art": "",
   "dt": [
    "Es gibt keinen Schlüssel zum Glück.",
@@ -1698,7 +1718,7 @@
   "ung": []
  },
  {
-  "nr": 188,
+  "nr": 191,
   "art": "",
   "dt": [
    "Wie übersetzt man aus dem Englischen „I don't know.“",
@@ -1708,7 +1728,7 @@
   "ung": []
  },
  {
-  "nr": 189,
+  "nr": 192,
   "art": "",
   "dt": [
    "Gestern bin ich schon wieder erst heute ins Bett gegangen."
@@ -1716,7 +1736,7 @@
   "ung": []
  },
  {
-  "nr": 190,
+  "nr": 193,
   "art": "",
   "dt": [
    "Machen ist wie Wollen, nur krasser."
@@ -1724,7 +1744,7 @@
   "ung": []
  },
  {
-  "nr": 191,
+  "nr": 194,
   "art": "",
   "dt": [
    "Wenn es Dich glücklich macht - mach es öfter."
@@ -1732,7 +1752,7 @@
   "ung": []
  },
  {
-  "nr": 192,
+  "nr": 195,
   "art": "",
   "dt": [
    "Nur wer gegen den Strom schwimmt, kommt an die Quelle."
@@ -1740,7 +1760,7 @@
   "ung": []
  },
  {
-  "nr": 193,
+  "nr": 196,
   "art": "",
   "dt": [
    "Wenn man vom Teufel spricht, dann kommt er gelaufen.",
@@ -1752,7 +1772,7 @@
   "ung": []
  },
  {
-  "nr": 194,
+  "nr": 197,
   "art": "",
   "dt": [
    "„Sie haben eine Lücke im Lebenslauf.“",
@@ -1762,7 +1782,7 @@
   "ung": []
  },
  {
-  "nr": 195,
+  "nr": 198,
   "art": "",
   "dt": [
    "Du hast drei Möglichkeiten im Leben: aufgeben, nachgeben oder alles geben."
@@ -1770,7 +1790,7 @@
   "ung": []
  },
  {
-  "nr": 196,
+  "nr": 199,
   "art": "",
   "dt": [
    "Es ist kein Zeichen geistiger Gesundheit, gut angepasst an eine kranke Gesellschaft zu sein."
@@ -1778,7 +1798,7 @@
   "ung": []
  },
  {
-  "nr": 197,
+  "nr": 200,
   "art": "",
   "dt": [
    "Ach wie gut, dass jeder weiß, Liebe ist der geilste Scheiß."
@@ -1786,7 +1806,7 @@
   "ung": []
  },
  {
-  "nr": 198,
+  "nr": 201,
   "art": "",
   "dt": [
    "Stell Dir vor Deine große Liebe läuft vorbei Du schaust gerade auf Dein SMARTPHONE!"
@@ -1794,7 +1814,7 @@
   "ung": []
  },
  {
-  "nr": 199,
+  "nr": 202,
   "art": "",
   "dt": [
    "Dieser Tag kann Spuren von Nüssen enthalten."
@@ -1802,7 +1822,7 @@
   "ung": []
  },
  {
-  "nr": 200,
+  "nr": 203,
   "art": "",
   "dt": [
    "Heute schon gelebt?"
@@ -1810,7 +1830,7 @@
   "ung": []
  },
  {
-  "nr": 201,
+  "nr": 204,
   "art": "",
   "dt": [
    "Natürlich spreche ich mit mir selbst.",
@@ -1819,7 +1839,7 @@
   "ung": []
  },
  {
-  "nr": 202,
+  "nr": 205,
   "art": "",
   "dt": [
    "Fassungslosigkeit, Hilflosigkeit, Trauer, Hass, Panik, Atemnot, Schwindelgefühle.",
@@ -1828,7 +1848,7 @@
   "ung": []
  },
  {
-  "nr": 203,
+  "nr": 206,
   "art": "",
   "dt": [
    "Wo immer Sonne scheint ist meistens Wüste."
@@ -1836,7 +1856,7 @@
   "ung": []
  },
  {
-  "nr": 204,
+  "nr": 207,
   "art": "",
   "dt": [
    "Schild in einer Gaststätte: Unbeaufsichtigte Kinder bekommen einen Hundewelpen und einen doppelten Espresso geschenkt."
@@ -1844,7 +1864,7 @@
   "ung": []
  },
  {
-  "nr": 205,
+  "nr": 208,
   "art": "",
   "dt": [
    "Ich ergebe keinen Sinn."
@@ -1852,7 +1872,7 @@
   "ung": []
  },
  {
-  "nr": 206,
+  "nr": 209,
   "art": "",
   "dt": [
    "Ein Diamant ist ein Stück Kohle, das Ausdauer hat."
@@ -1860,7 +1880,7 @@
   "ung": []
  },
  {
-  "nr": 207,
+  "nr": 210,
   "art": "",
   "dt": [
    "Schlussstriche zieht man nicht mit Bleistiften."
@@ -1868,7 +1888,7 @@
   "ung": []
  },
  {
-  "nr": 208,
+  "nr": 211,
   "art": "",
   "dt": [
    "Hol den Wein, wir müssen über Gefühle reden."
@@ -1876,7 +1896,7 @@
   "ung": []
  },
  {
-  "nr": 209,
+  "nr": 212,
   "art": "",
   "dt": [
    "Mir reicht, wenn ich weiß, dass ich könnte, wenn ich wollte."
@@ -1884,7 +1904,7 @@
   "ung": []
  },
  {
-  "nr": 210,
+  "nr": 213,
   "art": "",
   "dt": [
    "Schneeschaufeln während es schneit, ist wie aufräumen während die Kinder im Haus sind."
@@ -1892,7 +1912,7 @@
   "ung": []
  },
  {
-  "nr": 211,
+  "nr": 214,
   "art": "",
   "dt": [
    "Umwege erweitern die Ortskenntnis."
@@ -1900,7 +1920,7 @@
   "ung": []
  },
  {
-  "nr": 212,
+  "nr": 215,
   "art": "",
   "dt": [
    "Kleider machen Leute, aber das Herz macht den Menschen!"
@@ -1908,7 +1928,7 @@
   "ung": []
  },
  {
-  "nr": 213,
+  "nr": 216,
   "art": "",
   "dt": [
    "Freut euch nicht zu spät!"
@@ -1916,7 +1936,7 @@
   "ung": []
  },
  {
-  "nr": 214,
+  "nr": 217,
   "art": "",
   "dt": [
    "Im Laufe der Jahre begriff ich, dass es unmöglich ist, allen zu gefallen.",
@@ -1926,7 +1946,7 @@
   "ung": []
  },
  {
-  "nr": 215,
+  "nr": 218,
   "art": "",
   "dt": [
    "Mit dem Wissen von heute, hätte ich gestern andere Fehler gemacht."
@@ -1934,7 +1954,7 @@
   "ung": []
  },
  {
-  "nr": 216,
+  "nr": 219,
   "art": "",
   "dt": [
    "Neue Wege entstehen beim Gehen."
@@ -1942,7 +1962,7 @@
   "ung": []
  },
  {
-  "nr": 217,
+  "nr": 220,
   "art": "",
   "dt": [
    "Es heißt „Guten Morgen“, weil „halt die Fresse und geh sterben“ gesellschaftlich nicht so akzeptiert ist."
@@ -1950,7 +1970,7 @@
   "ung": []
  },
  {
-  "nr": 218,
+  "nr": 221,
   "art": "",
   "dt": [
    "Sturm ist erst, wenn die Schafe keine Locken mehr haben."
@@ -1958,7 +1978,7 @@
   "ung": []
  },
  {
-  "nr": 219,
+  "nr": 222,
   "art": "",
   "dt": [
    "Vom Mond aus betrachtet spielt das ganze gar keine so große Rolle."
@@ -1966,7 +1986,7 @@
   "ung": []
  },
  {
-  "nr": 220,
+  "nr": 223,
   "art": "",
   "dt": [
    "Mit leerem Kopf nickt es sich leichter."
@@ -1974,7 +1994,7 @@
   "ung": []
  },
  {
-  "nr": 221,
+  "nr": 224,
   "art": "",
   "dt": [
    "Wer schweig, stimmt nicht immer zu.",
@@ -1983,7 +2003,7 @@
   "ung": []
  },
  {
-  "nr": 222,
+  "nr": 225,
   "art": "",
   "dt": [
    "Wer zu sich selbst finden will, darf andere nicht nach dem Weg fragen."
@@ -1991,7 +2011,7 @@
   "ung": []
  },
  {
-  "nr": 223,
+  "nr": 226,
   "art": "",
   "dt": [
    "Merke: Was dich nicht glücklich macht, kann weg."
@@ -1999,7 +2019,7 @@
   "ung": []
  },
  {
-  "nr": 224,
+  "nr": 227,
   "art": "",
   "dt": [
    "Lange Rede, kurzer Sinn. Ich bin auf Arbeit, der Tag ist dahin.",
@@ -2008,7 +2028,7 @@
   "ung": []
  },
  {
-  "nr": 225,
+  "nr": 228,
   "art": "",
   "dt": [
    "„Du hast Übergewicht.“",
@@ -2017,7 +2037,7 @@
   "ung": []
  },
  {
-  "nr": 226,
+  "nr": 229,
   "art": "",
   "dt": [
    "Die halbe Wahrheit - ist eine Lüge."
@@ -2025,7 +2045,7 @@
   "ung": []
  },
  {
-  "nr": 227,
+  "nr": 230,
   "art": "",
   "dt": [
    "In meinem Kopf ist mein Leben viel interessanter."
@@ -2033,7 +2053,7 @@
   "ung": []
  },
  {
-  "nr": 228,
+  "nr": 231,
   "art": "",
   "dt": [
    "Auf einen groben Klotz gehört ein grober Keil."
@@ -2041,7 +2061,7 @@
   "ung": []
  },
  {
-  "nr": 229,
+  "nr": 232,
   "art": "",
   "dt": [
    "Wie du mir, so ich dir."
@@ -2049,7 +2069,7 @@
   "ung": []
  },
  {
-  "nr": 230,
+  "nr": 233,
   "art": "",
   "dt": [
    "Wie man in den Wald hineinruft, so schallt es heraus."
@@ -2057,7 +2077,7 @@
   "ung": []
  },
  {
-  "nr": 231,
+  "nr": 234,
   "art": "",
   "dt": [
    "Was du nicht willst das man dir tut, das tue auch den andern nicht."
@@ -2065,7 +2085,7 @@
   "ung": []
  },
  {
-  "nr": 232,
+  "nr": 235,
   "art": "",
   "dt": [
    "Darf man 30-Grad-Wäsche eigentlich bei 40 Grad aufhängen?"
@@ -2073,7 +2093,7 @@
   "ung": []
  },
  {
-  "nr": 233,
+  "nr": 236,
   "art": "",
   "dt": [
    "Wer sich den Gesetzen nicht fügen will, muss die Gegend verlassen wo sie gelten."
@@ -2081,7 +2101,7 @@
   "ung": []
  },
  {
-  "nr": 234,
+  "nr": 237,
   "art": "",
   "dt": [
    "Nicht jeder Frosch ist ein verwunschener Prinz.",
@@ -2094,7 +2114,7 @@
   "ung": []
  },
  {
-  "nr": 235,
+  "nr": 238,
   "art": "",
   "dt": [
    "Man kann nicht tiefer fallen als in Gottes Hand."
@@ -2102,7 +2122,7 @@
   "ung": []
  },
  {
-  "nr": 236,
+  "nr": 239,
   "art": "",
   "dt": [
    "Eine Party ohne Champagner ist nur ein Meeting."
@@ -2110,7 +2130,7 @@
   "ung": []
  },
  {
-  "nr": 237,
+  "nr": 240,
   "art": "",
   "dt": [
    "Freiheit ist das Recht dem Anderen das zu sagen, was er nicht hören will."
@@ -2118,7 +2138,7 @@
   "ung": []
  },
  {
-  "nr": 238,
+  "nr": 241,
   "art": "",
   "dt": [
    "Kuchen hat wenig Vitamine, deshalb muss man viel davon essen."
@@ -2126,7 +2146,7 @@
   "ung": []
  },
  {
-  "nr": 239,
+  "nr": 242,
   "art": "",
   "dt": [
    "Lehrjahre sind keine Herrenjahre."
@@ -2134,7 +2154,7 @@
   "ung": []
  },
  {
-  "nr": 240,
+  "nr": 243,
   "art": "",
   "dt": [
    "„Welche Nuss ist am ungesündesten?“",
@@ -2143,7 +2163,7 @@
   "ung": []
  },
  {
-  "nr": 241,
+  "nr": 244,
   "art": "",
   "dt": [
    "Ich gebe gute Ratschläge gern weiter.",
@@ -2152,7 +2172,7 @@
   "ung": []
  },
  {
-  "nr": 242,
+  "nr": 245,
   "art": "",
   "dt": [
    "Wer billig kauft, kauft zwei mal."
@@ -2160,7 +2180,7 @@
   "ung": []
  },
  {
-  "nr": 243,
+  "nr": 246,
   "art": "",
   "dt": [
    "Alle reden vom Wetter, aber keiner unternimmt was dagegen."
@@ -2168,7 +2188,7 @@
   "ung": []
  },
  {
-  "nr": 244,
+  "nr": 247,
   "art": "",
   "dt": [
    "In der Hoffnung überspringt die Seele die Wirklichkeit."
@@ -2176,7 +2196,7 @@
   "ung": []
  },
  {
-  "nr": 245,
+  "nr": 248,
   "art": "",
   "dt": [
    "Das Glück bevorzugt den, der vorbereitet ist."
@@ -2184,7 +2204,7 @@
   "ung": []
  },
  {
-  "nr": 246,
+  "nr": 249,
   "art": "",
   "dt": [
    "Das Gegenteil von Böse ist nicht automatisch gut.",
@@ -2193,7 +2213,7 @@
   "ung": []
  },
  {
-  "nr": 247,
+  "nr": 250,
   "art": "",
   "dt": [
    "„Stimmt es, dass alle Kriege wegen Frauen geführt werden?“",
@@ -2203,7 +2223,7 @@
   "ung": []
  },
  {
-  "nr": 248,
+  "nr": 251,
   "art": "",
   "dt": [
    "Ich bin noch aus der Generation als es noch doppelt so viel Kinder gab wie Autos.",
@@ -2215,7 +2235,7 @@
   "ung": []
  },
  {
-  "nr": 249,
+  "nr": 252,
   "art": "",
   "dt": [
    "Ich habe beschlossen nicht zu heiraten.",
@@ -2224,7 +2244,7 @@
   "ung": []
  },
  {
-  "nr": 250,
+  "nr": 253,
   "art": "",
   "dt": [
    "Die 4jährige Tochter zu ihrem Vater: „Schrei mich nicht an, ich bin nicht deine Frau!“"
@@ -2232,7 +2252,7 @@
   "ung": []
  },
  {
-  "nr": 251,
+  "nr": 254,
   "art": "",
   "dt": [
    "Es gibt ein Medikament gegen Dummheit: Lest Bücher!"
@@ -2240,7 +2260,7 @@
   "ung": []
  },
  {
-  "nr": 252,
+  "nr": 255,
   "art": "",
   "dt": [
    "„Ich habe das Gefühl, dass sich mit den Jahren die Männer immer mehr für mich interessieren.“",
@@ -2249,7 +2269,7 @@
   "ung": []
  },
  {
-  "nr": 253,
+  "nr": 256,
   "art": "",
   "dt": [
    "Das Wissen, dass die Qualle 650 Millionen Jahre ohne Gehirn überleben konnte, gibt vielen Menschen Hoffnung."
@@ -2257,7 +2277,7 @@
   "ung": []
  },
  {
-  "nr": 254,
+  "nr": 257,
   "art": "",
   "dt": [
    "Die einzigen beiden Tage im Jahr, an denen man sein Leben nicht verändern kann sind:",
@@ -2266,7 +2286,7 @@
   "ung": []
  },
  {
-  "nr": 255,
+  "nr": 258,
   "art": "",
   "dt": [
    "„Wie haben sie es geschafft 120 Jahre alt zu werden.“",
@@ -2277,7 +2297,7 @@
   "ung": []
  },
  {
-  "nr": 256,
+  "nr": 259,
   "art": "",
   "dt": [
    "Die „Idioten“ sind die mächtigste Organisation auf der Welt.",
@@ -2286,7 +2306,7 @@
   "ung": []
  },
  {
-  "nr": 257,
+  "nr": 260,
   "art": "",
   "dt": [
    "„Sie sind so blass. Sie müssen zum Arzt.“ - „Nein, ich muss ans Meer.“",
@@ -2295,7 +2315,7 @@
   "ung": []
  },
  {
-  "nr": 258,
+  "nr": 261,
   "art": "",
   "dt": [
    "Der erste Schritt zur Unwissenheit ist anzunehmen, dass man es schon weiß."
@@ -2303,7 +2323,7 @@
   "ung": []
  },
  {
-  "nr": 259,
+  "nr": 262,
   "art": "",
   "dt": [
    "Nur wer gegen den Strom schwimmt, der gelangt zur Quelle."
@@ -2311,7 +2331,7 @@
   "ung": []
  },
  {
-  "nr": 260,
+  "nr": 263,
   "art": "",
   "dt": [
    "Nur tote Fische schwimmen mit dem Strom."
@@ -2319,7 +2339,7 @@
   "ung": []
  },
  {
-  "nr": 261,
+  "nr": 264,
   "art": "",
   "dt": [
    "„Liebling, bevor wir morgen heiraten möchte ich dir meine alten Sünden beichten.“",
@@ -2329,7 +2349,7 @@
   "ung": []
  },
  {
-  "nr": 262,
+  "nr": 265,
   "art": "",
   "dt": [
    "Das was wir sehen hängt davon ab wie wir gucken."
@@ -2337,7 +2357,7 @@
   "ung": []
  },
  {
-  "nr": 263,
+  "nr": 266,
   "art": "",
   "dt": [
    "Treffen sich zwei Cowboys.",
@@ -2347,7 +2367,7 @@
   "ung": []
  },
  {
-  "nr": 264,
+  "nr": 267,
   "art": "",
   "dt": [
    "Das Leben ist sehr kompliziert.",
@@ -2357,7 +2377,7 @@
   "ung": []
  },
  {
-  "nr": 265,
+  "nr": 268,
   "art": "",
   "dt": [
    "Weibliche Logik:",
@@ -2369,7 +2389,7 @@
   "ung": []
  },
  {
-  "nr": 266,
+  "nr": 269,
   "art": "",
   "dt": [
    "Du denkst, dass du einmalig bist, bis du einen Benutzernamen wählen musst."
@@ -2377,7 +2397,7 @@
   "ung": []
  },
  {
-  "nr": 267,
+  "nr": 270,
   "art": "",
   "dt": [
    "„Hast du einen Traum?“",
@@ -2388,7 +2408,7 @@
   "ung": []
  },
  {
-  "nr": 268,
+  "nr": 271,
   "art": "",
   "dt": [
    "Leichte Begriffsstutzigkeit macht den Menschen praktisch unverwundbar.",
@@ -2397,7 +2417,7 @@
   "ung": []
  },
  {
-  "nr": 269,
+  "nr": 272,
   "art": "",
   "dt": [
    "„Warum hackst du das Holz im Sitzen?“",
@@ -2406,7 +2426,7 @@
   "ung": []
  },
  {
-  "nr": 270,
+  "nr": 273,
   "art": "",
   "dt": [
    "So lange der Mensch Schmerzen fühlt lebt er.",
@@ -2415,7 +2435,7 @@
   "ung": []
  },
  {
-  "nr": 271,
+  "nr": 274,
   "art": "",
   "dt": [
    "Wenn sich ein Mann für Napoleon oder für einen Marsmenschen hält, dann wird er behandelt, aber nicht wenn er sich für eine Frau hält.",
@@ -2424,7 +2444,7 @@
   "ung": []
  },
  {
-  "nr": 272,
+  "nr": 275,
   "art": "",
   "dt": [
    "Versuche nicht perfekt zu sein.",
@@ -2433,7 +2453,7 @@
   "ung": []
  },
  {
-  "nr": 273,
+  "nr": 276,
   "art": "",
   "dt": [
    "Ich will Frieden auf der Welt, und ich will essen."
@@ -2441,7 +2461,7 @@
   "ung": []
  },
  {
-  "nr": 274,
+  "nr": 277,
   "art": "",
   "dt": [
    "Ich bin dafür verantwortlich was ich sage und nicht dafür was ihr hört."
@@ -2449,7 +2469,7 @@
   "ung": []
  },
  {
-  "nr": 275,
+  "nr": 278,
   "art": "",
   "dt": [
    "Sie nahm stillschweigend meine Hand.",
@@ -2459,7 +2479,7 @@
   "ung": []
  },
  {
-  "nr": 276,
+  "nr": 279,
   "art": "",
   "dt": [
    "Der Junge fragt seine Lehrerin: „Warum schminken sie sich immer?“",
@@ -2469,7 +2489,7 @@
   "ung": []
  },
  {
-  "nr": 277,
+  "nr": 280,
   "art": "",
   "dt": [
    "Fremde Konten sind immer voller.",
@@ -2480,7 +2500,7 @@
   "ung": []
  },
  {
-  "nr": 278,
+  "nr": 281,
   "art": "",
   "dt": [
    "Gestern habe ich den Prozess gegen mich wegen Geschwindigkeitsübertretung gewonnen.",
@@ -2489,7 +2509,7 @@
   "ung": []
  },
  {
-  "nr": 279,
+  "nr": 282,
   "art": "",
   "dt": [
    "Wissenschaftler haben jetzt rausgefunden was die Frau will.",
@@ -2498,7 +2518,7 @@
   "ung": []
  },
  {
-  "nr": 280,
+  "nr": 283,
   "art": "",
   "dt": [
    "Die erste Frau auf dem Mond:",
@@ -2513,7 +2533,7 @@
   "ung": []
  },
  {
-  "nr": 281,
+  "nr": 284,
   "art": "",
   "dt": [
    "Wir sind die letzte Generation, deren Kinderfotos nicht mit dem Telefon gemacht wurden."
@@ -2521,7 +2541,7 @@
   "ung": []
  },
  {
-  "nr": 282,
+  "nr": 285,
   "art": "",
   "dt": [
    "Wie soll ich denn abnehmen, wenn das Essen das Beste an meinem Leben ist."
@@ -2529,7 +2549,7 @@
   "ung": []
  },
  {
-  "nr": 283,
+  "nr": 286,
   "art": "",
   "dt": [
    "Was versteht ihr schon von Optimismus?",
@@ -2538,7 +2558,7 @@
   "ung": []
  },
  {
-  "nr": 284,
+  "nr": 287,
   "art": "",
   "dt": [
    "Alter ist, wenn man seine Füße nicht mehr im Waschbecken waschen kann."
@@ -2546,7 +2566,7 @@
   "ung": []
  },
  {
-  "nr": 285,
+  "nr": 288,
   "art": "",
   "dt": [
    "Heute ist es genau ein halbes Jahr, seit dem ich morgen mit Sport anfangen werde."
@@ -2554,7 +2574,7 @@
   "ung": []
  },
  {
-  "nr": 286,
+  "nr": 289,
   "art": "",
   "dt": [
    "„Ist eine Nixe ein Fisch oder eine Frau?“",
@@ -2563,7 +2583,7 @@
   "ung": []
  },
  {
-  "nr": 287,
+  "nr": 290,
   "art": "",
   "dt": [
    "Was machen zwei Blondinen, die sich mit Stroh bewerfen?",
@@ -2572,7 +2592,7 @@
   "ung": []
  },
  {
-  "nr": 288,
+  "nr": 291,
   "art": "",
   "dt": [
    "Wenn der Herrgott dir nicht das gibt, was du wolltest, dann heißt das, dass er dir was besseres geben wird.",
@@ -2581,7 +2601,7 @@
   "ung": []
  },
  {
-  "nr": 289,
+  "nr": 292,
   "art": "",
   "dt": [
    "Nicht der Reiche ist zufrieden, sondern der Zufriedene der ist reich.",
@@ -2590,7 +2610,7 @@
   "ung": []
  },
  {
-  "nr": 290,
+  "nr": 293,
   "art": "",
   "dt": [
    "Nicht das Erreichte zählt, sondern nur das erzählte reicht."
@@ -2598,7 +2618,7 @@
   "ung": []
  },
  {
-  "nr": 291,
+  "nr": 294,
   "art": "",
   "dt": [
    "Wenn man dir mit Schweigen geantwortet hat, dann heißt das nicht, dass man dir nicht geantwortet hat."
@@ -2606,7 +2626,7 @@
   "ung": []
  },
  {
-  "nr": 292,
+  "nr": 295,
   "art": "",
   "dt": [
    "Manchmal hat sogar der Teufel vor den Gedanken Angst, die dem Kopf einer Frau entspringen."
@@ -2614,7 +2634,7 @@
   "ung": []
  },
  {
-  "nr": 293,
+  "nr": 296,
   "art": "",
   "dt": [
    "Gestern hatten wir zwei Stunden keinen Strom und das Internet ging auch nicht.",
@@ -2624,7 +2644,7 @@
   "ung": []
  },
  {
-  "nr": 294,
+  "nr": 297,
   "art": "",
   "dt": [
    "Deine Vergangenheit war kein Fehler - wenn du von ihr gelernt hast."
@@ -2632,7 +2652,7 @@
   "ung": []
  },
  {
-  "nr": 295,
+  "nr": 298,
   "art": "",
   "dt": [
    "Der Mann kommt nach Hause. Schließt die Haustür auf und noch bevor er das Licht anmanchen kann bekommt er einen heftigen Schlag mit der Bratpfanne vor den Kopf.",
@@ -2641,7 +2661,7 @@
   "ung": []
  },
  {
-  "nr": 296,
+  "nr": 299,
   "art": "",
   "dt": [
    "„Wie buchstabiert man Liebe?“",
@@ -2650,7 +2670,7 @@
   "ung": []
  },
  {
-  "nr": 297,
+  "nr": 300,
   "art": "",
   "dt": [
    "Gehirn sind toll.",
@@ -2659,7 +2679,7 @@
   "ung": []
  },
  {
-  "nr": 298,
+  "nr": 301,
   "art": "",
   "dt": [
    "Wenn Sie Angst haben zuzunehmen, dann trinken Sie vor dem Essen eine Glas Wein.",
@@ -2668,7 +2688,7 @@
   "ung": []
  },
  {
-  "nr": 299,
+  "nr": 302,
   "art": "",
   "dt": [
    "Fünf Arten von Angst.",
@@ -2681,7 +2701,7 @@
   "ung": []
  },
  {
-  "nr": 300,
+  "nr": 303,
   "art": "",
   "dt": [
    "Die Frau ändert sich nicht mit dem Alter, sondern mit den Männern."
@@ -2689,7 +2709,7 @@
   "ung": []
  },
  {
-  "nr": 301,
+  "nr": 304,
   "art": "",
   "dt": [
    "Wie mein Opa schon sagte: Verschieb das Saufen nicht auf morgen und den Sex nicht auf das Alter!",
@@ -2698,7 +2718,7 @@
   "ung": []
  },
  {
-  "nr": 302,
+  "nr": 305,
   "art": "",
   "dt": [
    "Lache heute!",
@@ -2708,7 +2728,7 @@
   "ung": []
  },
  {
-  "nr": 303,
+  "nr": 306,
   "art": "",
   "dt": [
    "Wenn ich keinen Alkohol trinken würde, wie sollten meine Freunde dann wissen, dass ich sie mag."
@@ -2716,7 +2736,7 @@
   "ung": []
  },
  {
-  "nr": 304,
+  "nr": 307,
   "art": "",
   "dt": [
    "Vergiss nicht immer nett zu Leuten zu sein, die Zugang zu deiner Zahnbürste haben."
@@ -2724,7 +2744,7 @@
   "ung": []
  },
  {
-  "nr": 305,
+  "nr": 308,
   "art": "",
   "dt": [
    "Lehrer: „Unser heutiges Thema ist Photosynthese. Was ist Photosynthese?“",
@@ -2733,7 +2753,7 @@
   "ung": []
  },
  {
-  "nr": 306,
+  "nr": 309,
   "art": "",
   "dt": [
    "Eine Allergie gegen Arbeit kann nur mit einer Erhöhung der Gehalts-Dosis geheilt werden."
@@ -2741,7 +2761,7 @@
   "ung": []
  },
  {
-  "nr": 307,
+  "nr": 310,
   "art": "",
   "dt": [
    "Die vier größten Wünsche der Menschen:",
@@ -2753,7 +2773,7 @@
   "ung": []
  },
  {
-  "nr": 308,
+  "nr": 311,
   "art": "",
   "dt": [
    "Ich brauch wirklich noch einen weiteren Tag zwischen Samstag und Sonntag."
@@ -2761,7 +2781,7 @@
   "ung": []
  },
  {
-  "nr": 309,
+  "nr": 312,
   "art": "",
   "dt": [
    "Wenn du einen Fehler immer wieder und wieder machst, dann ist es kein Fehler mehr, sondern eine Entscheidung."
@@ -2769,7 +2789,7 @@
   "ung": []
  },
  {
-  "nr": 310,
+  "nr": 313,
   "art": "",
   "dt": [
    "Lieber zu spät kommen, als hässlich ankommen."
@@ -2777,7 +2797,7 @@
   "ung": []
  },
  {
-  "nr": 311,
+  "nr": 314,
   "art": "",
   "dt": [
    "Merkt euch liebe Mädchen: ein reicher Mann, ein schöner Mann, ein kluger Mann, ein witziger Mann und ein großzügiger Mann - dass das sechs verschiedene Männer sind."
@@ -2785,7 +2805,7 @@
   "ung": []
  },
  {
-  "nr": 312,
+  "nr": 315,
   "art": "",
   "dt": [
    "Und aus dem Chaos sprach eine Stimme zu mir: „Lächle und sei froh! Es könnte schlimmer kommen.“",
@@ -2794,7 +2814,7 @@
   "ung": []
  },
  {
-  "nr": 313,
+  "nr": 316,
   "art": "",
   "dt": [
    "Das Gehirn ist ein unglaubliches Organ.",
@@ -2804,7 +2824,7 @@
   "ung": []
  },
  {
-  "nr": 314,
+  "nr": 317,
   "art": "",
   "dt": [
    "Ich weiß genau wie viel Alkohol ich vertrage.",
@@ -2813,7 +2833,7 @@
   "ung": []
  },
  {
-  "nr": 315,
+  "nr": 318,
   "art": "",
   "dt": [
    "Wenn du die Vergangenheit loslässt, dann bekommst du die Zukunft."
@@ -2821,7 +2841,7 @@
   "ung": []
  },
  {
-  "nr": 316,
+  "nr": 319,
   "art": "",
   "dt": [
    "„Sie sind einfach bezaubernd und sehr liebenswürdig.“",
@@ -2831,7 +2851,7 @@
   "ung": []
  },
  {
-  "nr": 317,
+  "nr": 320,
   "art": "",
   "dt": [
    "Disziplin ist die Brücke zwischen Ziel und Erfolg.",
@@ -2842,7 +2862,7 @@
   "ung": []
  },
  {
-  "nr": 318,
+  "nr": 321,
   "art": "",
   "dt": [
    "Tränen sind Worte, die das Herz nicht aussprechen kann."
@@ -2850,7 +2870,7 @@
   "ung": []
  },
  {
-  "nr": 319,
+  "nr": 322,
   "art": "",
   "dt": [
    "Ich wollte ihre Tränen abwischen und habe ihr aus Versehen die Augenbrauchen abgewischt."
@@ -2858,7 +2878,7 @@
   "ung": []
  },
  {
-  "nr": 320,
+  "nr": 323,
   "art": "",
   "dt": [
    "„Warum entschuldigst du dich nie?“",
@@ -2867,7 +2887,7 @@
   "ung": []
  },
  {
-  "nr": 321,
+  "nr": 324,
   "art": "",
   "dt": [
    "Die Frau sagte zu ihrem Mann: „Na siehst du.",
@@ -2877,7 +2897,7 @@
   "ung": []
  },
  {
-  "nr": 322,
+  "nr": 325,
   "art": "",
   "dt": [
    "„Nur aus dem Grab gibt es keinen Ausweg.",
@@ -2886,7 +2906,7 @@
   "ung": []
  },
  {
-  "nr": 323,
+  "nr": 326,
   "art": "",
   "dt": [
    "Heiraten musst du die Frau, die du als Freundin nehmen würdest, wenn sie schon verheiratet wäre."
@@ -2894,7 +2914,7 @@
   "ung": []
  },
  {
-  "nr": 324,
+  "nr": 327,
   "art": "",
   "dt": [
    "Zwei Blondinen gehen in den Wald um sich einen Weihnachtsbaum auszusuchen.",
@@ -2904,7 +2924,7 @@
   "ung": []
  },
  {
-  "nr": 325,
+  "nr": 328,
   "art": "",
   "dt": [
    "Wenn sei gut mit ihren Mitmenschen auskommen wollen, dann stören Sie sie nicht beim Lügen!"
@@ -2912,7 +2932,7 @@
   "ung": []
  },
  {
-  "nr": 326,
+  "nr": 329,
   "art": "",
   "dt": [
    "Manchmal. wenn man die Wahrheit ausgegraben hat, möchte man sie wieder verbuddeln."
@@ -2920,7 +2940,7 @@
   "ung": []
  },
  {
-  "nr": 327,
+  "nr": 330,
   "art": "",
   "dt": [
    "„Ich treffen mich mit zwei Männern und weiß nicht für wen ich mich entscheiden soll.“",
@@ -2930,7 +2950,7 @@
   "ung": []
  },
  {
-  "nr": 328,
+  "nr": 331,
   "art": "",
   "dt": [
    "Der Chefarzt bringt einen Toast zu Sylvester aus: „Lasst uns darauf trinken, dass im nächsten Jahr die Armen nicht krank werden und die Reichen nicht gesund!“"
@@ -2938,7 +2958,7 @@
   "ung": []
  },
  {
-  "nr": 329,
+  "nr": 332,
   "art": "",
   "dt": [
    "Ich frage mich wie viel Geld man haben muss, um zu begreifen, dass das Glück nicht vom Geld abhängt."
@@ -2946,7 +2966,7 @@
   "ung": []
  },
  {
-  "nr": 330,
+  "nr": 333,
   "art": "",
   "dt": [
    "Was?",
@@ -2956,7 +2976,7 @@
   "ung": []
  },
  {
-  "nr": 331,
+  "nr": 334,
   "art": "",
   "dt": [
    "Warte nicht auf den perfekten Moment!",
@@ -2965,7 +2985,7 @@
   "ung": []
  },
  {
-  "nr": 332,
+  "nr": 335,
   "art": "",
   "dt": [
    "Nach dem Sex hat er immer unbedingt eine Zigarette geraucht. So hat er das Rauchen ganz allmählich aufgegeben.",
@@ -2982,7 +3002,7 @@
   "ung": []
  },
  {
-  "nr": 333,
+  "nr": 336,
   "art": "",
   "dt": [
    "Wenn sich zwei streiten, dann freut sich der Dritte."
@@ -2990,7 +3010,7 @@
   "ung": []
  },
  {
-  "nr": 334,
+  "nr": 337,
   "art": "",
   "dt": [
    "Wer viele Schätze anhäuft hat viel zu verlieren."
@@ -2998,7 +3018,7 @@
   "ung": []
  },
  {
-  "nr": 335,
+  "nr": 338,
   "art": "",
   "dt": [
    "Der zweite Platz ist für den ersten Verlierer."
@@ -3006,7 +3026,7 @@
   "ung": []
  },
  {
-  "nr": 336,
+  "nr": 339,
   "art": "",
   "dt": [
    "Treffen sich zwei Anwälte. Fragt der eine: „Wie geht's?“",
@@ -3015,7 +3035,7 @@
   "ung": []
  },
  {
-  "nr": 337,
+  "nr": 340,
   "art": "",
   "dt": [
    "Scherben bringen Glück."
@@ -3023,7 +3043,7 @@
   "ung": []
  },
  {
-  "nr": 338,
+  "nr": 341,
   "art": "",
   "dt": [
    "Sauer macht lustig."
@@ -3031,7 +3051,7 @@
   "ung": []
  },
  {
-  "nr": 339,
+  "nr": 342,
   "art": "",
   "dt": [
    "Wo hat man die besten Aussichten sein Geld nachhaltig in den Sand zu setzen?",
@@ -3040,7 +3060,7 @@
   "ung": []
  },
  {
-  "nr": 340,
+  "nr": 343,
   "art": "",
   "dt": [
    "Vorsicht ist die Mutter der Porzellankiste."
@@ -3048,7 +3068,7 @@
   "ung": []
  },
  {
-  "nr": 341,
+  "nr": 344,
   "art": "",
   "dt": [
    "Alter schützt vor Torheit nicht."
@@ -3056,7 +3076,7 @@
   "ung": []
  },
  {
-  "nr": 342,
+  "nr": 345,
   "art": "",
   "dt": [
    "Ich mache nie den gleichen Fehler zwei mal.",
@@ -3065,7 +3085,7 @@
   "ung": []
  },
  {
-  "nr": 343,
+  "nr": 346,
   "art": "",
   "dt": [
    "Lieber 5 Minuten feige, als ein Leben lang tot."
@@ -3073,7 +3093,7 @@
   "ung": []
  },
  {
-  "nr": 344,
+  "nr": 347,
   "art": "",
   "dt": [
    "Glückliche Sklaven sind die größten Feinde der Freiheit.",
@@ -3084,7 +3104,7 @@
   "ung": []
  },
  {
-  "nr": 345,
+  "nr": 348,
   "art": "",
   "dt": [
    "Wo man Gefahren nicht besiegen kann, ist Flucht der Sieg."
@@ -3092,7 +3112,7 @@
   "ung": []
  },
  {
-  "nr": 346,
+  "nr": 349,
   "art": "",
   "dt": [
    "Er klingelt an der Tür. Der Hausherr öffnet die Wohnungstür.",
@@ -3103,7 +3123,7 @@
   "ung": []
  },
  {
-  "nr": 347,
+  "nr": 350,
   "art": "",
   "dt": [
    "Das Leben ist zu kurz, um den Traum anderer Leute zu leben."
@@ -3111,7 +3131,7 @@
   "ung": []
  },
  {
-  "nr": 348,
+  "nr": 351,
   "art": "",
   "dt": [
    "„Mit der Dummheit streiten Götter selbst vergebens!“",
@@ -3120,7 +3140,7 @@
   "ung": []
  },
  {
-  "nr": 349,
+  "nr": 352,
   "art": "",
   "dt": [
    "„Wo der Klügere nachgibt, herrscht die Dummheit!“"
@@ -3128,7 +3148,7 @@
   "ung": []
  },
  {
-  "nr": 350,
+  "nr": 353,
   "art": "",
   "dt": [
    "„Der Vorteil der Klugheit ist, daß man sich dumm stellen kann.",
@@ -3137,7 +3157,7 @@
   "ung": []
  },
  {
-  "nr": 351,
+  "nr": 354,
   "art": "",
   "dt": [
    "Nachtigall ick hör dir trapsen."
@@ -3145,7 +3165,7 @@
   "ung": []
  },
  {
-  "nr": 352,
+  "nr": 355,
   "art": "",
   "dt": [
    "Das Internet ist das neue Westfernsehen."
@@ -3153,7 +3173,7 @@
   "ung": []
  },
  {
-  "nr": 353,
+  "nr": 356,
   "art": "",
   "dt": [
    "Sitzen ist das neue Rauchen."
@@ -3161,7 +3181,7 @@
   "ung": []
  },
  {
-  "nr": 354,
+  "nr": 357,
   "art": "",
   "dt": [
    "Die Fragen sind es, aus denen das, was bleibt, entsteht."
@@ -3169,7 +3189,7 @@
   "ung": []
  },
  {
-  "nr": 355,
+  "nr": 358,
   "art": "",
   "dt": [
    "Alle Menschen sind gleich, aber einige sind gleicher."
@@ -3177,7 +3197,7 @@
   "ung": []
  },
  {
-  "nr": 356,
+  "nr": 359,
   "art": "",
   "dt": [
    "Wenn du in deinem Leben versuchst dir alle Türen offen zu halten, dann führst du dein Leben auf dem Gang."
@@ -3185,7 +3205,7 @@
   "ung": []
  },
  {
-  "nr": 357,
+  "nr": 360,
   "art": "",
   "dt": [
    "Unsere Eltern kiffen mehr als wir.",
@@ -3194,7 +3214,7 @@
   "ung": []
  },
  {
-  "nr": 358,
+  "nr": 361,
   "art": "",
   "dt": [
    "Man muss schon etwas wissen, um verbergen zu können, dass man nichts weiß.",
@@ -3203,7 +3223,7 @@
   "ung": []
  },
  {
-  "nr": 359,
+  "nr": 362,
   "art": "",
   "dt": [
    "Unsere Öffnungszeiten:",
@@ -3214,7 +3234,7 @@
   "ung": []
  },
  {
-  "nr": 360,
+  "nr": 363,
   "art": "",
   "dt": [
    "Öffnungszeiten:",
@@ -3223,7 +3243,7 @@
   "ung": []
  },
  {
-  "nr": 361,
+  "nr": 364,
   "art": "",
   "dt": [
    "Man trifft sich immer zwei mal."
@@ -3231,7 +3251,7 @@
   "ung": []
  },
  {
-  "nr": 362,
+  "nr": 365,
   "art": "",
   "dt": [
    "Menschen lernt man nicht beim ersten Treffen kennen, sondern beim letzten Treffen."
@@ -3239,7 +3259,7 @@
   "ung": []
  },
  {
-  "nr": 363,
+  "nr": 366,
   "art": "",
   "dt": [
    "Man bekommt keine zweite Chance für einen ersten Eindruck."
@@ -3247,7 +3267,7 @@
   "ung": []
  },
  {
-  "nr": 364,
+  "nr": 367,
   "art": "",
   "dt": [
    "Betreten verboten!",
@@ -3257,7 +3277,7 @@
   "ung": []
  },
  {
-  "nr": 365,
+  "nr": 368,
   "art": "",
   "dt": [
    "„Papa, stimmt es, dass im Kaukasus der Bräutigam seine Braut erst nach der Hochzeit kennen lernt?“",
@@ -3266,7 +3286,7 @@
   "ung": []
  },
  {
-  "nr": 366,
+  "nr": 369,
   "art": "",
   "dt": [
    "Wenn du sprichst, dann wiederholst du nur was du schon weißt.",
@@ -3275,7 +3295,7 @@
   "ung": []
  },
  {
-  "nr": 367,
+  "nr": 370,
   "art": "",
   "dt": [
    "Ein Lachen ist nur ein Lächeln, das außer Kontrolle geraten ist."
@@ -3283,7 +3303,7 @@
   "ung": []
  },
  {
-  "nr": 368,
+  "nr": 371,
   "art": "",
   "dt": [
    "Wir erinnern uns nicht an besondere Tage, sondern an besondere Momente."
@@ -3291,7 +3311,7 @@
   "ung": []
  },
  {
-  "nr": 369,
+  "nr": 372,
   "art": "",
   "dt": [
    "Das gefährlichste Tier für den Menschen sind die Schmetterlinge in seinem Bauch."
@@ -3299,7 +3319,7 @@
   "ung": []
  },
  {
-  "nr": 370,
+  "nr": 373,
   "art": "",
   "dt": [
    "Achtet eure Eltern, denn so lange sie leben seid ihr ihre Kinder."
@@ -3307,7 +3327,7 @@
   "ung": []
  },
  {
-  "nr": 371,
+  "nr": 374,
   "art": "",
   "dt": [
    "Man kann alles erklären, aber nicht jedem."
@@ -3315,7 +3335,7 @@
   "ung": []
  },
  {
-  "nr": 372,
+  "nr": 375,
   "art": "",
   "dt": [
    "„Möchtest du einen Kaffee? Mit Cognac?“",
@@ -3329,7 +3349,7 @@
   "ung": []
  },
  {
-  "nr": 373,
+  "nr": 376,
   "art": "",
   "dt": [
    "Ich möchte sterben wie mein Großvater.",
@@ -3338,7 +3358,7 @@
   "ung": []
  },
  {
-  "nr": 374,
+  "nr": 377,
   "art": "",
   "dt": [
    "Fleisch ist ja bekanntlich ein vegetarisches Produkt das im Laufe eines sogenannten Getreideveredlungsprozesses entsteht."
@@ -3346,7 +3366,7 @@
   "ung": []
  },
  {
-  "nr": 375,
+  "nr": 378,
   "art": "",
   "dt": [
    "Ausnahmen sind nicht immer Bestätigung der alten Regel.",
@@ -3355,7 +3375,7 @@
   "ung": []
  },
  {
-  "nr": 376,
+  "nr": 379,
   "art": "",
   "dt": [
    "„Was bist du nur für eine Ehefrau? Du nimmst dir das große Stück Fleisch und lässt deinen Mann nur das kleine Stück.“",
@@ -3366,7 +3386,7 @@
   "ung": []
  },
  {
-  "nr": 377,
+  "nr": 380,
   "art": "",
   "dt": [
    "Achte Deine Eltern, denn sie haben es geschafft die Schule ohne google und Wikipedia abzuschließen."
@@ -3374,17 +3394,23 @@
   "ung": []
  },
  {
-  "nr": 378,
+  "nr": 381,
   "art": "",
   "dt": [
-   "Woanders ist es auch Scheiße.",
-   "--",
+   "Woanders ist es auch Scheiße."
+  ],
+  "ung": []
+ },
+ {
+  "nr": 382,
+  "art": "",
+  "dt": [
    "Glück ist nicht wenn Du alles hast, sondern wenn Du Freude an dem hast was Du hast."
   ],
   "ung": []
  },
  {
-  "nr": 379,
+  "nr": 383,
   "art": "",
   "dt": [
    "Verwirkliche deine Träume: Geh schlafen!"
@@ -3392,7 +3418,7 @@
   "ung": []
  },
  {
-  "nr": 380,
+  "nr": 384,
   "art": "",
   "dt": [
    "Das Gehalt ist die Strafe dafür, wenn man zu blöd ist zum Klauen."
@@ -3400,7 +3426,7 @@
   "ung": []
  },
  {
-  "nr": 381,
+  "nr": 385,
   "art": "",
   "dt": [
    "Wer nichts wird, wird Wirt. Und wem auch dieses nicht gelungen, der macht in Versicherungen.",
@@ -3410,7 +3436,7 @@
   "ung": []
  },
  {
-  "nr": 382,
+  "nr": 386,
   "art": "",
   "dt": [
    "Die Erfahrung ist eine teure Schule, aber Narren wollen anderswo nicht lernen."
@@ -3418,7 +3444,7 @@
   "ung": []
  },
  {
-  "nr": 383,
+  "nr": 387,
   "art": "",
   "dt": [
    "Prognosen sind schwierig, besonders wenn sie die Zukunft betreffen."
@@ -3426,7 +3452,7 @@
   "ung": []
  },
  {
-  "nr": 384,
+  "nr": 388,
   "art": "",
   "dt": [
    "Auch wenn alle einer Meinung sind, können alle Unrecht haben."
@@ -3434,7 +3460,7 @@
   "ung": []
  },
  {
-  "nr": 385,
+  "nr": 389,
   "art": "",
   "dt": [
    "Zukunft wird aus Mut gemacht.",
@@ -3448,7 +3474,7 @@
   "ung": []
  },
  {
-  "nr": 386,
+  "nr": 390,
   "art": "",
   "dt": [
    "Am Ende wird alles gut, und wenn es noch nicht gut ist, dann ist es noch nicht das Ende."
@@ -3456,7 +3482,7 @@
   "ung": []
  },
  {
-  "nr": 387,
+  "nr": 391,
   "art": "",
   "dt": [
    "Wer die falschen Fragen stellt, sollte nicht auf die richtigen Antworten hoffen."
@@ -3464,7 +3490,7 @@
   "ung": []
  },
  {
-  "nr": 388,
+  "nr": 392,
   "art": "",
   "dt": [
    "Wissenschaft ist wie Sex.",
@@ -3474,7 +3500,7 @@
   "ung": []
  },
  {
-  "nr": 389,
+  "nr": 393,
   "art": "",
   "dt": [
    "Niemand ist weiter von der Wahrheit entfernt als derjenige, der auf alle Fragen eine Antwort weiß."
@@ -3482,7 +3508,7 @@
   "ung": []
  },
  {
-  "nr": 390,
+  "nr": 394,
   "art": "",
   "dt": [
    "Der wahre Lohn für unser Bemühen liegt nicht darin, was wir dafür bekommen, sondern darin, was wir dadurch werden."
@@ -3490,7 +3516,7 @@
   "ung": []
  },
  {
-  "nr": 391,
+  "nr": 395,
   "art": "",
   "dt": [
    "Ideale sind wie Sterne.",
@@ -3499,7 +3525,7 @@
   "ung": []
  },
  {
-  "nr": 392,
+  "nr": 396,
   "art": "",
   "dt": [
    "Lieber eine hörende Frau am Herd, als eine taube auf dem Dach."
@@ -3507,7 +3533,7 @@
   "ung": []
  },
  {
-  "nr": 393,
+  "nr": 397,
   "art": "",
   "dt": [
    "Früher war ich unentschlossen, heute bin ich mir da nicht mehr so sicher."
@@ -3515,7 +3541,7 @@
   "ung": []
  },
  {
-  "nr": 394,
+  "nr": 398,
   "art": "",
   "dt": [
    "Eine Liebeserklärung ist wie eine Eröffnung beim Schach: Die Konsequenzen sind unübersehbar."
@@ -3523,7 +3549,7 @@
   "ung": []
  },
  {
-  "nr": 395,
+  "nr": 399,
   "art": "",
   "dt": [
    "Eine erloschene Leidenschaft ist kälter als Eis."
@@ -3531,7 +3557,7 @@
   "ung": []
  },
  {
-  "nr": 396,
+  "nr": 400,
   "art": "",
   "dt": [
    "Frauen möchten in der Liebe Romane erleben — Männer Kurzgeschichten."
@@ -3539,7 +3565,7 @@
   "ung": []
  },
  {
-  "nr": 397,
+  "nr": 401,
   "art": "",
   "dt": [
    "Die Zeit heilt nicht alles, aber sie rückt vielleicht das Unheilbare aus dem Mittelpunkt."
@@ -3547,7 +3573,7 @@
   "ung": []
  },
  {
-  "nr": 398,
+  "nr": 402,
   "art": "",
   "dt": [
    "Es bringt nichts die Uhr anhalten, um Zeit zu sparen."
@@ -3555,7 +3581,7 @@
   "ung": []
  },
  {
-  "nr": 399,
+  "nr": 403,
   "art": "",
   "dt": [
    "Das Leben war einfacher, als ich Mädchen noch doof fand!"
@@ -3563,7 +3589,7 @@
   "ung": []
  },
  {
-  "nr": 400,
+  "nr": 404,
   "art": "",
   "dt": [
    "Wenn Dir jemand nicht mehr aus dem Kopf geht, dann gehört er in dein Herz."
@@ -3571,7 +3597,7 @@
   "ung": []
  },
  {
-  "nr": 401,
+  "nr": 405,
   "art": "",
   "dt": [
    "Schlechte Argumente bekämpft man am besten dadurch, dass man ihre Darstellung nicht stört."
@@ -3579,7 +3605,7 @@
   "ung": []
  },
  {
-  "nr": 402,
+  "nr": 406,
   "art": "",
   "dt": [
    "Gegen Liebe auf den ersten Blick hilft meist ein zweiter."
@@ -3587,7 +3613,7 @@
   "ung": []
  },
  {
-  "nr": 403,
+  "nr": 407,
   "art": "",
   "dt": [
    "Schöne Worte sind nicht immer wahr, wahre Worte sind nicht immer schön."
@@ -3595,7 +3621,7 @@
   "ung": []
  },
  {
-  "nr": 404,
+  "nr": 408,
   "art": "",
   "dt": [
    "Die Dinge, die man falsch gemacht hat, bereut man nicht so sehr, wie die, die man erst gar nicht versucht hat."
@@ -3603,7 +3629,7 @@
   "ung": []
  },
  {
-  "nr": 405,
+  "nr": 409,
   "art": "",
   "dt": [
    "An den Kreuzungen des Lebens stehen leider keine Wegweiser.",
@@ -3612,7 +3638,7 @@
   "ung": []
  },
  {
-  "nr": 406,
+  "nr": 410,
   "art": "",
   "dt": [
    "Ich habe geheiratet.",
@@ -3621,7 +3647,7 @@
   "ung": []
  },
  {
-  "nr": 407,
+  "nr": 411,
   "art": "",
   "dt": [
    "Liebe deine Eltern!",
@@ -3630,7 +3656,7 @@
   "ung": []
  },
  {
-  "nr": 408,
+  "nr": 412,
   "art": "",
   "dt": [
    "Liebe besteht nicht darin, dass man einander anschaut, sondern dass man gemeinsam in dieselbe Richtung blickt."
@@ -3638,7 +3664,7 @@
   "ung": []
  },
  {
-  "nr": 409,
+  "nr": 413,
   "art": "",
   "dt": [
    "„Es ist so stickig hier im Haus. Lass uns was aufmachen!“",
@@ -3647,7 +3673,7 @@
   "ung": []
  },
  {
-  "nr": 410,
+  "nr": 414,
   "art": "",
   "dt": [
    "Eine Frau, die so gut sein will, wie ein Mann, hat einfach keinen Ehrgeiz!"
@@ -3655,7 +3681,7 @@
   "ung": []
  },
  {
-  "nr": 411,
+  "nr": 415,
   "art": "",
   "dt": [
    "Wer kein Ziel vor Augen hat, kann auch keinen Weg hinter sich bringen."
@@ -3663,7 +3689,7 @@
   "ung": []
  },
  {
-  "nr": 412,
+  "nr": 416,
   "art": "",
   "dt": [
    "Es ist viel besser zu vergessen und zu lächeln, als sich zu erinnern und traurig zu sein."
@@ -3671,7 +3697,7 @@
   "ung": []
  },
  {
-  "nr": 413,
+  "nr": 417,
   "art": "",
   "dt": [
    "Manche sind nur tolerant, weil sie zu bequem sind, eine eigene Meinung zu haben."
@@ -3679,7 +3705,7 @@
   "ung": []
  },
  {
-  "nr": 414,
+  "nr": 418,
   "art": "",
   "dt": [
    "Meinungsfreiheit: Jeder Mensch darf hier frei seine Meinung äußern, er darf nur nicht annehmen, dass das keine Folgen für ihn hat."
@@ -3687,7 +3713,7 @@
   "ung": []
  },
  {
-  "nr": 415,
+  "nr": 419,
   "art": "",
   "dt": [
    "Man soll die Dinge so nehmen, wie sie kommen.",
@@ -3696,7 +3722,7 @@
   "ung": []
  },
  {
-  "nr": 416,
+  "nr": 420,
   "art": "",
   "dt": [
    "Die reinste Form des Wahnsinns ist es, alles beim Alten zu lassen und gleichzeitig zu hoffen, dass sich etwas ändert."
@@ -3704,7 +3730,7 @@
   "ung": []
  },
  {
-  "nr": 417,
+  "nr": 421,
   "art": "",
   "dt": [
    "Um an die Quelle zu kommen, muss man gegen den Strom schwimmen."
@@ -3712,7 +3738,7 @@
   "ung": []
  },
  {
-  "nr": 418,
+  "nr": 422,
   "art": "",
   "dt": [
    "Wer etwas will, der sucht nach Wegen.",
@@ -3721,7 +3747,7 @@
   "ung": []
  },
  {
-  "nr": 419,
+  "nr": 423,
   "art": "",
   "dt": [
    "Verliebe dich niemals zweimal in die selbe Person, denn beim zweiten Mal verliebst du dich nur in Erinnerungen."
@@ -3729,7 +3755,7 @@
   "ung": []
  },
  {
-  "nr": 420,
+  "nr": 424,
   "art": "",
   "dt": [
    "Wie soll jemand, den man in den Himmel hebt, mit beiden Füssen auf der Erde stehen?"
@@ -3737,7 +3763,7 @@
   "ung": []
  },
  {
-  "nr": 421,
+  "nr": 425,
   "art": "",
   "dt": [
    "Gib jedem eine zweite Chance, denn irgendwann brauchst du sie selber!"
@@ -3745,7 +3771,7 @@
   "ung": []
  },
  {
-  "nr": 422,
+  "nr": 426,
   "art": "",
   "dt": [
    "Jede Träne ist ein Teil des Weges in eine neue Zeit."
@@ -3753,7 +3779,7 @@
   "ung": []
  },
  {
-  "nr": 423,
+  "nr": 427,
   "art": "",
   "dt": [
    "Eine tausend Meilen lange Reise beginnt mit einem einzelnen Schritt.",
@@ -3762,7 +3788,7 @@
   "ung": []
  },
  {
-  "nr": 424,
+  "nr": 428,
   "art": "",
   "dt": [
    "Liebe macht nicht blind.",
@@ -3771,7 +3797,7 @@
   "ung": []
  },
  {
-  "nr": 425,
+  "nr": 429,
   "art": "",
   "dt": [
    "Ich treibe aktiv Sport, und zwar eine alte asiatische Kampfkunst namens Sh'la fen."
@@ -3779,7 +3805,7 @@
   "ung": []
  },
  {
-  "nr": 426,
+  "nr": 430,
   "art": "",
   "dt": [
    "Bitte entschuldigen Sie, dass ich zu spät komme.",
@@ -3788,7 +3814,7 @@
   "ung": []
  },
  {
-  "nr": 427,
+  "nr": 431,
   "art": "",
   "dt": [
    "Man kann nichts für seine Gefühle, aber man hat die Verantwortung wie man mit ihnen umgeht."
@@ -3796,7 +3822,7 @@
   "ung": []
  },
  {
-  "nr": 428,
+  "nr": 432,
   "art": "",
   "dt": [
    "Wir kaufen mit Geld, das wir nicht haben, Dinge, die wir nicht brauchen, um damit Leute zu beeindrucken, die wir nicht mögen."
@@ -3804,7 +3830,7 @@
   "ung": []
  },
  {
-  "nr": 429,
+  "nr": 433,
   "art": "",
   "dt": [
    "Früh aufstehen ist der erste Schritt in die falsche Richtung!"
@@ -3812,7 +3838,7 @@
   "ung": []
  },
  {
-  "nr": 430,
+  "nr": 434,
   "art": "",
   "dt": [
    "Treffen sich zwei Kekse.",
@@ -3821,7 +3847,7 @@
   "ung": []
  },
  {
-  "nr": 431,
+  "nr": 435,
   "art": "",
   "dt": [
    "Treffen sich zwei Blinde, sagt der eine: „Lange nicht gesehen!“"
@@ -3829,7 +3855,7 @@
   "ung": []
  },
  {
-  "nr": 432,
+  "nr": 436,
   "art": "",
   "dt": [
    "Treffen sich zwei Zapfsäulen.",
@@ -3840,7 +3866,7 @@
   "ung": []
  },
  {
-  "nr": 433,
+  "nr": 437,
   "art": "",
   "dt": [
    "Ein Norddeutscher steht im Aufzug.",
@@ -3850,7 +3876,7 @@
   "ung": []
  },
  {
-  "nr": 434,
+  "nr": 438,
   "art": "",
   "dt": [
    "Wer seine Träume verwirklichen will, muss erstmal aufwachen!"
@@ -3858,7 +3884,7 @@
   "ung": []
  },
  {
-  "nr": 435,
+  "nr": 439,
   "art": "",
   "dt": [
    "Mein Kissen ruft - und das habe ich noch nie warten lassen!"
@@ -3866,7 +3892,7 @@
   "ung": []
  },
  {
-  "nr": 436,
+  "nr": 440,
   "art": "",
   "dt": [
    "Armut macht zum Dieb, Liebe zum Dichter."
@@ -3874,7 +3900,7 @@
   "ung": []
  },
  {
-  "nr": 437,
+  "nr": 441,
   "art": "",
   "dt": [
    "„So eine wie mich wirst du nie mehr finden.“",
@@ -3883,7 +3909,7 @@
   "ung": []
  },
  {
-  "nr": 438,
+  "nr": 442,
   "art": "",
   "dt": [
    "Keine Grenze verlockt mehr zum Schummeln als die Altersgrenze.",
@@ -3892,7 +3918,7 @@
   "ung": []
  },
  {
-  "nr": 439,
+  "nr": 443,
   "art": "",
   "dt": [
    "Nachahmung ist die aufrichtigste Form der Schmeichelei."
@@ -3900,7 +3926,7 @@
   "ung": []
  },
  {
-  "nr": 440,
+  "nr": 444,
   "art": "",
   "dt": [
    "Gehen zwei Sandkörner durch die Wüste.",
@@ -3909,7 +3935,7 @@
   "ung": []
  },
  {
-  "nr": 441,
+  "nr": 445,
   "art": "",
   "dt": [
    "Gehen zwei Sandkörner in der Wüste spazieren.",
@@ -3918,7 +3944,7 @@
   "ung": []
  },
  {
-  "nr": 442,
+  "nr": 446,
   "art": "",
   "dt": [
    "„Was wirst du heute noch so machen?“ fragte die eine Kerze die andere Kerze.",
@@ -3927,7 +3953,7 @@
   "ung": []
  },
  {
-  "nr": 443,
+  "nr": 447,
   "art": "",
   "dt": [
    "Zwei Kerzen unterhalten sich. „Ganz schön stürmisch heute“ sagte die eine.",
@@ -3936,7 +3962,7 @@
   "ung": []
  },
  {
-  "nr": 444,
+  "nr": 448,
   "art": "",
   "dt": [
    "Schluchzt die Glühbirne: „Ich bin fassungslos.“"
@@ -3944,7 +3970,7 @@
   "ung": []
  },
  {
-  "nr": 445,
+  "nr": 449,
   "art": "",
   "dt": [
    "Geht ein Cowboy zum Frisör, kommt wieder raus, ist sein Pony weg."
@@ -3952,7 +3978,7 @@
   "ung": []
  },
  {
-  "nr": 446,
+  "nr": 450,
   "art": "",
   "dt": [
    "Freundschaft ist eine Seele in zwei Körpern."
@@ -3960,7 +3986,7 @@
   "ung": []
  },
  {
-  "nr": 447,
+  "nr": 451,
   "art": "",
   "dt": [
    "Die erste Generation schafft Vermögen, die zweite verwaltet Vermögen, die dritte studiert Kunstgeschichte, und die vierte verkommt. (Otto Fürst von Bismarck)"
@@ -3968,7 +3994,7 @@
   "ung": []
  },
  {
-  "nr": 448,
+  "nr": 452,
   "art": "",
   "dt": [
    "Recht gehabt zu haben ist der Trostpreis für den Verlierer."
@@ -3976,7 +4002,7 @@
   "ung": []
  },
  {
-  "nr": 449,
+  "nr": 453,
   "art": "",
   "dt": [
    "Wer zweideutig denkt hat eindeutig mehr zu lachen."
@@ -3984,7 +4010,7 @@
   "ung": []
  },
  {
-  "nr": 450,
+  "nr": 454,
   "art": "",
   "dt": [
    "Der größte Schritt ist der aus der Tür."
@@ -3992,7 +4018,7 @@
   "ung": []
  },
  {
-  "nr": 451,
+  "nr": 455,
   "art": "",
   "dt": [
    "Man kann alles erklären - aber nicht allen."
@@ -4000,7 +4026,7 @@
   "ung": []
  },
  {
-  "nr": 452,
+  "nr": 456,
   "art": "",
   "dt": [
    "Nicht immer sind die Stillen auch die Weisen.",
@@ -4009,7 +4035,7 @@
   "ung": []
  },
  {
-  "nr": 453,
+  "nr": 457,
   "art": "",
   "dt": [
    "Nur die Phantasielosen flüchten in die Realität."
@@ -4017,7 +4043,7 @@
   "ung": []
  },
  {
-  "nr": 454,
+  "nr": 458,
   "art": "",
   "dt": [
    "Ich kann den Begriff grad nicht finden.",
@@ -4026,7 +4052,7 @@
   "ung": []
  },
  {
-  "nr": 455,
+  "nr": 459,
   "art": "",
   "dt": [
    "Wer seine Stimme abgibt, hat nichts mehr zu sagen."
@@ -4034,7 +4060,7 @@
   "ung": []
  },
  {
-  "nr": 456,
+  "nr": 460,
   "art": "",
   "dt": [
    "Mancher fasst sich an den Kopf und greift ins Leere."
@@ -4042,7 +4068,7 @@
   "ung": []
  },
  {
-  "nr": 457,
+  "nr": 461,
   "art": "",
   "dt": [
    "Zuerst schließen wir die Augen, dann sehen wir weiter.",
@@ -4066,7 +4092,7 @@
   "ung": []
  },
  {
-  "nr": 458,
+  "nr": 462,
   "art": "",
   "dt": [
    "Nur dumme Menschen halten Ordnung - Genies überblicken das Chaos."
@@ -4074,7 +4100,7 @@
   "ung": []
  },
  {
-  "nr": 459,
+  "nr": 463,
   "art": "",
   "dt": [
    "Wir sind nicht auf der Welt, um so zu sein, wie andere uns haben wollen."
@@ -4082,7 +4108,7 @@
   "ung": []
  },
  {
-  "nr": 460,
+  "nr": 464,
   "art": "",
   "dt": [
    "Das Gras wächst nicht schneller, wenn man daran zieht."
@@ -4090,7 +4116,7 @@
   "ung": []
  },
  {
-  "nr": 461,
+  "nr": 465,
   "art": "",
   "dt": [
    "Das Unglück hält sich nicht an Besuchstage."
@@ -4098,7 +4124,7 @@
   "ung": []
  },
  {
-  "nr": 462,
+  "nr": 466,
   "art": "",
   "dt": [
    "Wer mit beiden Beinen auf dem Boden steht kommt nicht vorwärts.",
@@ -4107,7 +4133,7 @@
   "ung": []
  },
  {
-  "nr": 463,
+  "nr": 467,
   "art": "",
   "dt": [
    "Bildung ist das, was übrig bleibt, wenn wir alles Gelernte vergessen haben."
@@ -4115,7 +4141,7 @@
   "ung": []
  },
  {
-  "nr": 464,
+  "nr": 468,
   "art": "",
   "dt": [
    "Denken bevor man handelt ist nicht immer gut - kann ja sein, dass man falsch denkt!"
@@ -4123,7 +4149,7 @@
   "ung": []
  },
  {
-  "nr": 465,
+  "nr": 469,
   "art": "",
   "dt": [
    "Man kann eine Menge Glück haben, ohne glücklich zu sein."
@@ -4131,7 +4157,7 @@
   "ung": []
  },
  {
-  "nr": 466,
+  "nr": 470,
   "art": "",
   "dt": [
    "Kein Genuss ist vorübergehend, denn der Eindruck, den er hinterlässt, ist bleibend."
@@ -4139,7 +4165,7 @@
   "ung": []
  },
  {
-  "nr": 467,
+  "nr": 471,
   "art": "",
   "dt": [
    "Abschiednehmen ist immer ein Stückchen Tod."
@@ -4147,7 +4173,7 @@
   "ung": []
  },
  {
-  "nr": 468,
+  "nr": 472,
   "art": "",
   "dt": [
    "Toleranz ist nichts anderes als die Fortsetzung der Ratlosigkeit mit anderen Mitteln. (Henryk M.",
@@ -4156,7 +4182,7 @@
   "ung": []
  },
  {
-  "nr": 469,
+  "nr": 473,
   "art": "",
   "dt": [
    "Keine Straße ist lang mit einem Freund an der Seite."
@@ -4164,7 +4190,7 @@
   "ung": []
  },
  {
-  "nr": 470,
+  "nr": 474,
   "art": "",
   "dt": [
    "Kleider machen Leute - aber sie machen nicht den Menschen."
@@ -4172,7 +4198,7 @@
   "ung": []
  },
  {
-  "nr": 471,
+  "nr": 475,
   "art": "",
   "dt": [
    "Die Bildung kommt nicht vom Lesen, sondern vom Nachdenken über das Gelesene."
@@ -4180,7 +4206,7 @@
   "ung": []
  },
  {
-  "nr": 472,
+  "nr": 476,
   "art": "",
   "dt": [
    "Wer Ordnung hält, ist nur zu faul zum suchen!"
@@ -4188,7 +4214,7 @@
   "ung": []
  },
  {
-  "nr": 473,
+  "nr": 477,
   "art": "",
   "dt": [
    "Die Basis jeder gesunden Ordnung ist ein großer Papierkorb!"
@@ -4196,7 +4222,7 @@
   "ung": []
  },
  {
-  "nr": 474,
+  "nr": 478,
   "art": "",
   "dt": [
    "Nur Idioten halten Ordnung, das Genie beherrscht das CHAOS."
@@ -4204,7 +4230,7 @@
   "ung": []
  },
  {
-  "nr": 475,
+  "nr": 479,
   "art": "",
   "dt": [
    "Diplomatie ist jemand so zur Hölle zu schicken dass er sich auf die Reise freut."
@@ -4212,7 +4238,7 @@
   "ung": []
  },
  {
-  "nr": 476,
+  "nr": 480,
   "art": "",
   "dt": [
    "Man lebt ruhiger, wenn man nicht alles sagt, was man weiß, nicht alles glaubt, was man hört und über den Rest einfach nur lächelt.",
@@ -4221,7 +4247,7 @@
   "ung": []
  },
  {
-  "nr": 477,
+  "nr": 481,
   "art": "",
   "dt": [
    "Alter schützt vor Torheit nicht.",
@@ -4230,7 +4256,7 @@
   "ung": []
  },
  {
-  "nr": 478,
+  "nr": 482,
   "art": "",
   "dt": [
    "Krieg ist die Fortsetzung der Politik mit anderen Mitteln. (Carl von Clausewitz)"
@@ -4238,7 +4264,7 @@
   "ung": []
  },
  {
-  "nr": 479,
+  "nr": 483,
   "art": "",
   "dt": [
    "Toleranz ist ein Wechsel auf die Zukunft, ein Angebot an den Sieger von Morgen: Ich verschone dich heute, merke es dir gut und verschone mich sobald du an der Macht bist."
@@ -4246,7 +4272,7 @@
   "ung": []
  },
  {
-  "nr": 480,
+  "nr": 484,
   "art": "",
   "dt": [
    "Warum schwimmt der Hai im Kreis?",
@@ -4255,7 +4281,7 @@
   "ung": []
  },
  {
-  "nr": 481,
+  "nr": 485,
   "art": "",
   "dt": [
    "Wer sich allein langweilt, ist auch zu zweit nicht sehr unterhaltend."
@@ -4263,7 +4289,7 @@
   "ung": []
  },
  {
-  "nr": 482,
+  "nr": 486,
   "art": "",
   "dt": [
    "Schicksal ist, wenn du etwas findest, was du nie gesucht hast und dann feststellst, dass du nie etwas anderes wolltest"
@@ -4271,7 +4297,7 @@
   "ung": []
  },
  {
-  "nr": 483,
+  "nr": 487,
   "art": "",
   "dt": [
    "Dein Ziel sollte außer Reichweite, nicht außer Sichtweite sein."
@@ -4279,7 +4305,7 @@
   "ung": []
  },
  {
-  "nr": 484,
+  "nr": 488,
   "art": "",
   "dt": [
    "Wer sich nicht bewegt, spürt auch seine Fesseln nicht."
@@ -4287,7 +4313,7 @@
   "ung": []
  },
  {
-  "nr": 485,
+  "nr": 489,
   "art": "",
   "dt": [
    "Der Pragmatiker entscheidet Fälle nicht nach Grundsätzen, sondern grundsätzlich fallweise."
@@ -4295,7 +4321,7 @@
   "ung": []
  },
  {
-  "nr": 486,
+  "nr": 490,
   "art": "",
   "dt": [
    "Um klar zu sehen, genügt oft ein Wechsel der Blickrichtung."
@@ -4303,7 +4329,7 @@
   "ung": []
  },
  {
-  "nr": 487,
+  "nr": 491,
   "art": "",
   "dt": [
    "Manche Menschen sind der lebende Beweis dafür, das Gehirnversagen nicht unmittelbar zum Tode führt."
@@ -4311,7 +4337,7 @@
   "ung": []
  },
  {
-  "nr": 488,
+  "nr": 492,
   "art": "",
   "dt": [
    "Eine Bank ist ein Ort, an dem man Geld geliehen bekommt, wenn man nachweisen kann, dass man es nicht braucht."
@@ -4319,7 +4345,7 @@
   "ung": []
  },
  {
-  "nr": 489,
+  "nr": 493,
   "art": "",
   "dt": [
    "Wenn man nicht hat, was man liebt, muß man lieben, was man hat."
@@ -4327,7 +4353,7 @@
   "ung": []
  },
  {
-  "nr": 490,
+  "nr": 494,
   "art": "",
   "dt": [
    "Nichts macht so alt wie der ständige Versuch, jung zu bleiben."
@@ -4335,7 +4361,7 @@
   "ung": []
  },
  {
-  "nr": 491,
+  "nr": 495,
   "art": "",
   "dt": [
    "Wenn man sich für etwas entscheidet, entscheidet man sich auch zwangsläufig gegen etwas anderes."
@@ -4343,7 +4369,7 @@
   "ung": []
  },
  {
-  "nr": 492,
+  "nr": 496,
   "art": "",
   "dt": [
    "Kleine Bosheiten erhalten die Feindschaft."
@@ -4351,7 +4377,7 @@
   "ung": []
  },
  {
-  "nr": 493,
+  "nr": 497,
   "art": "",
   "dt": [
    "Neid ist die höchste Form der Anerkennung."
@@ -4359,7 +4385,7 @@
   "ung": []
  },
  {
-  "nr": 494,
+  "nr": 498,
   "art": "",
   "dt": [
    "Es wird nicht eher hell, bis es nicht ganz dunkel geworden ist.",
@@ -4368,7 +4394,7 @@
   "ung": []
  },
  {
-  "nr": 495,
+  "nr": 499,
   "art": "",
   "dt": [
    "Man muss immer wieder mit Leuten rechnen, auf die man nicht zählen kann."
@@ -4376,7 +4402,7 @@
   "ung": []
  },
  {
-  "nr": 496,
+  "nr": 500,
   "art": "",
   "dt": [
    "Eine Lösung hatte ich, aber sie passte nicht zum Problem."
@@ -4384,7 +4410,7 @@
   "ung": []
  },
  {
-  "nr": 497,
+  "nr": 501,
   "art": "",
   "dt": [
    "Wenn jeder an sich denkt, dann ist an alle gedacht."
@@ -4392,7 +4418,7 @@
   "ung": []
  },
  {
-  "nr": 498,
+  "nr": 502,
   "art": "",
   "dt": [
    "In der Realität ist die Wirklichkeit ganz anders."
@@ -4400,7 +4426,7 @@
   "ung": []
  },
  {
-  "nr": 499,
+  "nr": 503,
   "art": "",
   "dt": [
    "Neurotiker bauen Luftschlösser, Psychopathen wohnen drin, Psychiater kassieren die Miete."
@@ -4408,7 +4434,7 @@
   "ung": []
  },
  {
-  "nr": 500,
+  "nr": 504,
   "art": "",
   "dt": [
    "Werbung ist die Kunst, auf den Kopf zu zielen und die Brieftasche zu treffen."
@@ -4416,7 +4442,7 @@
   "ung": []
  },
  {
-  "nr": 501,
+  "nr": 505,
   "art": "",
   "dt": [
    "„Wie isst man einen Elefanten?“",
@@ -4425,7 +4451,7 @@
   "ung": []
  },
  {
-  "nr": 502,
+  "nr": 506,
   "art": "",
   "dt": [
    "Mann die die Wirklichkeit ignorieren, aber nicht die aus ihr folgenden Konsequenzen."
@@ -4433,7 +4459,7 @@
   "ung": []
  },
  {
-  "nr": 503,
+  "nr": 507,
   "art": "",
   "dt": [
    "Wie nennt man einen traurigen Kondom?",
@@ -4442,7 +4468,7 @@
   "ung": []
  },
  {
-  "nr": 504,
+  "nr": 508,
   "art": "",
   "dt": [
    "Diplomatie ist die Kunst, mit hundert Worten zu verschweigen, was man mit einem einzigen Wort sagen könnte."
@@ -4450,7 +4476,7 @@
   "ung": []
  },
  {
-  "nr": 505,
+  "nr": 509,
   "art": "",
   "dt": [
    "Erfahrung ist die Summe der Dummheiten, die man im Bedarfsfall wieder anwendet."
@@ -4458,7 +4484,7 @@
   "ung": []
  },
  {
-  "nr": 506,
+  "nr": 510,
   "art": "",
   "dt": [
    "Es ist immer einfacher das letzte Wort zu haben, als den ersten Schritt zu tun."
@@ -4466,7 +4492,7 @@
   "ung": []
  },
  {
-  "nr": 507,
+  "nr": 511,
   "art": "",
   "dt": [
    "Wohlstand ist, wenn die Leute mehr Uhren haben als Zeit."
@@ -4474,7 +4500,7 @@
   "ung": []
  },
  {
-  "nr": 508,
+  "nr": 512,
   "art": "",
   "dt": [
    "Mit Fünfzig ist man so jung, dass man noch viele Dummheiten machen kann — aber alt genug, um sich die richtigen auszusuchen."
@@ -4482,7 +4508,7 @@
   "ung": []
  },
  {
-  "nr": 509,
+  "nr": 513,
   "art": "",
   "dt": [
    "Würde ist mehr, als nur ein Hilfsverb im Konjunktiv!"
@@ -4490,7 +4516,7 @@
   "ung": []
  },
  {
-  "nr": 510,
+  "nr": 514,
   "art": "",
   "dt": [
    "Wer fragt, ist ein Narr für fünf Minuten, wer nicht fragt, bleibt ein Narr sein Leben lang."
@@ -4498,7 +4524,7 @@
   "ung": []
  },
  {
-  "nr": 511,
+  "nr": 515,
   "art": "",
   "dt": [
    "Wer jedermanns Freund sein will, ist niemands Freund.",
@@ -4512,7 +4538,7 @@
   "ung": []
  },
  {
-  "nr": 512,
+  "nr": 516,
   "art": "",
   "dt": [
    "Wenn du etwas erleben willst, was du noch nie erlebt hast, musst du etwas tun, was du noch nie getan hast."
@@ -4520,7 +4546,7 @@
   "ung": []
  },
  {
-  "nr": 513,
+  "nr": 517,
   "art": "",
   "dt": [
    "Facebook ist die Stasiakte zum Selberschreiben."
@@ -4528,7 +4554,7 @@
   "ung": []
  },
  {
-  "nr": 514,
+  "nr": 518,
   "art": "",
   "dt": [
    "Die Straße zum Glück ist nicht immer asphaltiert."
@@ -4536,7 +4562,7 @@
   "ung": []
  },
  {
-  "nr": 515,
+  "nr": 519,
   "art": "",
   "dt": [
    "Der zweite Frühling kommt mit den dritten Zähnen."
@@ -4544,7 +4570,7 @@
   "ung": []
  },
  {
-  "nr": 516,
+  "nr": 520,
   "art": "",
   "dt": [
    "Kluge Menschen reagieren auf Kritik gelassen, dumme Menschen trotzig."
@@ -4552,7 +4578,7 @@
   "ung": []
  },
  {
-  "nr": 517,
+  "nr": 521,
   "art": "",
   "dt": [
    "Die schärfsten Kritiker der Elche - waren früher selber welche."
@@ -4560,7 +4586,7 @@
   "ung": []
  },
  {
-  "nr": 518,
+  "nr": 522,
   "art": "",
   "dt": [
    "Die Freunde, die man morgens um 4 anrufen kann, die zählen."
@@ -4568,7 +4594,7 @@
   "ung": []
  },
  {
-  "nr": 519,
+  "nr": 523,
   "art": "",
   "dt": [
    "Manchmal treffen sich 2 Menschen und alles passt - außer der Zeitpunkt."
@@ -4576,7 +4602,7 @@
   "ung": []
  },
  {
-  "nr": 520,
+  "nr": 524,
   "art": "",
   "dt": [
    "Fremde sind Freunde, die man nur noch nicht kennengelernt hat."
@@ -4584,7 +4610,7 @@
   "ung": []
  },
  {
-  "nr": 521,
+  "nr": 525,
   "art": "",
   "dt": [
    "Die meisten Menschen können zwar vergeben und vergessen, legen aber viel Wert darauf, dass die Vergebung nicht vergessen wird."
@@ -4592,7 +4618,7 @@
   "ung": []
  },
  {
-  "nr": 522,
+  "nr": 526,
   "art": "",
   "dt": [
    "Im Abschied ist die Geburt der Erinnerung."
@@ -4600,7 +4626,7 @@
   "ung": []
  },
  {
-  "nr": 523,
+  "nr": 527,
   "art": "",
   "dt": [
    "Immer wenn ich über meinen Schatten springen will macht jemand das Licht an."
@@ -4608,7 +4634,7 @@
   "ung": []
  },
  {
-  "nr": 524,
+  "nr": 528,
   "art": "",
   "dt": [
    "Wo wir sind, klappt nichts, doch wir können nicht überall sein."
@@ -4616,7 +4642,7 @@
   "ung": []
  },
  {
-  "nr": 525,
+  "nr": 529,
   "art": "",
   "dt": [
    "Sie konnte überhaupt nicht einschlafen.",
@@ -4626,7 +4652,7 @@
   "ung": []
  },
  {
-  "nr": 526,
+  "nr": 530,
   "art": "",
   "dt": [
    "Wenn man nachts nichts essen soll, warum ist dann im Kühlschrank eine Lampe?"
@@ -4634,7 +4660,7 @@
   "ung": []
  },
  {
-  "nr": 527,
+  "nr": 531,
   "art": "",
   "dt": [
    "Das papierlose Büro wird ebenso wenig kommen wie das papierlose Klo."
@@ -4642,7 +4668,7 @@
   "ung": []
  },
  {
-  "nr": 528,
+  "nr": 532,
   "art": "",
   "dt": [
    "Hast und Reue sind wie Bruder und Schwester.",
@@ -4651,7 +4677,7 @@
   "ung": []
  },
  {
-  "nr": 529,
+  "nr": 533,
   "art": "",
   "dt": [
    "Kinder lachen 200-mal am Tag, Erwachsene 20-mal ...",
@@ -4660,7 +4686,7 @@
   "ung": []
  },
  {
-  "nr": 530,
+  "nr": 534,
   "art": "",
   "dt": [
    "Lieber mit dem Fahrrad zum Strand, als mit dem Mercedes zur Arbeit."
@@ -4668,7 +4694,7 @@
   "ung": []
  },
  {
-  "nr": 531,
+  "nr": 535,
   "art": "",
   "dt": [
    "Tatsachen schafft man nicht dadurch aus der Welt, indem man sie ignoriert."
@@ -4676,7 +4702,7 @@
   "ung": []
  },
  {
-  "nr": 532,
+  "nr": 536,
   "art": "",
   "dt": [
    "Ganz gleich wohin du auch gehst, überall wirst du dir selbst begegnen!"
@@ -4684,7 +4710,7 @@
   "ung": []
  },
  {
-  "nr": 533,
+  "nr": 537,
   "art": "",
   "dt": [
    "Lebenskunst ist zu 90% die Fähigkeit, mit Leuten auszukommen, die man nicht mag."
@@ -4692,7 +4718,7 @@
   "ung": []
  },
  {
-  "nr": 534,
+  "nr": 538,
   "art": "",
   "dt": [
    "Rat sucht man deshalb, weil man die einzige Lösung zwar kennt, aber nichts davon wissen will."
@@ -4700,7 +4726,7 @@
   "ung": []
  },
  {
-  "nr": 535,
+  "nr": 539,
   "art": "",
   "dt": [
    "Sich nicht zu entscheiden ist auch eine Entscheidung."
@@ -4708,7 +4734,7 @@
   "ung": []
  },
  {
-  "nr": 536,
+  "nr": 540,
   "art": "",
   "dt": [
    "Ein Vielleicht ist keine Brücke zwischen einem Ja und einem Nein.",
@@ -4717,7 +4743,7 @@
   "ung": []
  },
  {
-  "nr": 537,
+  "nr": 541,
   "art": "",
   "dt": [
    "Alle wollen alt werden, aber keiner will es sein!"
@@ -4725,7 +4751,7 @@
   "ung": []
  },
  {
-  "nr": 538,
+  "nr": 542,
   "art": "",
   "dt": [
    "Wer A sagt, der muss nicht B sagen.",
@@ -4734,7 +4760,7 @@
   "ung": []
  },
  {
-  "nr": 539,
+  "nr": 543,
   "art": "",
   "dt": [
    "Dumme Fragen sind viel schwerer zu beantworten als kluge."
@@ -4742,7 +4768,7 @@
   "ung": []
  },
  {
-  "nr": 540,
+  "nr": 544,
   "art": "",
   "dt": [
    "Viele Probleme erledigen sich von selbst, wenn man sie nicht dabei stört."
@@ -4750,7 +4776,7 @@
   "ung": []
  },
  {
-  "nr": 541,
+  "nr": 545,
   "art": "",
   "dt": [
    "Was die Kirche nicht verbieten kann, das segnet sie."
@@ -4758,7 +4784,7 @@
   "ung": []
  },
  {
-  "nr": 542,
+  "nr": 546,
   "art": "",
   "dt": [
    "Geschichte muss immer wieder neu geschrieben werden, nicht weil neue historische Tatsachen bekannt werden, sondern weil sich der Standpunkt der Betrachter ändert."
@@ -4766,7 +4792,7 @@
   "ung": []
  },
  {
-  "nr": 543,
+  "nr": 547,
   "art": "",
   "dt": [
    "Die Altersweisheit gibt es nicht.",
@@ -4775,7 +4801,7 @@
   "ung": []
  },
  {
-  "nr": 544,
+  "nr": 548,
   "art": "",
   "dt": [
    "Erfahrung nennt man die Summe aller unserer Irrtümer."
@@ -4783,7 +4809,7 @@
   "ung": []
  },
  {
-  "nr": 545,
+  "nr": 549,
   "art": "",
   "dt": [
    "Denk ich an Deutschland in der Nacht, dann bin ich um den Schlaf gebracht. (Heinrich Heine)"
@@ -4791,7 +4817,7 @@
   "ung": []
  },
  {
-  "nr": 546,
+  "nr": 550,
   "art": "",
   "dt": [
    "Freundschaft zwischen Frauen ist nur ein Waffenstillstand."
@@ -4799,7 +4825,7 @@
   "ung": []
  },
  {
-  "nr": 547,
+  "nr": 551,
   "art": "",
   "dt": [
    "Die meisten Probleme im Leben haben zwei Gründe: Entweder handeln wir ohne zu denken oder wir denken ohne zu handeln."
@@ -4807,7 +4833,7 @@
   "ung": []
  },
  {
-  "nr": 548,
+  "nr": 552,
   "art": "",
   "dt": [
    "Alle Menschen sind klug — die einen vorher, die anderen nachher.",
@@ -4816,7 +4842,7 @@
   "ung": []
  },
  {
-  "nr": 549,
+  "nr": 553,
   "art": "",
   "dt": [
    "Ich habe nichts gegen Gott.",
@@ -4825,7 +4851,7 @@
   "ung": []
  },
  {
-  "nr": 550,
+  "nr": 554,
   "art": "",
   "dt": [
    "Geh mit Gott - aber geh!"
@@ -4833,7 +4859,7 @@
   "ung": []
  },
  {
-  "nr": 551,
+  "nr": 555,
   "art": "",
   "dt": [
    "Der Kluge lässt sich belehren, der Unkluge weiß alles besser."
@@ -4841,7 +4867,7 @@
   "ung": []
  },
  {
-  "nr": 552,
+  "nr": 556,
   "art": "",
   "dt": [
    "Der Vorteil der Klugheit besteht darin, dass man sich dumm stellen kann.",
@@ -4850,7 +4876,7 @@
   "ung": []
  },
  {
-  "nr": 553,
+  "nr": 557,
   "art": "",
   "dt": [
    "Es kann passieren, was will.",
@@ -4859,7 +4885,7 @@
   "ung": []
  },
  {
-  "nr": 554,
+  "nr": 558,
   "art": "",
   "dt": [
    "Ein Kluger bemerkt alles, ein Dummer macht über alles eine Bemerkung."
@@ -4867,7 +4893,7 @@
   "ung": []
  },
  {
-  "nr": 555,
+  "nr": 559,
   "art": "",
   "dt": [
    "Alt ist man dann, wenn man an der Vergangenheit mehr Freude hat als an der Zukunft."
@@ -4875,7 +4901,7 @@
   "ung": []
  },
  {
-  "nr": 556,
+  "nr": 560,
   "art": "",
   "dt": [
    "Ein Fahrgast steigt ins Taxi.",
@@ -4885,7 +4911,7 @@
   "ung": []
  },
  {
-  "nr": 557,
+  "nr": 561,
   "art": "",
   "dt": [
    "Nur was sich ändert bleibt."
@@ -4893,7 +4919,7 @@
   "ung": []
  },
  {
-  "nr": 558,
+  "nr": 562,
   "art": "",
   "dt": [
    "Glaube nicht alles, was du denkst!"
@@ -4901,7 +4927,7 @@
   "ung": []
  },
  {
-  "nr": 559,
+  "nr": 563,
   "art": "",
   "dt": [
    "Sozialismus: Du besitzt zwei Kühe. Eine Kuh musst du deinem Nachbarn abgeben.",
@@ -4915,7 +4941,7 @@
   "ung": []
  },
  {
-  "nr": 560,
+  "nr": 564,
   "art": "",
   "dt": [
    "„Ihre ersten vier Männer sind an Pilzvergiftung gestorben und der fünfte, als er von der Leiter fiel.",
@@ -4925,7 +4951,7 @@
   "ung": []
  },
  {
-  "nr": 561,
+  "nr": 565,
   "art": "",
   "dt": [
    "Wenn du kein Platz am Tisch hast, dann stehst du wahrscheinlich auf der Speisekarte."
@@ -4933,7 +4959,7 @@
   "ung": []
  },
  {
-  "nr": 562,
+  "nr": 566,
   "art": "",
   "dt": [
    "Fressen oder gefressen werden."
@@ -4941,7 +4967,7 @@
   "ung": []
  },
  {
-  "nr": 563,
+  "nr": 567,
   "art": "",
   "dt": [
    "Wo alle einer Meinung sind, da braucht es eine zweite."
@@ -4949,7 +4975,7 @@
   "ung": []
  },
  {
-  "nr": 564,
+  "nr": 568,
   "art": "",
   "dt": [
    "Gold ist Geld, alles andere ist Kredit."
@@ -4957,7 +4983,7 @@
   "ung": []
  },
  {
-  "nr": 565,
+  "nr": 569,
   "art": "",
   "dt": [
    "Das kleinste Kollektiv ist ein Schizophrener."
@@ -4965,7 +4991,7 @@
   "ung": []
  },
  {
-  "nr": 566,
+  "nr": 570,
   "art": "",
   "dt": [
    "Gerüchte sind der Nachrichtendienst der Schwachen."
@@ -4973,7 +4999,7 @@
   "ung": []
  },
  {
-  "nr": 567,
+  "nr": 571,
   "art": "",
   "dt": [
    "Vorurteile sind die Statistik des kleinen Mannes."
@@ -4981,7 +5007,7 @@
   "ung": []
  },
  {
-  "nr": 568,
+  "nr": 572,
   "art": "",
   "dt": [
    "Große Ereignisse werfen ihre Schatten unter die Augen."
@@ -4989,7 +5015,7 @@
   "ung": []
  },
  {
-  "nr": 569,
+  "nr": 573,
   "art": "",
   "dt": [
    "„Ist dort das Hilfetelefon für Alkoholiker?“",
@@ -4999,7 +5025,7 @@
   "ung": []
  },
  {
-  "nr": 570,
+  "nr": 574,
   "art": "",
   "dt": [
    "Die Lösung ist immer einfach.",
@@ -5008,7 +5034,7 @@
   "ung": []
  },
  {
-  "nr": 571,
+  "nr": 575,
   "art": "",
   "dt": [
    "Ein Jahr ist lange, aber die Jahrzehnte sind kurz."
@@ -5016,7 +5042,7 @@
   "ung": []
  },
  {
-  "nr": 572,
+  "nr": 576,
   "art": "",
   "dt": [
    "Man sollte jung sterben, und das möglichst spät."
@@ -5024,7 +5050,7 @@
   "ung": []
  },
  {
-  "nr": 573,
+  "nr": 577,
   "art": "",
   "dt": [
    "„Darf ich kurz stören?„",
@@ -5034,7 +5060,7 @@
   "ung": []
  },
  {
-  "nr": 574,
+  "nr": 578,
   "art": "",
   "dt": [
    "Meine Tage gehen irgendwie rückwärts.",
@@ -5043,7 +5069,7 @@
   "ung": []
  },
  {
-  "nr": 575,
+  "nr": 579,
   "art": "",
   "dt": [
    "„Warum sind Sie nicht verheiratet?“ - „Warum soll ich eine Frau unglücklich machen, wenn ich so",
@@ -5052,7 +5078,7 @@
   "ung": []
  },
  {
-  "nr": 576,
+  "nr": 580,
   "art": "",
   "dt": [
    "„Glaubst du an Horoskope?“ - „Nein, Steinböcke tun das niemals.“",
@@ -5066,7 +5092,7 @@
   "ung": []
  },
  {
-  "nr": 577,
+  "nr": 581,
   "art": "",
   "dt": [
    "Ein Arbeitstag verkürzt das Leben um acht Stunden."
@@ -5074,7 +5100,7 @@
   "ung": []
  },
  {
-  "nr": 578,
+  "nr": 582,
   "art": "",
   "dt": [
    "Die Gegenwart von heute wird die Vergangenheit von morgen sein."
@@ -5082,7 +5108,7 @@
   "ung": []
  },
  {
-  "nr": 579,
+  "nr": 583,
   "art": "",
   "dt": [
    "Die Möbel von heute sind nicht die Antiquitäten von morgen."
@@ -5090,7 +5116,7 @@
   "ung": []
  },
  {
-  "nr": 580,
+  "nr": 584,
   "art": "",
   "dt": [
    "In jedem Ende liegt ein Anfang, und jedem Anfang wohnt ein Zauber inne."
@@ -5098,7 +5124,7 @@
   "ung": []
  },
  {
-  "nr": 581,
+  "nr": 585,
   "art": "",
   "dt": [
    "Not macht erfinderisch."
@@ -5106,7 +5132,7 @@
   "ung": []
  },
  {
-  "nr": 582,
+  "nr": 586,
   "art": "",
   "dt": [
    "Gut Ding will Weile haben."
@@ -5114,7 +5140,7 @@
   "ung": []
  },
  {
-  "nr": 583,
+  "nr": 587,
   "art": "",
   "dt": [
    "Ein Narr kann mehr fragen als hundert Weise beantworten können."
@@ -5122,7 +5148,7 @@
   "ung": []
  },
  {
-  "nr": 584,
+  "nr": 588,
   "art": "",
   "dt": [
    "Marx hat Freiheit mit Gleichheit verwechselt."
@@ -5130,7 +5156,7 @@
   "ung": []
  },
  {
-  "nr": 585,
+  "nr": 589,
   "art": "",
   "dt": [
    "Der Mensch gewöhnt sich an allem.",
@@ -5139,7 +5165,7 @@
   "ung": []
  },
  {
-  "nr": 586,
+  "nr": 590,
   "art": "",
   "dt": [
    "Menschen, die nach Bewunderung streben, sind nicht eitel genug."
@@ -5147,7 +5173,7 @@
   "ung": []
  },
  {
-  "nr": 587,
+  "nr": 591,
   "art": "",
   "dt": [
    "Ist der Ruf erst ruiniert, lebt sich’s gänzlich ungeniert."
@@ -5155,7 +5181,7 @@
   "ung": []
  },
  {
-  "nr": 588,
+  "nr": 592,
   "art": "",
   "dt": [
    "Ein mal ist kein mal."
@@ -5163,7 +5189,7 @@
   "ung": []
  },
  {
-  "nr": 589,
+  "nr": 593,
   "art": "",
   "dt": [
    "Wer sich zum Wurm macht wird auch zertreten."
@@ -5171,7 +5197,7 @@
   "ung": []
  },
  {
-  "nr": 590,
+  "nr": 594,
   "art": "",
   "dt": [
    "Liebe das ist, wenn du - egal ob besoffen oder nüchtern - immer ein und die selbe Frau anrufst."
@@ -5179,7 +5205,7 @@
   "ung": []
  },
  {
-  "nr": 591,
+  "nr": 595,
   "art": "",
   "dt": [
    "Ein Glück das nicht von Dauer ist nennt man Vergnügen.",
@@ -5188,7 +5214,7 @@
   "ung": []
  },
  {
-  "nr": 592,
+  "nr": 596,
   "art": "",
   "dt": [
    "Haben Sie Angst vor Asiaten?",
@@ -5197,7 +5223,7 @@
   "ung": []
  },
  {
-  "nr": 593,
+  "nr": 597,
   "art": "",
   "dt": [
    "Leute wie du sind der Grund, warum auf Shampooflaschen eine Gebrauchsanweisung steht."
@@ -5205,7 +5231,7 @@
   "ung": []
  },
  {
-  "nr": 594,
+  "nr": 598,
   "art": "",
   "dt": [
    "Lächle!",
@@ -5214,7 +5240,7 @@
   "ung": []
  },
  {
-  "nr": 595,
+  "nr": 599,
   "art": "",
   "dt": [
    "Erst wenn die Ebbe kommt sieht man wer nackt schwimmt."
@@ -5222,7 +5248,7 @@
   "ung": []
  },
  {
-  "nr": 596,
+  "nr": 600,
   "art": "",
   "dt": [
    "Wenn dir was wichtig ist gibt es kein ABER."
@@ -5230,7 +5256,7 @@
   "ung": []
  },
  {
-  "nr": 597,
+  "nr": 601,
   "art": "",
   "dt": [
    "Meine mentale Verfassung ist besäufniserregend."
@@ -5238,7 +5264,7 @@
   "ung": []
  },
  {
-  "nr": 598,
+  "nr": 602,
   "art": "",
   "dt": [
    "Ich bin nicht alt, ich bin klassisch."
@@ -5246,7 +5272,7 @@
   "ung": []
  },
  {
-  "nr": 599,
+  "nr": 603,
   "art": "",
   "dt": [
    "Der Mensch führt sein Schicksal dadurch herbei, dass er es abzuwenden trachtet."
@@ -5254,7 +5280,7 @@
   "ung": []
  },
  {
-  "nr": 600,
+  "nr": 604,
   "art": "",
   "dt": [
    "Wer vom Ende her denkt, tut sich mit dem Anfangen schwerer."
@@ -5262,7 +5288,7 @@
   "ung": []
  },
  {
-  "nr": 601,
+  "nr": 605,
   "art": "",
   "dt": [
    "Herr Doktor, ich habe einen Knoten in der Brust.",
@@ -5271,7 +5297,7 @@
   "ung": []
  },
  {
-  "nr": 602,
+  "nr": 606,
   "art": "",
   "dt": [
    "Fünft von sechs Wissenschaftlern haben bewiesen, dass russisches Roulett ungefährlich ist."
@@ -5279,7 +5305,7 @@
   "ung": []
  },
  {
-  "nr": 603,
+  "nr": 607,
   "art": "",
   "dt": [
    "Ein bedeutsames Schweigen kann mehr sagen als bedeutungslose Worte."
@@ -5287,7 +5313,7 @@
   "ung": []
  },
  {
-  "nr": 604,
+  "nr": 608,
   "art": "",
   "dt": [
    "Je härter du arbeitest, um so reicher wird dein Chef.",
@@ -5296,7 +5322,7 @@
   "ung": []
  },
  {
-  "nr": 605,
+  "nr": 609,
   "art": "",
   "dt": [
    "Verkehrspolizist zu Graf Dracula: „Haben Sie was getrunken?“",
@@ -5305,7 +5331,7 @@
   "ung": []
  },
  {
-  "nr": 606,
+  "nr": 610,
   "art": "",
   "dt": [
    "Der Teufel scheißt auf den größten Haufen.",
@@ -5314,7 +5340,7 @@
   "ung": []
  },
  {
-  "nr": 607,
+  "nr": 611,
   "art": "",
   "dt": [
    "„Wenn du was getrunken hast finde ich dich süß.“",
@@ -5323,7 +5349,7 @@
   "ung": []
  },
  {
-  "nr": 608,
+  "nr": 612,
   "art": "",
   "dt": [
    "Der Herr hat's gegeben, der Herr hat's genommen."
@@ -5331,7 +5357,7 @@
   "ung": []
  },
  {
-  "nr": 609,
+  "nr": 613,
   "art": "",
   "dt": [
    "Wie bringst du Gott zum Lachen?",
@@ -5340,7 +5366,7 @@
   "ung": []
  },
  {
-  "nr": 610,
+  "nr": 614,
   "art": "",
   "dt": [
    "Wie die Alten sungen, so zwitschern auch die Jungen."
@@ -5348,7 +5374,7 @@
   "ung": []
  },
  {
-  "nr": 611,
+  "nr": 615,
   "art": "",
   "dt": [
    "Sind bestätigte Vorurteile noch welche?"
@@ -5356,7 +5382,7 @@
   "ung": []
  },
  {
-  "nr": 612,
+  "nr": 616,
   "art": "",
   "dt": [
    "Alkohol hilft nicht eine Antwort zu finden, aber er hilft die Frage zu vergessen."
@@ -5364,7 +5390,7 @@
   "ung": []
  },
  {
-  "nr": 613,
+  "nr": 617,
   "art": "",
   "dt": [
    "„Verbrennt die Hexe!“",
@@ -5374,7 +5400,7 @@
   "ung": []
  },
  {
-  "nr": 614,
+  "nr": 618,
   "art": "",
   "dt": [
    "Glück.",
@@ -5383,7 +5409,7 @@
   "ung": []
  },
  {
-  "nr": 615,
+  "nr": 619,
   "art": "",
   "dt": [
    "Gestern habe ich ein Kochbuch für „Zigeuner-Gerichte“ gekauft.",
@@ -5392,7 +5418,7 @@
   "ung": []
  },
  {
-  "nr": 616,
+  "nr": 620,
   "art": "",
   "dt": [
    "Lach heute und wein erst morgen! (Ließ das jeden Tag!)"
@@ -5400,7 +5426,7 @@
   "ung": []
  },
  {
-  "nr": 617,
+  "nr": 621,
   "art": "",
   "dt": [
    "Lache nie über die Vergangenheit anderer Leute, denn du kennst deine Zukunft noch nicht."
@@ -5408,7 +5434,7 @@
   "ung": []
  },
  {
-  "nr": 618,
+  "nr": 622,
   "art": "",
   "dt": [
    "Spartipp von mir. Im Lokal brüllen: „Zehn Bier auf mir.“",
@@ -5418,7 +5444,7 @@
   "ung": []
  },
  {
-  "nr": 619,
+  "nr": 623,
   "art": "",
   "dt": [
    "„Wo aber Gefahr ist, wächst das Rettende auch.“ (Hölderlin)"
@@ -5426,7 +5452,7 @@
   "ung": []
  },
  {
-  "nr": 620,
+  "nr": 624,
   "art": "",
   "dt": [
    "Wenn zwei sich streiten ist der Klügere schuld."
@@ -5434,7 +5460,7 @@
   "ung": []
  },
  {
-  "nr": 621,
+  "nr": 625,
   "art": "",
   "dt": [
    "Folge deinem Herzen, aber nimm dein Gehirn mit."
@@ -5442,7 +5468,7 @@
   "ung": []
  },
  {
-  "nr": 622,
+  "nr": 626,
   "art": "",
   "dt": [
    "Es gibt keine Gesunden, sondern nur schlecht untersuchte."
@@ -5450,7 +5476,7 @@
   "ung": []
  },
  {
-  "nr": 623,
+  "nr": 627,
   "art": "",
   "dt": [
    "Wer nicht kommt zur rechten Zeit, der muss seh'n was übrig bleibt."
@@ -5458,7 +5484,7 @@
   "ung": []
  },
  {
-  "nr": 624,
+  "nr": 628,
   "art": "",
   "dt": [
    "Wer sich nach allen Seiten verbeugt stößt überall mit dem Arsch an."
@@ -5466,7 +5492,7 @@
   "ung": []
  },
  {
-  "nr": 625,
+  "nr": 629,
   "art": "",
   "dt": [
    "Es gibt keine Helden in Unterhosen."
@@ -5474,7 +5500,7 @@
   "ung": []
  },
  {
-  "nr": 626,
+  "nr": 630,
   "art": "",
   "dt": [
    "Fast alle Denkmäler sind hohl."
@@ -5482,7 +5508,7 @@
   "ung": []
  },
  {
-  "nr": 627,
+  "nr": 631,
   "art": "",
   "dt": [
    "Ein Mann, ein Wort.",
@@ -5491,7 +5517,7 @@
   "ung": []
  },
  {
-  "nr": 628,
+  "nr": 632,
   "art": "",
   "dt": [
    "Hochmut kommt vor dem Fall."
@@ -5499,7 +5525,7 @@
   "ung": []
  },
  {
-  "nr": 629,
+  "nr": 633,
   "art": "",
   "dt": [
    "Totgesagte leben länger."
@@ -5507,7 +5533,7 @@
   "ung": []
  },
  {
-  "nr": 630,
+  "nr": 634,
   "art": "",
   "dt": [
    "Resignieren ist unnötig solange es was zu trinken gibt."
@@ -5515,7 +5541,7 @@
   "ung": []
  },
  {
-  "nr": 631,
+  "nr": 635,
   "art": "",
   "dt": [
    "Er war etwas unglücklich in der Wahl seiner Vorfahren."
@@ -5523,7 +5549,7 @@
   "ung": []
  },
  {
-  "nr": 632,
+  "nr": 636,
   "art": "",
   "dt": [
    "Patriarchat ist das feministische Wort für Kultur."
@@ -5531,7 +5557,7 @@
   "ung": []
  },
  {
-  "nr": 633,
+  "nr": 637,
   "art": "",
   "dt": [
    "Hinterher ist man schlauer, aber manchmal auch tot."
@@ -5539,7 +5565,7 @@
   "ung": []
  },
  {
-  "nr": 634,
+  "nr": 638,
   "art": "",
   "dt": [
    "Die beste Kamera ist immer die, die man dabei hat. (Fotografenweisheit)"
@@ -5547,7 +5573,7 @@
   "ung": []
  },
  {
-  "nr": 635,
+  "nr": 639,
   "art": "",
   "dt": [
    "Wer wagt, gewinnt.",
@@ -5562,7 +5588,7 @@
   "ung": []
  },
  {
-  "nr": 636,
+  "nr": 640,
   "art": "",
   "dt": [
    "Was du heute kannst besorgen, das verschiebe nicht auf morgen."
@@ -5570,7 +5596,7 @@
   "ung": []
  },
  {
-  "nr": 637,
+  "nr": 641,
   "art": "",
   "dt": [
    "Wem du's abends kannst besorgen, den vertröste nicht auf morgen."
@@ -5578,7 +5604,7 @@
   "ung": []
  },
  {
-  "nr": 638,
+  "nr": 642,
   "art": "",
   "dt": [
    "Die meisten unserer Importe kommen aus dem Ausland."
@@ -5586,7 +5612,7 @@
   "ung": []
  },
  {
-  "nr": 639,
+  "nr": 643,
   "art": "",
   "dt": [
    "Wenn man einen Hammer hat sieht alles aus wie ein Nagel."
@@ -5594,7 +5620,7 @@
   "ung": []
  },
  {
-  "nr": 640,
+  "nr": 644,
   "art": "",
   "dt": [
    "„Eigentum verpflichtet“, sagte der Fuchs zum Bauern und holte sich die Gans."
@@ -5602,7 +5628,7 @@
   "ung": []
  },
  {
-  "nr": 641,
+  "nr": 645,
   "art": "",
   "dt": [
    "Nur wer gegen den Strom schwimmt kommt zur Quelle."
@@ -5610,7 +5636,7 @@
   "ung": []
  },
  {
-  "nr": 642,
+  "nr": 646,
   "art": "",
   "dt": [
    "Vertraue denjenigen, die die Wahrheit suchen.",
@@ -5619,7 +5645,7 @@
   "ung": []
  },
  {
-  "nr": 643,
+  "nr": 647,
   "art": "",
   "dt": [
    "Pinkel mir nicht ans Bein und erzähl mir es regnet."
@@ -5627,7 +5653,7 @@
   "ung": []
  },
  {
-  "nr": 644,
+  "nr": 648,
   "art": "",
   "dt": [
    "Wer die Gegenwart kontrolliert, der kontrolliert auch die Vergangenheit.",
@@ -5636,7 +5662,7 @@
   "ung": []
  },
  {
-  "nr": 645,
+  "nr": 649,
   "art": "",
   "dt": [
    "Wenn wir unsere Armee nicht ernähren werden wir eine andere zu ernähren haben."
@@ -5644,7 +5670,7 @@
   "ung": []
  },
  {
-  "nr": 646,
+  "nr": 650,
   "art": "",
   "dt": [
    "Wer nicht weiß wo er hin will - kommt meistens dort an wo er nicht hin will."
@@ -5652,7 +5678,7 @@
   "ung": []
  },
  {
-  "nr": 647,
+  "nr": 651,
   "art": "",
   "dt": [
    "Ich habe keine Angst vor dem Tod.",
@@ -5663,7 +5689,7 @@
   "ung": []
  },
  {
-  "nr": 648,
+  "nr": 652,
   "art": "",
   "dt": [
    "Der Mensch hat dreierlei Wege klug zu handeln:",
@@ -5675,7 +5701,7 @@
   "ung": []
  },
  {
-  "nr": 649,
+  "nr": 653,
   "art": "",
   "dt": [
    "Ein Plan ist eine Liste von Dingen, die sowieso nicht passieren werden."
@@ -5683,7 +5709,7 @@
   "ung": []
  },
  {
-  "nr": 650,
+  "nr": 654,
   "art": "",
   "dt": [
    "Spüre die Angst und tue es trotzdem."
@@ -5691,7 +5717,7 @@
   "ung": []
  },
  {
-  "nr": 651,
+  "nr": 655,
   "art": "",
   "dt": [
    "Der Kontakt mit Meerwasser glättet die Falten in der Seele."
@@ -5699,7 +5725,7 @@
   "ung": []
  },
  {
-  "nr": 652,
+  "nr": 656,
   "art": "",
   "dt": [
    "Wisst ihr was wirklich lächerlich ist?",
@@ -5708,7 +5734,7 @@
   "ung": []
  },
  {
-  "nr": 653,
+  "nr": 657,
   "art": "",
   "dt": [
    "18, das ist das Alter in dem man laut Gesetz alles darf.",
@@ -5717,7 +5743,7 @@
   "ung": []
  },
  {
-  "nr": 654,
+  "nr": 658,
   "art": "",
   "dt": [
    "In der Apotheke:",
@@ -5730,7 +5756,7 @@
   "ung": []
  },
  {
-  "nr": 655,
+  "nr": 659,
   "art": "",
   "dt": [
    "„Herr Doktor, mir tut alles weh.“",
@@ -5740,7 +5766,7 @@
   "ung": []
  },
  {
-  "nr": 656,
+  "nr": 660,
   "art": "",
   "dt": [
    "Ein Unglück kommt selten allein."
@@ -5748,7 +5774,7 @@
   "ung": []
  },
  {
-  "nr": 657,
+  "nr": 661,
   "art": "",
   "dt": [
    "Emotionen vergehen mit der Zeit, aber das was sie gemacht haben - das bleibt."
@@ -5756,7 +5782,7 @@
   "ung": []
  },
  {
-  "nr": 658,
+  "nr": 662,
   "art": "",
   "dt": [
    "Nach dem Urlaub sollte man nicht einfach wieder so plötzlich auf Arbeit gehen. Das braucht seine Eingewöhnungszeit, so wie im Kindergarten:",
@@ -5767,7 +5793,7 @@
   "ung": []
  },
  {
-  "nr": 659,
+  "nr": 663,
   "art": "",
   "dt": [
    "Zwei Möglichkeiten um im Streit mit einer Frau zu gewinnen:",
@@ -5777,7 +5803,7 @@
   "ung": []
  },
  {
-  "nr": 660,
+  "nr": 664,
   "art": "",
   "dt": [
    "Ein Mann kommt zum Arzt und sagt:",
@@ -5788,7 +5814,7 @@
   "ung": []
  },
  {
-  "nr": 661,
+  "nr": 665,
   "art": "",
   "dt": [
    "Wie du es auch drehst, der beste Kleiderschrank ist ein Stuhl."
@@ -5796,7 +5822,7 @@
   "ung": []
  },
  {
-  "nr": 662,
+  "nr": 666,
   "art": "",
   "dt": [
    "Ohne ein hübsches Äußeres will niemand wissen was du für eine schöne Seele hast."
@@ -5804,7 +5830,7 @@
   "ung": []
  },
  {
-  "nr": 663,
+  "nr": 667,
   "art": "",
   "dt": [
    "Wenn du mehr hast als du brauchst, dann mache nicht deinen Zaun höher, sondern deinen Tisch größer."
@@ -5812,7 +5838,7 @@
   "ung": []
  },
  {
-  "nr": 664,
+  "nr": 668,
   "art": "",
   "dt": [
    "Wenn du nicht das schätzen kannst was du hast, dann wirst du wohl lernen müssen deine Erinnerungen zu schätzen."
@@ -5820,7 +5846,7 @@
   "ung": []
  },
  {
-  "nr": 665,
+  "nr": 669,
   "art": "",
   "dt": [
    "Morgens kommt die Krankenschwester ins Krankenzimmer.",
@@ -5831,7 +5857,7 @@
   "ung": []
  },
  {
-  "nr": 666,
+  "nr": 670,
   "art": "",
   "dt": [
    "Wenn ihr nicht an die Zukunft denkt, dann wird es euch in ihr nicht mehr geben."
@@ -5839,7 +5865,7 @@
   "ung": []
  },
  {
-  "nr": 667,
+  "nr": 671,
   "art": "",
   "dt": [
    "Die spannendsten und unterhaltsamsten Abenteuer beginnen mit den Wort: „Ich kenne da eine Abkürzung.“"
@@ -5847,7 +5873,7 @@
   "ung": []
  },
  {
-  "nr": 668,
+  "nr": 672,
   "art": "",
   "dt": [
    "Liebe deine Feinde.",
@@ -5856,7 +5882,7 @@
   "ung": []
  },
  {
-  "nr": 669,
+  "nr": 673,
   "art": "",
   "dt": [
    "Bescheidene und höfliche Menschen leben unauffällig und benutzen einen Schalldämpfer.",
@@ -5867,7 +5893,7 @@
   "ung": []
  },
  {
-  "nr": 670,
+  "nr": 674,
   "art": "",
   "dt": [
    "Die Tatsache, dass die Quallen 650 Mill.",
@@ -5876,7 +5902,7 @@
   "ung": []
  },
  {
-  "nr": 671,
+  "nr": 675,
   "art": "",
   "dt": [
    "Man sollte nie mit der Zukunft prahlen."
@@ -5884,7 +5910,7 @@
   "ung": []
  },
  {
-  "nr": 672,
+  "nr": 676,
   "art": "",
   "dt": [
    "Risiko - ist eine Zukunft, die nie stattfinden soll."
@@ -5892,7 +5918,7 @@
   "ung": []
  },
  {
-  "nr": 673,
+  "nr": 677,
   "art": "",
   "dt": [
    "Es fällt schwer höflich zu sein wenn man im Recht ist."
@@ -5900,7 +5926,7 @@
   "ung": []
  },
  {
-  "nr": 674,
+  "nr": 678,
   "art": "",
   "dt": [
    "Frauen denken immer zwei Gehälter im Voraus."
@@ -5908,7 +5934,7 @@
   "ung": []
  },
  {
-  "nr": 675,
+  "nr": 679,
   "art": "",
   "dt": [
    "„Doktor, was ist die ideale Größe bei meinem Gewicht?“",
@@ -5917,7 +5943,7 @@
   "ung": []
  },
  {
-  "nr": 676,
+  "nr": 680,
   "art": "",
   "dt": [
    "Verwandtschaft - das ist eine Gruppe von Menschen, die sich regelmäßig zum gemeinsamen Essen trifft, wenn sich ihre Anzahl verändert hat."
@@ -5925,7 +5951,7 @@
   "ung": []
  },
  {
-  "nr": 677,
+  "nr": 681,
   "art": "",
   "dt": [
    "Früher hat man Kinder ausschließlich mit pflanzlichen Mitteln geheilt.",
@@ -5934,7 +5960,7 @@
   "ung": []
  },
  {
-  "nr": 678,
+  "nr": 682,
   "art": "",
   "dt": [
    "Hoffnung ist der Regenbogen über dem herabstürzenden Bach des Lebens."
@@ -5942,7 +5968,7 @@
   "ung": []
  },
  {
-  "nr": 679,
+  "nr": 683,
   "art": "",
   "dt": [
    "„Angeklagter, was hat sie dazu bewogen die Bank auszurauben?“",
@@ -5951,7 +5977,7 @@
   "ung": []
  },
  {
-  "nr": 680,
+  "nr": 684,
   "art": "",
   "dt": [
    "Das Paradies der Reichen wird durch die Hölle der Armen geschaffen."
@@ -5959,7 +5985,7 @@
   "ung": []
  },
  {
-  "nr": 681,
+  "nr": 685,
   "art": "",
   "dt": [
    "Schau nicht zurück!",
@@ -5968,7 +5994,7 @@
   "ung": []
  },
  {
-  "nr": 682,
+  "nr": 686,
   "art": "",
   "dt": [
    "Ein richtiger Urlaub ist, wenn du dir kurze Hosen und einen Sonnenhut kaufst.",
@@ -5977,7 +6003,7 @@
   "ung": []
  },
  {
-  "nr": 683,
+  "nr": 687,
   "art": "",
   "dt": [
    "Du willst glücklich leben?",
@@ -5995,7 +6021,7 @@
   "ung": []
  },
  {
-  "nr": 684,
+  "nr": 688,
   "art": "",
   "dt": [
    "Tränen sind keine Zeichen der Schwäche, sondern ein Zeichen dafür, dass der Mensch eine Seele und ein Herz hat."
@@ -6003,7 +6029,7 @@
   "ung": []
  },
  {
-  "nr": 685,
+  "nr": 689,
   "art": "",
   "dt": [
    "Du wurdest als Original geboren.",
@@ -6012,7 +6038,7 @@
   "ung": []
  },
  {
-  "nr": 686,
+  "nr": 690,
   "art": "",
   "dt": [
    "Ergophobie - ist die Angst vor der Arbeit.",
@@ -6022,7 +6048,7 @@
   "ung": []
  },
  {
-  "nr": 687,
+  "nr": 691,
   "art": "",
   "dt": [
    "Die beste Erbschaft ist eine gute Erziehung."
@@ -6030,7 +6056,7 @@
   "ung": []
  },
  {
-  "nr": 688,
+  "nr": 692,
   "art": "",
   "dt": [
    "Glücklich ist der, der gelernt hat zu bewundern statt zu beneiden."
@@ -6038,7 +6064,7 @@
   "ung": []
  },
  {
-  "nr": 689,
+  "nr": 693,
   "art": "",
   "dt": [
    "Ich habe beschlossen abzunehmen.",
@@ -6047,7 +6073,7 @@
   "ung": []
  },
  {
-  "nr": 690,
+  "nr": 694,
   "art": "",
   "dt": [
    "Der Bahnhof hat mehr innige Küsse gesehen als das Standesamt.",
@@ -6056,7 +6082,7 @@
   "ung": []
  },
  {
-  "nr": 691,
+  "nr": 695,
   "art": "",
   "dt": [
    "Das waren noch Zeiten, als ich meine alten Smartphones an meine Eltern weitergegeben habe.",
@@ -6065,7 +6091,7 @@
   "ung": []
  },
  {
-  "nr": 692,
+  "nr": 696,
   "art": "",
   "dt": [
    "„Woran erkennt man einen Veganer?“",
@@ -6074,7 +6100,7 @@
   "ung": []
  },
  {
-  "nr": 693,
+  "nr": 697,
   "art": "",
   "dt": [
    "Eine gute Ehefrau muss so viel Geld verbrauchen, dass dem Mann nicht mehr genug für eine Geleibte übrig bleibt."
@@ -6082,7 +6108,7 @@
   "ung": []
  },
  {
-  "nr": 694,
+  "nr": 698,
   "art": "",
   "dt": [
    "Und sie lebten noch lange und glücklich ...",
@@ -6094,7 +6120,7 @@
   "ung": []
  },
  {
-  "nr": 695,
+  "nr": 699,
   "art": "",
   "dt": [
    "„Sie sind durch die Fahrprüfung gefallen. Sie können wieder aussteigen.“",
@@ -6104,7 +6130,7 @@
   "ung": []
  },
  {
-  "nr": 696,
+  "nr": 700,
   "art": "",
   "dt": [
    "Ich wollte jetzt anfangen jeden Morgen zu joggen, aber",
@@ -6116,7 +6142,7 @@
   "ung": []
  },
  {
-  "nr": 697,
+  "nr": 701,
   "art": "",
   "dt": [
    "Im Leben gibt es keine „richtige Wahl“.",
@@ -6125,7 +6151,7 @@
   "ung": []
  },
  {
-  "nr": 698,
+  "nr": 702,
   "art": "",
   "dt": [
    "Gewalt ist keine Lösung. (Original)",
@@ -6135,7 +6161,7 @@
   "ung": []
  },
  {
-  "nr": 699,
+  "nr": 703,
   "art": "",
   "dt": [
    "Neulich hab ich 'nen Intelligenztest machen lassen.",
@@ -6144,7 +6170,7 @@
   "ung": []
  },
  {
-  "nr": 700,
+  "nr": 704,
   "art": "",
   "dt": [
    "Ich mache etwas Salz in die Pfütze - dann habe ich ein kleines Meer."
@@ -6152,7 +6178,7 @@
   "ung": []
  },
  {
-  "nr": 701,
+  "nr": 705,
   "art": "",
   "dt": [
    "Ich habe eine feste Meinung - verwirrt mich nicht mit Tatsachen."
@@ -6160,7 +6186,7 @@
   "ung": []
  },
  {
-  "nr": 702,
+  "nr": 706,
   "art": "",
   "dt": [
    "Aktion! - Angebot!",
@@ -6170,7 +6196,7 @@
   "ung": []
  },
  {
-  "nr": 703,
+  "nr": 707,
   "art": "",
   "dt": [
    "„Doktor, mir tut die Leber weh.“",
@@ -6180,7 +6206,7 @@
   "ung": []
  },
  {
-  "nr": 704,
+  "nr": 708,
   "art": "",
   "dt": [
    "Wenn du dich im Wald verlaufen hast, dann geh nach Hause!"
@@ -6188,7 +6214,7 @@
   "ung": []
  },
  {
-  "nr": 705,
+  "nr": 709,
   "art": "",
   "dt": [
    "Iss keinen gelben Schnee!"
@@ -6196,7 +6222,7 @@
   "ung": []
  },
  {
-  "nr": 706,
+  "nr": 710,
   "art": "",
   "dt": [
    "Im Winter mache ich mir gerne einen Spaß:",
@@ -6206,7 +6232,7 @@
   "ung": []
  },
  {
-  "nr": 707,
+  "nr": 711,
   "art": "",
   "dt": [
    "Wir waren so arm, dass wir sogar noch Einbrecher auf unserer tánya  bestohlen haben."
@@ -6214,7 +6240,7 @@
   "ung": []
  },
  {
-  "nr": 708,
+  "nr": 712,
   "art": "",
   "dt": [
    "Wenn sich zwei Menschen scheiden lassen, dann darf man nicht nur einem die Schuld geben.",
@@ -6223,7 +6249,7 @@
   "ung": []
  },
  {
-  "nr": 709,
+  "nr": 713,
   "art": "",
   "dt": [
    "Gott beschützt uns alle.",
@@ -6232,7 +6258,7 @@
   "ung": []
  },
  {
-  "nr": 710,
+  "nr": 714,
   "art": "",
   "dt": [
    "Der einzige Arzt, der dich für völlig gesund hält arbeitet für die Musterungskommission."
@@ -6240,7 +6266,7 @@
   "ung": []
  },
  {
-  "nr": 711,
+  "nr": 715,
   "art": "",
   "dt": [
    "Besser ein mal hinfallen, als 100 mal."
@@ -6248,7 +6274,7 @@
   "ung": []
  },
  {
-  "nr": 712,
+  "nr": 716,
   "art": "",
   "dt": [
    "Wer sich wäscht, der ist nur zu faul zum Kratzten."
@@ -6256,7 +6282,7 @@
   "ung": []
  },
  {
-  "nr": 713,
+  "nr": 717,
   "art": "",
   "dt": [
    "Wer Lebensmittel und Wasser für den Ernstfall hortet, der ist nur zu faul zum Plündern."
@@ -6264,7 +6290,7 @@
   "ung": []
  },
  {
-  "nr": 714,
+  "nr": 718,
   "art": "",
   "dt": [
    "„Und? Hast du nun Johanna geheiratet?“",
@@ -6275,7 +6301,7 @@
   "ung": []
  },
  {
-  "nr": 715,
+  "nr": 719,
   "art": "",
   "dt": [
    "Er stellt sich im Bad auf die Waage und zieht dabei den Bauch ein.",
@@ -6285,7 +6311,7 @@
   "ung": []
  },
  {
-  "nr": 716,
+  "nr": 720,
   "art": "",
   "dt": [
    "Es gibt keine attraktivere Frau als die, die sich selber gefällt."
@@ -6293,7 +6319,7 @@
   "ung": []
  },
  {
-  "nr": 717,
+  "nr": 721,
   "art": "",
   "dt": [
    "„Es wird Zeit, dass ich mir diese schädliche Angewohnheit abgewöhne.“",
@@ -6303,7 +6329,7 @@
   "ung": []
  },
  {
-  "nr": 718,
+  "nr": 722,
   "art": "",
   "dt": [
    "Wenn ihr keine idiotischen Ratschläge wollt, dann besprecht eure Probleme nicht mit Idioten."
@@ -6311,7 +6337,7 @@
   "ung": []
  },
  {
-  "nr": 719,
+  "nr": 723,
   "art": "",
   "dt": [
    "Mit einer Nixe hast du zwei Probleme:",
@@ -6321,7 +6347,7 @@
   "ung": []
  },
  {
-  "nr": 720,
+  "nr": 724,
   "art": "",
   "dt": [
    "Nach einem Besuch im Puff schreibe ein Priester ins Gästebuch: Der Empfang war göttlich.",
@@ -6330,7 +6356,7 @@
   "ung": []
  },
  {
-  "nr": 721,
+  "nr": 725,
   "art": "",
   "dt": [
    "Lass die Vergangenheit nicht deine Gegenwart stehlen!"
@@ -6338,7 +6364,7 @@
   "ung": []
  },
  {
-  "nr": 722,
+  "nr": 726,
   "art": "",
   "dt": [
    "„Mama, wie ist das wenn man die beste Tochter der Welt hat?“",
@@ -6347,7 +6373,7 @@
   "ung": []
  },
  {
-  "nr": 723,
+  "nr": 727,
   "art": "",
   "dt": [
    "Das Geheimnis wie man abnimmt ist ziemlich einfach.",
@@ -6360,7 +6386,7 @@
   "ung": []
  },
  {
-  "nr": 724,
+  "nr": 728,
   "art": "",
   "dt": [
    "Stehlen - ist eine Straftat",
@@ -6370,7 +6396,7 @@
   "ung": []
  },
  {
-  "nr": 725,
+  "nr": 729,
   "art": "",
   "dt": [
    "In der Kindheit war Schlafen eine Bestrafung, und jetzt ist es ein Traum."
@@ -6378,7 +6404,7 @@
   "ung": []
  },
  {
-  "nr": 726,
+  "nr": 730,
   "art": "",
   "dt": [
    "Ich liebe es der Lüge zu lauschen, wenn dich die Wahrheit dazu kenne."
@@ -6386,7 +6412,7 @@
   "ung": []
  },
  {
-  "nr": 727,
+  "nr": 731,
   "art": "",
   "dt": [
    "Ich brauche wirklich noch einen zusätzlichen Tag zwischen Samstag und Sonntag.",
@@ -6401,7 +6427,7 @@
   "ung": []
  },
  {
-  "nr": 728,
+  "nr": 732,
   "art": "",
   "dt": [
    "Zwei Omas gehen zum Heu Mähen.",
@@ -6412,7 +6438,7 @@
   "ung": []
  },
  {
-  "nr": 729,
+  "nr": 733,
   "art": "",
   "dt": [
    "„Schatz, wenn ich dich verlasse und mir eine andere Frau nehme, wird es dir dann Leid tun?“",
@@ -6421,7 +6447,7 @@
   "ung": []
  },
  {
-  "nr": 730,
+  "nr": 734,
   "art": "",
   "dt": [
    "Die meisten Probleme entstehen bei ihrer Lösung."
@@ -6429,7 +6455,7 @@
   "ung": []
  },
  {
-  "nr": 731,
+  "nr": 735,
   "art": "",
   "dt": [
    "Jeder hält die Grenzen des eigenen Gesichtsfeldes für die Grenzen der Welt."
@@ -6437,7 +6463,7 @@
   "ung": []
  },
  {
-  "nr": 732,
+  "nr": 736,
   "art": "",
   "dt": [
    "Sagt der König zum Pfaffen: „Halt du sie dumm!",
@@ -6446,7 +6472,7 @@
   "ung": []
  },
  {
-  "nr": 733,
+  "nr": 737,
   "art": "",
   "dt": [
    "Wie lange dauert Ramadan?",
@@ -6455,7 +6481,7 @@
   "ung": []
  },
  {
-  "nr": 734,
+  "nr": 738,
   "art": "",
   "dt": [
    "Lotto ist eine Strafsteuer für diejenigen, die schlecht in Mathematik waren."
@@ -6463,7 +6489,7 @@
   "ung": []
  },
  {
-  "nr": 735,
+  "nr": 739,
   "art": "",
   "dt": [
    "Es ist schwer die Realität den eigenen Vorstellungen anzupassen."
@@ -6471,7 +6497,7 @@
   "ung": []
  },
  {
-  "nr": 736,
+  "nr": 740,
   "art": "",
   "dt": [
    "Eine Schwalbe macht noch keinen Frühling."
@@ -6479,7 +6505,7 @@
   "ung": []
  },
  {
-  "nr": 737,
+  "nr": 741,
   "art": "",
   "dt": [
    "Jede Reise beginnt mit dem ersten Schritt."
@@ -6487,7 +6513,7 @@
   "ung": []
  },
  {
-  "nr": 738,
+  "nr": 742,
   "art": "",
   "dt": [
    "Das Leben ist das Produkt unserer Gedanken."
@@ -6495,7 +6521,7 @@
   "ung": []
  },
  {
-  "nr": 739,
+  "nr": 743,
   "art": "",
   "dt": [
    "Die Wahrheit ist die Lüge auf die man sich einigen konnte."
@@ -6503,7 +6529,7 @@
   "ung": []
  },
  {
-  "nr": 740,
+  "nr": 744,
   "art": "",
   "dt": [
    "Bei einer gewissen Abstraktionsstufe ist alles gleich."
@@ -6511,7 +6537,7 @@
   "ung": []
  },
  {
-  "nr": 741,
+  "nr": 745,
   "art": "",
   "dt": [
    "In der Not frisst der Teufel Fliegen.",
@@ -6520,7 +6546,7 @@
   "ung": []
  },
  {
-  "nr": 742,
+  "nr": 746,
   "art": "",
   "dt": [
    "Jede Revolution war zuerst ein Gedanke im Kopf eines Menschen."
@@ -6528,7 +6554,7 @@
   "ung": []
  },
  {
-  "nr": 743,
+  "nr": 747,
   "art": "",
   "dt": [
    "Not macht erfinderisch."
@@ -6536,7 +6562,7 @@
   "ung": []
  },
  {
-  "nr": 744,
+  "nr": 748,
   "art": "",
   "dt": [
    "Das Genie erkennt man daran, dass es alle Dummköpfe gegen sich hat."
@@ -6544,7 +6570,7 @@
   "ung": []
  },
  {
-  "nr": 745,
+  "nr": 749,
   "art": "",
   "dt": [
    "Was ich nicht weiß, macht mich nicht heiß."
@@ -6552,7 +6578,7 @@
   "ung": []
  },
  {
-  "nr": 746,
+  "nr": 750,
   "art": "",
   "dt": [
    "Mitgefangen, mitgehangen"
@@ -6560,7 +6586,7 @@
   "ung": []
  },
  {
-  "nr": 747,
+  "nr": 751,
   "art": "",
   "dt": [
    "Wenn zwei das Gleiche tun, ist es noch immer nicht das Selbe."
@@ -6568,7 +6594,7 @@
   "ung": []
  },
  {
-  "nr": 748,
+  "nr": 752,
   "art": "",
   "dt": [
    "Wo gehobelt wird fallen Späne."
@@ -6576,7 +6602,7 @@
   "ung": []
  },
  {
-  "nr": 749,
+  "nr": 753,
   "art": "",
   "dt": [
    "Dumm geboren und nichts dazu gelernt."
@@ -6584,7 +6610,7 @@
   "ung": []
  },
  {
-  "nr": 750,
+  "nr": 754,
   "art": "",
   "dt": [
    "Manchmal hat sogar der Teufel Angst vor den Gedanken die in einem weiblichen Kopf reifen."
@@ -6592,7 +6618,7 @@
   "ung": []
  },
  {
-  "nr": 751,
+  "nr": 755,
   "art": "",
   "dt": [
    "Ich mache sehr böse Dinge.",
@@ -6601,7 +6627,7 @@
   "ung": []
  },
  {
-  "nr": 752,
+  "nr": 756,
   "art": "",
   "dt": [
    "Die Reisetabletten bringen rein gar nichts.",
@@ -6610,7 +6636,7 @@
   "ung": []
  },
  {
-  "nr": 753,
+  "nr": 757,
   "art": "",
   "dt": [
    "Nicht alles was hinkt ist ein Vergleich."
@@ -6618,7 +6644,7 @@
   "ung": []
  },
  {
-  "nr": 754,
+  "nr": 758,
   "art": "",
   "dt": [
    "Der Wurm muss dem Fisch schmecken, nicht dem Angler."
@@ -6626,7 +6652,7 @@
   "ung": []
  },
  {
-  "nr": 755,
+  "nr": 759,
   "art": "",
   "dt": [
    "Jedes Unrecht beginnt mit einer Lüge."
@@ -6634,7 +6660,7 @@
   "ung": []
  },
  {
-  "nr": 756,
+  "nr": 760,
   "art": "",
   "dt": [
    "Rache ist ein Gericht, das man am besten kalt verzehrt. Mit Anlauf und Verzögerung.",
@@ -6644,7 +6670,7 @@
   "ung": []
  },
  {
-  "nr": 757,
+  "nr": 761,
   "art": "",
   "dt": [
    "Ein Wessi und ein Ossi streiten sich an der Mauer.",
@@ -6656,7 +6682,7 @@
   "ung": []
  },
  {
-  "nr": 758,
+  "nr": 762,
   "art": "",
   "dt": [
    "Vielwisserei bringt noch keinen Verstand. (Heraklit)"
@@ -6664,7 +6690,7 @@
   "ung": []
  },
  {
-  "nr": 759,
+  "nr": 763,
   "art": "",
   "dt": [
    "Was lange hält, hält auch noch länger.",
@@ -6673,7 +6699,7 @@
   "ung": []
  },
  {
-  "nr": 760,
+  "nr": 764,
   "art": "",
   "dt": [
    "Glaube ist die Angst vor dem Zweifel."
@@ -6681,7 +6707,7 @@
   "ung": []
  },
  {
-  "nr": 761,
+  "nr": 765,
   "art": "",
   "dt": [
    "Wenn du schnell gehen willst, dann geh' alleine.",
@@ -6690,7 +6716,7 @@
   "ung": []
  },
  {
-  "nr": 762,
+  "nr": 766,
   "art": "",
   "dt": [
    "Das Auto ist kein Luxus,",
@@ -6699,7 +6725,7 @@
   "ung": []
  },
  {
-  "nr": 763,
+  "nr": 767,
   "art": "",
   "dt": [
    "Freunde sind wie Bäume,",
@@ -6709,7 +6735,7 @@
   "ung": []
  },
  {
-  "nr": 764,
+  "nr": 768,
   "art": "",
   "dt": [
    "„Wie alt bist du?“",
@@ -6718,7 +6744,7 @@
   "ung": []
  },
  {
-  "nr": 765,
+  "nr": 769,
   "art": "",
   "dt": [
    "Es gibt nichts nützlicheres im Haushalt, als ein Mann der Schuld ist.",
@@ -6727,7 +6753,7 @@
   "ung": []
  },
  {
-  "nr": 766,
+  "nr": 770,
   "art": "",
   "dt": [
    "Wenn du das haben willst, was du nie hattest, dann musst du der werden, der du nie warst."
@@ -6735,7 +6761,7 @@
   "ung": []
  },
  {
-  "nr": 767,
+  "nr": 771,
   "art": "",
   "dt": [
    "Besser man schweigt und wird für einen Dummkopf gehalten, als dass man spricht und damit jeden Zweifel beseitigt."
@@ -6743,7 +6769,7 @@
   "ung": []
  },
  {
-  "nr": 768,
+  "nr": 772,
   "art": "",
   "dt": [
    "Sprich höflich und denk was du willst. (engl.",
@@ -6752,7 +6778,7 @@
   "ung": []
  },
  {
-  "nr": 769,
+  "nr": 773,
   "art": "",
   "dt": [
    "„Meine Frau leidet unter Alkoholismus.“",
@@ -6762,7 +6788,7 @@
   "ung": []
  },
  {
-  "nr": 770,
+  "nr": 774,
   "art": "",
   "dt": [
    "Horoskop für den Monat Mai.",
@@ -6772,7 +6798,7 @@
   "ung": []
  },
  {
-  "nr": 771,
+  "nr": 775,
   "art": "",
   "dt": [
    "Kennst du das?",
@@ -6781,7 +6807,7 @@
   "ung": []
  },
  {
-  "nr": 772,
+  "nr": 776,
   "art": "",
   "dt": [
    "Früher habe ich den Sommer geliebt.",
@@ -6791,7 +6817,7 @@
   "ung": []
  },
  {
-  "nr": 773,
+  "nr": 777,
   "art": "",
   "dt": [
    "Ich habe drei Tage lang einen Ameisenhaufen beobachtet.",
@@ -6800,7 +6826,7 @@
   "ung": []
  },
  {
-  "nr": 774,
+  "nr": 778,
   "art": "",
   "dt": [
    "„Die Gerüchte über meinen Tod sind stark übertrieben“, sagt Mark Twain, nachdem eine Zeitung fehlerhaft sein Ableben erklärt hatte."
@@ -6808,7 +6834,7 @@
   "ung": []
  },
  {
-  "nr": 775,
+  "nr": 779,
   "art": "",
   "dt": [
    "Wo man am meisten drauf erpicht, gerade das bekommt man nicht. (Wilhelm Busch)"
@@ -6816,7 +6842,7 @@
   "ung": []
  },
  {
-  "nr": 776,
+  "nr": 780,
   "art": "",
   "dt": [
    "Die Wahrheit siegt.",
@@ -6825,7 +6851,7 @@
   "ung": []
  },
  {
-  "nr": 777,
+  "nr": 781,
   "art": "",
   "dt": [
    "„Ich begreife nicht, wie sie das Passwort von meinem Notebook knacken konnten.“",
@@ -6837,7 +6863,7 @@
   "ung": []
  },
  {
-  "nr": 778,
+  "nr": 782,
   "art": "",
   "dt": [
    "„Vielleicht geht es auch ‚ohne‘, denn ‚mit‘ ist es nicht das gleiche Gefühl ...“",
@@ -6846,7 +6872,7 @@
   "ung": []
  },
  {
-  "nr": 779,
+  "nr": 783,
   "art": "",
   "dt": [
    "Geld macht nicht glücklich, aber es macht uns das Unglücklichsein komfortabel.",
@@ -6861,7 +6887,7 @@
   "ung": []
  },
  {
-  "nr": 780,
+  "nr": 784,
   "art": "",
   "dt": [
    "Ich: „Endlich habe ich mein Glück gefunden.“",
@@ -6870,7 +6896,7 @@
   "ung": []
  },
  {
-  "nr": 781,
+  "nr": 785,
   "art": "",
   "dt": [
    "Sogar eine weiße Rose wirft einen schwarzen Schatten."
@@ -6878,7 +6904,7 @@
   "ung": []
  },
  {
-  "nr": 782,
+  "nr": 786,
   "art": "",
   "dt": [
    "Hohe Zäune machen gute Nachbarn."
@@ -6886,7 +6912,7 @@
   "ung": []
  },
  {
-  "nr": 783,
+  "nr": 787,
   "art": "",
   "dt": [
    "Mache Heu so lange die Sonne scheint!"
@@ -6894,7 +6920,7 @@
   "ung": []
  },
  {
-  "nr": 784,
+  "nr": 788,
   "art": "",
   "dt": [
    "Die besten Lehrer sind diejenigen, die dir sagen wo du hinschauen sollst, dir aber nicht sagen was du sehen sollst."
@@ -6902,7 +6928,7 @@
   "ung": []
  },
  {
-  "nr": 785,
+  "nr": 789,
   "art": "",
   "dt": [
    "Menschen wurde geschaffen um geliebt zu werden.",
@@ -6912,7 +6938,7 @@
   "ung": []
  },
  {
-  "nr": 786,
+  "nr": 790,
   "art": "",
   "dt": [
    "Zwei Gründe warum ich Menschen nicht trauen:",
@@ -6922,7 +6948,7 @@
   "ung": []
  },
  {
-  "nr": 787,
+  "nr": 791,
   "art": "",
   "dt": [
    "Es ist egal, ob das Glas halb voll oder halb leer ist.",
@@ -6931,7 +6957,7 @@
   "ung": []
  },
  {
-  "nr": 788,
+  "nr": 792,
   "art": "",
   "dt": [
    "Wenn du nicht gerne liest hast du nicht das richtige Buch gefunden."
@@ -6939,7 +6965,7 @@
   "ung": []
  },
  {
-  "nr": 789,
+  "nr": 793,
   "art": "",
   "dt": [
    "Mich quält schon lange eine Frage: Woher kommen die Sachen in meinem Schrank, die mir nicht gefallen?"
@@ -6947,7 +6973,7 @@
   "ung": []
  },
  {
-  "nr": 790,
+  "nr": 794,
   "art": "",
   "dt": [
    "Nachdem er das Morsealphabet gelernt hatte konnte er nicht mehr bei Regen einschlafen.",
@@ -6956,7 +6982,7 @@
   "ung": []
  },
  {
-  "nr": 791,
+  "nr": 795,
   "art": "",
   "dt": [
    "In die Notaufnahme wird ein Mann mit schweren Verbrennungen eingeliefert. Nach der Röntgenuntersuchung sagt der Arzt zu ihm: „Komisch. Sie haben mehr Knochenbrüche als Verbrennungen.“",
@@ -6966,7 +6992,7 @@
   "ung": []
  },
  {
-  "nr": 792,
+  "nr": 796,
   "art": "",
   "dt": [
    "Vergebe der Vergangenheit!",
@@ -6976,7 +7002,7 @@
   "ung": []
  },
  {
-  "nr": 793,
+  "nr": 797,
   "art": "",
   "dt": [
    "Urlaubs-Kalorien zählen nicht!"
@@ -6984,7 +7010,7 @@
   "ung": []
  },
  {
-  "nr": 794,
+  "nr": 798,
   "art": "",
   "dt": [
    "Es gibt auch Leute die es zustande bringen Wasser anbrennen zu lassen."
@@ -6992,7 +7018,7 @@
   "ung": []
  },
  {
-  "nr": 795,
+  "nr": 799,
   "art": "",
   "dt": [
    "Nur wer mit dem Strom schwimmt, wird das Meer erreichen."
@@ -7000,7 +7026,7 @@
   "ung": []
  },
  {
-  "nr": 796,
+  "nr": 800,
   "art": "",
   "dt": [
    "Um an die Quelle zu kommen, muss man gegen den Strom schwimmen."
@@ -7008,7 +7034,7 @@
   "ung": []
  },
  {
-  "nr": 797,
+  "nr": 801,
   "art": "",
   "dt": [
    "Wenn man aufhört besser werden zu wollen, hört man bald auf gut zu sein."
@@ -7016,7 +7042,7 @@
   "ung": []
  },
  {
-  "nr": 798,
+  "nr": 802,
   "art": "",
   "dt": [
    "Du bist der Durchschnitt der fünf Menschen, mit denen du dich umgibst."
@@ -7024,7 +7050,7 @@
   "ung": []
  },
  {
-  "nr": 799,
+  "nr": 803,
   "art": "",
   "dt": [
    "Eine kurze Bitte an die Anfänger: Fangt an!"
@@ -7032,7 +7058,7 @@
   "ung": []
  },
  {
-  "nr": 800,
+  "nr": 804,
   "art": "",
   "dt": [
    "Ich sitze da und weine.",
@@ -7044,7 +7070,7 @@
   "ung": []
  },
  {
-  "nr": 801,
+  "nr": 805,
   "art": "",
   "dt": [
    "Der Tag fängt nicht mit einem Kaffee an, sondern mit dem Gedanken: „Ich hätte gestern eher ins Bett gehen sollen.“"
@@ -7052,7 +7078,7 @@
   "ung": []
  },
  {
-  "nr": 802,
+  "nr": 806,
   "art": "",
   "dt": [
    "Darf ich dich auf einen Kaffee einladen?",
@@ -7062,7 +7088,7 @@
   "ung": []
  },
  {
-  "nr": 803,
+  "nr": 807,
   "art": "",
   "dt": [
    "Ein Schild im Zoo: „Liebe Affen, ihr kapiert es schneller.",
@@ -7071,7 +7097,7 @@
   "ung": []
  },
  {
-  "nr": 804,
+  "nr": 808,
   "art": "",
   "dt": [
    "Intelligenz und schmutzige Gedanken sind eine phantastische Kombination"
@@ -7079,7 +7105,7 @@
   "ung": []
  },
  {
-  "nr": 805,
+  "nr": 809,
   "art": "",
   "dt": [
    "Wenn Plan-A nicht funktioniert, dann bleib ganz ruhig.",
@@ -7088,7 +7114,7 @@
   "ung": []
  },
  {
-  "nr": 806,
+  "nr": 810,
   "art": "",
   "dt": [
    "Wenn ein Mann denkt, dass er ein Marsmensch ist oder Napoleon, dann wird er behandelt.",
@@ -7098,7 +7124,7 @@
   "ung": []
  },
  {
-  "nr": 807,
+  "nr": 811,
   "art": "",
   "dt": [
    "Wenn du die Welt ändern willst, dann fang an dein Bett zu machen!"
@@ -7106,7 +7132,7 @@
   "ung": []
  },
  {
-  "nr": 808,
+  "nr": 812,
   "art": "",
   "dt": [
    "Ist das nicht komisch?",
@@ -7116,7 +7142,7 @@
   "ung": []
  },
  {
-  "nr": 809,
+  "nr": 813,
   "art": "",
   "dt": [
    "Nach 30 Ehejahren schrieb er in die Formularspalte „Ehestand“: ausweglos."
@@ -7124,7 +7150,7 @@
   "ung": []
  },
  {
-  "nr": 810,
+  "nr": 814,
   "art": "",
   "dt": [
    "Es reicht langsam Pläne zu machen - für die Vergangenheit."
@@ -7132,7 +7158,7 @@
   "ung": []
  },
  {
-  "nr": 811,
+  "nr": 815,
   "art": "",
   "dt": [
    "Sie: „Ich bin so fett.“",
@@ -7142,7 +7168,7 @@
   "ung": []
  },
  {
-  "nr": 812,
+  "nr": 816,
   "art": "",
   "dt": [
    "Frauen tuen manchmal sehr geheimnisvoll:",
@@ -7154,7 +7180,7 @@
   "ung": []
  },
  {
-  "nr": 813,
+  "nr": 817,
   "art": "",
   "dt": [
    "Es gibt nur zwei Möglichkeiten, um im Streit mit einer Frau zu gewinnen:",
@@ -7164,7 +7190,7 @@
   "ung": []
  },
  {
-  "nr": 814,
+  "nr": 818,
   "art": "",
   "dt": [
    "Das beste Mittel, um sich den Geburtstag seiner Frau zu merken, ist ihn einmal zu vergessen.",
@@ -7173,7 +7199,7 @@
   "ung": []
  },
  {
-  "nr": 815,
+  "nr": 819,
   "art": "",
   "dt": [
    "Ich kann auch ohne Spaß zu haben viel Alkohol trinken."
@@ -7181,7 +7207,7 @@
   "ung": []
  },
  {
-  "nr": 816,
+  "nr": 820,
   "art": "",
   "dt": [
    "Als Gott Adam erschaffen hatte war er begeistert von seinem Werk. Das war ihm gelungen. Stolz sagte er zu Adam: \"Einwandfrei! So kannst du rausgehen.\"",
@@ -7190,7 +7216,7 @@
   "ung": []
  },
  {
-  "nr": 817,
+  "nr": 821,
   "art": "",
   "dt": [
    "Es ist immer besser mit der Mehrheit zu irren, als allein Recht zu haben."
@@ -7198,7 +7224,7 @@
   "ung": []
  },
  {
-  "nr": 818,
+  "nr": 822,
   "art": "",
   "dt": [
    "Mode ist das was man selbst trägt, schreckliche Mode ist dagegen das was die anderen tragen."
@@ -7206,7 +7232,7 @@
   "ung": []
  },
  {
-  "nr": 819,
+  "nr": 823,
   "art": "",
   "dt": [
    "Die Liebe zu sich selbst ist der Beginn einer lebenslangen Romanze."
@@ -7214,7 +7240,7 @@
   "ung": []
  },
  {
-  "nr": 820,
+  "nr": 824,
   "art": "",
   "dt": [
    "In den alten Zeiten hatten wir die Folter, heute dagegen haben wir die Presse."
@@ -7222,7 +7248,7 @@
   "ung": []
  },
  {
-  "nr": 821,
+  "nr": 825,
   "art": "",
   "dt": [
    "Das Gefühl, gut gekleidet zu sein, verschafft eine Sicherheit, wie sie keine Religion geben kann."
@@ -7230,7 +7256,7 @@
   "ung": []
  },
  {
-  "nr": 822,
+  "nr": 826,
   "art": "",
   "dt": [
    "Die Liebe ist nicht käuflich, man kann sie nur verschenken."
@@ -7238,7 +7264,7 @@
   "ung": []
  },
  {
-  "nr": 823,
+  "nr": 827,
   "art": "",
   "dt": [
    "Was heißt Babywindel auf Türkisch?",
@@ -7247,7 +7273,7 @@
   "ung": []
  },
  {
-  "nr": 824,
+  "nr": 828,
   "art": "",
   "dt": [
    "Wasch mir den Pelz, aber mach mich nicht nass!"
@@ -7255,7 +7281,7 @@
   "ung": []
  },
  {
-  "nr": 825,
+  "nr": 829,
   "art": "",
   "dt": [
    "Wo ein Wille, da ein Weg."
@@ -7263,7 +7289,7 @@
   "ung": []
  },
  {
-  "nr": 826,
+  "nr": 830,
   "art": "",
   "dt": [
    "Wer den ganzen Tag in Jogginghose oder Trainingsanzug herumläuft, hat die Kontrolle über sein Leben verloren! (Karl Lagerfeld)"
@@ -7271,7 +7297,7 @@
   "ung": []
  },
  {
-  "nr": 827,
+  "nr": 831,
   "art": "",
   "dt": [
    "Wer in Trainingshosen rumläuft hat sich schon aufgegeben (Karl Lagerfeld.)"
@@ -7279,7 +7305,7 @@
   "ung": []
  },
  {
-  "nr": 828,
+  "nr": 832,
   "art": "",
   "dt": [
    "Mögen hätte ich schon wollen, aber dürfen habe ich mich nicht getraut. (Karl Valentin)"
@@ -7287,7 +7313,7 @@
   "ung": []
  },
  {
-  "nr": 829,
+  "nr": 833,
   "art": "",
   "dt": [
    "Wie man sich bettet so liegt man.",
@@ -7300,7 +7326,7 @@
   "ung": []
  },
  {
-  "nr": 830,
+  "nr": 834,
   "art": "",
   "dt": [
    "Weniger ist mehr!",
@@ -7313,7 +7339,7 @@
   "ung": []
  },
  {
-  "nr": 831,
+  "nr": 835,
   "art": "",
   "dt": [
    "Freunde sind die Blumen im Garten des Lebens."
@@ -7321,7 +7347,7 @@
   "ung": []
  },
  {
-  "nr": 832,
+  "nr": 836,
   "art": "",
   "dt": [
    "Der Schein bestimmt das Bewusstsein."
@@ -7329,7 +7355,7 @@
   "ung": []
  },
  {
-  "nr": 833,
+  "nr": 837,
   "art": "",
   "dt": [
    "Wenn dich dein Leben nervt - streu Glitzer drauf!"
@@ -7337,7 +7363,7 @@
   "ung": []
  },
  {
-  "nr": 834,
+  "nr": 838,
   "art": "",
   "dt": [
    "Spare in der Zeit, dann hast Du in der Not!"
@@ -7345,7 +7371,7 @@
   "ung": []
  },
  {
-  "nr": 835,
+  "nr": 839,
   "art": "",
   "dt": [
    "Was Du nicht willst, dass man Dir tu, das füg’ auch keinem anderen zu!"
@@ -7353,7 +7379,7 @@
   "ung": []
  },
  {
-  "nr": 836,
+  "nr": 840,
   "art": "",
   "dt": [
    "Unsichtbar wird die Dummheit, wenn sie genügend große Ausmaße angenommen hat. (Brecht)"
@@ -7361,7 +7387,7 @@
   "ung": []
  },
  {
-  "nr": 837,
+  "nr": 841,
   "art": "",
   "dt": [
    "In der Bar setzt sich ein Chinese neben mich.",
@@ -7372,7 +7398,7 @@
   "ung": []
  },
  {
-  "nr": 838,
+  "nr": 842,
   "art": "",
   "dt": [
    "Glaub nicht dem, was du im Fernsehen siehst, sondern dem, was du in deinem Kühlschrank siehst!"
@@ -7380,7 +7406,7 @@
   "ung": []
  },
  {
-  "nr": 839,
+  "nr": 843,
   "art": "",
   "dt": [
    "Deine Zukunft braucht dich, deine Vergangenheit nicht."
@@ -7388,7 +7414,7 @@
   "ung": []
  },
  {
-  "nr": 840,
+  "nr": 844,
   "art": "",
   "dt": [
    "Fast alles im Leben ist die Folge einer Wahl, die du getroffen hat.",
@@ -7397,7 +7423,7 @@
   "ung": []
  },
  {
-  "nr": 841,
+  "nr": 845,
   "art": "",
   "dt": [
    "„Schrei mich nicht an, sonst erkrankst du noch!“",
@@ -7407,7 +7433,7 @@
   "ung": []
  },
  {
-  "nr": 842,
+  "nr": 846,
   "art": "",
   "dt": [
    "Richter: „Was ist der Scheidungsgrund?“",
@@ -7419,7 +7445,7 @@
   "ung": []
  },
  {
-  "nr": 843,
+  "nr": 847,
   "art": "",
   "dt": [
    "„Ich habe keinen Bauch, das ist meine sexuelle Schwungmasse.“"
@@ -7427,7 +7453,7 @@
   "ung": []
  },
  {
-  "nr": 844,
+  "nr": 848,
   "art": "",
   "dt": [
    "Die Frau schimpft mit ihrem Mann: „Wie lange willst du noch anderen Frauen nachsteigen.",
@@ -7436,7 +7462,7 @@
   "ung": []
  },
  {
-  "nr": 845,
+  "nr": 849,
   "art": "",
   "dt": [
    "Es ist nicht wichtig wie schnell du gehst, solang du nicht aufhörst zu gehen."
@@ -7444,7 +7470,7 @@
   "ung": []
  },
  {
-  "nr": 846,
+  "nr": 850,
   "art": "",
   "dt": [
    "Ruhe ist die erste Bürgerpflicht."
@@ -7452,7 +7478,7 @@
   "ung": []
  },
  {
-  "nr": 847,
+  "nr": 851,
   "art": "",
   "dt": [
    "Das Leben besteht zu 10 % aus dem was passiert und zu 90 % aus dem wie du darauf reagierst."
@@ -7460,7 +7486,7 @@
   "ung": []
  },
  {
-  "nr": 848,
+  "nr": 852,
   "art": "",
   "dt": [
    "Fällt der Regierung etwas ein, kann es nur 'ne neue Steuer sein."
@@ -7468,7 +7494,7 @@
   "ung": []
  },
  {
-  "nr": 849,
+  "nr": 853,
   "art": "",
   "dt": [
    "„Ich nehme meine Worte zurück.“",
@@ -7478,7 +7504,7 @@
   "ung": []
  },
  {
-  "nr": 850,
+  "nr": 854,
   "art": "",
   "dt": [
    "Ich habe mich heute auf die Waage gestellt.",
@@ -7487,7 +7513,7 @@
   "ung": []
  },
  {
-  "nr": 851,
+  "nr": 855,
   "art": "",
   "dt": [
    "Wir altern nicht.",
@@ -7496,7 +7522,7 @@
   "ung": []
  },
  {
-  "nr": 852,
+  "nr": 856,
   "art": "",
   "dt": [
    "Die Hausfrau sieht den Staub auf den Möbeln.",
@@ -7505,7 +7531,7 @@
   "ung": []
  },
  {
-  "nr": 853,
+  "nr": 857,
   "art": "",
   "dt": [
    "Was wollen Frauen?",
@@ -7514,7 +7540,7 @@
   "ung": []
  },
  {
-  "nr": 854,
+  "nr": 858,
   "art": "",
   "dt": [
    "Mein Mann will mich verlassen, weil er im Internet eine andere kennengelernt hat.",
@@ -7523,7 +7549,7 @@
   "ung": []
  },
  {
-  "nr": 855,
+  "nr": 859,
   "art": "",
   "dt": [
    "Gute Mädchen kommen in den Himmel, böse öfters."
@@ -7531,7 +7557,7 @@
   "ung": []
  },
  {
-  "nr": 856,
+  "nr": 860,
   "art": "",
   "dt": [
    "Wissen nennen wir den kleinen Teil der Unwissenheit, den wir geordnet haben.",
@@ -7540,7 +7566,7 @@
   "ung": []
  },
  {
-  "nr": 857,
+  "nr": 861,
   "art": "",
   "dt": [
    "Was meinen sie, was hier los wäre, wenn mehr Leute verstehen würden, was hier los ist?"
@@ -7548,7 +7574,7 @@
   "ung": []
  },
  {
-  "nr": 858,
+  "nr": 862,
   "art": "",
   "dt": [
    "„Als ich so alt war wie du hatte ich schon sieben Männer getötet.",
@@ -7557,7 +7583,7 @@
   "ung": []
  },
  {
-  "nr": 859,
+  "nr": 863,
   "art": "",
   "dt": [
    "„Machst du beim Sex das Licht aus?“",
@@ -7566,7 +7592,7 @@
   "ung": []
  },
  {
-  "nr": 860,
+  "nr": 864,
   "art": "",
   "dt": [
    "Der größte Lump im ganzen Land, das ist und bleibt der Denunziant!"
@@ -7574,7 +7600,7 @@
   "ung": []
  },
  {
-  "nr": 861,
+  "nr": 865,
   "art": "",
   "dt": [
    "Erfahrung ist eine teure Schule, aber Narren wollen anderswo nicht lernen."
@@ -7582,7 +7608,7 @@
   "ung": []
  },
  {
-  "nr": 862,
+  "nr": 866,
   "art": "",
   "dt": [
    "Es ist keine Lüge, wenn man selbst dran glaubt."
@@ -7590,7 +7616,7 @@
   "ung": []
  },
  {
-  "nr": 863,
+  "nr": 867,
   "art": "",
   "dt": [
    "Geschichte wiederholt sich nicht, aber sie reimt sich."
@@ -7598,7 +7624,7 @@
   "ung": []
  },
  {
-  "nr": 864,
+  "nr": 868,
   "art": "",
   "dt": [
    "Alles geht vorbei, aber nicht alles vergisst man."
@@ -7606,7 +7632,7 @@
   "ung": []
  },
  {
-  "nr": 865,
+  "nr": 869,
   "art": "",
   "dt": [
    "Sonntag ist ... schlafen, bis man Hunger hat ... und dann essen bis man müde wird!"
@@ -7614,7 +7640,7 @@
   "ung": []
  },
  {
-  "nr": 866,
+  "nr": 870,
   "art": "",
   "dt": [
    "Jemanden der so tut als wenn er schläft kannst du nicht aufwecken."
@@ -7622,7 +7648,7 @@
   "ung": []
  },
  {
-  "nr": 867,
+  "nr": 871,
   "art": "",
   "dt": [
    "Glaub nicht alles was du denkst!"
@@ -7630,7 +7656,7 @@
   "ung": []
  },
  {
-  "nr": 868,
+  "nr": 872,
   "art": "",
   "dt": [
    "Die dummen Verteidiger sind einer Sache meist schädlicher als ihre klugen Gegner."
@@ -7638,7 +7664,7 @@
   "ung": []
  },
  {
-  "nr": 869,
+  "nr": 873,
   "art": "",
   "dt": [
    "Haltet den Dieb!",
@@ -7647,7 +7673,7 @@
   "ung": []
  },
  {
-  "nr": 870,
+  "nr": 874,
   "art": "",
   "dt": [
    "Wehe, wehe, wenn ich auf das Ende sehe."
@@ -7655,7 +7681,7 @@
   "ung": []
  },
  {
-  "nr": 871,
+  "nr": 875,
   "art": "",
   "dt": [
    "Das Licht am Ende des Tunnels kann auch ein entgegenkommender Zug sein."
@@ -7663,7 +7689,7 @@
   "ung": []
  },
  {
-  "nr": 872,
+  "nr": 876,
   "art": "",
   "dt": [
    "Der Furz ist der Ofen des kleinen Mannes."
@@ -7671,7 +7697,7 @@
   "ung": []
  },
  {
-  "nr": 873,
+  "nr": 877,
   "art": "",
   "dt": [
    "Ist doch egal wer mit wem schläft.",
@@ -7680,7 +7706,7 @@
   "ung": []
  },
  {
-  "nr": 874,
+  "nr": 878,
   "art": "",
   "dt": [
    "Ich träume davon Millionär zu werden, wie mein Vater. - Dein Vater ist Millionär? - Nein, aber er träumt davon, so wie ich.",
@@ -7689,7 +7715,7 @@
   "ung": []
  },
  {
-  "nr": 875,
+  "nr": 879,
   "art": "",
   "dt": [
    "Wie bringt man Gott zu Lachen?",
@@ -7698,7 +7724,7 @@
   "ung": []
  },
  {
-  "nr": 876,
+  "nr": 880,
   "art": "",
   "dt": [
    "Und mache einen Plan, und sei ein großes Licht ..."
@@ -7706,7 +7732,7 @@
   "ung": []
  },
  {
-  "nr": 877,
+  "nr": 881,
   "art": "",
   "dt": [
    "Die Toleranz wächst mit dem Abstand zum Problem."
@@ -7714,7 +7740,7 @@
   "ung": []
  },
  {
-  "nr": 878,
+  "nr": 882,
   "art": "",
   "dt": [
    "Nur die Harten kommen in den Garten."
@@ -7722,7 +7748,7 @@
   "ung": []
  },
  {
-  "nr": 879,
+  "nr": 883,
   "art": "",
   "dt": [
    "Der Klügere gibt so lange nach, bis er der Dumme ist."
@@ -7730,7 +7756,7 @@
   "ung": []
  },
  {
-  "nr": 880,
+  "nr": 884,
   "art": "",
   "dt": [
    "Kein Haar am Sack, aber einen Kamm in der Tasche."
@@ -7738,7 +7764,7 @@
   "ung": []
  },
  {
-  "nr": 881,
+  "nr": 885,
   "art": "",
   "dt": [
    "Liebe geht durch den Magen, Pils durch die Blase."
@@ -7746,7 +7772,7 @@
   "ung": []
  },
  {
-  "nr": 882,
+  "nr": 886,
   "art": "",
   "dt": [
    "Ich glaube ich werde krank, ... ich habe Montag."
@@ -7754,7 +7780,7 @@
   "ung": []
  },
  {
-  "nr": 883,
+  "nr": 887,
   "art": "",
   "dt": [
    "Auf einen groben Klotz gehört ein grober Keil."
@@ -7762,7 +7788,7 @@
   "ung": []
  },
  {
-  "nr": 884,
+  "nr": 888,
   "art": "",
   "dt": [
    "Man stirbt leider nur ein mal - und das leider für sehr lange."
@@ -7770,7 +7796,7 @@
   "ung": []
  },
  {
-  "nr": 885,
+  "nr": 889,
   "art": "",
   "dt": [
    "Der Mensch, dem niemand gefällt, ist viel unglücklicher als jener, der keinem gefällt."
@@ -7778,7 +7804,7 @@
   "ung": []
  },
  {
-  "nr": 886,
+  "nr": 890,
   "art": "",
   "dt": [
    "Araber: Bag-dad",
@@ -7787,7 +7813,7 @@
   "ung": []
  },
  {
-  "nr": 887,
+  "nr": 891,
   "art": "",
   "dt": [
    "Jeder Dummkopf kann einen Stein ins Wasser werfen, aber zehn Weise holen ihn nicht wieder heraus.",
@@ -7801,7 +7827,7 @@
   "ung": []
  },
  {
-  "nr": 888,
+  "nr": 892,
   "art": "",
   "dt": [
    "Bedenke worum du bittest, es könnte dir gewährt werde."
@@ -7809,7 +7835,7 @@
   "ung": []
  },
  {
-  "nr": 889,
+  "nr": 893,
   "art": "",
   "dt": [
    "Die Erinnerung ist das einzige Paradies aus dem man uns nicht vertreiben kann."
@@ -7817,7 +7843,7 @@
   "ung": []
  },
  {
-  "nr": 890,
+  "nr": 894,
   "art": "",
   "dt": [
    "Mach es wie die Sonnenuhr, zähl' die heit'ren Stunden nur."
@@ -7825,7 +7851,7 @@
   "ung": []
  },
  {
-  "nr": 891,
+  "nr": 895,
   "art": "",
   "dt": [
    "Die Mutter der Dummen ist immer schwanger."
@@ -7833,7 +7859,7 @@
   "ung": []
  },
  {
-  "nr": 892,
+  "nr": 896,
   "art": "",
   "dt": [
    "Die Dummen sterben nie aus.",
@@ -7843,7 +7869,7 @@
   "ung": []
  },
  {
-  "nr": 893,
+  "nr": 897,
   "art": "",
   "dt": [
    "Die Dummen sterben nie aus."
@@ -7851,7 +7877,7 @@
   "ung": []
  },
  {
-  "nr": 894,
+  "nr": 898,
   "art": "",
   "dt": [
    "Rächt schrai punk wirt über be währtet."
@@ -7859,7 +7885,7 @@
   "ung": []
  },
  {
-  "nr": 895,
+  "nr": 899,
   "art": "",
   "dt": [
    "Beschreiben Sie Deutschland in einem Satz! ,\"Die Treppe ist gesperrt, weil die Stufen nicht der DIN-Norm entsprechen, allerdings kann sie nicht umgebaut werden, da sie unter Denkmalschutz steht.\""
@@ -7867,7 +7893,7 @@
   "ung": []
  },
  {
-  "nr": 896,
+  "nr": 900,
   "art": "",
   "dt": [
    "Frauen denken immer zwei Monatsgehälter im Voraus."
@@ -7875,7 +7901,7 @@
   "ung": []
  },
  {
-  "nr": 897,
+  "nr": 901,
   "art": "",
   "dt": [
    "Zeitungsannonce: Brustvergrößerung durch Handauflegen, 10 Euro je Sitzung, Erfolgsgarantie - sonst Geld zurück"
@@ -7883,7 +7909,7 @@
   "ung": []
  },
  {
-  "nr": 898,
+  "nr": 902,
   "art": "",
   "dt": [
    "Die Großen hören auf zu herrschen, wenn die Kleinen aufhören zu kriechen."
@@ -7891,7 +7917,7 @@
   "ung": []
  },
  {
-  "nr": 899,
+  "nr": 903,
   "art": "",
   "dt": [
    "Drei Mathematiker gehen in eine Bar. Die Kellnerin fragt: \"Wollt ihr alle drei ein Bier?\" Der erste antwortet: \"Vielleicht\". Der Zweite antwortet auch: \"Vielleicht\". Der Dritte sagt: \"Ja\".",
@@ -7940,7 +7966,7 @@
   "ung": []
  },
  {
-  "nr": 900,
+  "nr": 904,
   "art": "",
   "dt": [
    "Man erkennt den Irrtum daran, dass alle Welt ihn teilt."
@@ -7948,7 +7974,7 @@
   "ung": []
  },
  {
-  "nr": 901,
+  "nr": 905,
   "art": "",
   "dt": [
    "Was versteht der Ochse vom Sonntag, wenn er alle Tage Heu frisst?"
@@ -7956,7 +7982,7 @@
   "ung": []
  },
  {
-  "nr": 902,
+  "nr": 906,
   "art": "",
   "dt": [
    "Hoffe auf das Beste, aber sei auf das Schlimmste vorbereitet."
@@ -7964,7 +7990,7 @@
   "ung": []
  },
  {
-  "nr": 903,
+  "nr": 907,
   "art": "",
   "dt": [
    "Glaube nichts von dem was du hörst und nur die Hälfte von dem was du siehst!"
@@ -7972,7 +7998,7 @@
   "ung": []
  },
  {
-  "nr": 904,
+  "nr": 908,
   "art": "",
   "dt": [
    "Wasch mir den Pelz, aber mach mich nicht nass!"
@@ -7980,7 +8006,7 @@
   "ung": []
  },
  {
-  "nr": 905,
+  "nr": 909,
   "art": "",
   "dt": [
    "Heute ist die gute alte Zeit von morgen."
@@ -7988,7 +8014,7 @@
   "ung": []
  },
  {
-  "nr": 906,
+  "nr": 910,
   "art": "",
   "dt": [
    "Die Möbel von heute sind nicht die Antiquitäten von morgen."
@@ -7996,7 +8022,7 @@
   "ung": []
  },
  {
-  "nr": 907,
+  "nr": 911,
   "art": "",
   "dt": [
    "Vor Gericht und auf hoher See ist man in Gottes Hand."
@@ -8004,7 +8030,7 @@
   "ung": []
  },
  {
-  "nr": 908,
+  "nr": 912,
   "art": "",
   "dt": [
    "Besser haben und nicht brauchen, als brauchen und nicht haben."
@@ -8012,7 +8038,7 @@
   "ung": []
  },
  {
-  "nr": 909,
+  "nr": 913,
   "art": "",
   "dt": [
    "Ruhe ist die erste Bürgerpflicht."
@@ -8020,7 +8046,7 @@
   "ung": []
  },
  {
-  "nr": 910,
+  "nr": 914,
   "art": "",
   "dt": [
    "Man kann die Wahrheit nicht in das Feuer werfen, sie ist das Feuer."
@@ -8028,7 +8054,7 @@
   "ung": []
  },
  {
-  "nr": 911,
+  "nr": 915,
   "art": "",
   "dt": [
    "Man muss sich von sich selbst auch nicht alles gefallen lassen."
@@ -8036,7 +8062,7 @@
   "ung": []
  },
  {
-  "nr": 912,
+  "nr": 916,
   "art": "",
   "dt": [
    "Manchmal gehört mehr Mut dazu, seine Meinung zu ändern, als ihr treu zu bleiben."
@@ -8044,7 +8070,7 @@
   "ung": []
  },
  {
-  "nr": 913,
+  "nr": 917,
   "art": "",
   "dt": [
    "Hoffen und harren ist nur was für Narren."
@@ -8052,7 +8078,7 @@
   "ung": []
  },
  {
-  "nr": 914,
+  "nr": 918,
   "art": "",
   "dt": [
    "Wenn du dich einsam fühlst, dann mach das Licht aus und schalte dir einen Horrorfilm ein.",
@@ -8061,7 +8087,7 @@
   "ung": []
  },
  {
-  "nr": 915,
+  "nr": 919,
   "art": "",
   "dt": [
    "Er kann nichts richtig, das aber gut.",
@@ -8070,7 +8096,7 @@
   "ung": []
  },
  {
-  "nr": 916,
+  "nr": 920,
   "art": "",
   "dt": [
    "Morgens muss man besonders vorsichtig sein.",
@@ -8079,7 +8105,7 @@
   "ung": []
  },
  {
-  "nr": 917,
+  "nr": 921,
   "art": "",
   "dt": [
    "Wenn die Werbung immer die Wahrheit sagen würde hätte keine Frau auch nur eine einzige Falte."
@@ -8087,7 +8113,7 @@
   "ung": []
  },
  {
-  "nr": 918,
+  "nr": 922,
   "art": "",
   "dt": [
    "Wissenschaft: Das sind die Fakten. Welche Schlussfolgerungen können wir daraus ziehen?",
@@ -8096,7 +8122,7 @@
   "ung": []
  },
  {
-  "nr": 919,
+  "nr": 923,
   "art": "",
   "dt": [
    "Wo viel Licht ist, ist auch viel Schatten.",
@@ -8105,7 +8131,7 @@
   "ung": []
  },
  {
-  "nr": 920,
+  "nr": 924,
   "art": "",
   "dt": [
    "Windows zu benutzen ist wie U-Boot fahren.",
@@ -8114,7 +8140,7 @@
   "ung": []
  },
  {
-  "nr": 921,
+  "nr": 925,
   "art": "",
   "dt": [
    "Klauen deine Eltern?",
@@ -8123,7 +8149,7 @@
   "ung": []
  },
  {
-  "nr": 922,
+  "nr": 926,
   "art": "",
   "dt": [
    "Warum klauen Russen in Deutschland immer zwei Autos?",
@@ -8132,7 +8158,7 @@
   "ung": []
  },
  {
-  "nr": 923,
+  "nr": 927,
   "art": "",
   "dt": [
    "Der Fachmann staunt und der Laie wundert sich."
@@ -8140,7 +8166,7 @@
   "ung": []
  },
  {
-  "nr": 924,
+  "nr": 928,
   "art": "",
   "dt": [
    "Ich habe keine Probleme mit Alkohol, nur ohne."
@@ -8148,7 +8174,7 @@
   "ung": []
  },
  {
-  "nr": 925,
+  "nr": 929,
   "art": "",
   "dt": [
    "Kommt eine Frau zum Arzt: „Herr Doktor, Herr Doktor, halfen sie mir. Ich habe einen Knoten in der Brust.“",
@@ -8157,7 +8183,7 @@
   "ung": []
  },
  {
-  "nr": 926,
+  "nr": 930,
   "art": "",
   "dt": [
    "Warum kann man ein gleichseitiges Dreieck nicht kochen?",
@@ -8166,7 +8192,7 @@
   "ung": []
  },
  {
-  "nr": 927,
+  "nr": 931,
   "art": "",
   "dt": [
    "2 Leute gehen in ein Haus. Nach einer Weile kommen 3 wieder heraus.",
@@ -8179,7 +8205,7 @@
   "ung": []
  },
  {
-  "nr": 928,
+  "nr": 932,
   "art": "",
   "dt": [
    "Lieber ein Ende mit Schrecken, als ein Schrecken ohne Ende."
@@ -8187,7 +8213,7 @@
   "ung": []
  },
  {
-  "nr": 929,
+  "nr": 933,
   "art": "",
   "dt": [
    "Eine Rechtfertigung ist eine Antwort auf eine Frage, die niemand gestellt hat."
@@ -8195,7 +8221,7 @@
   "ung": []
  },
  {
-  "nr": 930,
+  "nr": 934,
   "art": "",
   "dt": [
    "Tun Sie nicht was, was wir nicht auch tun würden!"
@@ -8203,7 +8229,7 @@
   "ung": []
  },
  {
-  "nr": 931,
+  "nr": 935,
   "art": "",
   "dt": [
    "Ich bin dick, du bist hässlich.",
@@ -8212,7 +8238,7 @@
   "ung": []
  },
  {
-  "nr": 932,
+  "nr": 936,
   "art": "",
   "dt": [
    "Vorsicht!",
@@ -8222,7 +8248,7 @@
   "ung": []
  },
  {
-  "nr": 933,
+  "nr": 937,
   "art": "",
   "dt": [
    "Betriebstollwut gefährdeter Bezirk (Schild an einem Pausenraum)",
@@ -8253,7 +8279,7 @@
   "ung": []
  },
  {
-  "nr": 934,
+  "nr": 938,
   "art": "",
   "dt": [
    "Eine afrikanische Frau mit schweren Wasserkaraffen, die sie über Stunden schleppt, wird gefragt, weshalb ihr Ehemann, der im Schatten mit Freunden palavert, ihr dabei nicht hilft?",
@@ -8262,7 +8288,7 @@
   "ung": []
  },
  {
-  "nr": 935,
+  "nr": 939,
   "art": "",
   "dt": [
    "Wenn Schokolade nicht so lecker wäre, wäre vieles leichter.",
@@ -8271,7 +8297,7 @@
   "ung": []
  },
  {
-  "nr": 936,
+  "nr": 940,
   "art": "",
   "dt": [
    "Jede Gesellschaft ist drei Mahlzeiten entfernt von der Revolution."
@@ -8279,7 +8305,7 @@
   "ung": []
  },
  {
-  "nr": 937,
+  "nr": 941,
   "art": "",
   "dt": [
    "Ich wollte letztes Jahr 4 Kilo abnehmen.",
@@ -8288,7 +8314,7 @@
   "ung": []
  },
  {
-  "nr": 938,
+  "nr": 942,
   "art": "",
   "dt": [
    "Keiner ist so blind wie der, der nicht sehen will."
@@ -8296,7 +8322,7 @@
   "ung": []
  },
  {
-  "nr": 939,
+  "nr": 943,
   "art": "",
   "dt": [
    "Für einen Verschwörungstheoretiker ist das Fehlen eines jeglichen Beweises der stärkste Beweis überhaupt."
@@ -8304,7 +8330,7 @@
   "ung": []
  },
  {
-  "nr": 940,
+  "nr": 944,
   "art": "",
   "dt": [
    "Ein schlauer Mensch löst seine Probleme. Ein weiser Mensch vermeidet sie.",
@@ -8313,7 +8339,7 @@
   "ung": []
  },
  {
-  "nr": 941,
+  "nr": 945,
   "art": "",
   "dt": [
    "Wie nennt man vegane Demonstranten?",
@@ -8322,7 +8348,7 @@
   "ung": []
  },
  {
-  "nr": 942,
+  "nr": 946,
   "art": "",
   "dt": [
    "Wir verlangen von den Frauen, dass sie so arbeiten als ob sie keine Kinder hätten, dass sie die Kinder so großziehen als ob sie keine Arbeit hätten.",
@@ -8331,7 +8357,7 @@
   "ung": []
  },
  {
-  "nr": 943,
+  "nr": 947,
   "art": "",
   "dt": [
    "Die ersten 5 Tage nach dem Wochenende sind die härtesten."
@@ -8339,7 +8365,7 @@
   "ung": []
  },
  {
-  "nr": 944,
+  "nr": 948,
   "art": "",
   "dt": [
    "Das menschliche Hirn ist erstaunlich.",
@@ -8348,7 +8374,7 @@
   "ung": []
  },
  {
-  "nr": 945,
+  "nr": 949,
   "art": "",
   "dt": [
    "Wahrheit ist nicht demokratisch."
@@ -8356,7 +8382,7 @@
   "ung": []
  },
  {
-  "nr": 946,
+  "nr": 950,
   "art": "",
   "dt": [
    "Wenn du auf der Erde 200 kg wiegst, dann wiegst du auf dem Mond nur 76 kg.",
@@ -8365,7 +8391,7 @@
   "ung": []
  },
  {
-  "nr": 947,
+  "nr": 951,
   "art": "",
   "dt": [
    "Sein ganzes Leben lang hat das Schaf Angst vor den Wölfen gehabt, aber zum Schluss hat er Schäfer es aufgegessen."
@@ -8373,7 +8399,7 @@
   "ung": []
  },
  {
-  "nr": 948,
+  "nr": 952,
   "art": "",
   "dt": [
    "Nichts macht am Morgen so munter, wie der Satz: „Wir haben verschlafen!“"
@@ -8381,7 +8407,7 @@
   "ung": []
  },
  {
-  "nr": 949,
+  "nr": 953,
   "art": "",
   "dt": [
    "Auge um Auge - und die Welt wird blind. (Mahatma Gandhi zum Thema Rache)"
@@ -8389,7 +8415,7 @@
   "ung": []
  },
  {
-  "nr": 950,
+  "nr": 954,
   "art": "",
   "dt": [
    "Einen Dummkopf erkennt man an seinen Worten, einen Weisen an seinem Schweigen."
@@ -8397,7 +8423,7 @@
   "ung": []
  },
  {
-  "nr": 951,
+  "nr": 955,
   "art": "",
   "dt": [
    "Ein Mann kommt in den Baumarkt und sagt zum Verkäufer: „Ich hätte gerne einen 5er Bohrer und einen 3er Bohrer. ich möchte ein 8er Loch bohren.“",
@@ -8406,7 +8432,7 @@
   "ung": []
  },
  {
-  "nr": 952,
+  "nr": 956,
   "art": "",
   "dt": [
    "Liebe was du hast, bevor dich das Leben lehrt zu lieben was du verloren hast."
@@ -8414,7 +8440,7 @@
   "ung": []
  },
  {
-  "nr": 953,
+  "nr": 957,
   "art": "",
   "dt": [
    "Geld macht mir keine Sorgen - es beruhigt mich."
@@ -8422,7 +8448,7 @@
   "ung": []
  },
  {
-  "nr": 954,
+  "nr": 958,
   "art": "",
   "dt": [
    "Bei Psychiater: „Wann fing das an, dass Sie sich für einen Hund gehalten haben?“",
@@ -8431,7 +8457,7 @@
   "ung": []
  },
  {
-  "nr": 955,
+  "nr": 959,
   "art": "",
   "dt": [
    "Der Löwe ist der König der Tiere.",
@@ -8440,7 +8466,7 @@
   "ung": []
  },
  {
-  "nr": 956,
+  "nr": 960,
   "art": "",
   "dt": [
    "Es ist gut, wenn deine Arbeit geschätzt wird.",
@@ -8449,7 +8475,7 @@
   "ung": []
  },
  {
-  "nr": 957,
+  "nr": 961,
   "art": "",
   "dt": [
    "Mein Handy ist mir aus dem 9. Stock gefallen, aber ich hoffe ihm ist nichts passiert - es war auf Flugmodus gestellt."
@@ -8457,7 +8483,7 @@
   "ung": []
  },
  {
-  "nr": 958,
+  "nr": 962,
   "art": "",
   "dt": [
    "Mut ist nicht die Abwesenheit von Angst, sondern die Einschätzung, dass etwas anderes noch wichtiger ist als die Angst.",
@@ -8473,7 +8499,7 @@
   "ung": []
  },
  {
-  "nr": 959,
+  "nr": 963,
   "art": "",
   "dt": [
    "Das Leben gibt dir nicht immer eine zweite Chance, also nutze die erste."
@@ -8481,7 +8507,7 @@
   "ung": []
  },
  {
-  "nr": 960,
+  "nr": 964,
   "art": "",
   "dt": [
    "Es gibt drei wahre Freunde:",
@@ -8492,7 +8518,7 @@
   "ung": []
  },
  {
-  "nr": 961,
+  "nr": 965,
   "art": "",
   "dt": [
    "Früher hatte ich Angst, dass ich vielleicht verlassen und vergessen werde.",
@@ -8501,7 +8527,7 @@
   "ung": []
  },
  {
-  "nr": 962,
+  "nr": 966,
   "art": "",
   "dt": [
    "Dein Leben hängt zu 90 % von dir selbst ab und nur zu 10 % von den äußeren Umständen, die wiederum zu 99 % von dir abhängen."
@@ -8509,7 +8535,7 @@
   "ung": []
  },
  {
-  "nr": 963,
+  "nr": 967,
   "art": "",
   "dt": [
    "Gestern Abend habe ich meine Nachbarin angerufen.",
@@ -8519,7 +8545,7 @@
   "ung": []
  },
  {
-  "nr": 964,
+  "nr": 968,
   "art": "",
   "dt": [
    "Vergib der Vergangenheit!",
@@ -8528,7 +8554,7 @@
   "ung": []
  },
  {
-  "nr": 965,
+  "nr": 969,
   "art": "",
   "dt": [
    "Krall dich nicht mehr an die Vergangenheit!",
@@ -8537,7 +8563,7 @@
   "ung": []
  },
  {
-  "nr": 966,
+  "nr": 970,
   "art": "",
   "dt": [
    "„Sie hat gesagt, dass die Tür zu ihrem Herzen verschlossen ist.“",
@@ -8547,7 +8573,7 @@
   "ung": []
  },
  {
-  "nr": 967,
+  "nr": 971,
   "art": "",
   "dt": [
    "Mit dem Verstreichen von Zeit wird Nichtentscheidung zur Entscheidung."
@@ -8555,7 +8581,7 @@
   "ung": []
  },
  {
-  "nr": 968,
+  "nr": 972,
   "art": "",
   "dt": [
    "Achtung!",
@@ -8566,7 +8592,7 @@
   "ung": []
  },
  {
-  "nr": 969,
+  "nr": 973,
   "art": "",
   "dt": [
    "Gut: Du küsst eine Frau.",
@@ -8577,7 +8603,7 @@
   "ung": []
  },
  {
-  "nr": 970,
+  "nr": 974,
   "art": "",
   "dt": [
    "Wie schön wäre es mit zwei Männern ...",
@@ -8586,7 +8612,7 @@
   "ung": []
  },
  {
-  "nr": 971,
+  "nr": 975,
   "art": "",
   "dt": [
    "Eine aktuelle Studie belegt, dass Frau mit etwas mehr auf den Hüften länger leben als Männer, die es ihnen sagen."
@@ -8594,7 +8620,7 @@
   "ung": []
  },
  {
-  "nr": 972,
+  "nr": 976,
   "art": "",
   "dt": [
    "In einer Bar meinte letztens eine Frau zu mir, dass ihre Socken zu ihrem Slip passen.",
@@ -8604,7 +8630,7 @@
   "ung": []
  },
  {
-  "nr": 973,
+  "nr": 977,
   "art": "",
   "dt": [
    "Mein zukünftiger Ehemann verpasst gerade die besten Jahre meiner Brüste."
@@ -8612,7 +8638,7 @@
   "ung": []
  },
  {
-  "nr": 974,
+  "nr": 978,
   "art": "",
   "dt": [
    "Liebe Frauen, wenn ein Mann sagt, er repariert das, dann repariert er das!",
@@ -8621,7 +8647,7 @@
   "ung": []
  },
  {
-  "nr": 975,
+  "nr": 979,
   "art": "",
   "dt": [
    "Es gibt so Sachen, die macht Mann nur ein mal im Leben.",
@@ -8630,7 +8656,7 @@
   "ung": []
  },
  {
-  "nr": 976,
+  "nr": 980,
   "art": "",
   "dt": [
    "Mit einer Frau zu diskutieren ist wie Schlamm-Wrestling mit einem Wildschwein. Nach Stunden stellst du erschöpft fest: Die mögen das!",
@@ -8639,7 +8665,7 @@
   "ung": []
  },
  {
-  "nr": 977,
+  "nr": 981,
   "art": "",
   "dt": [
    "Frauen sind nicht kompliziert.",
@@ -8648,7 +8674,7 @@
   "ung": []
  },
  {
-  "nr": 978,
+  "nr": 982,
   "art": "",
   "dt": [
    "Eine Möglichkeit das letzte Wort zu haben, hat der Ehemann immer: Er kann um Verzeihung bitten."
@@ -8656,7 +8682,7 @@
   "ung": []
  },
  {
-  "nr": 979,
+  "nr": 983,
   "art": "",
   "dt": [
    "Frau verbringen wahrscheinlich mehr Zeit damit, darüber nachzudenken, was die Männer denken, als Männer tatsächlich mit Denken verbringen."
@@ -8664,7 +8690,7 @@
   "ung": []
  },
  {
-  "nr": 980,
+  "nr": 984,
   "art": "",
   "dt": [
    "Ein Holzbrett ist nachgiebig, gegen den Kopf meines Mannes."
@@ -8672,7 +8698,7 @@
   "ung": []
  },
  {
-  "nr": 981,
+  "nr": 985,
   "art": "",
   "dt": [
    "Brüste",
@@ -8681,7 +8707,7 @@
   "ung": []
  },
  {
-  "nr": 982,
+  "nr": 986,
   "art": "",
   "dt": [
    "Auf die Männer, die wir lieben, und die Penner die wir kriegen.",
@@ -8690,7 +8716,7 @@
   "ung": []
  },
  {
-  "nr": 983,
+  "nr": 987,
   "art": "",
   "dt": [
    "Schild in einem Geschäft: Fünft fleißige Männer zum Arbeiten gesucht, oder eine Frau."
@@ -8698,7 +8724,7 @@
   "ung": []
  },
  {
-  "nr": 984,
+  "nr": 988,
   "art": "",
   "dt": [
    "Es ist nie zu spät für eine glückliche Kindheit."
@@ -8706,7 +8732,7 @@
   "ung": []
  },
  {
-  "nr": 985,
+  "nr": 989,
   "art": "",
   "dt": [
    "Nichts schärft die Sinne so sehr, wie der Blick auf den Galgen."
@@ -8714,7 +8740,7 @@
   "ung": []
  },
  {
-  "nr": 986,
+  "nr": 990,
   "art": "",
   "dt": [
    "Warum haben Giraffen so lange Hälse?",
@@ -8723,7 +8749,7 @@
   "ung": []
  },
  {
-  "nr": 987,
+  "nr": 991,
   "art": "",
   "dt": [
    "Ein Mann geht auf der Straße, als plötzlich ein Frosch um ihn herum hüpft und sagt: „Nimm mich mit, nimm mit, ich bin bin eine Prinzessin.“",
@@ -8734,7 +8760,7 @@
   "ung": []
  },
  {
-  "nr": 988,
+  "nr": 992,
   "art": "",
   "dt": [
    "Ein Mensch kann tun was er will, aber nicht wollen was er will. (Schopenhauer)"
@@ -8742,7 +8768,7 @@
   "ung": []
  },
  {
-  "nr": 989,
+  "nr": 993,
   "art": "",
   "dt": [
    "Die größte Herausforderung der Freiheit ist das Richtige wollen können."
@@ -8750,7 +8776,7 @@
   "ung": []
  },
  {
-  "nr": 990,
+  "nr": 994,
   "art": "",
   "dt": [
    "Wer Helden braucht ist zu faul das Leben selber in die Hand zu nehmen.",
@@ -8759,7 +8785,7 @@
   "ung": []
  },
  {
-  "nr": 991,
+  "nr": 995,
   "art": "",
   "dt": [
    "Reichtum darf nicht verteufelt werden, meinte der Teufel."
@@ -8767,7 +8793,7 @@
   "ung": []
  },
  {
-  "nr": 992,
+  "nr": 996,
   "art": "",
   "dt": [
    "Wenn man die drei obersten Knöpfe der Bluse nicht zu macht, braucht man sich nicht schminken."
@@ -8775,7 +8801,7 @@
   "ung": []
  },
  {
-  "nr": 993,
+  "nr": 997,
   "art": "",
   "dt": [
    "Nun, was soll ich dir noch für die Nacht wünschen?",
@@ -8784,7 +8810,7 @@
   "ung": []
  },
  {
-  "nr": 994,
+  "nr": 998,
   "art": "",
   "dt": [
    "Ich habe nur vor zwei Dingen Angst.",
@@ -8797,7 +8823,7 @@
   "ung": []
  },
  {
-  "nr": 995,
+  "nr": 999,
   "art": "",
   "dt": [
    "Klein-Fritzchen wird von seiner Mutter nach seinem Weihnachtswunsch gefragt.",
@@ -8808,7 +8834,7 @@
   "ung": []
  },
  {
-  "nr": 996,
+  "nr": 1000,
   "art": "",
   "dt": [
    "„Wie verwöhnst du deinen Mann?“",
@@ -8817,7 +8843,7 @@
   "ung": []
  },
  {
-  "nr": 997,
+  "nr": 1001,
   "art": "",
   "dt": [
    "Männer haben auch Gefühle.",
@@ -8826,7 +8852,7 @@
   "ung": []
  },
  {
-  "nr": 998,
+  "nr": 1002,
   "art": "",
   "dt": [
    "Es kommt nicht darauf an die Zukunft vorauszusagen, sondern auf die Zukunft vorbereitet zu sein."
@@ -8834,7 +8860,7 @@
   "ung": []
  },
  {
-  "nr": 999,
+  "nr": 1003,
   "art": "",
   "dt": [
    "„Was war das Schlimmste, was du schon mal für Geld gemacht hast?“",
@@ -8843,7 +8869,7 @@
   "ung": []
  },
  {
-  "nr": 1000,
+  "nr": 1004,
   "art": "",
   "dt": [
    "Mögen tut man „weil“ und lieben tut man „obwohl\"."
@@ -8851,7 +8877,7 @@
   "ung": []
  },
  {
-  "nr": 1001,
+  "nr": 1005,
   "art": "",
   "dt": [
    "Erzähl deinem Freund nicht das, was dein Feind nicht erfahren soll."
@@ -8859,7 +8885,7 @@
   "ung": []
  },
  {
-  "nr": 1002,
+  "nr": 1006,
   "art": "",
   "dt": [
    "„Ich mache eine Diät.“ - „Schon lange?“",
@@ -8871,7 +8897,7 @@
   "ung": []
  },
  {
-  "nr": 1003,
+  "nr": 1007,
   "art": "",
   "dt": [
    "Hör endlich auf jeden glücklich machen zu wollen, Du bist kein Tequilla!"
@@ -8879,7 +8905,7 @@
   "ung": []
  },
  {
-  "nr": 1004,
+  "nr": 1008,
   "art": "",
   "dt": [
    "Nicht Reichtum oder Armut verdirbt die Leute, sondern Gier und Neid."
@@ -8887,7 +8913,7 @@
   "ung": []
  },
  {
-  "nr": 1005,
+  "nr": 1009,
   "art": "",
   "dt": [
    "Wir versprechen nichts, was wir nicht halten können, und wir halten, was wir versprechen."
@@ -8895,7 +8921,7 @@
   "ung": []
  },
  {
-  "nr": 1006,
+  "nr": 1010,
   "art": "",
   "dt": [
    "Was meinen Sie, was hier los wäre, wenn mehr Leute begreifen würden, was hier los ist?"
@@ -8903,7 +8929,7 @@
   "ung": []
  },
  {
-  "nr": 1007,
+  "nr": 1011,
   "art": "",
   "dt": [
    "Wir hören nicht auf zu spielen, weil wir alt werden, sondern wir werden alt, weil wir aufhören zu spielen."
@@ -8911,7 +8937,7 @@
   "ung": []
  },
  {
-  "nr": 1008,
+  "nr": 1012,
   "art": "",
   "dt": [
    "Ich habe noch nicht ganz verstanden, ob die besten Jahre meines Lebens noch nicht angefangen haben oder schon vorbei sind."
@@ -8919,7 +8945,7 @@
   "ung": []
  },
  {
-  "nr": 1009,
+  "nr": 1013,
   "art": "",
   "dt": [
    "Eltern sind nicht zum Anlehnen da, sie sind dazu da das Anlehnen unnötig zu machen."
@@ -8927,7 +8953,7 @@
   "ung": []
  },
  {
-  "nr": 1010,
+  "nr": 1014,
   "art": "",
   "dt": [
    "Bescheidenheit ist eine Zier, doch weiter kommt man ohne ihr. (Der Berliner sagt immer mir, auch wenn es richtig ist.)"
@@ -8935,7 +8961,7 @@
   "ung": []
  },
  {
-  "nr": 1011,
+  "nr": 1015,
   "art": "",
   "dt": [
    "Wie haben viele Laster...",
@@ -8945,7 +8971,7 @@
   "ung": []
  },
  {
-  "nr": 1012,
+  "nr": 1016,
   "art": "",
   "dt": [
    "Wenn man den Sumpf trocken legen will sollte man die Frösche nicht um Rat fragen."
@@ -8953,7 +8979,7 @@
   "ung": []
  },
  {
-  "nr": 1013,
+  "nr": 1017,
   "art": "",
   "dt": [
    "Aufrichtigkeit ist höchstwahrscheinlich die verwegenste Form von Tapferkeit."
@@ -8961,7 +8987,7 @@
   "ung": []
  },
  {
-  "nr": 1014,
+  "nr": 1018,
   "art": "",
   "dt": [
    "Nur deine Freunde können zu dir nach Hause kommen, an deinen Kühlschrank gehen, sich Schokolade rausnehmen und dich fragen, ob du auch was willst."
@@ -8969,7 +8995,7 @@
   "ung": []
  },
  {
-  "nr": 1015,
+  "nr": 1019,
   "art": "",
   "dt": [
    "Wenn der Plan nicht funktioniert, dann ändere den Plan, aber nie das Ziel."
@@ -8977,7 +9003,7 @@
   "ung": []
  },
  {
-  "nr": 1016,
+  "nr": 1020,
   "art": "",
   "dt": [
    "Das Gehirn wird unterversorgt, wenn das Herz alles Blut für sich beansprucht.",
@@ -8994,7 +9020,7 @@
   "ung": []
  },
  {
-  "nr": 1017,
+  "nr": 1021,
   "art": "",
   "dt": [
    "„Herr Doktor, was ist die ideale Größe für mein Gewicht?“",
@@ -9003,7 +9029,7 @@
   "ung": []
  },
  {
-  "nr": 1018,
+  "nr": 1022,
   "art": "",
   "dt": [
    "Dumm ist nicht der, der einen Fehler macht, sondern der, der ihn ein zweites mal macht."
@@ -9011,7 +9037,7 @@
   "ung": []
  },
  {
-  "nr": 1019,
+  "nr": 1023,
   "art": "",
   "dt": [
    "Es ist kein Zeichen geistiger Gesundheit gut angepasst an eine kranke Gesellschaft zu sein."
@@ -9019,7 +9045,7 @@
   "ung": []
  },
  {
-  "nr": 1020,
+  "nr": 1024,
   "art": "",
   "dt": [
    "...und sie lebten lange und glücklich, weil sie sich rechtzeitig scheiden lassen haben."
@@ -9027,7 +9053,7 @@
   "ung": []
  },
  {
-  "nr": 1021,
+  "nr": 1025,
   "art": "",
   "dt": [
    "Wenn du Vollkommenheit willst wirst du nie zufrieden sein."
@@ -9035,7 +9061,7 @@
   "ung": []
  },
  {
-  "nr": 1022,
+  "nr": 1026,
   "art": "",
   "dt": [
    "Sie hat ihren Mann gewechselt.",
@@ -9044,7 +9070,7 @@
   "ung": []
  },
  {
-  "nr": 1023,
+  "nr": 1027,
   "art": "",
   "dt": [
    "Es gibt nichts nützlicheres im Haushalt, als einen Mann, der Schuld hat."
@@ -9052,7 +9078,7 @@
   "ung": []
  },
  {
-  "nr": 1024,
+  "nr": 1028,
   "art": "",
   "dt": [
    "Man muss so leben, daß die anderen die Depression bekommen."
@@ -9060,7 +9086,7 @@
   "ung": []
  },
  {
-  "nr": 1025,
+  "nr": 1029,
   "art": "",
   "dt": [
    "Arzt: „Was zwingt sie dazu sich jeden Tag zu betrinken?“",
@@ -9069,7 +9095,7 @@
   "ung": []
  },
  {
-  "nr": 1026,
+  "nr": 1030,
   "art": "",
   "dt": [
    "Wer wirklich will - sucht eine Möglichkeit.",
@@ -9078,7 +9104,7 @@
   "ung": []
  },
  {
-  "nr": 1027,
+  "nr": 1031,
   "art": "",
   "dt": [
    "Nichts macht am Morgen so munter, wie der Satz: „Wie haben verschlafen!“"
@@ -9086,7 +9112,7 @@
   "ung": []
  },
  {
-  "nr": 1028,
+  "nr": 1032,
   "art": "",
   "dt": [
    "Scheue dich nicht etwas zu tun, was du nicht kannst!",
@@ -9095,7 +9121,7 @@
   "ung": []
  },
  {
-  "nr": 1029,
+  "nr": 1033,
   "art": "",
   "dt": [
    "Das Geheimnis, wie man abnimmt ist ganz einfach.",
@@ -9104,7 +9130,7 @@
   "ung": []
  },
  {
-  "nr": 1030,
+  "nr": 1034,
   "art": "",
   "dt": [
    "Warte nicht, bis jemand kommt, um dich glücklich zu machen! Kauf dir deinen Schnaps selber!",
@@ -9113,7 +9139,7 @@
   "ung": []
  },
  {
-  "nr": 1031,
+  "nr": 1035,
   "art": "",
   "dt": [
    "Um nicht ohne Geld dazusitzen habe ich mich hingelegt."
@@ -9121,7 +9147,7 @@
   "ung": []
  },
  {
-  "nr": 1032,
+  "nr": 1036,
   "art": "",
   "dt": [
    "Mit jeder Entscheidung ändern wir unsere Zukunft."
@@ -9129,7 +9155,7 @@
   "ung": []
  },
  {
-  "nr": 1033,
+  "nr": 1037,
   "art": "",
   "dt": [
    "Die Kalorien, die ich im Fitness-Studio losgeworden war, haben geduldig im Kühlschrank auf mich gewartet."
@@ -9137,7 +9163,7 @@
   "ung": []
  },
  {
-  "nr": 1034,
+  "nr": 1038,
   "art": "",
   "dt": [
    "Kraken sind einfach nur nasse Spinnen."
@@ -9145,7 +9171,7 @@
   "ung": []
  },
  {
-  "nr": 1035,
+  "nr": 1039,
   "art": "",
   "dt": [
    "„Für mich bitte einen doppelten Whisky!“",
@@ -9155,7 +9181,7 @@
   "ung": []
  },
  {
-  "nr": 1036,
+  "nr": 1040,
   "art": "",
   "dt": [
    "Kinder und Narren sagen die Wahrheit."
@@ -9163,7 +9189,7 @@
   "ung": []
  },
  {
-  "nr": 1037,
+  "nr": 1041,
   "art": "",
   "dt": [
    "Beim Optimisten verwirklichen sich seine Träumen.",
@@ -9172,7 +9198,7 @@
   "ung": []
  },
  {
-  "nr": 1038,
+  "nr": 1042,
   "art": "",
   "dt": [
    "Er hat gelernt zu reden, also ist er erwachsen geworden.",
@@ -9181,7 +9207,7 @@
   "ung": []
  },
  {
-  "nr": 1039,
+  "nr": 1043,
   "art": "",
   "dt": [
    "Ein kluger Mensch ignoriert, wenn er kritisiert wird, hört zu wenn er beraten wird und macht sich davon, wenn er nicht geschätzt wird."
@@ -9189,7 +9215,7 @@
   "ung": []
  },
  {
-  "nr": 1040,
+  "nr": 1044,
   "art": "",
   "dt": [
    "Die zwei wichtigsten Regeln im Leben:",
@@ -9199,7 +9225,7 @@
   "ung": []
  },
  {
-  "nr": 1041,
+  "nr": 1045,
   "art": "",
   "dt": [
    "Gebt den Leuten immer eine zweite Chance, aber nie eine dritte!"
@@ -9207,7 +9233,7 @@
   "ung": []
  },
  {
-  "nr": 1042,
+  "nr": 1046,
   "art": "",
   "dt": [
    "Eines Tages wirst du aufwachen und es wird keine Zeit mehr sein die Dinge zu tun, die du noch tun wolltest. Also tu sie jetzt sofort!",
@@ -9216,7 +9242,7 @@
   "ung": []
  },
  {
-  "nr": 1043,
+  "nr": 1047,
   "art": "",
   "dt": [
    "Frauen denken immer zwei Gehälter im voraus."
@@ -9224,7 +9250,7 @@
   "ung": []
  },
  {
-  "nr": 1044,
+  "nr": 1048,
   "art": "",
   "dt": [
    "Manch mal schweigen wir, nicht weil wir nichts zu sagen haben, sondern weil wir etwas zu sagen hätten, was der andere gar nicht verstehen würde."
@@ -9232,7 +9258,7 @@
   "ung": []
  },
  {
-  "nr": 1045,
+  "nr": 1049,
   "art": "",
   "dt": [
    "Im Wein liegt die Wahrheit, im Cognac Edelmut.",
@@ -9242,7 +9268,7 @@
   "ung": []
  },
  {
-  "nr": 1046,
+  "nr": 1050,
   "art": "",
   "dt": [
    "Die Tage sind lang, aber die Jahrzehnte sind kurz."
@@ -9250,7 +9276,7 @@
   "ung": []
  },
  {
-  "nr": 1047,
+  "nr": 1051,
   "art": "",
   "dt": [
    "Niemand wartet so sehr auf dich, wie die Taxifahrer am Bahnhof."
@@ -9258,7 +9284,7 @@
   "ung": []
  },
  {
-  "nr": 1048,
+  "nr": 1052,
   "art": "",
   "dt": [
    "„Ich habe gehört, dass du und dein Mann sich getrennt habt. Warum denn?“",
@@ -9269,7 +9295,7 @@
   "ung": []
  },
  {
-  "nr": 1049,
+  "nr": 1053,
   "art": "",
   "dt": [
    "Alle Polizisten fragen mich bei einer Verkehrskontrolle immer, ob ich getrunken habe.",
@@ -9278,7 +9304,7 @@
   "ung": []
  },
  {
-  "nr": 1050,
+  "nr": 1054,
   "art": "",
   "dt": [
    "Das Leben sollte nicht nur gelebt werden, es muss gefeiert werden."
@@ -9286,7 +9312,7 @@
   "ung": []
  },
  {
-  "nr": 1051,
+  "nr": 1055,
   "art": "",
   "dt": [
    "Viel Geld in deiner Tasche verleiht dir noch keine Flügel, aber es verändert doch schon deinen Gang."
@@ -9294,7 +9320,7 @@
   "ung": []
  },
  {
-  "nr": 1052,
+  "nr": 1056,
   "art": "",
   "dt": [
    "Der Neubeginn tarnt sich oft als schmerzhaftes Ende."
@@ -9302,7 +9328,7 @@
   "ung": []
  },
  {
-  "nr": 1053,
+  "nr": 1057,
   "art": "",
   "dt": [
    "„Weiß Du wie man jemanden neugierig machen kann?“",
@@ -9312,7 +9338,7 @@
   "ung": []
  },
  {
-  "nr": 1054,
+  "nr": 1058,
   "art": "",
   "dt": [
    "Aufschrift auf einem Fußabtreter: „Oh mein Gott!",
@@ -9321,7 +9347,7 @@
   "ung": []
  },
  {
-  "nr": 1055,
+  "nr": 1059,
   "art": "",
   "dt": [
    "Wir haben mit meiner Frau beschlossen mit unserer Beziehung noch mal ganz von vorne durchzustarten.",
@@ -9330,7 +9356,7 @@
   "ung": []
  },
  {
-  "nr": 1056,
+  "nr": 1060,
   "art": "",
   "dt": [
    "„Haben Sie die Möglichkeit Geld beiseite zu legen?“",
@@ -9339,7 +9365,7 @@
   "ung": []
  },
  {
-  "nr": 1057,
+  "nr": 1061,
   "art": "",
   "dt": [
    "Zeugen Jehovas"
@@ -9347,7 +9373,7 @@
   "ung": []
  },
  {
-  "nr": 1058,
+  "nr": 1062,
   "art": "",
   "dt": [
    "Klingelt ein Mann an der Tür. Macht die Frau auf. Sagt der Mann: „Möchten Sie Zeuge Jehovas werden?“",
@@ -9356,7 +9382,7 @@
   "ung": []
  },
  {
-  "nr": 1059,
+  "nr": 1063,
   "art": "",
   "dt": [
    "Sperre einen Hund und eine Frau in einen Kofferraum.",
@@ -9366,7 +9392,7 @@
   "ung": []
  },
  {
-  "nr": 1060,
+  "nr": 1064,
   "art": "",
   "dt": [
    "Ein BMW-Fahrer fährt mit 250 km/h auf der Landstraße.",
@@ -9379,7 +9405,7 @@
   "ung": []
  },
  {
-  "nr": 1061,
+  "nr": 1065,
   "art": "",
   "dt": [
    "Wenn Olivenöl aus Oliven gemacht wird.",
@@ -9388,7 +9414,7 @@
   "ung": []
  },
  {
-  "nr": 1062,
+  "nr": 1066,
   "art": "",
   "dt": [
    "Das letzte Bier war schlecht. Meint mein Kater.",
@@ -9397,7 +9423,7 @@
   "ung": []
  },
  {
-  "nr": 1063,
+  "nr": 1067,
   "art": "",
   "dt": [
    "Einen Mann muss man zu 10% lieben und zu 90% verstehen.",
@@ -9406,7 +9432,7 @@
   "ung": []
  },
  {
-  "nr": 1064,
+  "nr": 1068,
   "art": "",
   "dt": [
    "- Ich habe heute so sehr nicht ausgeschlafen",
@@ -9416,7 +9442,7 @@
   "ung": []
  },
  {
-  "nr": 1065,
+  "nr": 1069,
   "art": "",
   "dt": [
    "Teamarbeit ist sehr wichtig.",
@@ -9425,7 +9451,7 @@
   "ung": []
  },
  {
-  "nr": 1066,
+  "nr": 1070,
   "art": "",
   "dt": [
    "Wodka mit Eis schädigt die Nieren.",
@@ -9437,7 +9463,7 @@
   "ung": []
  },
  {
-  "nr": 1067,
+  "nr": 1071,
   "art": "",
   "dt": [
    "a. Lass uns mit Rauchen aufhören!",
@@ -9450,7 +9476,7 @@
   "ung": []
  },
  {
-  "nr": 1068,
+  "nr": 1072,
   "art": "",
   "dt": [
    "- Und Ihre Bank gibt mir den Kredit wirklich nur auf mein Ehrenwort hin?",
@@ -9463,7 +9489,7 @@
   "ung": []
  },
  {
-  "nr": 1069,
+  "nr": 1073,
   "art": "",
   "dt": [
    "Blondinenwitz:",
@@ -9474,7 +9500,7 @@
   "ung": []
  },
  {
-  "nr": 1070,
+  "nr": 1074,
   "art": "",
   "dt": [
    "- Buchen Sie eine Kreuzfahrt für mich und meine Frau.",
@@ -9484,7 +9510,7 @@
   "ung": []
  },
  {
-  "nr": 1071,
+  "nr": 1075,
   "art": "",
   "dt": [
    "Treffen sich zwei Zapfsäulen.",
@@ -9496,7 +9522,7 @@
   "ung": []
  },
  {
-  "nr": 1072,
+  "nr": 1076,
   "art": "",
   "dt": [
    "In einem großen Supermarkt rennen zwei Männer umher und suchen jeweils ihre Frau, die sie verloren haben.",
@@ -9508,7 +9534,7 @@
   "ung": []
  },
  {
-  "nr": 1073,
+  "nr": 1077,
   "art": "",
   "dt": [
    "Natürlich kann man am Wochenende auch ohne Alkohol auskommen, aber wie soll man dann eine Arbeitswoche von der anderen trennen?"
@@ -9516,7 +9542,7 @@
   "ung": []
  },
  {
-  "nr": 1074,
+  "nr": 1078,
   "art": "",
   "dt": [
    "Ein Zahnarzt, ein Pathologe und ein Frauenarzt treffen sich nach der Arbeit vor dem Krankenhaus.",
