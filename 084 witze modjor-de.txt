@@ -13,6 +13,7 @@
 .pc-collapsible-body p:last-child{margin-bottom:0}
 .pc-note{margin-left:1.5em;font-size:0.95em}
 .pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+.pc-bild-rechts{float:right;width:min(42%,340px);height:auto;margin:6px 0 14px 22px;border-radius:4px;border:1px solid #a2a9b1}
 </style>
 <!-- /wp:html -->
 
