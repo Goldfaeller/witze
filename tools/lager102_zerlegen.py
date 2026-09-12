@@ -57,7 +57,7 @@ def eintraege_lesen(pfad):
     for zeile in lines:
         # Manche Eintraege tragen mitten im Text noch eine Strichlinie,
         # die aus dem Google-Doc stammt - sie trennt genauso.
-        if re.fullmatch(r"[_ ]*-{3,}[_ ]*", zeile.strip()):
+        if re.fullmatch(r"[_ ]*-{2,}[_ ]*", zeile.strip()):
             if any(l.strip() for l in cur):
                 bloecke.append(cur)
             cur = []
@@ -72,6 +72,10 @@ def eintraege_lesen(pfad):
         for roh in block:
             s = roh.strip()
             if not s:
+                continue
+            # Bildverweise aus dem Google-Doc: die Dateien gibt es auf
+            # modjor.de nicht, also fallen sie weg.
+            if re.match(r"^\[?\[?[Ff]ile:", s):
                 continue
             # Mehrzeilige Eintraege sind schon von Hand umbrochen; nur
             # einzeilige Eintraege muessen in Saetze zerlegt werden.
