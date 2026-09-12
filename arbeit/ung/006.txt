@@ -93,7 +93,7 @@ honnan jönne a vég?
 @461.8 spruch
 Azok, akik feljelentették azokat, akik betörték az ablaküvegeket, dicséretben részesülnek!
 @461.9 witz
-„Drágám, a fenekede olyan, mint a világegyetem.”
+„Drágám, a feneked olyan, mint a világegyetem.”
 - „Miért? Olyan szép és nagyszerű, mint a világegyetem?”
 „Nem, tágul - mint a világegyetem.”
 @461.10 witz
