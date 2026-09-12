@@ -1,0 +1,43 @@
+Frage an chatGPT:
+in welcher arbeitsphase asse ich am besten vergleichen ob es zwischen in aaa und bbb doppelungen gibt?
+
+
+
+Antwort:
+**Beste Arbeitsphase**
+
+Direkt nach dem lokalen Herunterladen und Bereinigen der Rohtexte, **vor** der Erstellung der neuen Ziel-Gliederung und der HTML-Formatierung. Duplikate müssen entfernt werden, bevor Inhalte neu strukturiert, zusammengeführt oder formatiert werden.
+
+---
+
+**Methoden zur Duplikate-Erkennung**
+
+Da in deinen Daten sowohl exakte Duplikate als auch **inhaltliche Varianten** (z. B. `171a`, `171b`, `171c` mit unterschiedlichen Formulierungen desselben Witzes) vorliegen, eignen sich folgende Schritte:
+
+### 1. Semantische Prüfung per ChatGPT (für inhaltliche Varianten)
+
+Klassische Suchwerkzeuge erkennen Formulierungsunterschiede (wie *fogyókúrázom* vs. *lefogyok*) nicht. ChatGPT kann diese logisch zuordnen.
+
+* **Vorgehen:** Bereinigten Text kapitelweise an ChatGPT übergeben.
+* **Prompt:**
+> „Analysiere die folgenden Abschnitte. Identifiziere alle Einträge, die denselben Inhalt oder dieselbe Pointe beschreiben (wie Varianten a, b, c). Liste die zusammengehörigen Nummern auf und schlage die sprachlich präziseste Variante vor.“
+
+
+
+### 2. Abgleich zwischen Datei AAA und BBB per ChatGPT
+
+Um Duplikate zwischen den zwei Google-Drive-Dateien (AAA) und den zehn Webseiten (BBB) zu finden:
+
+* **Prompt:**
+> „Ich gebe dir zwei Textlisten (AAA und BBB). Vergleiche beide Listen und nenne mir alle Einträge aus AAA, die inhaltlich bereits in BBB enthalten sind.“
+
+
+
+### 3. Automatisierte Ähnlichkeitsprüfung per Python (für große Textmengen)
+
+Falls die Textmenge zu groß für einzelne Prompts ist:
+
+1. **Regex-Bereinigung:** MediaWiki-Syntax (`{| class=... |}`, `===`, `:1.`) per Skript entfernen, sodass nur die Reintag-Sätze übrig bleiben.
+2. **Fuzzy Matching:** Ein Python-Skript mit `difflib` oder `fuzzywuzzy` / `RapidFuzz` nutzen.
+* Das Skript vergleicht Sätze auf Levenshtein-Distanz.
+* Textpaare mit einer Ähnlichkeit von mehr als 80 % werden als Duplikat-Kandidaten ausgegeben.
