@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Erzeugt aus dem Inhaltsverzeichnis (inhalt-physiologie-lang) die einzelnen
+Erzeugt aus dem Inhaltsverzeichnis (inhalt-literatur-lang.html) die einzelnen
 Kapitelseiten auf modjor.de ueber die WordPress-REST-API.
 
 VOR DEM START das Anwendungspasswort als Umgebungsvariable setzen
@@ -10,7 +10,7 @@ VOR DEM START das Anwendungspasswort als Umgebungsvariable setzen
     Windows (Eingabeaufforderung):   set WP_APP_PASS=xxxx xxxx xxxx xxxx
     Windows (PowerShell):            $env:WP_APP_PASS = "xxxx xxxx xxxx xxxx"
 
-Dann im selben Fenster:              python upload-physiologie-lang.py
+Dann im selben Fenster:              python upload-lang.py
 """
 
 import os
@@ -23,25 +23,18 @@ import requests
 # EINSTELLUNGEN
 # ----------------------------------------------------------------------------
 
-# Wie viele Seiten sollen angelegt werden? 3 = Testlauf, 0 = alle 170.
-TESTLAUF = 5
+# Wie viele Seiten sollen angelegt werden? 3 = Testlauf, 0 = alle 342.
+TESTLAUF = 0
 
 # Status der neuen Seiten: "draft" = nur fuer dich sichtbar, "publish" = oeffentlich.
 STATUS = "publish"
 
 # Quelle des Inhaltsverzeichnisses (liegt neben diesem Skript).
-# Auf GitHub heisst die Datei ohne ".html", im Arbeitsordner mit.
-# Das Skript nimmt die erste der beiden, die es findet.
-TOC_FILE = "inhalt-physiologie-lang.html"
-TOC_FILE_ALT = "inhalt-physiologie-lang"
+TOC_FILE = "inhalt-literatur-lang.html"
 
 # Ordner mit den Kapiteltexten. Dateinamen beginnen mit 01-01-01 usw.
 # Fehlt eine Datei, kommt der AAAA-Platzhalter in die Seite.
-SOURCE_FOLDER = r"D:\Physiologie lang für Internet"
-
-# True = auch alle Unterordner von SOURCE_FOLDER durchsuchen.
-# Der Ordnername ist dann egal, nur der Dateiname zaehlt.
-MIT_UNTERORDNERN = False
+SOURCE_FOLDER = r"D:\Literatur lang für Internet"
 
 # WordPress
 WP_URL = "https://modjor.de/wp-json/wp/v2/pages"
@@ -49,16 +42,16 @@ WP_USER = "Stefan"
 WP_APP_PASS = os.environ.get("WP_APP_PASS")
 
 # Adressen fuer die Navigation
-SLUG_SUFFIX = "-physiologie-lang"        # ergibt 1-1-physiologie-lang
-INDEX_URL = "/startseite/lesebuecher/inhalt-physiologie-lang/"
+SLUG_SUFFIX = "-literatur-lang"          # ergibt 1-1-literatur-lang
+INDEX_URL = "/startseite/lesebuecher/inhalt-literatur-lang/"
 
 # Uebergeordnete Seite in der Seitenhierarchie. Das Skript sucht sie
 # anhand dieser Titelform (Slug) selbst heraus.
-PARENT_SLUG = "inhalt-physiologie-lang"
+PARENT_SLUG = "inhalt-literatur-lang"
 
-# Reiterbeschriftung: ergibt "1.1 – Physiologie lang", WordPress haengt
+# Reiterbeschriftung: ergibt "1.1 – Literatur lang", WordPress haengt
 # " – modjor.de" von allein an.
-TITEL_ZUSATZ = "Physiologie lang"
+TITEL_ZUSATZ = "Literatur lang"
 HOME_URL = "/"
 LESEBUECHER_URL = "/lesebuecher/"
 
@@ -69,14 +62,6 @@ PLATZHALTER = "A" * 98
 # ----------------------------------------------------------------------------
 # 1. INHALTSVERZEICHNIS EINLESEN
 # ----------------------------------------------------------------------------
-
-def finde_inhaltsverzeichnis():
-    """Sucht das Inhaltsverzeichnis - mit oder ohne .html am Ende."""
-    for name in (TOC_FILE, TOC_FILE_ALT):
-        if os.path.isfile(name):
-            return name
-    return None
-
 
 def lies_inhaltsverzeichnis(pfad):
     """Liest Nummer und Titel aller Kapitel aus dem Inhaltsverzeichnis."""
@@ -129,33 +114,6 @@ def nummer_aus_dateiname(name):
     return ".".join(str(int(t)) for t in teile if t != "")
 
 
-def sammle_textdateien():
-    """Sucht alle .txt-Dateien im Quellordner.
-
-    Steht MIT_UNTERORDNERN auf True, werden auch alle Unterordner
-    durchsucht. Rueckgabe: Pfade relativ zum Quellordner, also
-    "01-01 Physiologie lang.txt" oder "Kapitel 1\\01-01 Physiologie lang.txt".
-    """
-    gefunden = []
-
-    if not os.path.isdir(SOURCE_FOLDER):
-        return gefunden
-
-    if MIT_UNTERORDNERN:
-        for wurzel, _unterordner, dateien in os.walk(SOURCE_FOLDER):
-            for name in dateien:
-                if name.lower().endswith(".txt"):
-                    voll = os.path.join(wurzel, name)
-                    gefunden.append(os.path.relpath(voll, SOURCE_FOLDER))
-    else:
-        for name in os.listdir(SOURCE_FOLDER):
-            pfad = os.path.join(SOURCE_FOLDER, name)
-            if os.path.isfile(pfad) and name.lower().endswith(".txt"):
-                gefunden.append(name)
-
-    return sorted(gefunden)
-
-
 def baue_dateiindex():
     """Ordnet jeder Kapitelnummer ihre Textdatei zu.
 
@@ -165,15 +123,23 @@ def baue_dateiindex():
     doppelte = []
     ohne_nummer = []
 
-    for pfad in sammle_textdateien():
-        # Nur der Dateiname zaehlt, der Ordner davor nicht.
-        nummer = nummer_aus_dateiname(os.path.basename(pfad))
+    if not os.path.isdir(SOURCE_FOLDER):
+        return index, doppelte, ohne_nummer
+
+    for name in sorted(os.listdir(SOURCE_FOLDER)):
+        pfad = os.path.join(SOURCE_FOLDER, name)
+        if not os.path.isfile(pfad):
+            continue
+        if not name.lower().endswith(".txt"):
+            continue
+
+        nummer = nummer_aus_dateiname(name)
         if nummer is None:
-            ohne_nummer.append(pfad)
+            ohne_nummer.append(name)
         elif nummer in index:
-            doppelte.append((nummer, index[nummer], pfad))
+            doppelte.append((nummer, index[nummer], name))
         else:
-            index[nummer] = pfad
+            index[nummer] = name
 
     return index, doppelte, ohne_nummer
 
@@ -187,47 +153,13 @@ def lies_kapiteltext(kapitel, dateiindex):
         return f.read()
 
 
-def entferne_ueberschrift(zeilen, nummer):
-    """Wirft die Kopfzeile der Textdatei weg.
-
-    Die Kapiteltexte beginnen mit einer Ueberschrift aus Kapitelnummer
-    und Kapiteltitel, manchmal mit Bindestrich oder Gedankenstrich
-    dazwischen:
-
-        2.7 Az idegi ... – Nervale und hormonelle Regelung im Vergleich
-        2.7 - Az idegi ... – Nervale und hormonelle Regelung im Vergleich
-
-    Danach folgen ein bis vier Leerzeilen, dann erst die Saetze. Die
-    Ueberschrift steht schon als Titel auf der Seite und wuerde sonst
-    doppelt erscheinen.
-
-    Sicherheitshalber wird nur geloescht, was wirklich mit DIESER
-    Kapitelnummer beginnt. Ein Satz wie "1. Erster Satz" bleibt stehen,
-    denn hinter der Nummer steht dort ein Punkt und kein Trennzeichen.
-    """
-    # Fuehrende Leerzeilen ueberspringen.
-    start = 0
-    while start < len(zeilen) and not zeilen[start].strip():
-        start += 1
-
-    if start >= len(zeilen):
-        return zeilen
-
-    muster = r"^\s*" + re.escape(nummer) + r"(?![\d.])\s*[-–—:]?\s*\S"
-    if not re.match(muster, zeilen[start]):
-        # Keine Ueberschrift gefunden - Text unveraendert lassen.
-        return zeilen
-
-    # Ueberschrift und die folgenden Leerzeilen wegwerfen.
-    rest = start + 1
-    while rest < len(zeilen) and not zeilen[rest].strip():
-        rest += 1
-    return zeilen[rest:]
-
-
-def baue_saetze(rohtext, kapitel):
+def baue_saetze(rohtext, ebene):
     """Macht aus den Zeilen ':1. Satz' einzelne Absaetze."""
-    zeilen = entferne_ueberschrift(rohtext.splitlines(), kapitel["num"])
+    zeilen = rohtext.splitlines()
+
+    # Bei Hauptkapiteln stehen oben zwei Kopfzeilen, die nicht mit auf die Seite sollen.
+    if ebene == 1 and len(zeilen) > 2:
+        zeilen = zeilen[2:]
 
     absaetze = []
     for zeile in zeilen:
@@ -327,7 +259,7 @@ def finde_seite(sitzung, slug):
 
 def lade_hoch(sitzung, kapitel, inhalt, parent_id):
     daten = {
-        # Ergibt im Browserreiter "1.1 – Physiologie lang – modjor.de"
+        # Ergibt im Browserreiter "1.1 – Literatur lang – modjor.de"
         "title": "{} – {}".format(kapitel["num"], TITEL_ZUSATZ),
         "slug": kapitel["slug"],
         "content": inhalt,
@@ -359,14 +291,12 @@ def main():
         print("Siehe Anleitung oben in dieser Datei.")
         return 1
 
-    toc_pfad = finde_inhaltsverzeichnis()
-    if not toc_pfad:
-        print("Abbruch: weder '{}' noch '{}' im Ordner gefunden.".format(
-            TOC_FILE, TOC_FILE_ALT))
+    if not os.path.isfile(TOC_FILE):
+        print("Abbruch: {} nicht gefunden.".format(TOC_FILE))
         return 1
 
-    kapitel = lies_inhaltsverzeichnis(toc_pfad)
-    print("Inhaltsverzeichnis '{}' gelesen: {} Kapitel.".format(toc_pfad, len(kapitel)))
+    kapitel = lies_inhaltsverzeichnis(TOC_FILE)
+    print("Inhaltsverzeichnis gelesen: {} Kapitel.".format(len(kapitel)))
 
     dateiindex, doppelte, ohne_nummer = baue_dateiindex()
     if not os.path.isdir(SOURCE_FOLDER):
@@ -428,7 +358,7 @@ def main():
             ohne_text.append(aktuelles["num"])
             quelle = "Platzhalter"
         else:
-            inhalt_html = baue_saetze(rohtext, aktuelles)
+            inhalt_html = baue_saetze(rohtext, aktuelles["ebene"])
             quelle = "Textdatei"
 
         seite = baue_seite(vorheriges, aktuelles, naechstes, inhalt_html)
