@@ -1,0 +1,8 @@
+{
+  "_zweck": "Ersetzt einzelne deutsche Zeilen aus Lager 102. Schluessel: Eintragsnummer, dann Zeilennummer innerhalb des Eintrags (ab 1). Hier stehen die Formeln des Mathematikerwitzes zusaetzlich in Worten.",
+  "903": {
+    "27": "Formal: ¬Wissen(A∧B∧C) (in Worten: Er weiß nicht, ob A und B und C gleichzeitig zutreffen.)",
+    "34": "Formal: A = wahr; ¬Wissen(C) (in Worten: A trifft zu, aber er weiß nicht, ob C zutrifft.)",
+    "41": "Damit gilt: A∧B∧C=wahr (in Worten: A und B und C treffen alle drei zu.)"
+  }
+}

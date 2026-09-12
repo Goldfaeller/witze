@@ -14,6 +14,7 @@ bleiben zunaechst leer.
 """
 
 import json
+import os
 import re
 import sys
 
@@ -86,9 +87,23 @@ def eintraege_lesen(pfad):
     return eintraege
 
 
+def ergaenzungen_anwenden(eintraege, pfad):
+    """Einzelne deutsche Zeilen ersetzen - etwa um Formeln in Worte zu fassen."""
+    if not os.path.exists(pfad):
+        return
+    daten = json.load(open(pfad, encoding="utf-8"))
+    for e in eintraege:
+        fuer_eintrag = daten.get(str(e["nr"]))
+        if not fuer_eintrag:
+            continue
+        for zeilennr, text in fuer_eintrag.items():
+            e["dt"][int(zeilennr) - 1] = text
+
+
 def main():
     quelle, ziel = sys.argv[1], sys.argv[2]
     eintraege = eintraege_lesen(quelle)
+    ergaenzungen_anwenden(eintraege, "arbeit/dt-ergaenzungen.json")
     with open(ziel, "w", encoding="utf-8") as f:
         json.dump(eintraege, f, ensure_ascii=False, indent=1)
         f.write("\n")

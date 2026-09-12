@@ -2,6 +2,330 @@
 :An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
 
 === 1 ===
+:1. Csak két dologtól félek.
+:2. A fogorvosoktól és a sötétségtől.
+:3. Miért a fogorvosoktól?
+:4. Hát az elég nyilvánvaló.
+:5. És miért a sötétségtől?
+:6. Mert csak az ördög tudja, hány fogorvos rejtőzik a sötétben.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Csak két dologtól félek. - Ich habe nur vor zwei Dingen Angst.
+:2. A fogorvosoktól és a sötétségtől. - Vor Zahnärzten und vor der Dunkelheit.
+:3. Miért a fogorvosoktól? - Warum vor Zahnärzten?
+:4. Hát az elég nyilvánvaló. - Na, das ist ja wohl klar.
+:5. És miért a sötétségtől? - Und warum vor der Dunkelheit?
+:6. Mert csak az ördög tudja, hány fogorvos rejtőzik a sötétben. - Weil nur der Teufel weiß wie viel Zahnärzte in der Dunkelheit verborgen sind.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ich habe nur vor zwei Dingen Angst.
+:2. Vor Zahnärzten und vor der Dunkelheit.
+:3. Warum vor Zahnärzten?
+:4. Na, das ist ja wohl klar.
+:5. Und warum vor der Dunkelheit?
+:6. Weil nur der Teufel weiß wie viel Zahnärzte in der Dunkelheit verborgen sind.
+|}
+
+=== 2 ===
+:1. Kis Fricit az anyja megkérdezi, mit szeretne karácsonyra.
+:2. „Tampont.”
+:3. „Ugyan miért? Mire kell az?”
+:4. „Hát mindig azt mondják a reklámban: lehet vele lovagolni, úszni, biciklizni, kickboxolni...”
+{|
+!'''magyar - német'''
+|-
+|
+:1. Kis Fricit az anyja megkérdezi, mit szeretne karácsonyra. - Klein-Fritzchen wird von seiner Mutter nach seinem Weihnachtswunsch gefragt.
+:2. „Tampont.” - „Tampons“
+:3. „Ugyan miért? Mire kell az?” - „Warum denn das? Wofür die denn?“
+:4. „Hát mindig azt mondják a reklámban: lehet vele lovagolni, úszni, biciklizni, kickboxolni...” - „Na, das kommt doch immer in der Werbung: Damit kann man reiten, schwimmen, fahrradfahren, kickboxen, ...“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Klein-Fritzchen wird von seiner Mutter nach seinem Weihnachtswunsch gefragt.
+:2. „Tampons“
+:3. „Warum denn das? Wofür die denn?“
+:4. „Na, das kommt doch immer in der Werbung: Damit kann man reiten, schwimmen, fahrradfahren, kickboxen, ...“
+|}
+
+=== 3 ===
+:1. „Hogyan kényezteted a férjedet?”
+:2. „Néha hallgatok.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Hogyan kényezteted a férjedet?” - „Wie verwöhnst du deinen Mann?“
+:2. „Néha hallgatok.” - „Manchmal schweige ich.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Wie verwöhnst du deinen Mann?“
+:2. „Manchmal schweige ich.“
+|}
+
+=== 4 ===
+:1. „Mi volt a legrosszabb, amit valaha pénzért csináltál?”
+:2. „Tizenkét órát dolgoztam egyhuzamban.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Mi volt a legrosszabb, amit valaha pénzért csináltál?” - „Was war das Schlimmste, was du schon mal für Geld gemacht hast?“
+:2. „Tizenkét órát dolgoztam egyhuzamban.” - „12 Stunden hintereinander gearbeitet.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Was war das Schlimmste, was du schon mal für Geld gemacht hast?“
+:2. „12 Stunden hintereinander gearbeitet.“
+|}
+
+=== 5 ===
+:1. „Diétázom.” - „Régóta?”
+:2. „Igen, három órája.” - „Meg is látszik.”
+:3. „Tényleg?” - „Igen, az éhes szemén.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Diétázom.” - „Régóta?” - „Ich mache eine Diät.“ - „Schon lange?“
+:2. „Igen, három órája.” - „Meg is látszik.” - „Ja, seit drei Stunden.“ - „Das sieht man.“
+:3. „Tényleg?” - „Igen, az éhes szemén.” - „Wirklich?“ - „Ja, an Ihren hungrigen Augen.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Ich mache eine Diät.“ - „Schon lange?“
+:2. „Ja, seit drei Stunden.“ - „Das sieht man.“
+:3. „Wirklich?“ - „Ja, an Ihren hungrigen Augen.“
+|}
+
+=== 6 ===
+:1. „Miért alkalmaz a cégében csak házasokat?”
+:2. „Megszokták, hogy sértegetik őket. Este pedig egyáltalán nem sietnek haza.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Miért alkalmaz a cégében csak házasokat?” - „Warum stellen Sie in Ihrer Firma nur Verheiratete ein?“
+:2. „Megszokták, hogy sértegetik őket. Este pedig egyáltalán nem sietnek haza.” - „Die sind es gewohnt beleidigt zu werden. Und abends haben sie es überhaupt nicht eilig nach Hause zu kommen.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Warum stellen Sie in Ihrer Firma nur Verheiratete ein?“
+:2. „Die sind es gewohnt beleidigt zu werden. Und abends haben sie es überhaupt nicht eilig nach Hause zu kommen.“
+|}
+
+=== 7 ===
+:1. „Milyen magas vagy?”
+:2. „150.”
+:3. „Mint egy hercegnő. És a súlyod?”
+:4. „A súlyom még kevesebb. 120.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Milyen magas vagy?” - „Wie groß bist du?“
+:2. „150.” - „150“
+:3. „Mint egy hercegnő. És a súlyod?” - „Wie eine Prinzessin. Und dein Gewicht?“
+:4. „A súlyom még kevesebb. 120.” - „Mein Gewicht ist noch weniger. 120“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Wie groß bist du?“
+:2. „150“
+:3. „Wie eine Prinzessin. Und dein Gewicht?“
+:4. „Mein Gewicht ist noch weniger. 120“
+|}
+
+=== 8 ===
+:1. „Doktor úr, mi az ideális magasság a súlyomhoz?”
+:2. „Négy méter.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Doktor úr, mi az ideális magasság a súlyomhoz?” - „Herr Doktor, was ist die ideale Größe für mein Gewicht?“
+:2. „Négy méter.” - „Vier Meter.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Herr Doktor, was ist die ideale Größe für mein Gewicht?“
+:2. „Vier Meter.“
+|}
+
+=== 9 ===
+:1. Lecserélte a férjét.
+:2. És most megint szép és okos, és remekül főz.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Lecserélte a férjét. - Sie hat ihren Mann gewechselt.
+:2. És most megint szép és okos, és remekül főz. - Und jetzt ist sie wieder schön und klug und kocht prima.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Sie hat ihren Mann gewechselt.
+:2. Und jetzt ist sie wieder schön und klug und kocht prima.
+|}
+
+=== 10 ===
+:1. Orvos: „Mi kényszeríti arra, hogy minden nap leigya magát?”
+:2. Beteg: „Semmi! Önként csinálom.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. Orvos: „Mi kényszeríti arra, hogy minden nap leigya magát?” - Arzt: „Was zwingt sie dazu sich jeden Tag zu betrinken?“
+:2. Beteg: „Semmi! Önként csinálom.” - Patient: „Nichts! Ich mache das freiwillig.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Arzt: „Was zwingt sie dazu sich jeden Tag zu betrinken?“
+:2. Patient: „Nichts! Ich mache das freiwillig.“
+|}
+
+=== 11 ===
+:1. Lassan öregszünk. A minap a feleségemmel megnéztünk egy pornófilmet: nagyon tetszett a hálószoba berendezése, a fürdőszoba csempéje és a konyhaasztal.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Lassan öregszünk. A minap a feleségemmel megnéztünk egy pornófilmet: nagyon tetszett a hálószoba berendezése, a fürdőszoba csempéje és a konyhaasztal. - Wir werden langsam älter. Neulich habe ich mit meiner Frau einen Porno geschaut: Die Schlafzimmereinrichtung hat uns sehr gefallen, die Fliesen im Bad und der Küchentisch.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wir werden langsam älter. Neulich habe ich mit meiner Frau einen Porno geschaut: Die Schlafzimmereinrichtung hat uns sehr gefallen, die Fliesen im Bad und der Küchentisch.
+|}
+
+=== 12 ===
+:1. „Nekem egy dupla whiskyt kérek!”
+:2. - „Kislány, ez itt egy iskolai büfé.”
+:3. „Jaj, bocsánat! Éppen álmodoztam. Akkor egy kompótot kérek!”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Nekem egy dupla whiskyt kérek!” - „Für mich bitte einen doppelten Whisky!“
+:2. - „Kislány, ez itt egy iskolai büfé.” - - „Mädchen, das hier ist eine Schulkantine.“
+:3. „Jaj, bocsánat! Éppen álmodoztam. Akkor egy kompótot kérek!” - „Oh, Verzeihung! Ich war gerade ins Träumen geraten. Ein Kompott bitte!“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Für mich bitte einen doppelten Whisky!“
+:2. - „Mädchen, das hier ist eine Schulkantine.“
+:3. „Oh, Verzeihung! Ich war gerade ins Träumen geraten. Ein Kompott bitte!“
+|}
+
+=== 13 ===
+:1. „Hallottam, hogy a férjeddel elváltatok. Miért?”
+:2. - „Te együtt tudnál élni valakivel, aki dohányzik, iszik, káromkodik, és ráadásul még verekszik is?”
+:3. „Nem, természetesen nem.”
+:4. - „Látod, ő sem.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Hallottam, hogy a férjeddel elváltatok. Miért?” - „Ich habe gehört, dass du und dein Mann sich getrennt habt. Warum denn?“
+:2. - „Te együtt tudnál élni valakivel, aki dohányzik, iszik, káromkodik, és ráadásul még verekszik is?” - - „Könntest du denn mit jemandem zusammenleben, der raucht, säuft, flucht und sich obendrein auch noch schlägt.“
+:3. „Nem, természetesen nem.” - „Nein, natürlich nicht.“
+:4. - „Látod, ő sem.” - - „Siehst du, er auch nicht.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Ich habe gehört, dass du und dein Mann sich getrennt habt. Warum denn?“
+:2. - „Könntest du denn mit jemandem zusammenleben, der raucht, säuft, flucht und sich obendrein auch noch schlägt.“
+:3. „Nein, natürlich nicht.“
+:4. - „Siehst du, er auch nicht.“
+|}
+
+=== 14 ===
+:1. A közlekedési ellenőrzésnél minden rendőr azt kérdezi tőlem, ittam-e.
+:2. Bárcsak egyszer megkérdezné valamelyik, hogy ettem-e is valamit.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A közlekedési ellenőrzésnél minden rendőr azt kérdezi tőlem, ittam-e. - Alle Polizisten fragen mich bei einer Verkehrskontrolle immer, ob ich getrunken habe.
+:2. Bárcsak egyszer megkérdezné valamelyik, hogy ettem-e is valamit. - Wenn mich doch wenigstens mal einer fragen würde, ob ich auch was gegessen haben.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Alle Polizisten fragen mich bei einer Verkehrskontrolle immer, ob ich getrunken habe.
+:2. Wenn mich doch wenigstens mal einer fragen würde, ob ich auch was gegessen haben.
+|}
+
+=== 15 ===
+:1. „Tudod, hogyan lehet valakit kíváncsivá tenni?”
+:2. - „Hogyan?”
+:3. „Azt holnap mondom meg.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Tudod, hogyan lehet valakit kíváncsivá tenni?” - „Weiß Du wie man jemanden neugierig machen kann?“
+:2. - „Hogyan?” - - „Wie?“
+:3. „Azt holnap mondom meg.” - „Das sag ich Dir morgen.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Weiß Du wie man jemanden neugierig machen kann?“
+:2. - „Wie?“
+:3. „Das sag ich Dir morgen.“
+|}
+
+=== 16 ===
+:1. A feleségemmel elhatároztuk, hogy a kapcsolatunkat egészen elölről kezdjük.
+:2. Az első randevúra el sem jött.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A feleségemmel elhatároztuk, hogy a kapcsolatunkat egészen elölről kezdjük. - Wir haben mit meiner Frau beschlossen mit unserer Beziehung noch mal ganz von vorne durchzustarten.
+:2. Az első randevúra el sem jött. - Sie ist nicht mal zum ersten Rendezvous gekommen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wir haben mit meiner Frau beschlossen mit unserer Beziehung noch mal ganz von vorne durchzustarten.
+:2. Sie ist nicht mal zum ersten Rendezvous gekommen.
+|}
+
+=== 17 ===
 :1. „Van lehetősége pénzt félretenni?”
 :2. - „A lehetőség megvan, csak pénzem nincs hozzá.”
 {|
@@ -19,22 +343,7 @@
 :2. - „Die Möglichkeit habe ich, aber kein Geld dazu.“
 |}
 
-=== 2 ===
-:1. Jehova tanúi
-{|
-!'''magyar - német'''
-|-
-|
-:1. Jehova tanúi - Zeugen Jehovas
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Zeugen Jehovas
-|}
-
-=== 3 ===
+=== 18 ===
 :1. Becsönget egy férfi az ajtón. Az asszony ajtót nyit. A férfi azt mondja: „Szeretne Jehova tanúja lenni?”
 :2. Mire az asszony: „Nem, én nem is láttam a balesetet.”
 {|
@@ -52,7 +361,7 @@
 :2. Sagt die Frau: „Nein, ich hab' den Unfall gar nicht gesehen. “
 |}
 
-=== 4 ===
+=== 19 ===
 :1. Zárj be egy kutyát és egy nőt egy csomagtartóba.
 :2. Nyisd ki a csomagtartót tizenöt perc múlva.
 :3. Melyikük örül?
@@ -73,7 +382,7 @@
 :3. Wer freut sich?
 |}
 
-=== 5 ===
+=== 20 ===
 :1. Egy BMW-s óránként 250 kilométerrel száguld az országúton.
 :2. Egy rendőrautó üldözi.
 :3. Fél óra vad hajsza után végre megáll.
@@ -103,7 +412,7 @@
 :6. Als ich Sie im Rückspiegel sah, dacht ich, Sie wollen sie mir zurückbringen.“
 |}
 
-=== 6 ===
+=== 21 ===
 :1. Ha az olívaolaj olívabogyóból készül,
 :2. akkor miből készül a babaolaj?
 {|
@@ -121,7 +430,7 @@
 :2. Woraus wird dann Babyöl gemacht?
 |}
 
-=== 7 ===
+=== 22 ===
 :1. Az utolsó sör rossz volt. Legalábbis a másnaposságom szerint. (a német „Kater” kandúrt és másnaposságot is jelent)
 {|
 !'''magyar - német'''
@@ -136,7 +445,7 @@
 :1. Das letzte Bier war schlecht. Meint mein Kater.
 |}
 
-=== 8 ===
+=== 23 ===
 :1. - Ma annyira nem aludtam ki magam.
 :2. - És mi az oka?
 :3. - Az ok sem aludta ki magát.
@@ -157,7 +466,7 @@
 :3. - Der Grund hat auch nicht ausgeschlafen.
 |}
 
-=== 9 ===
+=== 24 ===
 :1. a. Hagyjuk abba a dohányzást!
 :2. b. Ugyan miért?
 :3. a. Akkor sok pénzt spórolhatunk.
@@ -184,7 +493,7 @@
 :5. a. Was willst du denn mit so viel Geld?
 |}
 
-=== 10 ===
+=== 25 ===
 :1. - És az önök bankja tényleg csak a becsületszavamra adja a hitelt?
 :2. - Igen, természetesen.
 :3. - És ha nem fizetem vissza a hitelt?
@@ -214,7 +523,7 @@
 :6. - Nun, wenn Sie den Kredit am 30. Tag nicht pünktlich zurückzahlen, dann wird es am 31. Tag sein.
 |}
 
-=== 11 ===
+=== 26 ===
 :1. Szőke nős vicc:
 :2. Találkozik két szőke nő:
 :3. - Idén péntekre esik a karácsony.
@@ -238,7 +547,7 @@
 :4. - Na, hoffentlch nicht auf einen 13.
 |}
 
-=== 12 ===
+=== 27 ===
 :1. - Foglaljon nekem és a feleségemnek egy tengeri körutazást.
 :2. - Különleges kívánságok? Külön ágy? Külön kabin?
 :3. - Igen, külön hajó.
@@ -259,7 +568,7 @@
 :3. - Ja, getrennte Schiffe.
 |}
 
-=== 13 ===
+=== 28 ===
 :1. Találkozik két benzinkútoszlop.
 :2. - Hogy vagy?
 :3. - Normálisan. És te?
@@ -283,7 +592,7 @@
 :4. - Super
 |}
 
-=== 14 ===
+=== 29 ===
 :1. „Mi a véleménye a húsmentes napról?” - „Jobbulást!”
 {|
 !'''magyar - német'''
@@ -298,7 +607,7 @@
 :1. „Was halten Sie vom Veggieday?“ - „Gute Besserung!“
 |}
 
-=== 15 ===
+=== 30 ===
 :1. Egy nagy szupermarketben két férfi rohangál, mindegyik a feleségét keresi, akit elveszített.
 :2. - Kérdezi az egyik a másikat: Nem látta a feleségemet? Nem találom sehol.
 :3. - Mondja a másik: Én is a feleségemet keresem. Hogy néz ki az ön felesége?
@@ -325,7 +634,7 @@
 :5. - Vergessen Sie das mit meiner Frau. Lassen Sie uns lieber Ihre Frau suchen.
 |}
 
-=== 16 ===
+=== 31 ===
 :1. Egy fogorvos, egy patológus és egy nőgyógyász munka után találkozik a kórház előtt.
 :2. A fogorvos azt mondja: Á, végre friss levegő.
 :3. A patológus: Végre élő emberek.

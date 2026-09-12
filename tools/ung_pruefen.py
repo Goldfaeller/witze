@@ -23,7 +23,7 @@ import json
 import re
 import sys
 
-KOPF = re.compile(r"^@(\d+)(?:\.(\d+))?\s+(witz|spruch)\s*$")
+KOPF = re.compile(r"^@(\d+)(?:\.(\d+))?\s+(witz|spruch|streichen)\s*$")
 
 
 def chargen_lesen(ordner):
@@ -63,7 +63,19 @@ def main():
         if not teile:
             fehlt.append(e["nr"])
             continue
+        # "streichen" nimmt die Zeilen auf, die nicht auf die Seite sollen
+        gestrichen = [t for t in teile if t["art"] == "streichen"]
+        if len(gestrichen) > 1:
+            schief.append(f'{e["nr"]}: mehr als ein Streichteil')
+            continue
         summe = sum(len(t["zeilen"]) for t in teile)
+        if gestrichen:
+            rest = len(e["dt"]) - summe
+            if rest < 0:
+                schief.append(f'{e["nr"]}: zu viele ungarische Zeilen')
+                continue
+            gestrichen[0]["zeilen"] = [""] * rest
+            summe = len(e["dt"])
         if summe != len(e["dt"]):
             schief.append(f'{e["nr"]}: {summe} ungarische Zeilen, '
                           f'{len(e["dt"])} deutsche')
@@ -72,7 +84,8 @@ def main():
         i = 0
         for t in teile:
             n = len(t["zeilen"])
-            stuecke.append((t["art"], t["zeilen"], e["dt"][i:i + n]))
+            if t["art"] != "streichen":
+                stuecke.append((t["art"], t["zeilen"], e["dt"][i:i + n]))
             i += n
 
     unbekannt = sorted(set(ung) - {e["nr"] for e in eintraege})

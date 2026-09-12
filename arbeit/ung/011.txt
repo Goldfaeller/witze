@@ -204,8 +204,7 @@ Az első randevúra el sem jött.
 @1060 witz
 „Van lehetősége pénzt félretenni?”
 - „A lehetőség megvan, csak pénzem nincs hozzá.”
-@1061 witz
-Jehova tanúi
+@1061 streichen
 @1062 witz
 Becsönget egy férfi az ajtón. Az asszony ajtót nyit. A férfi azt mondja: „Szeretne Jehova tanúja lenni?”
 Mire az asszony: „Nem, én nem is láttam a balesetet.”

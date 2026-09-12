@@ -1,0 +1,43 @@
+@903 witz
+Három matematikus bemegy egy bárba. A pincérnő megkérdezi: „Mind a hárman kértek egy sört?” Az első azt feleli: „Talán.” A második is azt feleli: „Talán.” A harmadik azt mondja: „Igen.”
+1. magyarázat
+A pincérnő nem külön-külön kérdezi meg őket, hanem összefoglaló kérdést tesz fel: hogy mind a hárman kérnek-e sört.
+Az első matematikus ugyan tudja, hogy ő maga kér-e sört, de nem tudja, mit akar a másik kettő. Ezért őszintén nem mondhat sem „igent”, sem „nemet”, és ezért azt feleli: „Talán.”
+A második hallja ezt a választ. Ebből már következtetni tud: az első nyilvánvalóan kér sört - különben rögtön „nemet” mondott volna. De a második még mindig nem tudja, hogy a harmadik kér-e. Ezért ő is azt mondja: „Talán.”
+A harmadik most már mindkét választ hallja. Most már tudja: az első kér sört, a második kér sört, és ő maga is kér. Ezzel mind a hárman benne vannak - és csak ezért mondhatja biztosan: „Igen.”
+A vicc azért működik, mert a matematikusok nem egyszerűen ösztönösen válaszolnak, hanem szigorúan logikusan végiggondolják, mi vezethető le biztosan a többiek válaszaiból.
+3. magyarázat
+A pincérnő látszólag egyszerű kérdést tesz fel, de az logikailag ügyesen van megfogalmazva: nem azt kérdezi, hogy külön-külön kér-e mindegyikük sört, hanem hogy mind a hárman együtt kérnek-e. Ezzel olyan választ kíván, amely csak akkor lehet egyértelműen „igen”, ha valóban senki sincs kizárva a társaságból.
+Az első matematikus természetesen ismeri a saját kívánságát. De ebben a pillanatban még egyáltalán semmit sem tud arról, mit akar a másik kettő. Mivel nem mondhatja biztosan, hogy valóban mindenki kér sört, logikai szempontból sem „igent”, sem „nemet” nem mondhat. A „Talán” válasza tehát azt jelenti: magamra nézve igaz, de a többiekről nem állíthatok semmi biztosat.
+A második matematikus nagyon figyelmesen hallgatja ezt a választ. Észreveszi: ha az első nem lett volna sörivó, azonnal „nemet” mondott volna, mert akkor a pincérnő kérdésére egyértelműen nemmel kellett volna felelni. Az tehát, hogy az első ehelyett „Talánt” mond, már elárul valamit - mégpedig azt, hogy ő maga kér sört. A második számára mégis marad egy ismeretlen: továbbra sem tudja, mit akar a harmadik. Így számára is az egyetlen őszinte és logikailag tiszta válasz megint csak a „Talán”.
+A harmadik matematikus most már mindkét korábbi választ hallja. Ezekből biztosan következtethet arra, hogy az első és a második is kér sört. Ehhez járul a saját tudása: ő maga is kér egyet. Most minden bizonytalanság eltűnt. Először van elég információ ahhoz, hogy a pincérnő összefoglaló kérdésére egyértelműen válaszoljon. Ezért mondja végül a harmadik teljes meggyőződéssel: „Igen.”
+A vicc abból él, hogy a matematikusok nem ösztönösen reagálnak, mint a hétköznapi vendégek, hanem minden választ információforrásnak tekintenek. A humor abból az ellentétből fakad, amely egy kocsmai hétköznapi jelenet és egy túlzottan korrekt, már-már pedáns logikai gondolkodásmód között feszül.
+3. magyarázat
+A pincérnő azt kérdezi: „Mind a hárman kértek egy sört?”
+Formálisan ez azt jelenti: iszik-e mind a három egy sört?
+Logikai modellezés
+Határozzuk meg az állításokat:
+A: az első kér egy sört
+B: a második kér egy sört
+C: a harmadik kér egy sört
+A pincérnő kérdése formálisan: kér-e sört A és B és C
+A matematikusok válaszai - logikailag megmagyarázva
+Miért felel az első matematikus azt, hogy „Talán”?
+Tudja, hogy ő maga kér-e sört (vagyis ismeri A igazságértékét).
+De nem tudja, hogy B és C igaz-e.
+Formálisan: ¬Tudja(A∧B∧C) (szavakban: nem tudja, hogy A és B és C egyszerre igaz-e)
+Tehát azt mondja: Talán.
+Miért felel a második matematikus azt, hogy „Talán”?
+A második hallja: az első nem mondott „nemet”.
+Ebből logikailag következik:
+👉 A igaz (különben az első rögtön „nemet” mondott volna).
+De: a második még nem ismeri C-t.
+Formálisan: A = igaz; ¬Tudja(C) (szavakban: A igaz, de nem tudja, hogy C igaz-e)
+Tehát ő is azt mondja: Talán.
+Miért felel a harmadik matematikus azt, hogy „Igen”?
+A harmadik tudja:
+Az első nem mondott „nemet” → A = igaz
+A második nem mondott „nemet” → B = igaz
+Ő maga kér egy sört → C = igaz
+Ezzel érvényes: A∧B∧C = igaz (szavakban: A és B és C mindhárom igaz)
+Tehát biztosan mondhatja: „Igen.”

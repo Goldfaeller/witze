@@ -372,6 +372,417 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+<p>1. Három matematikus bemegy egy bárba. A pincérnő megkérdezi: „Mind a hárman kértek egy sört?” Az első azt feleli: „Talán.” A második is azt feleli: „Talán.” A harmadik azt mondja: „Igen.” - Drei Mathematiker gehen in eine Bar. Die Kellnerin fragt: "Wollt ihr alle drei ein Bier?" Der erste antwortet: "Vielleicht". Der Zweite antwortet auch: "Vielleicht". Der Dritte sagt: "Ja".</p>
+<p>2. 1. magyarázat - Erklärung 1</p>
+<p>3. A pincérnő nem külön-külön kérdezi meg őket, hanem összefoglaló kérdést tesz fel: hogy mind a hárman kérnek-e sört. - Die Kellnerin fragt nicht jeden einzeln, sondern stellt eine Sammelfrage: Ob alle drei ein Bier wollen.</p>
+<p>4. Az első matematikus ugyan tudja, hogy ő maga kér-e sört, de nem tudja, mit akar a másik kettő. Ezért őszintén nem mondhat sem „igent”, sem „nemet”, és ezért azt feleli: „Talán.” - Der erste Mathematiker weiß zwar, ob er selbst ein Bier möchte, aber er weiß nicht, was die beiden anderen wollen. Also kann er ehrlich nicht „Ja“ oder „Nein“ sagen und antwortet deshalb „Vielleicht“.</p>
+<p>5. A második hallja ezt a választ. Ebből már következtetni tud: az első nyilvánvalóan kér sört - különben rögtön „nemet” mondott volna. De a második még mindig nem tudja, hogy a harmadik kér-e. Ezért ő is azt mondja: „Talán.” - Der zweite hört diese Antwort. Daraus kann er schon schließen: Der erste will offenbar ein Bier – sonst hätte der sofort „Nein“ gesagt. Aber der zweite weiß immer noch nicht, ob der dritte eins möchte. Also sagt auch er „Vielleicht“.</p>
+<p>6. A harmadik most már mindkét választ hallja. Most már tudja: az első kér sört, a második kér sört, és ő maga is kér. Ezzel mind a hárman benne vannak - és csak ezért mondhatja biztosan: „Igen.” - Der dritte hört nun beide Antworten. Er weiß jetzt: Der erste will ein Bier, der zweite will ein Bier, und er selbst will auch eines. Damit sind alle drei dabei – und nur deshalb kann er sicher „Ja“ sagen.</p>
+<p>7. A vicc azért működik, mert a matematikusok nem egyszerűen ösztönösen válaszolnak, hanem szigorúan logikusan végiggondolják, mi vezethető le biztosan a többiek válaszaiból. - Der Witz funktioniert, weil die Mathematiker nicht einfach spontan antworten, sondern streng logisch mitdenken, was man aus den Antworten der anderen bereits sicher ableiten kann.</p>
+<p>8. 3. magyarázat - Erklärung 3</p>
+<p>9. A pincérnő látszólag egyszerű kérdést tesz fel, de az logikailag ügyesen van megfogalmazva: nem azt kérdezi, hogy külön-külön kér-e mindegyikük sört, hanem hogy mind a hárman együtt kérnek-e. Ezzel olyan választ kíván, amely csak akkor lehet egyértelműen „igen”, ha valóban senki sincs kizárva a társaságból. - Die Kellnerin stellt eine scheinbar einfache Frage, aber sie ist **logisch geschickt formuliert**: Sie fragt nicht, ob **jeder für sich** ein Bier möchte, sondern ob **alle drei gemeinsam** eines wollen. Damit verlangt sie eine Antwort, die nur dann eindeutig „Ja“ sein darf, wenn wirklich niemand in der Runde ausgeschlossen ist.</p>
+<p>10. Az első matematikus természetesen ismeri a saját kívánságát. De ebben a pillanatban még egyáltalán semmit sem tud arról, mit akar a másik kettő. Mivel nem mondhatja biztosan, hogy valóban mindenki kér sört, logikai szempontból sem „igent”, sem „nemet” nem mondhat. A „Talán” válasza tehát azt jelenti: magamra nézve igaz, de a többiekről nem állíthatok semmi biztosat. - Der erste Mathematiker kennt natürlich seinen eigenen Wunsch. Aber er weiß in diesem Moment noch überhaupt nichts darüber, was die beiden anderen möchten. Da er nicht sicher sagen kann, dass wirklich alle ein Bier wollen, darf er aus logischer Sicht weder „Ja“ noch „Nein“ sagen. Seine Antwort „Vielleicht“ bedeutet also: *Für mich selbst stimmt es, aber über die anderen kann ich nichts Sicheres behaupten.*</p>
+<p>11. A második matematikus nagyon figyelmesen hallgatja ezt a választ. Észreveszi: ha az első nem lett volna sörivó, azonnal „nemet” mondott volna, mert akkor a pincérnő kérdésére egyértelműen nemmel kellett volna felelni. Az tehát, hogy az első ehelyett „Talánt” mond, már elárul valamit - mégpedig azt, hogy ő maga kér sört. A második számára mégis marad egy ismeretlen: továbbra sem tudja, mit akar a harmadik. Így számára is az egyetlen őszinte és logikailag tiszta válasz megint csak a „Talán”. - Der zweite Mathematiker hört diese Antwort sehr aufmerksam. Er merkt: Wäre der erste kein Biertrinker gewesen, hätte dieser sofort „Nein“ gesagt, denn dann wäre die Frage der Kellnerin eindeutig zu verneinen gewesen. Dass der erste stattdessen „Vielleicht“ sagt, verrät also bereits etwas – nämlich, dass er selbst ein Bier möchte. Trotzdem bleibt für den zweiten noch eine Unbekannte: Er weiß weiterhin nicht, was der dritte will. Also ist auch für ihn die einzig ehrliche und logisch saubere Antwort wieder „Vielleicht“.</p>
+<p>12. A harmadik matematikus most már mindkét korábbi választ hallja. Ezekből biztosan következtethet arra, hogy az első és a második is kér sört. Ehhez járul a saját tudása: ő maga is kér egyet. Most minden bizonytalanság eltűnt. Először van elég információ ahhoz, hogy a pincérnő összefoglaló kérdésére egyértelműen válaszoljon. Ezért mondja végül a harmadik teljes meggyőződéssel: „Igen.” - Der dritte Mathematiker hört nun beide vorherigen Antworten. Aus ihnen kann er bereits sicher schließen, dass sowohl der erste als auch der zweite ein Bier möchten. Dazu kommt sein eigenes Wissen: Er selbst will ebenfalls eines. Jetzt sind alle Unsicherheiten verschwunden. Zum ersten Mal liegt genug Information vor, um die Sammelfrage der Kellnerin eindeutig zu beantworten. Deshalb sagt der dritte schließlich mit voller Überzeugung „Ja“.</p>
+<p>13. A vicc abból él, hogy a matematikusok nem ösztönösen reagálnak, mint a hétköznapi vendégek, hanem minden választ információforrásnak tekintenek. A humor abból az ellentétből fakad, amely egy kocsmai hétköznapi jelenet és egy túlzottan korrekt, már-már pedáns logikai gondolkodásmód között feszül. - Der Witz lebt davon, dass die Mathematiker nicht wie normale Gäste aus dem Bauch heraus reagieren, sondern jede Antwort als Informationsquelle betrachten. Humor entsteht aus dem Kontrast zwischen einer Alltagsszene in der Kneipe und einer überkorrekten, fast pedantischen logischen Denkweise.</p>
+<p>14. 3. magyarázat - Erklärung 3</p>
+<p>15. A pincérnő azt kérdezi: „Mind a hárman kértek egy sört?” - Die Kellnerin fragt: „Wollt ihr alle drei ein Bier?“</p>
+<p>16. Formálisan ez azt jelenti: iszik-e mind a három egy sört? - Formal heißt das:  Trinken alle drei ein Bier?</p>
+<p>17. Logikai modellezés - Logische Modellierung</p>
+<p>18. Határozzuk meg az állításokat: - Definiere Aussagen:</p>
+<p>19. A: az első kér egy sört - AAA: Der erste will ein Bier</p>
+<p>20. B: a második kér egy sört - BBB: Der zweite will ein Bier</p>
+<p>21. C: a harmadik kér egy sört - CCC: Der dritte will ein Bier</p>
+<p>22. A pincérnő kérdése formálisan: kér-e sört A és B és C - Die Frage der Kellnerin lautet formal: ob A und B und C ein Bier wollen</p>
+<p>23. A matematikusok válaszai - logikailag megmagyarázva - Antworten der Mathematiker – logisch erklärt</p>
+<p>24. Miért felel az első matematikus azt, hogy „Talán”? - Warum antwortet der erster Mathematiker: „Vielleicht“</p>
+<p>25. Tudja, hogy ő maga kér-e sört (vagyis ismeri A igazságértékét). - Er weiß, ob er selbst ein Bier will (also den Wahrheitswert von AAA).</p>
+<p>26. De nem tudja, hogy B és C igaz-e. - Er weiß aber nicht, ob BBB und CCC wahr sind.</p>
+<p>27. Formálisan: ¬Tudja(A∧B∧C) (szavakban: nem tudja, hogy A és B és C egyszerre igaz-e) - Formal: ¬Wissen(A∧B∧C) (in Worten: Er weiß nicht, ob A und B und C gleichzeitig zutreffen.)</p>
+<p>28. Tehát azt mondja: Talán. - Also sagt er: Vielleicht.</p>
+<p>29. Miért felel a második matematikus azt, hogy „Talán”? - Warum antwortet der zweiter Mathematiker: „Vielleicht“</p>
+<p>30. A második hallja: az első nem mondott „nemet”. - Der zweite hört: Der erste hat nicht „Nein“ gesagt.</p>
+<p>31. Ebből logikailag következik: - Daraus folgt logisch:</p>
+<p>32. 👉 A igaz (különben az első rögtön „nemet” mondott volna). - 👉 AAA ist wahr (sonst hätte der Erste sofort „Nein“ gesagt).</p>
+<p>33. De: a második még nem ismeri C-t. - Aber: Der zweite kennt CCC noch nicht.</p>
+<p>34. Formálisan: A = igaz; ¬Tudja(C) (szavakban: A igaz, de nem tudja, hogy C igaz-e) - Formal: A = wahr; ¬Wissen(C) (in Worten: A trifft zu, aber er weiß nicht, ob C zutrifft.)</p>
+<p>35. Tehát ő is azt mondja: Talán. - Also sagt er auch: Vielleicht.</p>
+<p>36. Miért felel a harmadik matematikus azt, hogy „Igen”? - Warum antwortet der dritter Mathematiker: „Ja“</p>
+<p>37. A harmadik tudja: - Der dritte weiß:</p>
+<p>38. Az első nem mondott „nemet” → A = igaz - Der erste hat nicht „Nein“ gesagt → A=wahr</p>
+<p>39. A második nem mondott „nemet” → B = igaz - Der zweite hat nicht „Nein“ gesagt → B=wahr</p>
+<p>40. Ő maga kér egy sört → C = igaz - Er selbst will ein Bier → C=wahr</p>
+<p>41. Ezzel érvényes: A∧B∧C = igaz (szavakban: A és B és C mindhárom igaz) - Damit gilt: A∧B∧C=wahr (in Worten: A und B und C treffen alle drei zu.)</p>
+<p>42. Tehát biztosan mondhatja: „Igen.” - Also kann er sicher „Ja“ sagen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Három matematikus bemegy egy bárba. A pincérnő megkérdezi: „Mind a hárman kértek egy sört?” Az első azt feleli: „Talán.” A második is azt feleli: „Talán.” A harmadik azt mondja: „Igen.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. 1. magyarázat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A pincérnő nem külön-külön kérdezi meg őket, hanem összefoglaló kérdést tesz fel: hogy mind a hárman kérnek-e sört.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Az első matematikus ugyan tudja, hogy ő maga kér-e sört, de nem tudja, mit akar a másik kettő. Ezért őszintén nem mondhat sem „igent”, sem „nemet”, és ezért azt feleli: „Talán.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A második hallja ezt a választ. Ebből már következtetni tud: az első nyilvánvalóan kér sört - különben rögtön „nemet” mondott volna. De a második még mindig nem tudja, hogy a harmadik kér-e. Ezért ő is azt mondja: „Talán.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A harmadik most már mindkét választ hallja. Most már tudja: az első kér sört, a második kér sört, és ő maga is kér. Ezzel mind a hárman benne vannak - és csak ezért mondhatja biztosan: „Igen.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A vicc azért működik, mert a matematikusok nem egyszerűen ösztönösen válaszolnak, hanem szigorúan logikusan végiggondolják, mi vezethető le biztosan a többiek válaszaiból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. 3. magyarázat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. A pincérnő látszólag egyszerű kérdést tesz fel, de az logikailag ügyesen van megfogalmazva: nem azt kérdezi, hogy külön-külön kér-e mindegyikük sört, hanem hogy mind a hárman együtt kérnek-e. Ezzel olyan választ kíván, amely csak akkor lehet egyértelműen „igen”, ha valóban senki sincs kizárva a társaságból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Az első matematikus természetesen ismeri a saját kívánságát. De ebben a pillanatban még egyáltalán semmit sem tud arról, mit akar a másik kettő. Mivel nem mondhatja biztosan, hogy valóban mindenki kér sört, logikai szempontból sem „igent”, sem „nemet” nem mondhat. A „Talán” válasza tehát azt jelenti: magamra nézve igaz, de a többiekről nem állíthatok semmi biztosat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. A második matematikus nagyon figyelmesen hallgatja ezt a választ. Észreveszi: ha az első nem lett volna sörivó, azonnal „nemet” mondott volna, mert akkor a pincérnő kérdésére egyértelműen nemmel kellett volna felelni. Az tehát, hogy az első ehelyett „Talánt” mond, már elárul valamit - mégpedig azt, hogy ő maga kér sört. A második számára mégis marad egy ismeretlen: továbbra sem tudja, mit akar a harmadik. Így számára is az egyetlen őszinte és logikailag tiszta válasz megint csak a „Talán”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. A harmadik matematikus most már mindkét korábbi választ hallja. Ezekből biztosan következtethet arra, hogy az első és a második is kér sört. Ehhez járul a saját tudása: ő maga is kér egyet. Most minden bizonytalanság eltűnt. Először van elég információ ahhoz, hogy a pincérnő összefoglaló kérdésére egyértelműen válaszoljon. Ezért mondja végül a harmadik teljes meggyőződéssel: „Igen.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. A vicc abból él, hogy a matematikusok nem ösztönösen reagálnak, mint a hétköznapi vendégek, hanem minden választ információforrásnak tekintenek. A humor abból az ellentétből fakad, amely egy kocsmai hétköznapi jelenet és egy túlzottan korrekt, már-már pedáns logikai gondolkodásmód között feszül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. 3. magyarázat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. A pincérnő azt kérdezi: „Mind a hárman kértek egy sört?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. Formálisan ez azt jelenti: iszik-e mind a három egy sört?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Logikai modellezés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Határozzuk meg az állításokat:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. A: az első kér egy sört</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. B: a második kér egy sört</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. C: a harmadik kér egy sört</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>22. A pincérnő kérdése formálisan: kér-e sört A és B és C</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>23. A matematikusok válaszai - logikailag megmagyarázva</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>24. Miért felel az első matematikus azt, hogy „Talán”?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>25. Tudja, hogy ő maga kér-e sört (vagyis ismeri A igazságértékét).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>26. De nem tudja, hogy B és C igaz-e.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>27. Formálisan: ¬Tudja(A∧B∧C) (szavakban: nem tudja, hogy A és B és C egyszerre igaz-e)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>28. Tehát azt mondja: Talán.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>29. Miért felel a második matematikus azt, hogy „Talán”?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>30. A második hallja: az első nem mondott „nemet”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>31. Ebből logikailag következik:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>32. 👉 A igaz (különben az első rögtön „nemet” mondott volna).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>33. De: a második még nem ismeri C-t.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>34. Formálisan: A = igaz; ¬Tudja(C) (szavakban: A igaz, de nem tudja, hogy C igaz-e)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>35. Tehát ő is azt mondja: Talán.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>36. Miért felel a harmadik matematikus azt, hogy „Igen”?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>37. A harmadik tudja:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>38. Az első nem mondott „nemet” → A = igaz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>39. A második nem mondott „nemet” → B = igaz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>40. Ő maga kér egy sört → C = igaz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>41. Ezzel érvényes: A∧B∧C = igaz (szavakban: A és B és C mindhárom igaz)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>42. Tehát biztosan mondhatja: „Igen.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Drei Mathematiker gehen in eine Bar. Die Kellnerin fragt: "Wollt ihr alle drei ein Bier?" Der erste antwortet: "Vielleicht". Der Zweite antwortet auch: "Vielleicht". Der Dritte sagt: "Ja".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Erklärung 1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Kellnerin fragt nicht jeden einzeln, sondern stellt eine Sammelfrage: Ob alle drei ein Bier wollen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der erste Mathematiker weiß zwar, ob er selbst ein Bier möchte, aber er weiß nicht, was die beiden anderen wollen. Also kann er ehrlich nicht „Ja“ oder „Nein“ sagen und antwortet deshalb „Vielleicht“.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Der zweite hört diese Antwort. Daraus kann er schon schließen: Der erste will offenbar ein Bier – sonst hätte der sofort „Nein“ gesagt. Aber der zweite weiß immer noch nicht, ob der dritte eins möchte. Also sagt auch er „Vielleicht“.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Der dritte hört nun beide Antworten. Er weiß jetzt: Der erste will ein Bier, der zweite will ein Bier, und er selbst will auch eines. Damit sind alle drei dabei – und nur deshalb kann er sicher „Ja“ sagen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Der Witz funktioniert, weil die Mathematiker nicht einfach spontan antworten, sondern streng logisch mitdenken, was man aus den Antworten der anderen bereits sicher ableiten kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Erklärung 3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Die Kellnerin stellt eine scheinbar einfache Frage, aber sie ist **logisch geschickt formuliert**: Sie fragt nicht, ob **jeder für sich** ein Bier möchte, sondern ob **alle drei gemeinsam** eines wollen. Damit verlangt sie eine Antwort, die nur dann eindeutig „Ja“ sein darf, wenn wirklich niemand in der Runde ausgeschlossen ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Der erste Mathematiker kennt natürlich seinen eigenen Wunsch. Aber er weiß in diesem Moment noch überhaupt nichts darüber, was die beiden anderen möchten. Da er nicht sicher sagen kann, dass wirklich alle ein Bier wollen, darf er aus logischer Sicht weder „Ja“ noch „Nein“ sagen. Seine Antwort „Vielleicht“ bedeutet also: *Für mich selbst stimmt es, aber über die anderen kann ich nichts Sicheres behaupten.*</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Der zweite Mathematiker hört diese Antwort sehr aufmerksam. Er merkt: Wäre der erste kein Biertrinker gewesen, hätte dieser sofort „Nein“ gesagt, denn dann wäre die Frage der Kellnerin eindeutig zu verneinen gewesen. Dass der erste stattdessen „Vielleicht“ sagt, verrät also bereits etwas – nämlich, dass er selbst ein Bier möchte. Trotzdem bleibt für den zweiten noch eine Unbekannte: Er weiß weiterhin nicht, was der dritte will. Also ist auch für ihn die einzig ehrliche und logisch saubere Antwort wieder „Vielleicht“.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Der dritte Mathematiker hört nun beide vorherigen Antworten. Aus ihnen kann er bereits sicher schließen, dass sowohl der erste als auch der zweite ein Bier möchten. Dazu kommt sein eigenes Wissen: Er selbst will ebenfalls eines. Jetzt sind alle Unsicherheiten verschwunden. Zum ersten Mal liegt genug Information vor, um die Sammelfrage der Kellnerin eindeutig zu beantworten. Deshalb sagt der dritte schließlich mit voller Überzeugung „Ja“.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Der Witz lebt davon, dass die Mathematiker nicht wie normale Gäste aus dem Bauch heraus reagieren, sondern jede Antwort als Informationsquelle betrachten. Humor entsteht aus dem Kontrast zwischen einer Alltagsszene in der Kneipe und einer überkorrekten, fast pedantischen logischen Denkweise.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Erklärung 3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. Die Kellnerin fragt: „Wollt ihr alle drei ein Bier?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. Formal heißt das:  Trinken alle drei ein Bier?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Logische Modellierung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Definiere Aussagen:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. AAA: Der erste will ein Bier</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. BBB: Der zweite will ein Bier</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. CCC: Der dritte will ein Bier</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>22. Die Frage der Kellnerin lautet formal: ob A und B und C ein Bier wollen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>23. Antworten der Mathematiker – logisch erklärt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>24. Warum antwortet der erster Mathematiker: „Vielleicht“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>25. Er weiß, ob er selbst ein Bier will (also den Wahrheitswert von AAA).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>26. Er weiß aber nicht, ob BBB und CCC wahr sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>27. Formal: ¬Wissen(A∧B∧C) (in Worten: Er weiß nicht, ob A und B und C gleichzeitig zutreffen.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>28. Also sagt er: Vielleicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>29. Warum antwortet der zweiter Mathematiker: „Vielleicht“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>30. Der zweite hört: Der erste hat nicht „Nein“ gesagt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>31. Daraus folgt logisch:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>32. 👉 AAA ist wahr (sonst hätte der Erste sofort „Nein“ gesagt).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>33. Aber: Der zweite kennt CCC noch nicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>34. Formal: A = wahr; ¬Wissen(C) (in Worten: A trifft zu, aber er weiß nicht, ob C zutrifft.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>35. Also sagt er auch: Vielleicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>36. Warum antwortet der dritter Mathematiker: „Ja“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>37. Der dritte weiß:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>38. Der erste hat nicht „Nein“ gesagt → A=wahr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>39. Der zweite hat nicht „Nein“ gesagt → B=wahr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>40. Er selbst will ein Bier → C=wahr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>41. Damit gilt: A∧B∧C=wahr (in Worten: A und B und C treffen alle drei zu.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>42. Also kann er sicher „Ja“ sagen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 9</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
 <p>1. Lopnak a szüleid? - Klauen deine Eltern?</p>
 <p>2. Olyan elvittnek látszol. (a német „mitgenommen” elvittet és megviseltet is jelent) - Du siehst so mitgenommen aus.</p>
 <!-- /wp:paragraph -->
@@ -419,7 +830,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 9</h3>
+<h3 class="wp-block-heading">Witz 10</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -470,7 +881,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 10</h3>
+<h3 class="wp-block-heading">Witz 11</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -521,7 +932,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 11</h3>
+<h3 class="wp-block-heading">Witz 12</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -572,7 +983,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 12</h3>
+<h3 class="wp-block-heading">Witz 13</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -659,7 +1070,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 13</h3>
+<h3 class="wp-block-heading">Witz 14</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -710,7 +1121,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 14</h3>
+<h3 class="wp-block-heading">Witz 15</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -761,7 +1172,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 15</h3>
+<h3 class="wp-block-heading">Witz 16</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -812,7 +1223,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 16</h3>
+<h3 class="wp-block-heading">Witz 17</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -863,7 +1274,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 17</h3>
+<h3 class="wp-block-heading">Witz 18</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -914,7 +1325,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 18</h3>
+<h3 class="wp-block-heading">Witz 19</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -956,7 +1367,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 19</h3>
+<h3 class="wp-block-heading">Witz 20</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1016,7 +1427,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 20</h3>
+<h3 class="wp-block-heading">Witz 21</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1076,7 +1487,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 21</h3>
+<h3 class="wp-block-heading">Witz 22</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1136,7 +1547,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 22</h3>
+<h3 class="wp-block-heading">Witz 23</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1205,7 +1616,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 23</h3>
+<h3 class="wp-block-heading">Witz 24</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1274,7 +1685,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 24</h3>
+<h3 class="wp-block-heading">Witz 25</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1325,7 +1736,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 25</h3>
+<h3 class="wp-block-heading">Witz 26</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1385,7 +1796,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 26</h3>
+<h3 class="wp-block-heading">Witz 27</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1436,7 +1847,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 27</h3>
+<h3 class="wp-block-heading">Witz 28</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1505,7 +1916,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 28</h3>
+<h3 class="wp-block-heading">Witz 29</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1547,7 +1958,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 29</h3>
+<h3 class="wp-block-heading">Witz 30</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -1586,930 +1997,6 @@
 
 <!-- wp:paragraph -->
 <p>2. Guten Appetit!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 30</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. Csak két dologtól félek. - Ich habe nur vor zwei Dingen Angst.</p>
-<p>2. A fogorvosoktól és a sötétségtől. - Vor Zahnärzten und vor der Dunkelheit.</p>
-<p>3. Miért a fogorvosoktól? - Warum vor Zahnärzten?</p>
-<p>4. Hát az elég nyilvánvaló. - Na, das ist ja wohl klar.</p>
-<p>5. És miért a sötétségtől? - Und warum vor der Dunkelheit?</p>
-<p>6. Mert csak az ördög tudja, hány fogorvos rejtőzik a sötétben. - Weil nur der Teufel weiß wie viel Zahnärzte in der Dunkelheit verborgen sind.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Csak két dologtól félek.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. A fogorvosoktól és a sötétségtől.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. Miért a fogorvosoktól?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. Hát az elég nyilvánvaló.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>5. És miért a sötétségtől?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>6. Mert csak az ördög tudja, hány fogorvos rejtőzik a sötétben.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Ich habe nur vor zwei Dingen Angst.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Vor Zahnärzten und vor der Dunkelheit.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. Warum vor Zahnärzten?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. Na, das ist ja wohl klar.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>5. Und warum vor der Dunkelheit?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>6. Weil nur der Teufel weiß wie viel Zahnärzte in der Dunkelheit verborgen sind.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 31</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. Kis Fricit az anyja megkérdezi, mit szeretne karácsonyra. - Klein-Fritzchen wird von seiner Mutter nach seinem Weihnachtswunsch gefragt.</p>
-<p>2. „Tampont.” - „Tampons“</p>
-<p>3. „Ugyan miért? Mire kell az?” - „Warum denn das? Wofür die denn?“</p>
-<p>4. „Hát mindig azt mondják a reklámban: lehet vele lovagolni, úszni, biciklizni, kickboxolni...” - „Na, das kommt doch immer in der Werbung: Damit kann man reiten, schwimmen, fahrradfahren, kickboxen, ...“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Kis Fricit az anyja megkérdezi, mit szeretne karácsonyra.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Tampont.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Ugyan miért? Mire kell az?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. „Hát mindig azt mondják a reklámban: lehet vele lovagolni, úszni, biciklizni, kickboxolni...”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Klein-Fritzchen wird von seiner Mutter nach seinem Weihnachtswunsch gefragt.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Tampons“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Warum denn das? Wofür die denn?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. „Na, das kommt doch immer in der Werbung: Damit kann man reiten, schwimmen, fahrradfahren, kickboxen, ...“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 32</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Hogyan kényezteted a férjedet?” - „Wie verwöhnst du deinen Mann?“</p>
-<p>2. „Néha hallgatok.” - „Manchmal schweige ich.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Hogyan kényezteted a férjedet?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Néha hallgatok.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Wie verwöhnst du deinen Mann?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Manchmal schweige ich.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 33</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Mi volt a legrosszabb, amit valaha pénzért csináltál?” - „Was war das Schlimmste, was du schon mal für Geld gemacht hast?“</p>
-<p>2. „Tizenkét órát dolgoztam egyhuzamban.” - „12 Stunden hintereinander gearbeitet.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Mi volt a legrosszabb, amit valaha pénzért csináltál?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Tizenkét órát dolgoztam egyhuzamban.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Was war das Schlimmste, was du schon mal für Geld gemacht hast?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „12 Stunden hintereinander gearbeitet.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 34</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Diétázom.” - „Régóta?” - „Ich mache eine Diät.“ - „Schon lange?“</p>
-<p>2. „Igen, három órája.” - „Meg is látszik.” - „Ja, seit drei Stunden.“ - „Das sieht man.“</p>
-<p>3. „Tényleg?” - „Igen, az éhes szemén.” - „Wirklich?“ - „Ja, an Ihren hungrigen Augen.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Diétázom.” - „Régóta?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Igen, három órája.” - „Meg is látszik.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Tényleg?” - „Igen, az éhes szemén.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Ich mache eine Diät.“ - „Schon lange?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Ja, seit drei Stunden.“ - „Das sieht man.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Wirklich?“ - „Ja, an Ihren hungrigen Augen.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 35</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Miért alkalmaz a cégében csak házasokat?” - „Warum stellen Sie in Ihrer Firma nur Verheiratete ein?“</p>
-<p>2. „Megszokták, hogy sértegetik őket. Este pedig egyáltalán nem sietnek haza.” - „Die sind es gewohnt beleidigt zu werden. Und abends haben sie es überhaupt nicht eilig nach Hause zu kommen.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Miért alkalmaz a cégében csak házasokat?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Megszokták, hogy sértegetik őket. Este pedig egyáltalán nem sietnek haza.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Warum stellen Sie in Ihrer Firma nur Verheiratete ein?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Die sind es gewohnt beleidigt zu werden. Und abends haben sie es überhaupt nicht eilig nach Hause zu kommen.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 36</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Milyen magas vagy?” - „Wie groß bist du?“</p>
-<p>2. „150.” - „150“</p>
-<p>3. „Mint egy hercegnő. És a súlyod?” - „Wie eine Prinzessin. Und dein Gewicht?“</p>
-<p>4. „A súlyom még kevesebb. 120.” - „Mein Gewicht ist noch weniger. 120“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Milyen magas vagy?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „150.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Mint egy hercegnő. És a súlyod?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. „A súlyom még kevesebb. 120.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Wie groß bist du?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „150“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Wie eine Prinzessin. Und dein Gewicht?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. „Mein Gewicht ist noch weniger. 120“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 37</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Doktor úr, mi az ideális magasság a súlyomhoz?” - „Herr Doktor, was ist die ideale Größe für mein Gewicht?“</p>
-<p>2. „Négy méter.” - „Vier Meter.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Doktor úr, mi az ideális magasság a súlyomhoz?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Négy méter.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Herr Doktor, was ist die ideale Größe für mein Gewicht?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. „Vier Meter.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 38</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. Lecserélte a férjét. - Sie hat ihren Mann gewechselt.</p>
-<p>2. És most megint szép és okos, és remekül főz. - Und jetzt ist sie wieder schön und klug und kocht prima.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Lecserélte a férjét.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. És most megint szép és okos, és remekül főz.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Sie hat ihren Mann gewechselt.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Und jetzt ist sie wieder schön und klug und kocht prima.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 39</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. Orvos: „Mi kényszeríti arra, hogy minden nap leigya magát?” - Arzt: „Was zwingt sie dazu sich jeden Tag zu betrinken?“</p>
-<p>2. Beteg: „Semmi! Önként csinálom.” - Patient: „Nichts! Ich mache das freiwillig.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Orvos: „Mi kényszeríti arra, hogy minden nap leigya magát?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Beteg: „Semmi! Önként csinálom.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Arzt: „Was zwingt sie dazu sich jeden Tag zu betrinken?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Patient: „Nichts! Ich mache das freiwillig.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 40</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. Lassan öregszünk. A minap a feleségemmel megnéztünk egy pornófilmet: nagyon tetszett a hálószoba berendezése, a fürdőszoba csempéje és a konyhaasztal. - Wir werden langsam älter. Neulich habe ich mit meiner Frau einen Porno geschaut: Die Schlafzimmereinrichtung hat uns sehr gefallen, die Fliesen im Bad und der Küchentisch.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Lassan öregszünk. A minap a feleségemmel megnéztünk egy pornófilmet: nagyon tetszett a hálószoba berendezése, a fürdőszoba csempéje és a konyhaasztal.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Wir werden langsam älter. Neulich habe ich mit meiner Frau einen Porno geschaut: Die Schlafzimmereinrichtung hat uns sehr gefallen, die Fliesen im Bad und der Küchentisch.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 41</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Nekem egy dupla whiskyt kérek!” - „Für mich bitte einen doppelten Whisky!“</p>
-<p>2. - „Kislány, ez itt egy iskolai büfé.” - - „Mädchen, das hier ist eine Schulkantine.“</p>
-<p>3. „Jaj, bocsánat! Éppen álmodoztam. Akkor egy kompótot kérek!” - „Oh, Verzeihung! Ich war gerade ins Träumen geraten. Ein Kompott bitte!“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Nekem egy dupla whiskyt kérek!”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. - „Kislány, ez itt egy iskolai büfé.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Jaj, bocsánat! Éppen álmodoztam. Akkor egy kompótot kérek!”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Für mich bitte einen doppelten Whisky!“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. - „Mädchen, das hier ist eine Schulkantine.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Oh, Verzeihung! Ich war gerade ins Träumen geraten. Ein Kompott bitte!“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 42</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Hallottam, hogy a férjeddel elváltatok. Miért?” - „Ich habe gehört, dass du und dein Mann sich getrennt habt. Warum denn?“</p>
-<p>2. - „Te együtt tudnál élni valakivel, aki dohányzik, iszik, káromkodik, és ráadásul még verekszik is?” - - „Könntest du denn mit jemandem zusammenleben, der raucht, säuft, flucht und sich obendrein auch noch schlägt.“</p>
-<p>3. „Nem, természetesen nem.” - „Nein, natürlich nicht.“</p>
-<p>4. - „Látod, ő sem.” - - „Siehst du, er auch nicht.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Hallottam, hogy a férjeddel elváltatok. Miért?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. - „Te együtt tudnál élni valakivel, aki dohányzik, iszik, káromkodik, és ráadásul még verekszik is?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Nem, természetesen nem.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. - „Látod, ő sem.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Ich habe gehört, dass du und dein Mann sich getrennt habt. Warum denn?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. - „Könntest du denn mit jemandem zusammenleben, der raucht, säuft, flucht und sich obendrein auch noch schlägt.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Nein, natürlich nicht.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>4. - „Siehst du, er auch nicht.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 43</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. A közlekedési ellenőrzésnél minden rendőr azt kérdezi tőlem, ittam-e. - Alle Polizisten fragen mich bei einer Verkehrskontrolle immer, ob ich getrunken habe.</p>
-<p>2. Bárcsak egyszer megkérdezné valamelyik, hogy ettem-e is valamit. - Wenn mich doch wenigstens mal einer fragen würde, ob ich auch was gegessen haben.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. A közlekedési ellenőrzésnél minden rendőr azt kérdezi tőlem, ittam-e.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Bárcsak egyszer megkérdezné valamelyik, hogy ettem-e is valamit.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Alle Polizisten fragen mich bei einer Verkehrskontrolle immer, ob ich getrunken habe.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Wenn mich doch wenigstens mal einer fragen würde, ob ich auch was gegessen haben.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 44</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. „Tudod, hogyan lehet valakit kíváncsivá tenni?” - „Weiß Du wie man jemanden neugierig machen kann?“</p>
-<p>2. - „Hogyan?” - - „Wie?“</p>
-<p>3. „Azt holnap mondom meg.” - „Das sag ich Dir morgen.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Tudod, hogyan lehet valakit kíváncsivá tenni?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. - „Hogyan?”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Azt holnap mondom meg.”</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. „Weiß Du wie man jemanden neugierig machen kann?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. - „Wie?“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>3. „Das sag ich Dir morgen.“</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Witz 45</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>1. A feleségemmel elhatároztuk, hogy a kapcsolatunkat egészen elölről kezdjük. - Wir haben mit meiner Frau beschlossen mit unserer Beziehung noch mal ganz von vorne durchzustarten.</p>
-<p>2. Az első randevúra el sem jött. - Sie ist nicht mal zum ersten Rendezvous gekommen.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. A feleségemmel elhatároztuk, hogy a kapcsolatunkat egészen elölről kezdjük.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Az első randevúra el sem jött.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:html -->
-  </div>
-</details>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
-  <div class="pc-collapsible-body">
-<!-- /wp:html -->
-
-<!-- wp:paragraph -->
-<p>1. Wir haben mit meiner Frau beschlossen mit unserer Beziehung noch mal ganz von vorne durchzustarten.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2. Sie ist nicht mal zum ersten Rendezvous gekommen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

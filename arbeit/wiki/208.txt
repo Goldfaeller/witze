@@ -116,6 +116,144 @@
 |}
 
 === 8 ===
+:1. Három matematikus bemegy egy bárba. A pincérnő megkérdezi: „Mind a hárman kértek egy sört?” Az első azt feleli: „Talán.” A második is azt feleli: „Talán.” A harmadik azt mondja: „Igen.”
+:2. 1. magyarázat
+:3. A pincérnő nem külön-külön kérdezi meg őket, hanem összefoglaló kérdést tesz fel: hogy mind a hárman kérnek-e sört.
+:4. Az első matematikus ugyan tudja, hogy ő maga kér-e sört, de nem tudja, mit akar a másik kettő. Ezért őszintén nem mondhat sem „igent”, sem „nemet”, és ezért azt feleli: „Talán.”
+:5. A második hallja ezt a választ. Ebből már következtetni tud: az első nyilvánvalóan kér sört - különben rögtön „nemet” mondott volna. De a második még mindig nem tudja, hogy a harmadik kér-e. Ezért ő is azt mondja: „Talán.”
+:6. A harmadik most már mindkét választ hallja. Most már tudja: az első kér sört, a második kér sört, és ő maga is kér. Ezzel mind a hárman benne vannak - és csak ezért mondhatja biztosan: „Igen.”
+:7. A vicc azért működik, mert a matematikusok nem egyszerűen ösztönösen válaszolnak, hanem szigorúan logikusan végiggondolják, mi vezethető le biztosan a többiek válaszaiból.
+:8. 3. magyarázat
+:9. A pincérnő látszólag egyszerű kérdést tesz fel, de az logikailag ügyesen van megfogalmazva: nem azt kérdezi, hogy külön-külön kér-e mindegyikük sört, hanem hogy mind a hárman együtt kérnek-e. Ezzel olyan választ kíván, amely csak akkor lehet egyértelműen „igen”, ha valóban senki sincs kizárva a társaságból.
+:10. Az első matematikus természetesen ismeri a saját kívánságát. De ebben a pillanatban még egyáltalán semmit sem tud arról, mit akar a másik kettő. Mivel nem mondhatja biztosan, hogy valóban mindenki kér sört, logikai szempontból sem „igent”, sem „nemet” nem mondhat. A „Talán” válasza tehát azt jelenti: magamra nézve igaz, de a többiekről nem állíthatok semmi biztosat.
+:11. A második matematikus nagyon figyelmesen hallgatja ezt a választ. Észreveszi: ha az első nem lett volna sörivó, azonnal „nemet” mondott volna, mert akkor a pincérnő kérdésére egyértelműen nemmel kellett volna felelni. Az tehát, hogy az első ehelyett „Talánt” mond, már elárul valamit - mégpedig azt, hogy ő maga kér sört. A második számára mégis marad egy ismeretlen: továbbra sem tudja, mit akar a harmadik. Így számára is az egyetlen őszinte és logikailag tiszta válasz megint csak a „Talán”.
+:12. A harmadik matematikus most már mindkét korábbi választ hallja. Ezekből biztosan következtethet arra, hogy az első és a második is kér sört. Ehhez járul a saját tudása: ő maga is kér egyet. Most minden bizonytalanság eltűnt. Először van elég információ ahhoz, hogy a pincérnő összefoglaló kérdésére egyértelműen válaszoljon. Ezért mondja végül a harmadik teljes meggyőződéssel: „Igen.”
+:13. A vicc abból él, hogy a matematikusok nem ösztönösen reagálnak, mint a hétköznapi vendégek, hanem minden választ információforrásnak tekintenek. A humor abból az ellentétből fakad, amely egy kocsmai hétköznapi jelenet és egy túlzottan korrekt, már-már pedáns logikai gondolkodásmód között feszül.
+:14. 3. magyarázat
+:15. A pincérnő azt kérdezi: „Mind a hárman kértek egy sört?”
+:16. Formálisan ez azt jelenti: iszik-e mind a három egy sört?
+:17. Logikai modellezés
+:18. Határozzuk meg az állításokat:
+:19. A: az első kér egy sört
+:20. B: a második kér egy sört
+:21. C: a harmadik kér egy sört
+:22. A pincérnő kérdése formálisan: kér-e sört A és B és C
+:23. A matematikusok válaszai - logikailag megmagyarázva
+:24. Miért felel az első matematikus azt, hogy „Talán”?
+:25. Tudja, hogy ő maga kér-e sört (vagyis ismeri A igazságértékét).
+:26. De nem tudja, hogy B és C igaz-e.
+:27. Formálisan: ¬Tudja(A∧B∧C) (szavakban: nem tudja, hogy A és B és C egyszerre igaz-e)
+:28. Tehát azt mondja: Talán.
+:29. Miért felel a második matematikus azt, hogy „Talán”?
+:30. A második hallja: az első nem mondott „nemet”.
+:31. Ebből logikailag következik:
+:32. 👉 A igaz (különben az első rögtön „nemet” mondott volna).
+:33. De: a második még nem ismeri C-t.
+:34. Formálisan: A = igaz; ¬Tudja(C) (szavakban: A igaz, de nem tudja, hogy C igaz-e)
+:35. Tehát ő is azt mondja: Talán.
+:36. Miért felel a harmadik matematikus azt, hogy „Igen”?
+:37. A harmadik tudja:
+:38. Az első nem mondott „nemet” → A = igaz
+:39. A második nem mondott „nemet” → B = igaz
+:40. Ő maga kér egy sört → C = igaz
+:41. Ezzel érvényes: A∧B∧C = igaz (szavakban: A és B és C mindhárom igaz)
+:42. Tehát biztosan mondhatja: „Igen.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. Három matematikus bemegy egy bárba. A pincérnő megkérdezi: „Mind a hárman kértek egy sört?” Az első azt feleli: „Talán.” A második is azt feleli: „Talán.” A harmadik azt mondja: „Igen.” - Drei Mathematiker gehen in eine Bar. Die Kellnerin fragt: "Wollt ihr alle drei ein Bier?" Der erste antwortet: "Vielleicht". Der Zweite antwortet auch: "Vielleicht". Der Dritte sagt: "Ja".
+:2. 1. magyarázat - Erklärung 1
+:3. A pincérnő nem külön-külön kérdezi meg őket, hanem összefoglaló kérdést tesz fel: hogy mind a hárman kérnek-e sört. - Die Kellnerin fragt nicht jeden einzeln, sondern stellt eine Sammelfrage: Ob alle drei ein Bier wollen.
+:4. Az első matematikus ugyan tudja, hogy ő maga kér-e sört, de nem tudja, mit akar a másik kettő. Ezért őszintén nem mondhat sem „igent”, sem „nemet”, és ezért azt feleli: „Talán.” - Der erste Mathematiker weiß zwar, ob er selbst ein Bier möchte, aber er weiß nicht, was die beiden anderen wollen. Also kann er ehrlich nicht „Ja“ oder „Nein“ sagen und antwortet deshalb „Vielleicht“.
+:5. A második hallja ezt a választ. Ebből már következtetni tud: az első nyilvánvalóan kér sört - különben rögtön „nemet” mondott volna. De a második még mindig nem tudja, hogy a harmadik kér-e. Ezért ő is azt mondja: „Talán.” - Der zweite hört diese Antwort. Daraus kann er schon schließen: Der erste will offenbar ein Bier – sonst hätte der sofort „Nein“ gesagt. Aber der zweite weiß immer noch nicht, ob der dritte eins möchte. Also sagt auch er „Vielleicht“.
+:6. A harmadik most már mindkét választ hallja. Most már tudja: az első kér sört, a második kér sört, és ő maga is kér. Ezzel mind a hárman benne vannak - és csak ezért mondhatja biztosan: „Igen.” - Der dritte hört nun beide Antworten. Er weiß jetzt: Der erste will ein Bier, der zweite will ein Bier, und er selbst will auch eines. Damit sind alle drei dabei – und nur deshalb kann er sicher „Ja“ sagen.
+:7. A vicc azért működik, mert a matematikusok nem egyszerűen ösztönösen válaszolnak, hanem szigorúan logikusan végiggondolják, mi vezethető le biztosan a többiek válaszaiból. - Der Witz funktioniert, weil die Mathematiker nicht einfach spontan antworten, sondern streng logisch mitdenken, was man aus den Antworten der anderen bereits sicher ableiten kann.
+:8. 3. magyarázat - Erklärung 3
+:9. A pincérnő látszólag egyszerű kérdést tesz fel, de az logikailag ügyesen van megfogalmazva: nem azt kérdezi, hogy külön-külön kér-e mindegyikük sört, hanem hogy mind a hárman együtt kérnek-e. Ezzel olyan választ kíván, amely csak akkor lehet egyértelműen „igen”, ha valóban senki sincs kizárva a társaságból. - Die Kellnerin stellt eine scheinbar einfache Frage, aber sie ist **logisch geschickt formuliert**: Sie fragt nicht, ob **jeder für sich** ein Bier möchte, sondern ob **alle drei gemeinsam** eines wollen. Damit verlangt sie eine Antwort, die nur dann eindeutig „Ja“ sein darf, wenn wirklich niemand in der Runde ausgeschlossen ist.
+:10. Az első matematikus természetesen ismeri a saját kívánságát. De ebben a pillanatban még egyáltalán semmit sem tud arról, mit akar a másik kettő. Mivel nem mondhatja biztosan, hogy valóban mindenki kér sört, logikai szempontból sem „igent”, sem „nemet” nem mondhat. A „Talán” válasza tehát azt jelenti: magamra nézve igaz, de a többiekről nem állíthatok semmi biztosat. - Der erste Mathematiker kennt natürlich seinen eigenen Wunsch. Aber er weiß in diesem Moment noch überhaupt nichts darüber, was die beiden anderen möchten. Da er nicht sicher sagen kann, dass wirklich alle ein Bier wollen, darf er aus logischer Sicht weder „Ja“ noch „Nein“ sagen. Seine Antwort „Vielleicht“ bedeutet also: *Für mich selbst stimmt es, aber über die anderen kann ich nichts Sicheres behaupten.*
+:11. A második matematikus nagyon figyelmesen hallgatja ezt a választ. Észreveszi: ha az első nem lett volna sörivó, azonnal „nemet” mondott volna, mert akkor a pincérnő kérdésére egyértelműen nemmel kellett volna felelni. Az tehát, hogy az első ehelyett „Talánt” mond, már elárul valamit - mégpedig azt, hogy ő maga kér sört. A második számára mégis marad egy ismeretlen: továbbra sem tudja, mit akar a harmadik. Így számára is az egyetlen őszinte és logikailag tiszta válasz megint csak a „Talán”. - Der zweite Mathematiker hört diese Antwort sehr aufmerksam. Er merkt: Wäre der erste kein Biertrinker gewesen, hätte dieser sofort „Nein“ gesagt, denn dann wäre die Frage der Kellnerin eindeutig zu verneinen gewesen. Dass der erste stattdessen „Vielleicht“ sagt, verrät also bereits etwas – nämlich, dass er selbst ein Bier möchte. Trotzdem bleibt für den zweiten noch eine Unbekannte: Er weiß weiterhin nicht, was der dritte will. Also ist auch für ihn die einzig ehrliche und logisch saubere Antwort wieder „Vielleicht“.
+:12. A harmadik matematikus most már mindkét korábbi választ hallja. Ezekből biztosan következtethet arra, hogy az első és a második is kér sört. Ehhez járul a saját tudása: ő maga is kér egyet. Most minden bizonytalanság eltűnt. Először van elég információ ahhoz, hogy a pincérnő összefoglaló kérdésére egyértelműen válaszoljon. Ezért mondja végül a harmadik teljes meggyőződéssel: „Igen.” - Der dritte Mathematiker hört nun beide vorherigen Antworten. Aus ihnen kann er bereits sicher schließen, dass sowohl der erste als auch der zweite ein Bier möchten. Dazu kommt sein eigenes Wissen: Er selbst will ebenfalls eines. Jetzt sind alle Unsicherheiten verschwunden. Zum ersten Mal liegt genug Information vor, um die Sammelfrage der Kellnerin eindeutig zu beantworten. Deshalb sagt der dritte schließlich mit voller Überzeugung „Ja“.
+:13. A vicc abból él, hogy a matematikusok nem ösztönösen reagálnak, mint a hétköznapi vendégek, hanem minden választ információforrásnak tekintenek. A humor abból az ellentétből fakad, amely egy kocsmai hétköznapi jelenet és egy túlzottan korrekt, már-már pedáns logikai gondolkodásmód között feszül. - Der Witz lebt davon, dass die Mathematiker nicht wie normale Gäste aus dem Bauch heraus reagieren, sondern jede Antwort als Informationsquelle betrachten. Humor entsteht aus dem Kontrast zwischen einer Alltagsszene in der Kneipe und einer überkorrekten, fast pedantischen logischen Denkweise.
+:14. 3. magyarázat - Erklärung 3
+:15. A pincérnő azt kérdezi: „Mind a hárman kértek egy sört?” - Die Kellnerin fragt: „Wollt ihr alle drei ein Bier?“
+:16. Formálisan ez azt jelenti: iszik-e mind a három egy sört? - Formal heißt das:  Trinken alle drei ein Bier?
+:17. Logikai modellezés - Logische Modellierung
+:18. Határozzuk meg az állításokat: - Definiere Aussagen:
+:19. A: az első kér egy sört - AAA: Der erste will ein Bier
+:20. B: a második kér egy sört - BBB: Der zweite will ein Bier
+:21. C: a harmadik kér egy sört - CCC: Der dritte will ein Bier
+:22. A pincérnő kérdése formálisan: kér-e sört A és B és C - Die Frage der Kellnerin lautet formal: ob A und B und C ein Bier wollen
+:23. A matematikusok válaszai - logikailag megmagyarázva - Antworten der Mathematiker – logisch erklärt
+:24. Miért felel az első matematikus azt, hogy „Talán”? - Warum antwortet der erster Mathematiker: „Vielleicht“
+:25. Tudja, hogy ő maga kér-e sört (vagyis ismeri A igazságértékét). - Er weiß, ob er selbst ein Bier will (also den Wahrheitswert von AAA).
+:26. De nem tudja, hogy B és C igaz-e. - Er weiß aber nicht, ob BBB und CCC wahr sind.
+:27. Formálisan: ¬Tudja(A∧B∧C) (szavakban: nem tudja, hogy A és B és C egyszerre igaz-e) - Formal: ¬Wissen(A∧B∧C) (in Worten: Er weiß nicht, ob A und B und C gleichzeitig zutreffen.)
+:28. Tehát azt mondja: Talán. - Also sagt er: Vielleicht.
+:29. Miért felel a második matematikus azt, hogy „Talán”? - Warum antwortet der zweiter Mathematiker: „Vielleicht“
+:30. A második hallja: az első nem mondott „nemet”. - Der zweite hört: Der erste hat nicht „Nein“ gesagt.
+:31. Ebből logikailag következik: - Daraus folgt logisch:
+:32. 👉 A igaz (különben az első rögtön „nemet” mondott volna). - 👉 AAA ist wahr (sonst hätte der Erste sofort „Nein“ gesagt).
+:33. De: a második még nem ismeri C-t. - Aber: Der zweite kennt CCC noch nicht.
+:34. Formálisan: A = igaz; ¬Tudja(C) (szavakban: A igaz, de nem tudja, hogy C igaz-e) - Formal: A = wahr; ¬Wissen(C) (in Worten: A trifft zu, aber er weiß nicht, ob C zutrifft.)
+:35. Tehát ő is azt mondja: Talán. - Also sagt er auch: Vielleicht.
+:36. Miért felel a harmadik matematikus azt, hogy „Igen”? - Warum antwortet der dritter Mathematiker: „Ja“
+:37. A harmadik tudja: - Der dritte weiß:
+:38. Az első nem mondott „nemet” → A = igaz - Der erste hat nicht „Nein“ gesagt → A=wahr
+:39. A második nem mondott „nemet” → B = igaz - Der zweite hat nicht „Nein“ gesagt → B=wahr
+:40. Ő maga kér egy sört → C = igaz - Er selbst will ein Bier → C=wahr
+:41. Ezzel érvényes: A∧B∧C = igaz (szavakban: A és B és C mindhárom igaz) - Damit gilt: A∧B∧C=wahr (in Worten: A und B und C treffen alle drei zu.)
+:42. Tehát biztosan mondhatja: „Igen.” - Also kann er sicher „Ja“ sagen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Drei Mathematiker gehen in eine Bar. Die Kellnerin fragt: "Wollt ihr alle drei ein Bier?" Der erste antwortet: "Vielleicht". Der Zweite antwortet auch: "Vielleicht". Der Dritte sagt: "Ja".
+:2. Erklärung 1
+:3. Die Kellnerin fragt nicht jeden einzeln, sondern stellt eine Sammelfrage: Ob alle drei ein Bier wollen.
+:4. Der erste Mathematiker weiß zwar, ob er selbst ein Bier möchte, aber er weiß nicht, was die beiden anderen wollen. Also kann er ehrlich nicht „Ja“ oder „Nein“ sagen und antwortet deshalb „Vielleicht“.
+:5. Der zweite hört diese Antwort. Daraus kann er schon schließen: Der erste will offenbar ein Bier – sonst hätte der sofort „Nein“ gesagt. Aber der zweite weiß immer noch nicht, ob der dritte eins möchte. Also sagt auch er „Vielleicht“.
+:6. Der dritte hört nun beide Antworten. Er weiß jetzt: Der erste will ein Bier, der zweite will ein Bier, und er selbst will auch eines. Damit sind alle drei dabei – und nur deshalb kann er sicher „Ja“ sagen.
+:7. Der Witz funktioniert, weil die Mathematiker nicht einfach spontan antworten, sondern streng logisch mitdenken, was man aus den Antworten der anderen bereits sicher ableiten kann.
+:8. Erklärung 3
+:9. Die Kellnerin stellt eine scheinbar einfache Frage, aber sie ist **logisch geschickt formuliert**: Sie fragt nicht, ob **jeder für sich** ein Bier möchte, sondern ob **alle drei gemeinsam** eines wollen. Damit verlangt sie eine Antwort, die nur dann eindeutig „Ja“ sein darf, wenn wirklich niemand in der Runde ausgeschlossen ist.
+:10. Der erste Mathematiker kennt natürlich seinen eigenen Wunsch. Aber er weiß in diesem Moment noch überhaupt nichts darüber, was die beiden anderen möchten. Da er nicht sicher sagen kann, dass wirklich alle ein Bier wollen, darf er aus logischer Sicht weder „Ja“ noch „Nein“ sagen. Seine Antwort „Vielleicht“ bedeutet also: *Für mich selbst stimmt es, aber über die anderen kann ich nichts Sicheres behaupten.*
+:11. Der zweite Mathematiker hört diese Antwort sehr aufmerksam. Er merkt: Wäre der erste kein Biertrinker gewesen, hätte dieser sofort „Nein“ gesagt, denn dann wäre die Frage der Kellnerin eindeutig zu verneinen gewesen. Dass der erste stattdessen „Vielleicht“ sagt, verrät also bereits etwas – nämlich, dass er selbst ein Bier möchte. Trotzdem bleibt für den zweiten noch eine Unbekannte: Er weiß weiterhin nicht, was der dritte will. Also ist auch für ihn die einzig ehrliche und logisch saubere Antwort wieder „Vielleicht“.
+:12. Der dritte Mathematiker hört nun beide vorherigen Antworten. Aus ihnen kann er bereits sicher schließen, dass sowohl der erste als auch der zweite ein Bier möchten. Dazu kommt sein eigenes Wissen: Er selbst will ebenfalls eines. Jetzt sind alle Unsicherheiten verschwunden. Zum ersten Mal liegt genug Information vor, um die Sammelfrage der Kellnerin eindeutig zu beantworten. Deshalb sagt der dritte schließlich mit voller Überzeugung „Ja“.
+:13. Der Witz lebt davon, dass die Mathematiker nicht wie normale Gäste aus dem Bauch heraus reagieren, sondern jede Antwort als Informationsquelle betrachten. Humor entsteht aus dem Kontrast zwischen einer Alltagsszene in der Kneipe und einer überkorrekten, fast pedantischen logischen Denkweise.
+:14. Erklärung 3
+:15. Die Kellnerin fragt: „Wollt ihr alle drei ein Bier?“
+:16. Formal heißt das:  Trinken alle drei ein Bier?
+:17. Logische Modellierung
+:18. Definiere Aussagen:
+:19. AAA: Der erste will ein Bier
+:20. BBB: Der zweite will ein Bier
+:21. CCC: Der dritte will ein Bier
+:22. Die Frage der Kellnerin lautet formal: ob A und B und C ein Bier wollen
+:23. Antworten der Mathematiker – logisch erklärt
+:24. Warum antwortet der erster Mathematiker: „Vielleicht“
+:25. Er weiß, ob er selbst ein Bier will (also den Wahrheitswert von AAA).
+:26. Er weiß aber nicht, ob BBB und CCC wahr sind.
+:27. Formal: ¬Wissen(A∧B∧C) (in Worten: Er weiß nicht, ob A und B und C gleichzeitig zutreffen.)
+:28. Also sagt er: Vielleicht.
+:29. Warum antwortet der zweiter Mathematiker: „Vielleicht“
+:30. Der zweite hört: Der erste hat nicht „Nein“ gesagt.
+:31. Daraus folgt logisch:
+:32. 👉 AAA ist wahr (sonst hätte der Erste sofort „Nein“ gesagt).
+:33. Aber: Der zweite kennt CCC noch nicht.
+:34. Formal: A = wahr; ¬Wissen(C) (in Worten: A trifft zu, aber er weiß nicht, ob C zutrifft.)
+:35. Also sagt er auch: Vielleicht.
+:36. Warum antwortet der dritter Mathematiker: „Ja“
+:37. Der dritte weiß:
+:38. Der erste hat nicht „Nein“ gesagt → A=wahr
+:39. Der zweite hat nicht „Nein“ gesagt → B=wahr
+:40. Er selbst will ein Bier → C=wahr
+:41. Damit gilt: A∧B∧C=wahr (in Worten: A und B und C treffen alle drei zu.)
+:42. Also kann er sicher „Ja“ sagen.
+|}
+
+=== 9 ===
 :1. Lopnak a szüleid?
 :2. Olyan elvittnek látszol. (a német „mitgenommen” elvittet és megviseltet is jelent)
 {|
@@ -133,7 +271,7 @@
 :2. Du siehst so mitgenommen aus.
 |}
 
-=== 9 ===
+=== 10 ===
 :1. Miért lopnak az oroszok Németországban mindig két autót?
 :2. Mert visszafelé Lengyelországon kell átmenniük.
 {|
@@ -151,7 +289,7 @@
 :2. Weil sie auf dem Rückweg durch Polen müssen.
 |}
 
-=== 10 ===
+=== 11 ===
 :1. Bemegy egy nő az orvoshoz: „Doktor úr, doktor úr, segítsen! Csomót találtam a mellemben.”
 :2. Mire az orvos: „De hát ki csinál ilyet?”
 {|
@@ -169,7 +307,7 @@
 :2. Darauf der Arzt: „Aber wer macht denn sowas?“
 |}
 
-=== 11 ===
+=== 12 ===
 :1. Miért nem lehet megfőzni egy egyenlő oldalú háromszöget?
 :2. - Mert mindig 60 foka van.
 {|
@@ -187,7 +325,7 @@
 :2. - Weil es immer 60° hat.
 |}
 
-=== 12 ===
+=== 13 ===
 :1. Két ember bemegy egy házba. Egy idő múlva hárman jönnek ki.
 :2. Teológus: „Csoda, csoda!”
 :3. Fizikus: „Mérési hiba.”
@@ -217,7 +355,7 @@
 :6. Mathematiker: „Wenn jetzt noch einer reingeht ist das Haus wieder leer.“
 |}
 
-=== 13 ===
+=== 14 ===
 :1. Én kövér vagyok, te csúnya.
 :2. Én le tudok fogyni, te mit csinálsz?
 {|
@@ -235,7 +373,7 @@
 :2. Ich kann abnehmen, was machst du?
 |}
 
-=== 14 ===
+=== 15 ===
 :1. Megkérdeznek egy afrikai asszonyt, aki órákon át cipel nehéz vizeskorsókat, miért nem segít neki a férje, aki az árnyékban beszélget a barátaival.
 :2. A válasza: Azt hiszi, hogy este egy fáradt férfit akarok?
 {|
@@ -253,7 +391,7 @@
 :2. Sie antwortet: Meinen Sie, ich will abends einen müden Mann?
 |}
 
-=== 15 ===
+=== 16 ===
 :1. Hogy hívják a vegán tüntetőket?
 :2. Zöldségfelfújtnak.
 {|
@@ -271,7 +409,7 @@
 :2. Einen Gemüseauflauf.
 |}
 
-=== 16 ===
+=== 17 ===
 :1. Egy férfi bemegy a barkácsáruházba, és azt mondja az eladónak: „Kérnék egy ötös és egy hármas fúrót. Nyolcas lyukat szeretnék fúrni.”
 :2. Mire az eladó: „Vegyen inkább két négyest, akkor nem kell fúrót cserélnie.”
 {|
@@ -289,7 +427,7 @@
 :2. Darauf der Verkäufer: „Nehmen Sie doch lieber zwei 4er Bohrer, dann müssen sie nicht den Bohrer wechseln.“
 |}
 
-=== 17 ===
+=== 18 ===
 :1. A pszichiáternél: „Mikor kezdődött, hogy kutyának képzeli magát?”
 :2. „Már akkor elkezdődött, amikor még kölyök voltam.”
 {|
@@ -307,7 +445,7 @@
 :2. „Das fing schon an, als ich noch ein Welpe war.“
 |}
 
-=== 18 ===
+=== 19 ===
 :1. A telefonom leesett a kilencedik emeletről, de remélem, nem történt baja - repülőgép üzemmódban volt.
 {|
 !'''magyar - német'''
@@ -322,7 +460,7 @@
 :1. Mein Handy ist mir aus dem 9. Stock gefallen, aber ich hoffe ihm ist nichts passiert - es war auf Flugmodus gestellt.
 |}
 
-=== 19 ===
+=== 20 ===
 :1. Az eszkimó iskolában a tanítónő találós kérdést ad fel a diákoknak:
 :2. „Nyáron és télen ugyanolyan színű. Mi az?”
 :3. Egy diák büszkén jelentkezik: „A hó!”
@@ -343,7 +481,7 @@
 :3. Ein Schüler meldet sich stolz: „Schnee!“
 |}
 
-=== 20 ===
+=== 21 ===
 :1. Tegnap este felhívtam a szomszédasszonyomat.
 :2. „Van nyújtófád?”
 :3. „Ma nem tudom odaadni, én is a férjemre várok.”
@@ -364,7 +502,7 @@
 :3. „Kann ich dir heute nicht geben, ich warte selber auf meinen Mann.“
 |}
 
-=== 21 ===
+=== 22 ===
 :1. „Azt mondta, hogy zárva van a szívéhez vezető ajtó.”
 :2. „És? Mit csináltál?”
 :3. „Én? Bementem az ablakon...”
@@ -385,7 +523,7 @@
 :3. „Ich? Ich bin zum Fenster rein...“
 |}
 
-=== 22 ===
+=== 23 ===
 :1. Figyelem!
 :2. A kávé az agresszivitás oka!
 :3. Nekem a kocsmában hét sör volt, a feleségemnek otthon három bögre kávé.
@@ -409,7 +547,7 @@
 :4. Ihr könnt euch nicht vorstellen, wie aggressiv sie war, als ich heim kam!
 |}
 
-=== 23 ===
+=== 24 ===
 :1. Jó: megcsókolsz egy nőt.
 :2. Rossz: merevedésed lesz.
 :3. Még rosszabb: neki is.
@@ -433,7 +571,7 @@
 :4. Totalschaden: Ihrer ist länger als deiner.
 |}
 
-=== 24 ===
+=== 25 ===
 :1. Milyen szép lenne két férfival...
 :2. Az egyik takarít, a másik főz.
 {|
@@ -451,7 +589,7 @@
 :2. Der eine putzt, der andere kocht.
 |}
 
-=== 25 ===
+=== 26 ===
 :1. A minap egy bárban azt mondta nekem egy nő, hogy a zoknija passzol a bugyijához.
 :2. Pedig nem is volt rajta zokni.
 :3. Hát ez tényleg buta volt.
@@ -472,7 +610,7 @@
 :3. Man war die blöd.
 |}
 
-=== 26 ===
+=== 27 ===
 :1. Miért van a zsiráfoknak ilyen hosszú nyakuk?
 :2. Mert a fejük olyan magasan van.
 {|
@@ -490,7 +628,7 @@
 :2. Weil der Kopf so weit oben ist
 |}
 
-=== 27 ===
+=== 28 ===
 :1. Egy férfi megy az utcán, amikor hirtelen egy béka ugrál körülötte, és azt mondja: „Vigyél magaddal, vigyél magaddal, én hercegnő vagyok!”
 :2. A férfi megy tovább, a béka utána ugrál, és könyörög: „Vigyél magaddal, vigyél magaddal, én hercegnő vagyok!”
 :3. Aztán a férfi magával viszi a békát, és a kabátzsebébe teszi, mire onnan hangzik: „Csókolj meg, csókolj meg, én hercegnő vagyok!”
@@ -514,7 +652,7 @@
 :4. - „Nein danke, sagt der Mann, ich habe lieber einen Frosch, der spricht.“
 |}
 
-=== 28 ===
+=== 29 ===
 :1. Van egy kúrabeli udvarlója. Az első napon a kezét érintette meg, a másodikon a könyökét, a harmadikon a vállát. A negyedik napon a nő közölte vele, hogy a kúrája nem fog hat hónapig tartani.
 {|
 !'''magyar - német'''
@@ -529,7 +667,7 @@
 :1. Sie hat einen Kurschatten. Am ersten Tag hat er sie an der Hand berührt, am zweiten Tag am Ellenbogen und am dritten Tag an der Schulter. Am vierten Tag hat sie ihm gesagt, dass ihre Kur nicht 6 Monate dauern wird.
 |}
 
-=== 29 ===
+=== 30 ===
 :1. Nos, mit kívánjak még neked éjszakára?
 :2. Jó étvágyat!
 {|
@@ -545,329 +683,5 @@
 |
 :1. Nun, was soll ich dir noch für die Nacht wünschen?
 :2. Guten Appetit!
-|}
-
-=== 30 ===
-:1. Csak két dologtól félek.
-:2. A fogorvosoktól és a sötétségtől.
-:3. Miért a fogorvosoktól?
-:4. Hát az elég nyilvánvaló.
-:5. És miért a sötétségtől?
-:6. Mert csak az ördög tudja, hány fogorvos rejtőzik a sötétben.
-{|
-!'''magyar - német'''
-|-
-|
-:1. Csak két dologtól félek. - Ich habe nur vor zwei Dingen Angst.
-:2. A fogorvosoktól és a sötétségtől. - Vor Zahnärzten und vor der Dunkelheit.
-:3. Miért a fogorvosoktól? - Warum vor Zahnärzten?
-:4. Hát az elég nyilvánvaló. - Na, das ist ja wohl klar.
-:5. És miért a sötétségtől? - Und warum vor der Dunkelheit?
-:6. Mert csak az ördög tudja, hány fogorvos rejtőzik a sötétben. - Weil nur der Teufel weiß wie viel Zahnärzte in der Dunkelheit verborgen sind.
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Ich habe nur vor zwei Dingen Angst.
-:2. Vor Zahnärzten und vor der Dunkelheit.
-:3. Warum vor Zahnärzten?
-:4. Na, das ist ja wohl klar.
-:5. Und warum vor der Dunkelheit?
-:6. Weil nur der Teufel weiß wie viel Zahnärzte in der Dunkelheit verborgen sind.
-|}
-
-=== 31 ===
-:1. Kis Fricit az anyja megkérdezi, mit szeretne karácsonyra.
-:2. „Tampont.”
-:3. „Ugyan miért? Mire kell az?”
-:4. „Hát mindig azt mondják a reklámban: lehet vele lovagolni, úszni, biciklizni, kickboxolni...”
-{|
-!'''magyar - német'''
-|-
-|
-:1. Kis Fricit az anyja megkérdezi, mit szeretne karácsonyra. - Klein-Fritzchen wird von seiner Mutter nach seinem Weihnachtswunsch gefragt.
-:2. „Tampont.” - „Tampons“
-:3. „Ugyan miért? Mire kell az?” - „Warum denn das? Wofür die denn?“
-:4. „Hát mindig azt mondják a reklámban: lehet vele lovagolni, úszni, biciklizni, kickboxolni...” - „Na, das kommt doch immer in der Werbung: Damit kann man reiten, schwimmen, fahrradfahren, kickboxen, ...“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Klein-Fritzchen wird von seiner Mutter nach seinem Weihnachtswunsch gefragt.
-:2. „Tampons“
-:3. „Warum denn das? Wofür die denn?“
-:4. „Na, das kommt doch immer in der Werbung: Damit kann man reiten, schwimmen, fahrradfahren, kickboxen, ...“
-|}
-
-=== 32 ===
-:1. „Hogyan kényezteted a férjedet?”
-:2. „Néha hallgatok.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Hogyan kényezteted a férjedet?” - „Wie verwöhnst du deinen Mann?“
-:2. „Néha hallgatok.” - „Manchmal schweige ich.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Wie verwöhnst du deinen Mann?“
-:2. „Manchmal schweige ich.“
-|}
-
-=== 33 ===
-:1. „Mi volt a legrosszabb, amit valaha pénzért csináltál?”
-:2. „Tizenkét órát dolgoztam egyhuzamban.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Mi volt a legrosszabb, amit valaha pénzért csináltál?” - „Was war das Schlimmste, was du schon mal für Geld gemacht hast?“
-:2. „Tizenkét órát dolgoztam egyhuzamban.” - „12 Stunden hintereinander gearbeitet.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Was war das Schlimmste, was du schon mal für Geld gemacht hast?“
-:2. „12 Stunden hintereinander gearbeitet.“
-|}
-
-=== 34 ===
-:1. „Diétázom.” - „Régóta?”
-:2. „Igen, három órája.” - „Meg is látszik.”
-:3. „Tényleg?” - „Igen, az éhes szemén.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Diétázom.” - „Régóta?” - „Ich mache eine Diät.“ - „Schon lange?“
-:2. „Igen, három órája.” - „Meg is látszik.” - „Ja, seit drei Stunden.“ - „Das sieht man.“
-:3. „Tényleg?” - „Igen, az éhes szemén.” - „Wirklich?“ - „Ja, an Ihren hungrigen Augen.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Ich mache eine Diät.“ - „Schon lange?“
-:2. „Ja, seit drei Stunden.“ - „Das sieht man.“
-:3. „Wirklich?“ - „Ja, an Ihren hungrigen Augen.“
-|}
-
-=== 35 ===
-:1. „Miért alkalmaz a cégében csak házasokat?”
-:2. „Megszokták, hogy sértegetik őket. Este pedig egyáltalán nem sietnek haza.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Miért alkalmaz a cégében csak házasokat?” - „Warum stellen Sie in Ihrer Firma nur Verheiratete ein?“
-:2. „Megszokták, hogy sértegetik őket. Este pedig egyáltalán nem sietnek haza.” - „Die sind es gewohnt beleidigt zu werden. Und abends haben sie es überhaupt nicht eilig nach Hause zu kommen.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Warum stellen Sie in Ihrer Firma nur Verheiratete ein?“
-:2. „Die sind es gewohnt beleidigt zu werden. Und abends haben sie es überhaupt nicht eilig nach Hause zu kommen.“
-|}
-
-=== 36 ===
-:1. „Milyen magas vagy?”
-:2. „150.”
-:3. „Mint egy hercegnő. És a súlyod?”
-:4. „A súlyom még kevesebb. 120.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Milyen magas vagy?” - „Wie groß bist du?“
-:2. „150.” - „150“
-:3. „Mint egy hercegnő. És a súlyod?” - „Wie eine Prinzessin. Und dein Gewicht?“
-:4. „A súlyom még kevesebb. 120.” - „Mein Gewicht ist noch weniger. 120“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Wie groß bist du?“
-:2. „150“
-:3. „Wie eine Prinzessin. Und dein Gewicht?“
-:4. „Mein Gewicht ist noch weniger. 120“
-|}
-
-=== 37 ===
-:1. „Doktor úr, mi az ideális magasság a súlyomhoz?”
-:2. „Négy méter.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Doktor úr, mi az ideális magasság a súlyomhoz?” - „Herr Doktor, was ist die ideale Größe für mein Gewicht?“
-:2. „Négy méter.” - „Vier Meter.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Herr Doktor, was ist die ideale Größe für mein Gewicht?“
-:2. „Vier Meter.“
-|}
-
-=== 38 ===
-:1. Lecserélte a férjét.
-:2. És most megint szép és okos, és remekül főz.
-{|
-!'''magyar - német'''
-|-
-|
-:1. Lecserélte a férjét. - Sie hat ihren Mann gewechselt.
-:2. És most megint szép és okos, és remekül főz. - Und jetzt ist sie wieder schön und klug und kocht prima.
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Sie hat ihren Mann gewechselt.
-:2. Und jetzt ist sie wieder schön und klug und kocht prima.
-|}
-
-=== 39 ===
-:1. Orvos: „Mi kényszeríti arra, hogy minden nap leigya magát?”
-:2. Beteg: „Semmi! Önként csinálom.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. Orvos: „Mi kényszeríti arra, hogy minden nap leigya magát?” - Arzt: „Was zwingt sie dazu sich jeden Tag zu betrinken?“
-:2. Beteg: „Semmi! Önként csinálom.” - Patient: „Nichts! Ich mache das freiwillig.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Arzt: „Was zwingt sie dazu sich jeden Tag zu betrinken?“
-:2. Patient: „Nichts! Ich mache das freiwillig.“
-|}
-
-=== 40 ===
-:1. Lassan öregszünk. A minap a feleségemmel megnéztünk egy pornófilmet: nagyon tetszett a hálószoba berendezése, a fürdőszoba csempéje és a konyhaasztal.
-{|
-!'''magyar - német'''
-|-
-|
-:1. Lassan öregszünk. A minap a feleségemmel megnéztünk egy pornófilmet: nagyon tetszett a hálószoba berendezése, a fürdőszoba csempéje és a konyhaasztal. - Wir werden langsam älter. Neulich habe ich mit meiner Frau einen Porno geschaut: Die Schlafzimmereinrichtung hat uns sehr gefallen, die Fliesen im Bad und der Küchentisch.
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Wir werden langsam älter. Neulich habe ich mit meiner Frau einen Porno geschaut: Die Schlafzimmereinrichtung hat uns sehr gefallen, die Fliesen im Bad und der Küchentisch.
-|}
-
-=== 41 ===
-:1. „Nekem egy dupla whiskyt kérek!”
-:2. - „Kislány, ez itt egy iskolai büfé.”
-:3. „Jaj, bocsánat! Éppen álmodoztam. Akkor egy kompótot kérek!”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Nekem egy dupla whiskyt kérek!” - „Für mich bitte einen doppelten Whisky!“
-:2. - „Kislány, ez itt egy iskolai büfé.” - - „Mädchen, das hier ist eine Schulkantine.“
-:3. „Jaj, bocsánat! Éppen álmodoztam. Akkor egy kompótot kérek!” - „Oh, Verzeihung! Ich war gerade ins Träumen geraten. Ein Kompott bitte!“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Für mich bitte einen doppelten Whisky!“
-:2. - „Mädchen, das hier ist eine Schulkantine.“
-:3. „Oh, Verzeihung! Ich war gerade ins Träumen geraten. Ein Kompott bitte!“
-|}
-
-=== 42 ===
-:1. „Hallottam, hogy a férjeddel elváltatok. Miért?”
-:2. - „Te együtt tudnál élni valakivel, aki dohányzik, iszik, káromkodik, és ráadásul még verekszik is?”
-:3. „Nem, természetesen nem.”
-:4. - „Látod, ő sem.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Hallottam, hogy a férjeddel elváltatok. Miért?” - „Ich habe gehört, dass du und dein Mann sich getrennt habt. Warum denn?“
-:2. - „Te együtt tudnál élni valakivel, aki dohányzik, iszik, káromkodik, és ráadásul még verekszik is?” - - „Könntest du denn mit jemandem zusammenleben, der raucht, säuft, flucht und sich obendrein auch noch schlägt.“
-:3. „Nem, természetesen nem.” - „Nein, natürlich nicht.“
-:4. - „Látod, ő sem.” - - „Siehst du, er auch nicht.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Ich habe gehört, dass du und dein Mann sich getrennt habt. Warum denn?“
-:2. - „Könntest du denn mit jemandem zusammenleben, der raucht, säuft, flucht und sich obendrein auch noch schlägt.“
-:3. „Nein, natürlich nicht.“
-:4. - „Siehst du, er auch nicht.“
-|}
-
-=== 43 ===
-:1. A közlekedési ellenőrzésnél minden rendőr azt kérdezi tőlem, ittam-e.
-:2. Bárcsak egyszer megkérdezné valamelyik, hogy ettem-e is valamit.
-{|
-!'''magyar - német'''
-|-
-|
-:1. A közlekedési ellenőrzésnél minden rendőr azt kérdezi tőlem, ittam-e. - Alle Polizisten fragen mich bei einer Verkehrskontrolle immer, ob ich getrunken habe.
-:2. Bárcsak egyszer megkérdezné valamelyik, hogy ettem-e is valamit. - Wenn mich doch wenigstens mal einer fragen würde, ob ich auch was gegessen haben.
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Alle Polizisten fragen mich bei einer Verkehrskontrolle immer, ob ich getrunken habe.
-:2. Wenn mich doch wenigstens mal einer fragen würde, ob ich auch was gegessen haben.
-|}
-
-=== 44 ===
-:1. „Tudod, hogyan lehet valakit kíváncsivá tenni?”
-:2. - „Hogyan?”
-:3. „Azt holnap mondom meg.”
-{|
-!'''magyar - német'''
-|-
-|
-:1. „Tudod, hogyan lehet valakit kíváncsivá tenni?” - „Weiß Du wie man jemanden neugierig machen kann?“
-:2. - „Hogyan?” - - „Wie?“
-:3. „Azt holnap mondom meg.” - „Das sag ich Dir morgen.“
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. „Weiß Du wie man jemanden neugierig machen kann?“
-:2. - „Wie?“
-:3. „Das sag ich Dir morgen.“
-|}
-
-=== 45 ===
-:1. A feleségemmel elhatároztuk, hogy a kapcsolatunkat egészen elölről kezdjük.
-:2. Az első randevúra el sem jött.
-{|
-!'''magyar - német'''
-|-
-|
-:1. A feleségemmel elhatároztuk, hogy a kapcsolatunkat egészen elölről kezdjük. - Wir haben mit meiner Frau beschlossen mit unserer Beziehung noch mal ganz von vorne durchzustarten.
-:2. Az első randevúra el sem jött. - Sie ist nicht mal zum ersten Rendezvous gekommen.
-|}
-{|
-!'''deutsch'''
-|-
-|
-:1. Wir haben mit meiner Frau beschlossen mit unserer Beziehung noch mal ganz von vorne durchzustarten.
-:2. Sie ist nicht mal zum ersten Rendezvous gekommen.
 |}
 
