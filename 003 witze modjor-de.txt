@@ -13,6 +13,7 @@
 .pc-collapsible-body p:last-child{margin-bottom:0}
 .pc-note{margin-left:1.5em;font-size:0.95em}
 .pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+.pc-banner{width:100%;height:auto;max-height:260px;object-fit:cover;display:block;border-bottom:4px solid #34495e;border-radius:4px;margin-top:3px;margin-bottom:25px}
 </style>
 <!-- /wp:html -->
 
@@ -24,6 +25,10 @@
 <div class="pc-chapter-nav">
   <a href="/2-witze/">« Zurück zu Witze 2</a> &nbsp;|&nbsp; <span>Witze 3</span> &nbsp;|&nbsp; <a href="/4-witze/">Weiter zu Witze 4 »</a>
 </div>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<img src="https://modjor.de/wp-content/uploads/2026/09/Bartwickelmaschiene3-gemini-vd.jpg" class="pc-banner">
 <!-- /wp:html -->
 
 <!-- wp:separator -->
