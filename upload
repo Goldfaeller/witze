@@ -1,0 +1,316 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Erzeugt aus dem Inhaltsverzeichnis (inhalt-literatur-kurz.html) die einzelnen
+Kapitelseiten auf modjor.de ueber die WordPress-REST-API.
+
+VOR DEM START das Anwendungspasswort als Umgebungsvariable setzen
+(es steht bewusst NICHT im Code):
+
+    Windows (Eingabeaufforderung):   set WP_APP_PASS=xxxx xxxx xxxx xxxx
+    Windows (PowerShell):            $env:WP_APP_PASS = "xxxx xxxx xxxx xxxx"
+
+Dann im selben Fenster:              python upload.py
+"""
+
+import os
+import re
+import sys
+
+import requests
+
+# ----------------------------------------------------------------------------
+# EINSTELLUNGEN
+# ----------------------------------------------------------------------------
+
+# Wie viele Seiten sollen angelegt werden? 0 = alle 342.
+TESTLAUF = 7
+
+# Status der neuen Seiten: "draft" = nur fuer dich sichtbar, "publish" = oeffentlich.
+STATUS = "publish"
+
+# Quelle des Inhaltsverzeichnisses (liegt neben diesem Skript).
+TOC_FILE = "inhalt-literatur-kurz.html"
+
+# Ordner mit den Kapiteltexten. Dateinamen beginnen mit 01-01-01 usw.
+# Fehlt eine Datei, kommt der AAAA-Platzhalter in die Seite.
+SOURCE_FOLDER = r"D:\Literatur kurz für Internet"
+
+# WordPress
+WP_URL = "https://modjor.de/wp-json/wp/v2/pages"
+WP_USER = "Stefan"
+WP_APP_PASS = os.environ.get("WP_APP_PASS")
+
+# Adressen fuer die Navigation
+SLUG_SUFFIX = "-literatur-kurz"          # ergibt 1-1-literatur-kurz
+INDEX_URL = "/startseite/lesebuecher/inhalt-literatur-kurz/"
+
+# Uebergeordnete Seite in der Seitenhierarchie. Das Skript sucht sie
+# anhand dieser Titelform (Slug) selbst heraus.
+PARENT_SLUG = "inhalt-literatur-kurz"
+
+# Reiterbeschriftung: ergibt "1.1 – Literatur kurz", WordPress haengt
+# " – modjor.de" von allein an.
+TITEL_ZUSATZ = "Literatur kurz"
+HOME_URL = "/"
+LESEBUECHER_URL = "/lesebuecher/"
+
+# Platzhalter, solange noch kein Kapiteltext vorliegt.
+PLATZHALTER = "A" * 98
+
+
+# ----------------------------------------------------------------------------
+# 1. INHALTSVERZEICHNIS EINLESEN
+# ----------------------------------------------------------------------------
+
+def lies_inhaltsverzeichnis(pfad):
+    """Liest Nummer und Titel aller Kapitel aus dem Inhaltsverzeichnis."""
+    with open(pfad, encoding="utf-8") as f:
+        html = f.read()
+
+    kapitel = []
+    for zeile in re.findall(r'<p><a href="[^"]*">([^<]*)</a></p>', html):
+        teile = zeile.split(" – ")
+        if len(teile) < 2:
+            continue
+        nummer = teile[0].strip()
+        # Manche Titel enthalten selbst einen Gedankenstrich, darum alles
+        # ab dem zweiten Teil wieder zusammensetzen.
+        titel = " – ".join(teile[1:]).strip()
+
+        kapitel.append({
+            "num": nummer,
+            "titel": titel,
+            "slug": nummer.replace(".", "-") + SLUG_SUFFIX,
+            # 1.1.1 -> 01-01-01, so heissen die Textdateien
+            "prefix": "-".join(t.zfill(2) for t in nummer.split(".")),
+            "ebene": len(nummer.split(".")),
+        })
+    return kapitel
+
+
+# ----------------------------------------------------------------------------
+# 2. KAPITELTEXT AUFBEREITEN
+# ----------------------------------------------------------------------------
+
+def lies_kapiteltext(kapitel):
+    """Sucht die Textdatei zum Kapitel. Nicht gefunden -> None."""
+    if not os.path.isdir(SOURCE_FOLDER):
+        return None
+    for name in os.listdir(SOURCE_FOLDER):
+        if name.startswith(kapitel["prefix"]):
+            pfad = os.path.join(SOURCE_FOLDER, name)
+            with open(pfad, encoding="utf-8-sig") as f:
+                return f.read()
+    return None
+
+
+def baue_saetze(rohtext, ebene):
+    """Macht aus den Zeilen ':1. Satz' einzelne Absaetze."""
+    zeilen = rohtext.splitlines()
+
+    # Bei Hauptkapiteln stehen oben zwei Kopfzeilen, die nicht mit auf die Seite sollen.
+    if ebene == 1 and len(zeilen) > 2:
+        zeilen = zeilen[2:]
+
+    absaetze = []
+    for zeile in zeilen:
+        zeile = zeile.strip()
+        if not zeile:
+            continue
+        treffer = re.match(r"^:(\d+)\.\s*(.*)", zeile)
+        if treffer:
+            nummer, inhalt = treffer.groups()
+            absaetze.append("<p>{}. {}</p>".format(nummer, inhalt))
+        else:
+            absaetze.append("<p>{}</p>".format(zeile))
+
+    return "\n".join(absaetze)
+
+
+# ----------------------------------------------------------------------------
+# 3. SEITE ZUSAMMENBAUEN
+# ----------------------------------------------------------------------------
+
+def baue_navigation(vorheriges, aktuelles, naechstes):
+    if vorheriges:
+        links = '<a href="/{}/">« Zurück zu Kapitel {}</a>'.format(
+            vorheriges["slug"], vorheriges["num"])
+    else:
+        links = '<a href="{}">« Zurück zum Inhaltsverzeichnis</a>'.format(INDEX_URL)
+
+    if naechstes:
+        rechts = '<a href="/{}/">Weiter zu Kapitel {} »</a>'.format(
+            naechstes["slug"], naechstes["num"])
+    else:
+        rechts = '<a href="{}">Inhaltsverzeichnis »</a>'.format(INDEX_URL)
+
+    return (
+        '<div class="pc-chapter-nav">\n'
+        '  {} &nbsp;|&nbsp; <span>Kapitel {}</span> &nbsp;|&nbsp; {}\n'
+        '</div>'
+    ).format(links, aktuelles["num"], rechts)
+
+
+def baue_seite(vorheriges, aktuelles, naechstes, inhalt_html):
+    heimzeile = (
+        '<div class="pc-home-link">\n'
+        '  <a href="{home}">« Home</a> &nbsp;|&nbsp; '
+        '<a href="{lese}">« zurück zu Lesebücher</a> &nbsp;|&nbsp; '
+        '<a href="{index}">« zurück zu Inhaltsverzeichnis</a>\n'
+        '</div>'
+    ).format(home=HOME_URL, lese=LESEBUECHER_URL, index=INDEX_URL)
+
+    navigation = baue_navigation(vorheriges, aktuelles, naechstes)
+
+    return '''<!-- wp:group {{"className":"pc-container","anchor":"top"}} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+{heim}
+{nav}
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>{num} - {titel}</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+{inhalt}
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  {nav}
+  {heim}
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
+'''.format(heim=heimzeile, nav=navigation, num=aktuelles["num"],
+           titel=aktuelles["titel"], inhalt=inhalt_html)
+
+
+# ----------------------------------------------------------------------------
+# 4. HOCHLADEN
+# ----------------------------------------------------------------------------
+
+def finde_seite(sitzung, slug):
+    """Gibt die ID einer schon vorhandenen Seite zurueck, sonst None."""
+    antwort = sitzung.get(WP_URL, params={"slug": slug, "status": "any"})
+    antwort.raise_for_status()
+    treffer = antwort.json()
+    return treffer[0]["id"] if treffer else None
+
+
+def lade_hoch(sitzung, kapitel, inhalt, parent_id):
+    daten = {
+        # Ergibt im Browserreiter "1.1 – Literatur kurz – modjor.de"
+        "title": "{} – {}".format(kapitel["num"], TITEL_ZUSATZ),
+        "slug": kapitel["slug"],
+        "content": inhalt,
+        "status": STATUS,
+        "parent": parent_id,
+    }
+
+    # Schon vorhanden? Dann aktualisieren statt ein zweites Mal anlegen.
+    vorhanden = finde_seite(sitzung, kapitel["slug"])
+    if vorhanden:
+        antwort = sitzung.post("{}/{}".format(WP_URL, vorhanden), json=daten)
+        aktion = "aktualisiert"
+    else:
+        antwort = sitzung.post(WP_URL, json=daten)
+        aktion = "angelegt"
+
+    if antwort.status_code in (200, 201):
+        return True, aktion, antwort.json().get("link", "")
+    return False, "{} {}".format(antwort.status_code, antwort.text[:200]), ""
+
+
+# ----------------------------------------------------------------------------
+# HAUPTPROGRAMM
+# ----------------------------------------------------------------------------
+
+def main():
+    if not WP_APP_PASS:
+        print("Abbruch: die Umgebungsvariable WP_APP_PASS ist nicht gesetzt.")
+        print("Siehe Anleitung oben in dieser Datei.")
+        return 1
+
+    if not os.path.isfile(TOC_FILE):
+        print("Abbruch: {} nicht gefunden.".format(TOC_FILE))
+        return 1
+
+    kapitel = lies_inhaltsverzeichnis(TOC_FILE)
+    print("Inhaltsverzeichnis gelesen: {} Kapitel.".format(len(kapitel)))
+
+    if TESTLAUF:
+        auswahl = range(min(TESTLAUF, len(kapitel)))
+        print("TESTLAUF: es werden nur die ersten {} Seiten angelegt.".format(len(auswahl)))
+    else:
+        auswahl = range(len(kapitel))
+
+    print("Status der neuen Seiten: {}\n".format(STATUS))
+
+    sitzung = requests.Session()
+    sitzung.auth = (WP_USER, WP_APP_PASS)
+
+    # Uebergeordnete Seite heraussuchen
+    parent_id = finde_seite(sitzung, PARENT_SLUG)
+    if not parent_id:
+        print("Abbruch: die uebergeordnete Seite '{}' wurde nicht gefunden.".format(
+            PARENT_SLUG))
+        return 1
+    print("Uebergeordnete Seite gefunden (ID {}).\n".format(parent_id))
+
+    ohne_text = []
+    fehler = 0
+
+    for i in auswahl:
+        aktuelles = kapitel[i]
+        vorheriges = kapitel[i - 1] if i > 0 else None
+        naechstes = kapitel[i + 1] if i < len(kapitel) - 1 else None
+
+        rohtext = lies_kapiteltext(aktuelles)
+        if rohtext is None:
+            inhalt_html = "<p>{}</p>".format(PLATZHALTER)
+            ohne_text.append(aktuelles["num"])
+            quelle = "Platzhalter"
+        else:
+            inhalt_html = baue_saetze(rohtext, aktuelles["ebene"])
+            quelle = "Textdatei"
+
+        seite = baue_seite(vorheriges, aktuelles, naechstes, inhalt_html)
+        erfolg, meldung, adresse = lade_hoch(sitzung, aktuelles, seite, parent_id)
+
+        if erfolg:
+            print("OK   {:<8} {}  ({})  {}".format(
+                aktuelles["num"], meldung, quelle, adresse))
+        else:
+            fehler += 1
+            print("FEHL {:<8} {}".format(aktuelles["num"], meldung))
+
+    # ----- Abschlussprotokoll -----
+    print("\n" + "-" * 60)
+    print("FERTIG. Fehler: {}.".format(fehler))
+
+    if ohne_text:
+        print("\nOHNE KAPITELTEXT - diese {} Seiten enthalten nur den "
+              "AAAA-Platzhalter:".format(len(ohne_text)))
+        for nummer in ohne_text:
+            print("   Kapitel {}".format(nummer))
+        print("\nZu diesen Kapiteln wurde im Ordner keine Textdatei gefunden.")
+    else:
+        print("Alle Seiten haben ihren Kapiteltext bekommen.")
+
+    return 1 if fehler else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
