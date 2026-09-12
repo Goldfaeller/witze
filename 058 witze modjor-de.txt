@@ -48,17 +48,17 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Megpucoltam az ablakokat. - Ich habe die Fenster geputzt.</p>
-<p>2. Most HD-minőségben van udvarom. - Jetzt habe ich einen Hof in HD-Qualität.</p>
+<p>1. Megpucoltam az ablakokat.</p>
+<p>2. Most HD-minőségben van udvarom.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ablakot mostam, és most az udvar HD-ben látszik. - Ich habe die Fenster geputzt, und jetzt sieht der Hof in HD aus.</p>
+<p>1. Ablakot mostam, és most az udvar HD-ben látszik.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Kitisztítottam az ablakokat, úgyhogy az udvar most HD-minőségű. - Ich habe die Fenster geputzt, sodass der Hof jetzt in HD-Qualität ist.</p>
+<p>1. Kitisztítottam az ablakokat, úgyhogy az udvar most HD-minőségű.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -67,11 +67,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Megpucoltam az ablakokat.</p>
+<p>1. Megpucoltam az ablakokat. - Ich habe die Fenster geputzt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Most HD-minőségben van udvarom.</p>
+<p>2. Most HD-minőségben van udvarom. - Jetzt habe ich einen Hof in HD-Qualität.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -79,7 +79,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ablakot mostam, és most az udvar HD-ben látszik.</p>
+<p>1. Ablakot mostam, és most az udvar HD-ben látszik. - Ich habe die Fenster geputzt, und jetzt sieht der Hof in HD aus.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -87,7 +87,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Kitisztítottam az ablakokat, úgyhogy az udvar most HD-minőségű.</p>
+<p>1. Kitisztítottam az ablakokat, úgyhogy az udvar most HD-minőségű. - Ich habe die Fenster geputzt, sodass der Hof jetzt in HD-Qualität ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -146,16 +146,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Kedves férfiak, jegyezzétek meg: egy nő mosolya nem mindig meghívás a flörtre. Néha csak vigaszdíj. - Ihr lieben Männer, lasst euch gesagt sein: Das Lächeln einer Frau ist nicht immer eine Einladung zum Flirt. Manchmal ist es nur ein Trostpreis.</p>
+<p>1. Kedves férfiak, jegyezzétek meg: egy nő mosolya nem mindig meghívás a flörtre. Néha csak vigaszdíj.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Kedves férfiak, jó ha tudjátok: a női mosoly nem feltétlenül flörtjelzés. Előfordul, hogy csupán egy vigaszdíj. - Ihr lieben Männer, es ist gut wenn ihr wisst: Das weibliche Lächeln ist nicht unbedingt ein Flirtsignal. Es kommt vor, dass es nur ein Trostpreis ist.</p>
+<p>1. Kedves férfiak, jó ha tudjátok: a női mosoly nem feltétlenül flörtjelzés. Előfordul, hogy csupán egy vigaszdíj.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Férfiak, hallgassatok ide: egy nő mosolya nem mindig jelent flörtöt. Néha csak egyfajta kárpótlás. - Männer, hört zu: Das Lächeln einer Frau bedeutet nicht immer einen Flirt. Manchmal ist es nur eine Art Entschädigung.</p>
+<p>1. Férfiak, hallgassatok ide: egy nő mosolya nem mindig jelent flörtöt. Néha csak egyfajta kárpótlás.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -164,7 +164,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Kedves férfiak, jegyezzétek meg: egy nő mosolya nem mindig meghívás a flörtre. Néha csak vigaszdíj.</p>
+<p>1. Kedves férfiak, jegyezzétek meg: egy nő mosolya nem mindig meghívás a flörtre. Néha csak vigaszdíj. - Ihr lieben Männer, lasst euch gesagt sein: Das Lächeln einer Frau ist nicht immer eine Einladung zum Flirt. Manchmal ist es nur ein Trostpreis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -172,7 +172,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Kedves férfiak, jó ha tudjátok: a női mosoly nem feltétlenül flörtjelzés. Előfordul, hogy csupán egy vigaszdíj.</p>
+<p>1. Kedves férfiak, jó ha tudjátok: a női mosoly nem feltétlenül flörtjelzés. Előfordul, hogy csupán egy vigaszdíj. - Ihr lieben Männer, es ist gut wenn ihr wisst: Das weibliche Lächeln ist nicht unbedingt ein Flirtsignal. Es kommt vor, dass es nur ein Trostpreis ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -180,7 +180,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Férfiak, hallgassatok ide: egy nő mosolya nem mindig jelent flörtöt. Néha csak egyfajta kárpótlás.</p>
+<p>1. Férfiak, hallgassatok ide: egy nő mosolya nem mindig jelent flörtöt. Néha csak egyfajta kárpótlás. - Männer, hört zu: Das Lächeln einer Frau bedeutet nicht immer einen Flirt. Manchmal ist es nur eine Art Entschädigung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -233,16 +233,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Régen a nagymamák azt kérték az unokáktól, hogy fűzzék be a cérnát, ma pedig azt kérik, hogy regisztrálják őket a Facebookra. - Früher haben die Omas ihre Enkel gebeten, ihnen den Faden einzufädeln, und heute bitten sie sie, sie bei Facebook anzumelden.</p>
+<p>1. Régen a nagymamák azt kérték az unokáktól, hogy fűzzék be a cérnát, ma pedig azt kérik, hogy regisztrálják őket a Facebookra.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Régebben a nagymamák az unokáikat kérték meg, hogy segítsenek [segíccsenek] befűzni a tűt, manapság meg arra kérik őket, hogy hozzanak létre nekik egy Facebook-fiókot. - Früher baten die Großmütter ihre Enkel, ihnen beim Einfädeln der Nadel zu helfen, heutzutage bitten sie sie darum, für sie ein Facebook-Konto zu erstellen.</p>
+<p>1. Régebben a nagymamák az unokáikat kérték meg, hogy segítsenek [segíccsenek] befűzni a tűt, manapság meg arra kérik őket, hogy hozzanak létre nekik egy Facebook-fiókot.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Volt idő, amikor a nagymamák cérnát fűzettek be az unokáikkal. Ma már inkább Facebookra regisztráltatják magukat velük. - Es gab eine Zeit, als die Großmütter den Faden mit ihren Engeln einfädelten. Heute jedoch lassen sie sich von ihnen (mit ihnen) bei Facebook registrieren.</p>
+<p>1. Volt idő, amikor a nagymamák cérnát fűzettek be az unokáikkal. Ma már inkább Facebookra regisztráltatják magukat velük.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -251,7 +251,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Régen a nagymamák azt kérték az unokáktól, hogy fűzzék be a cérnát, ma pedig azt kérik, hogy regisztrálják őket a Facebookra.</p>
+<p>1. Régen a nagymamák azt kérték az unokáktól, hogy fűzzék be a cérnát, ma pedig azt kérik, hogy regisztrálják őket a Facebookra. - Früher haben die Omas ihre Enkel gebeten, ihnen den Faden einzufädeln, und heute bitten sie sie, sie bei Facebook anzumelden.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -259,7 +259,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Régebben a nagymamák az unokáikat kérték meg, hogy segítsenek [segíccsenek] befűzni a tűt, manapság meg arra kérik őket, hogy hozzanak létre nekik egy Facebook-fiókot.</p>
+<p>1. Régebben a nagymamák az unokáikat kérték meg, hogy segítsenek [segíccsenek] befűzni a tűt, manapság meg arra kérik őket, hogy hozzanak létre nekik egy Facebook-fiókot. - Früher baten die Großmütter ihre Enkel, ihnen beim Einfädeln der Nadel zu helfen, heutzutage bitten sie sie darum, für sie ein Facebook-Konto zu erstellen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -267,7 +267,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Volt idő, amikor a nagymamák cérnát fűzettek be az unokáikkal. Ma már inkább Facebookra regisztráltatják magukat velük.</p>
+<p>1. Volt idő, amikor a nagymamák cérnát fűzettek be az unokáikkal. Ma már inkább Facebookra regisztráltatják magukat velük. - Es gab eine Zeit, als die Großmütter den Faden mit ihren Engeln einfädelten. Heute jedoch lassen sie sich von ihnen (mit ihnen) bei Facebook registrieren.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -319,17 +319,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A következo életemben valami olyasmit csinálok, amihez nem kellenek idiótak. - In meinem nächsten Leben mache ich was, wobei ich nicht von Idioten umgeben bin. (wozu keine Idioten notwendig sind)</p>
+<p>1. A következo életemben valami olyasmit csinálok, amihez nem kellenek idiótak.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A következo életemben valami olyasmit csinálok, amihez nem kellenek idiótak.</p>
+<p>1. A következo életemben valami olyasmit csinálok, amihez nem kellenek idiótak. - In meinem nächsten Leben mache ich was, wobei ich nicht von Idioten umgeben bin. (wozu keine Idioten notwendig sind)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -362,16 +362,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A nő: Teljesen értelmetlen a férfiakkal vitatkozni. Úgy sincs igazuk. - Sie: Es ist sinnlos, mit Männern zu streiten. Sie haben sowieso nicht Recht.</p>
+<p>1. A nő: Teljesen értelmetlen a férfiakkal vitatkozni. Úgy sincs igazuk.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A nő: Felesleges a férfiakkal vitába szállni. Nekik úgysem lehet igazuk. - Sie: Es ist überflüssig sich mit Männern in einen Streit einzulassen. Sie können auf keinen Fall Recht haben.</p>
+<p>1. A nő: Felesleges a férfiakkal vitába szállni. Nekik úgysem lehet igazuk.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A nő azt mondja: Nincs értelme férfiakkal vitatkozni, mert eleve nincs igazuk.” - Sie: Es hat keinen Sinn mit Männern zu streiten, sie haben grundsätzlich nicht Recht.</p>
+<p>1. A nő azt mondja: Nincs értelme férfiakkal vitatkozni, mert eleve nincs igazuk.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -380,7 +380,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nő: Teljesen értelmetlen a férfiakkal vitatkozni. Úgy sincs igazuk.</p>
+<p>1. A nő: Teljesen értelmetlen a férfiakkal vitatkozni. Úgy sincs igazuk. - Sie: Es ist sinnlos, mit Männern zu streiten. Sie haben sowieso nicht Recht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -388,7 +388,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nő: Felesleges a férfiakkal vitába szállni. Nekik úgysem lehet igazuk.</p>
+<p>1. A nő: Felesleges a férfiakkal vitába szállni. Nekik úgysem lehet igazuk. - Sie: Es ist überflüssig sich mit Männern in einen Streit einzulassen. Sie können auf keinen Fall Recht haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -396,7 +396,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nő azt mondja: Nincs értelme férfiakkal vitatkozni, mert eleve nincs igazuk.”</p>
+<p>1. A nő azt mondja: Nincs értelme férfiakkal vitatkozni, mert eleve nincs igazuk.” - Sie: Es hat keinen Sinn mit Männern zu streiten, sie haben grundsätzlich nicht Recht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -449,19 +449,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A mi lakónegyedünkben csend van. Itt mindenki hangtompítót használ. - In unserem Wohnviertel ist es ruhig. Hier benutzen alle einen Schalldämpfer.</p>
-<p>2. (negyed) - (dasViertel)</p>
-<p>3. (tompa) - (stumpf)</p>
-<p>4. (tompít) - (dämpfen, abschwächen)</p>
+<p>1. A mi lakónegyedünkben csend van. Itt mindenki hangtompítót használ.</p>
+<p>2. (negyed)</p>
+<p>3. (tompa)</p>
+<p>4. (tompít)</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nálunk a környéken nagy a nyugalom. Mindenki hangtompítóval él. - In unserem Viertel ist es ruhig. Alle benutzen einen Schalldämpfer (lebt mit einem Schalldämpfer).</p>
+<p>1. Nálunk a környéken nagy a nyugalom. Mindenki hangtompítóval él.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A lakónegyedünk kifejezetten csendes, mert mindenki hangtompítót alkalmaz. - Unser Wohnviertel ist ausgesprochen ruhig, denn hier verwenden alle einen Schalldämpfer.</p>
+<p>1. A lakónegyedünk kifejezetten csendes, mert mindenki hangtompítót alkalmaz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -470,19 +470,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A mi lakónegyedünkben csend van. Itt mindenki hangtompítót használ.</p>
+<p>1. A mi lakónegyedünkben csend van. Itt mindenki hangtompítót használ. - In unserem Wohnviertel ist es ruhig. Hier benutzen alle einen Schalldämpfer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. (negyed)</p>
+<p>2. (negyed) - (dasViertel)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. (tompa)</p>
+<p>3. (tompa) - (stumpf)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. (tompít)</p>
+<p>4. (tompít) - (dämpfen, abschwächen)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -490,7 +490,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nálunk a környéken nagy a nyugalom. Mindenki hangtompítóval él.</p>
+<p>1. Nálunk a környéken nagy a nyugalom. Mindenki hangtompítóval él. - In unserem Viertel ist es ruhig. Alle benutzen einen Schalldämpfer (lebt mit einem Schalldämpfer).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -498,7 +498,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A lakónegyedünk kifejezetten csendes, mert mindenki hangtompítót alkalmaz.</p>
+<p>1. A lakónegyedünk kifejezetten csendes, mert mindenki hangtompítót alkalmaz. - Unser Wohnviertel ist ausgesprochen ruhig, denn hier verwenden alle einen Schalldämpfer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -563,17 +563,17 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. „Ha megüt, akkor szeret.” – gondolta a férfi, letörölte a könnyeit, és a tükörben nézte a monokliját. - „Wenn sie dich schlägt, dann liebt sie dich.“ – dachte sich der Mann, wischte sich seine Tränen ab und betrachtete sein blaues Auge im Spiegel.</p>
+<p>1. „Ha megüt, akkor szeret.” – gondolta a férfi, letörölte a könnyeit, és a tükörben nézte a monokliját.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. „Ha üt, az a szeretet jele.” – mondta magának a férfi, megtörölte a szemét, és a tükörben megvizsgálta a kék szemét. - „Wenn sie dich schlägt, dann liebt sie dich.“ – dachte der Mann, wischte sich die Tränen weg und betrachtete sein blaues Auge im Spiegel.</p>
+<p>1. „Ha üt, az a szeretet jele.” – mondta magának a férfi, megtörölte a szemét, és a tükörben megvizsgálta a kék szemét.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. „Ha bánt, akkor szeret.” – nyugtatta magát a férfi, letörölte a könnyeit, és a tükörben szemügyre vette a monokliját. - „Wenn sie dich verletzt, dann liebt sie dich.“ – beruhigte sich der Mann, wischte sich die Tränen ab und betrachtete sein blaues Auge im Spiegel.</p>
-<p>2. (szemügyre vesz) - (sich anschauen; berücksichtigen; in die AugenAngelegenheit nehmen; im blick haben)</p>
+<p>1. „Ha bánt, akkor szeret.” – nyugtatta magát a férfi, letörölte a könnyeit, és a tükörben szemügyre vette a monokliját.</p>
+<p>2. (szemügyre vesz)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -582,7 +582,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Ha megüt, akkor szeret.” – gondolta a férfi, letörölte a könnyeit, és a tükörben nézte a monokliját.</p>
+<p>1. „Ha megüt, akkor szeret.” – gondolta a férfi, letörölte a könnyeit, és a tükörben nézte a monokliját. - „Wenn sie dich schlägt, dann liebt sie dich.“ – dachte sich der Mann, wischte sich seine Tränen ab und betrachtete sein blaues Auge im Spiegel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -590,7 +590,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Ha üt, az a szeretet jele.” – mondta magának a férfi, megtörölte a szemét, és a tükörben megvizsgálta a kék szemét.</p>
+<p>1. „Ha üt, az a szeretet jele.” – mondta magának a férfi, megtörölte a szemét, és a tükörben megvizsgálta a kék szemét. - „Wenn sie dich schlägt, dann liebt sie dich.“ – dachte der Mann, wischte sich die Tränen weg und betrachtete sein blaues Auge im Spiegel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -598,11 +598,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Ha bánt, akkor szeret.” – nyugtatta magát a férfi, letörölte a könnyeit, és a tükörben szemügyre vette a monokliját.</p>
+<p>1. „Ha bánt, akkor szeret.” – nyugtatta magát a férfi, letörölte a könnyeit, és a tükörben szemügyre vette a monokliját. - „Wenn sie dich verletzt, dann liebt sie dich.“ – beruhigte sich der Mann, wischte sich die Tränen ab und betrachtete sein blaues Auge im Spiegel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. (szemügyre vesz)</p>
+<p>2. (szemügyre vesz) - (sich anschauen; berücksichtigen; in die AugenAngelegenheit nehmen; im blick haben)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -659,16 +659,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Kedves szülők! Tanítsátok [taníccsátok] meg a gyerekeiteket bal kézzel enni! Ha később a számítógéphez ülnek, hálásak lesznek érte. - Liebe Eltern! Bringt euren Kindern bei, mit der linken Hand zu essen! Wenn sie sich später an den Computer setzen, sie werden dankbar dafür sein.</p>
+<p>1. Kedves szülők! Tanítsátok [taníccsátok] meg a gyerekeiteket bal kézzel enni! Ha később a számítógéphez ülnek, hálásak lesznek érte.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Kedves szülők, tanítsátok [taníccsátok] meg a gyerekeket bal kézzel enni!  Később, amikor számítógépeznek, meg fogják köszönni. - Liebe Eltern! Lehrt eure Kinder, mit der linken Hand zu essen! Später wenn sie am  Computer sind (“computern”) werden sie es danken.</p>
+<p>1. Kedves szülők, tanítsátok [taníccsátok] meg a gyerekeket bal kézzel enni!  Később, amikor számítógépeznek, meg fogják köszönni.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Szülők, jó tanács: a gyerekek bal kézzel tanuljanak [tanujjanak] meg enni! A számítógépnél majd értékelni fogják. - Liebe Eltern! Bringt den Kindern bei, mit der linken Hand zu essen! Am Computer werden sie es dann schätzen.</p>
+<p>1. Szülők, jó tanács: a gyerekek bal kézzel tanuljanak [tanujjanak] meg enni! A számítógépnél majd értékelni fogják.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -677,7 +677,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Kedves szülők! Tanítsátok [taníccsátok] meg a gyerekeiteket bal kézzel enni! Ha később a számítógéphez ülnek, hálásak lesznek érte.</p>
+<p>1. Kedves szülők! Tanítsátok [taníccsátok] meg a gyerekeiteket bal kézzel enni! Ha később a számítógéphez ülnek, hálásak lesznek érte. - Liebe Eltern! Bringt euren Kindern bei, mit der linken Hand zu essen! Wenn sie sich später an den Computer setzen, sie werden dankbar dafür sein.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -685,7 +685,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Kedves szülők, tanítsátok [taníccsátok] meg a gyerekeket bal kézzel enni!  Később, amikor számítógépeznek, meg fogják köszönni.</p>
+<p>1. Kedves szülők, tanítsátok [taníccsátok] meg a gyerekeket bal kézzel enni!  Később, amikor számítógépeznek, meg fogják köszönni. - Liebe Eltern! Lehrt eure Kinder, mit der linken Hand zu essen! Später wenn sie am  Computer sind (“computern”) werden sie es danken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -693,7 +693,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Szülők, jó tanács: a gyerekek bal kézzel tanuljanak [tanujjanak] meg enni! A számítógépnél majd értékelni fogják.</p>
+<p>1. Szülők, jó tanács: a gyerekek bal kézzel tanuljanak [tanujjanak] meg enni! A számítógépnél majd értékelni fogják. - Liebe Eltern! Bringt den Kindern bei, mit der linken Hand zu essen! Am Computer werden sie es dann schätzen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -746,19 +746,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Régen olyan nőket ismert meg az ember, akik úgy főztek, mint az anyjuk. - Früher lernte man Frauen kennen, die kochen konnten wie ihre Mütter.</p>
-<p>2. Ma olyan nőket ismer meg, akik úgy isznak, mint az apjuk. - Heute lernt man Frauen kennen, die saufen wie ihre Väter.</p>
+<p>1. Régen olyan nőket ismert meg az ember, akik úgy főztek, mint az anyjuk.</p>
+<p>2. Ma olyan nőket ismer meg, akik úgy isznak, mint az apjuk.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Régebben az ember olyan nőkkel találkozott, akik anyjuk módjára főztek. - Früher lernte man Frauen kennen, die kochten wie ihre Mütter.</p>
-<p>2. Manapság meg olyanokkal, akik apjuk módjára isznak. - Heutzutage auch solche (mit solchen treffen), die trinken wie ihre Väter (in der Art ihrer Väter trinken).</p>
+<p>1. Régebben az ember olyan nőkkel találkozott, akik anyjuk módjára főztek.</p>
+<p>2. Manapság meg olyanokkal, akik apjuk módjára isznak.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Volt idő, amikor a nők úgy főztek, ahogy az anyjuktól tanulták. - Früher kannte man Frauen, die so kochten, wie sie es von ihrer Mutter gelernt haben.</p>
-<p>2. Ma inkább úgy isznak, ahogy az apjuktól látták. - Heute trinken sie eher so, wie sie es von ihrem Vater gesehen haben.</p>
+<p>1. Volt idő, amikor a nők úgy főztek, ahogy az anyjuktól tanulták.</p>
+<p>2. Ma inkább úgy isznak, ahogy az apjuktól látták.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -767,11 +767,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Régen olyan nőket ismert meg az ember, akik úgy főztek, mint az anyjuk.</p>
+<p>1. Régen olyan nőket ismert meg az ember, akik úgy főztek, mint az anyjuk. - Früher lernte man Frauen kennen, die kochen konnten wie ihre Mütter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Ma olyan nőket ismer meg, akik úgy isznak, mint az apjuk.</p>
+<p>2. Ma olyan nőket ismer meg, akik úgy isznak, mint az apjuk. - Heute lernt man Frauen kennen, die saufen wie ihre Väter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -779,11 +779,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Régebben az ember olyan nőkkel találkozott, akik anyjuk módjára főztek.</p>
+<p>1. Régebben az ember olyan nőkkel találkozott, akik anyjuk módjára főztek. - Früher lernte man Frauen kennen, die kochten wie ihre Mütter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Manapság meg olyanokkal, akik apjuk módjára isznak.</p>
+<p>2. Manapság meg olyanokkal, akik apjuk módjára isznak. - Heutzutage auch solche (mit solchen treffen), die trinken wie ihre Väter (in der Art ihrer Väter trinken).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -791,11 +791,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Volt idő, amikor a nők úgy főztek, ahogy az anyjuktól tanulták.</p>
+<p>1. Volt idő, amikor a nők úgy főztek, ahogy az anyjuktól tanulták. - Früher kannte man Frauen, die so kochten, wie sie es von ihrer Mutter gelernt haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Ma inkább úgy isznak, ahogy az apjuktól látták.</p>
+<p>2. Ma inkább úgy isznak, ahogy az apjuktól látták. - Heute trinken sie eher so, wie sie es von ihrem Vater gesehen haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -860,18 +860,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az optimista még akkor is boldogabban él, ha az elvárásai nem teljesülnek, szemben a pesszimistával, akinek az elvárásai valóra válnak. - Der Optimist lebt auch dann glücklicher, selbst wenn seine Erwartungen nicht erfüllt werden, im Gegensatz zum Pessimisten, dessen Erwartungen sich bewahrheiten.</p>
+<p>1. Az optimista még akkor is boldogabban él, ha az elvárásai nem teljesülnek, szemben a pesszimistával, akinek az elvárásai valóra válnak.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Még akkor is ha az optimistanak az elvárásai nem teljesülnek, ő még akkor is boldogabban él, mint egy peszimista akinek az elvárásai teljesülnek. - Selbst wenn die Erwartungen des Optimisten nicht erfüllt werden, lebt er dennoch glücklicher als ein Pessimist, dessen Erwartungen erfüllt werden.</p>
+<p>1. Még akkor is ha az optimistanak az elvárásai nem teljesülnek, ő még akkor is boldogabban él, mint egy peszimista akinek az elvárásai teljesülnek.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Annak ellenére, hogy az optimista elvárásai nem teljesülnek, ő mégis boldogabban él, mint az a pesszimista, akinek az elvárásai teljesülnek. - Obwohl sich die Erwartungen des Optimisten nicht erfüllen, lebt er dennoch glücklicher als der Pessimist, dessen Erwartungen sich erfüllen.</p>
+<p>1. Annak ellenére, hogy az optimista elvárásai nem teljesülnek, ő mégis boldogabban él, mint az a pesszimista, akinek az elvárásai teljesülnek.</p>
 <p class="pc-note"><strong>Version 4</strong></p>
-<p>1. Még ha az optimista elvárásai nem teljesülnek is, ő boldogabban él, mint egy pesszimista, akinek az elvárásai teljesülnek. - Selbst wenn sich die Erwartungen eines Optimisten nicht erfüllen, lebt er glücklicher als ein Pessimist, dessen Erwartungen sich erfüllen.</p>
+<p>1. Még ha az optimista elvárásai nem teljesülnek is, ő boldogabban él, mint egy pesszimista, akinek az elvárásai teljesülnek.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -880,7 +880,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az optimista még akkor is boldogabban él, ha az elvárásai nem teljesülnek, szemben a pesszimistával, akinek az elvárásai valóra válnak.</p>
+<p>1. Az optimista még akkor is boldogabban él, ha az elvárásai nem teljesülnek, szemben a pesszimistával, akinek az elvárásai valóra válnak. - Der Optimist lebt auch dann glücklicher, selbst wenn seine Erwartungen nicht erfüllt werden, im Gegensatz zum Pessimisten, dessen Erwartungen sich bewahrheiten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -888,7 +888,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Még akkor is ha az optimistanak az elvárásai nem teljesülnek, ő még akkor is boldogabban él, mint egy peszimista akinek az elvárásai teljesülnek.</p>
+<p>1. Még akkor is ha az optimistanak az elvárásai nem teljesülnek, ő még akkor is boldogabban él, mint egy peszimista akinek az elvárásai teljesülnek. - Selbst wenn die Erwartungen des Optimisten nicht erfüllt werden, lebt er dennoch glücklicher als ein Pessimist, dessen Erwartungen erfüllt werden.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -896,7 +896,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Annak ellenére, hogy az optimista elvárásai nem teljesülnek, ő mégis boldogabban él, mint az a pesszimista, akinek az elvárásai teljesülnek.</p>
+<p>1. Annak ellenére, hogy az optimista elvárásai nem teljesülnek, ő mégis boldogabban él, mint az a pesszimista, akinek az elvárásai teljesülnek. - Obwohl sich die Erwartungen des Optimisten nicht erfüllen, lebt er dennoch glücklicher als der Pessimist, dessen Erwartungen sich erfüllen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -904,7 +904,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Még ha az optimista elvárásai nem teljesülnek is, ő boldogabban él, mint egy pesszimista, akinek az elvárásai teljesülnek.</p>
+<p>1. Még ha az optimista elvárásai nem teljesülnek is, ő boldogabban él, mint egy pesszimista, akinek az elvárásai teljesülnek. - Selbst wenn sich die Erwartungen eines Optimisten nicht erfüllen, lebt er glücklicher als ein Pessimist, dessen Erwartungen sich erfüllen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -964,17 +964,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Az az egészséges, akit az orvos nem vizsgált még meg alaposan. - Wer gesund ist, der wurde nur noch nicht gründlich ärztlich untersucht.</p>
+<p>1. Az az egészséges, akit az orvos nem vizsgált még meg alaposan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Az az egészséges, akit az orvos nem vizsgált még meg alaposan.</p>
+<p>1. Az az egészséges, akit az orvos nem vizsgált még meg alaposan. - Wer gesund ist, der wurde nur noch nicht gründlich ärztlich untersucht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1007,16 +1007,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Azért, mert nem tudjuk, mink van (= nekünk mi van), újra meg újra azon gondolkodunk, mi hiányzik. - Weil wir nicht wissen, was wir haben, fragen wir uns immer wieder (= wieder und wieder), was uns fehlt.</p>
+<p>1. Azért, mert nem tudjuk, mink van (= nekünk mi van), újra meg újra azon gondolkodunk, mi hiányzik.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Mivel nem látjuk, amink van, folyton azt kérdezzük, mi hiányzik nekünk. - Weil (= das) wir nicht sehen, das was wir haben, fragen wir uns laufend (= ununterbrochen/immerfort), was uns fehlt.</p>
+<p>1. Mivel nem látjuk, amink van, folyton azt kérdezzük, mi hiányzik nekünk.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Nem tudjuk, mivel rendelkezünk, ezért állandóan azt kutatjuk [kutattyuk], mi hiányzik. - Weil wir nicht wissen, worüber wir verfügen (= was wir haben), suchen (= forschen) wir ständig (dauernd), was fehlt.</p>
+<p>1. Nem tudjuk, mivel rendelkezünk, ezért állandóan azt kutatjuk [kutattyuk], mi hiányzik.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1025,7 +1025,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Azért, mert nem tudjuk, mink van (= nekünk mi van), újra meg újra azon gondolkodunk, mi hiányzik.</p>
+<p>1. Azért, mert nem tudjuk, mink van (= nekünk mi van), újra meg újra azon gondolkodunk, mi hiányzik. - Weil wir nicht wissen, was wir haben, fragen wir uns immer wieder (= wieder und wieder), was uns fehlt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1033,7 +1033,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mivel nem látjuk, amink van, folyton azt kérdezzük, mi hiányzik nekünk.</p>
+<p>1. Mivel nem látjuk, amink van, folyton azt kérdezzük, mi hiányzik nekünk. - Weil (= das) wir nicht sehen, das was wir haben, fragen wir uns laufend (= ununterbrochen/immerfort), was uns fehlt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1041,7 +1041,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem tudjuk, mivel rendelkezünk, ezért állandóan azt kutatjuk [kutattyuk], mi hiányzik.</p>
+<p>1. Nem tudjuk, mivel rendelkezünk, ezért állandóan azt kutatjuk [kutattyuk], mi hiányzik. - Weil wir nicht wissen, worüber wir verfügen (= was wir haben), suchen (= forschen) wir ständig (dauernd), was fehlt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1094,33 +1094,32 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Szárnyas mondások - Geflügelte Worte</p>
-<p>2. Valakinek a székét fűrészelni (megpróbálni valakit a pozíciójából kiszorítani). - An jemandes Stuhl sägen (versuchen, jemanden von seiner Position zu verdrängen). - (ungebräuchlich und fast nicht verständlich in Ungarn)</p>
-<p>3. A kolléga már régóta a főnöke székét fűrészeli. - Der Kollege sägt seit langem am Stuhl seines Vorgesetzten.</p>
+<p>1. Szárnyas mondások</p>
+<p>2. Valakinek a székét fűrészelni (megpróbálni valakit a pozíciójából kiszorítani).</p>
+<p>3. A kolléga már régóta a főnöke székét fűrészeli.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Átvitt értelmű kifejezések - Ausdrücke im übertragenen Sinn</p>
-<p>2. Valaki alatt vágja a fát (tudatosan aláássa a helyzetét). - Am Ast von jemandem sägen (bewusst seine Stellung untergraben).</p>
-<p>3. (gebräuchlich und verständlich in Ungarn)</p>
-<p>4. A munkatárs hosszú ideje azon dolgozik, hogy a felettese pozícióját meggyengítse. - Der Kollege arbeitet schon lange daran, die Position seines Vorgesetzten zu untergraben.</p>
-<p>5. kifurja a helyéből - (wörtlich: ausbohren aus seinem Platz) - an jemandes Ast sägen</p>
-<p>6. maga alatt vágja a fát - an seinem eigenen Ast sägen (wörtlich: selber unter dem Ast sägen)</p>
+<p>1. Átvitt értelmű kifejezések</p>
+<p>2. Valaki alatt vágja a fát (tudatosan aláássa a helyzetét).</p>
+<p>4. A munkatárs hosszú ideje azon dolgozik, hogy a felettese pozícióját meggyengítse.</p>
+<p>5. kifurja a helyéből</p>
+<p>6. maga alatt vágja a fát</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Állandósult szókapcsolat - feste Wortverbindung</p>
-<p>2. Valaki alatt fát vágni (intrikával eltávolítani a helyéről). - An jemandes Stuhl sägen (durch Intrigen jemanden verdrängen).</p>
-<p>3. Ez a kolléga régóta a főnöke ellen áskálódik. - Dieser Kollege sägt schon lange am Stuhl seines Chefs.</p>
-<p>4. áskálódik - intrigieren; anfeinden</p>
-<p>5. ás - graben</p>
-<p>6. ásas - das Graben</p>
-<p>7. ásó - der Spaten</p>
-<p>8. lapát - Schaufel</p>
-<p>9. áskáládik - immerzu graben</p>
-<p>10. árok - der Graben</p>
-<p>11. sír - das Grab, weinen</p>
+<p>1. Állandósult szókapcsolat</p>
+<p>2. Valaki alatt fát vágni (intrikával eltávolítani a helyéről).</p>
+<p>3. Ez a kolléga régóta a főnöke ellen áskálódik.</p>
+<p>4. áskálódik</p>
+<p>5. ás</p>
+<p>6. ásas</p>
+<p>7. ásó</p>
+<p>8. lapát</p>
+<p>9. áskáládik</p>
+<p>10. árok</p>
+<p>11. sír</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1129,15 +1128,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Szárnyas mondások</p>
+<p>1. Szárnyas mondások - Geflügelte Worte</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Valakinek a székét fűrészelni (megpróbálni valakit a pozíciójából kiszorítani).</p>
+<p>2. Valakinek a székét fűrészelni (megpróbálni valakit a pozíciójából kiszorítani). - An jemandes Stuhl sägen (versuchen, jemanden von seiner Position zu verdrängen). - (ungebräuchlich und fast nicht verständlich in Ungarn)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. A kolléga már régóta a főnöke székét fűrészeli.</p>
+<p>3. A kolléga már régóta a főnöke székét fűrészeli. - Der Kollege sägt seit langem am Stuhl seines Vorgesetzten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1145,23 +1144,27 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Átvitt értelmű kifejezések</p>
+<p>1. Átvitt értelmű kifejezések - Ausdrücke im übertragenen Sinn</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Valaki alatt vágja a fát (tudatosan aláássa a helyzetét).</p>
+<p>2. Valaki alatt vágja a fát (tudatosan aláássa a helyzetét). - Am Ast von jemandem sägen (bewusst seine Stellung untergraben).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. A munkatárs hosszú ideje azon dolgozik, hogy a felettese pozícióját meggyengítse.</p>
+<p>3. (gebräuchlich und verständlich in Ungarn)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. kifurja a helyéből</p>
+<p>4. A munkatárs hosszú ideje azon dolgozik, hogy a felettese pozícióját meggyengítse. - Der Kollege arbeitet schon lange daran, die Position seines Vorgesetzten zu untergraben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. maga alatt vágja a fát</p>
+<p>5. kifurja a helyéből - (wörtlich: ausbohren aus seinem Platz) - an jemandes Ast sägen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. maga alatt vágja a fát - an seinem eigenen Ast sägen (wörtlich: selber unter dem Ast sägen)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1169,47 +1172,47 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Állandósult szókapcsolat</p>
+<p>1. Állandósult szókapcsolat - feste Wortverbindung</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Valaki alatt fát vágni (intrikával eltávolítani a helyéről).</p>
+<p>2. Valaki alatt fát vágni (intrikával eltávolítani a helyéről). - An jemandes Stuhl sägen (durch Intrigen jemanden verdrängen).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Ez a kolléga régóta a főnöke ellen áskálódik.</p>
+<p>3. Ez a kolléga régóta a főnöke ellen áskálódik. - Dieser Kollege sägt schon lange am Stuhl seines Chefs.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. áskálódik</p>
+<p>4. áskálódik - intrigieren; anfeinden</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. ás</p>
+<p>5. ás - graben</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. ásas</p>
+<p>6. ásas - das Graben</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>7. ásó</p>
+<p>7. ásó - der Spaten</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>8. lapát</p>
+<p>8. lapát - Schaufel</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>9. áskáládik</p>
+<p>9. áskáládik - immerzu graben</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>10. árok</p>
+<p>10. árok - der Graben</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>11. sír</p>
+<p>11. sír - das Grab, weinen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1332,22 +1335,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A nagymamámnak tetszik a Skype. - Meiner Oma gefällt Skype.</p>
-<p>2. Azt mondja: olyan, mintha vendégek lennének, de nem eszik meg az ételt. - Sie sagt: Es ist, als hätte man Gäste, aber sie essen einem nichts weg.</p>
-<p class="pc-note">lennének (T/3) - sie hätten; man hätte; sie wären; man wäre</p>
+<p>1. A nagymamámnak tetszik a Skype.</p>
+<p>2. Azt mondja: olyan, mintha vendégek lennének, de nem eszik meg az ételt.</p>
+<p class="pc-note">lennének (T/3)</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A nagymamám szereti a Skype-ot. - Meine Oma mag Skype.</p>
-<p>2. Szerinte (= Véleménye szerint) olyan, mintha vendégek jönnének, csak éppen nem falják fel a készleteket. - Ihrer Meinung nach ist es so, als kämen Gäste, nur eben,  fressen sie die Vorräte nicht weg.</p>
+<p>1. A nagymamám szereti a Skype-ot.</p>
+<p>2. Szerinte (= Véleménye szerint) olyan, mintha vendégek jönnének, csak éppen nem falják fel a készleteket.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A nagymamám kifejezetten kedveli a Skype-ot. - Meiner Oma gefällt Skype ausgesprochen.</p>
-<p>2. Úgy fogalmaz: ez olyan, mint vendégeket fogadni, anélkül hogy bármit is elfogyasztanának. - Sie formuliert es so: Es ist wie Gäste zu empfangen, ohne dass sie :etwas aufessen.</p>
-<p class="pc-note">tetszik vkinek vmi - jemandem gefällt etwas (ungarisch: Dativ: “-nak/nek”)</p>
-<p class="pc-note">vki kedvel vmit - jemandem gefällt etwas  (ungarisch: OHNE Dativ - also grammatikalisch eher: jemand mag etwas)</p>
+<p>1. A nagymamám kifejezetten kedveli a Skype-ot.</p>
+<p>2. Úgy fogalmaz: ez olyan, mint vendégeket fogadni, anélkül hogy bármit is elfogyasztanának.</p>
+<p class="pc-note">tetszik vkinek vmi</p>
+<p class="pc-note">vki kedvel vmit</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1356,15 +1359,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nagymamámnak tetszik a Skype.</p>
+<p>1. A nagymamámnak tetszik a Skype. - Meiner Oma gefällt Skype.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Azt mondja: olyan, mintha vendégek lennének, de nem eszik meg az ételt.</p>
+<p>2. Azt mondja: olyan, mintha vendégek lennének, de nem eszik meg az ételt. - Sie sagt: Es ist, als hätte man Gäste, aber sie essen einem nichts weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lennének (T/3)</p>
+<p class="pc-note">lennének (T/3) - sie hätten; man hätte; sie wären; man wäre</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1372,11 +1375,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nagymamám szereti a Skype-ot.</p>
+<p>1. A nagymamám szereti a Skype-ot. - Meine Oma mag Skype.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Szerinte (= Véleménye szerint) olyan, mintha vendégek jönnének, csak éppen nem falják fel a készleteket.</p>
+<p>2. Szerinte (= Véleménye szerint) olyan, mintha vendégek jönnének, csak éppen nem falják fel a készleteket. - Ihrer Meinung nach ist es so, als kämen Gäste, nur eben,  fressen sie die Vorräte nicht weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1384,19 +1387,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nagymamám kifejezetten kedveli a Skype-ot.</p>
+<p>1. A nagymamám kifejezetten kedveli a Skype-ot. - Meiner Oma gefällt Skype ausgesprochen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Úgy fogalmaz: ez olyan, mint vendégeket fogadni, anélkül hogy bármit is elfogyasztanának.</p>
+<p>2. Úgy fogalmaz: ez olyan, mint vendégeket fogadni, anélkül hogy bármit is elfogyasztanának. - Sie formuliert es so: Es ist wie Gäste zu empfangen, ohne dass sie :etwas aufessen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tetszik vkinek vmi</p>
+<p class="pc-note">tetszik vkinek vmi - jemandem gefällt etwas (ungarisch: Dativ: “-nak/nek”)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">vki kedvel vmit</p>
+<p class="pc-note">vki kedvel vmit - jemandem gefällt etwas  (ungarisch: OHNE Dativ - also grammatikalisch eher: jemand mag etwas)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1473,19 +1476,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Szeresd [szerezsd] az anyai szívet, amíg dobog. - Liebe das Mutterherz solange es noch schlägt.</p>
-<p>2. Ha összetörik, akkor már túl késő. - Ist es gebrochen, dann ist es zu spät.</p>
+<p>1. Szeresd [szerezsd] az anyai szívet, amíg dobog.</p>
+<p>2. Ha összetörik, akkor már túl késő.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Becsüld az anya szívét, míg él és dobban. - Ehre das Mutterherz solange (während; bis) es lebt und schlägt.</p>
-<p>2. Ha egyszer összetörik, többé nincs visszaút. - Wenn es einmal gebrochen ist, dann gibt es keinen Rückweg.</p>
+<p>1. Becsüld az anya szívét, míg él és dobban.</p>
+<p>2. Ha egyszer összetörik, többé nincs visszaút.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Óvd és szeresd az anyai szívet, amíg ver. - Schütze und liebe das Mutterherz solange es schlägt.</p>
-<p>2. Mert ha megtörik, akkor már elkéstél. - Denn wenn es gebrochen, dann bis du spät.</p>
+<p>1. Óvd és szeresd az anyai szívet, amíg ver.</p>
+<p>2. Mert ha megtörik, akkor már elkéstél.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1494,11 +1497,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Szeresd [szerezsd] az anyai szívet, amíg dobog.</p>
+<p>1. Szeresd [szerezsd] az anyai szívet, amíg dobog. - Liebe das Mutterherz solange es noch schlägt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Ha összetörik, akkor már túl késő.</p>
+<p>2. Ha összetörik, akkor már túl késő. - Ist es gebrochen, dann ist es zu spät.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1506,11 +1509,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Becsüld az anya szívét, míg él és dobban.</p>
+<p>1. Becsüld az anya szívét, míg él és dobban. - Ehre das Mutterherz solange (während; bis) es lebt und schlägt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Ha egyszer összetörik, többé nincs visszaút.</p>
+<p>2. Ha egyszer összetörik, többé nincs visszaút. - Wenn es einmal gebrochen ist, dann gibt es keinen Rückweg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1518,11 +1521,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Óvd és szeresd az anyai szívet, amíg ver.</p>
+<p>1. Óvd és szeresd az anyai szívet, amíg ver. - Schütze und liebe das Mutterherz solange es schlägt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Mert ha megtörik, akkor már elkéstél.</p>
+<p>2. Mert ha megtörik, akkor már elkéstél. - Denn wenn es gebrochen, dann bis du spät.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1587,18 +1590,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Soha nem álmodtam a sikerről, hanem megdolgoztam [mekdolgoztam] érte. - Ich habe nie vom Erfolg geträumt, ich habe dafür (sehr viel und hart) gearbeitet.</p>
+<p>1. Soha nem álmodtam a sikerről, hanem megdolgoztam [mekdolgoztam] érte.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nem az volt az álmom, hogy sikeres legyek, hanem tettem érte. - Ich habe nie vom Erfolg geträumt (Nicht das war mein Traum, dass ich erfolgreich sein soll), sondern etwas dafür getan (sondern dass ich dafür etwas tat).</p>
+<p>1. Nem az volt az álmom, hogy sikeres legyek, hanem tettem érte.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A sikerről nem álmodoztam, hanem kemény munkával értem el. - Ich habe nicht vom Erfolg geträumt, sondern ihn mit harter Arbeit erreiche.</p>
-<p class="pc-note">elér - erreichen</p>
-<p class="pc-note">elér egy sikert - einen Erfolg erreichen</p>
+<p>1. A sikerről nem álmodoztam, hanem kemény munkával értem el.</p>
+<p class="pc-note">elér</p>
+<p class="pc-note">elér egy sikert</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1607,7 +1610,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Soha nem álmodtam a sikerről, hanem megdolgoztam [mekdolgoztam] érte.</p>
+<p>1. Soha nem álmodtam a sikerről, hanem megdolgoztam [mekdolgoztam] érte. - Ich habe nie vom Erfolg geträumt, ich habe dafür (sehr viel und hart) gearbeitet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1615,7 +1618,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem az volt az álmom, hogy sikeres legyek, hanem tettem érte.</p>
+<p>1. Nem az volt az álmom, hogy sikeres legyek, hanem tettem érte. - Ich habe nie vom Erfolg geträumt (Nicht das war mein Traum, dass ich erfolgreich sein soll), sondern etwas dafür getan (sondern dass ich dafür etwas tat).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1623,15 +1626,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A sikerről nem álmodoztam, hanem kemény munkával értem el.</p>
+<p>1. A sikerről nem álmodoztam, hanem kemény munkával értem el. - Ich habe nicht vom Erfolg geträumt, sondern ihn mit harter Arbeit erreiche.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elér</p>
+<p class="pc-note">elér - erreichen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elér egy sikert</p>
+<p class="pc-note">elér egy sikert - einen Erfolg erreichen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1692,15 +1695,15 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Bal az ott van, ahol a hüvelykujj jobbra van. - Links ist dort, wo der Daumen rechts ist.</p>
-<p>2. Jobbra az ott van, ahol a hüvelykujj balra van. - Rechts ist da, wo der Daumen links ist</p>
+<p>1. Bal az ott van, ahol a hüvelykujj jobbra van.</p>
+<p>2. Jobbra az ott van, ahol a hüvelykujj balra van.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Bal oldalnak azt nevezzük, ahol a hüvelykujj a jobb oldalon található. - Als linke Seite bezeichnen wir die, wo sich der Daumen rechts befindet. (wo der Daumen auf der rechten Seite zu finden ist)</p>
+<p>1. Bal oldalnak azt nevezzük, ahol a hüvelykujj a jobb oldalon található.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1709,11 +1712,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Bal az ott van, ahol a hüvelykujj jobbra van.</p>
+<p>1. Bal az ott van, ahol a hüvelykujj jobbra van. - Links ist dort, wo der Daumen rechts ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Jobbra az ott van, ahol a hüvelykujj balra van.</p>
+<p>2. Jobbra az ott van, ahol a hüvelykujj balra van. - Rechts ist da, wo der Daumen links ist</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1721,7 +1724,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Bal oldalnak azt nevezzük, ahol a hüvelykujj a jobb oldalon található.</p>
+<p>1. Bal oldalnak azt nevezzük, ahol a hüvelykujj a jobb oldalon található. - Als linke Seite bezeichnen wir die, wo sich der Daumen rechts befindet. (wo der Daumen auf der rechten Seite zu finden ist)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

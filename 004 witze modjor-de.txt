@@ -1051,22 +1051,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban. - Er benimmt sich wie ein Elefant im Prozellanladen.</p>
-<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben. - Lieber eine Fliege im Porzellanladen als einen Elefanten in der Suppe.</p>
+<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban.</p>
+<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban.</p>
+<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban. - Er benimmt sich wie ein Elefant im Prozellanladen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben.</p>
+<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben. - Lieber eine Fliege im Porzellanladen als einen Elefanten in der Suppe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1103,41 +1103,41 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Sok nő jobb feleség lenne, ha lemondana arról, hogy jobb férjet akarjon faragni a férjéből. - Viele Frauen wären bessere Ehefrauen, wenn sie darauf verzichten würden, aus ihrem Mann einen besseren Gatten machen zu wollen (schnitzen zu wollen).</p>
-<p class="pc-note">farag - schnitzen, meißeln</p>
-<p class="pc-note">fa - Holz, Baum</p>
-<p>2. .rág - nagen, knabbern</p>
-<p class="pc-note">rágcsálók (Rodentia) - Nagetieren</p>
-<p class="pc-note">ragozás - Flexion, Beugung (Grammatik)</p>
-<p class="pc-note">igeragozás - (Verb-)Konjugation</p>
-<p class="pc-note">névszóragozás - (Substantiv-)Deklination</p>
-<p class="pc-note">faragvány - Schnitzerei (Schnitzwerk)</p>
-<p class="pc-note">elefántcsont faragvány - Elfenbeinschnitzerei; Elfenbein-Schnitzwerk</p>
-<p class="pc-note">lemond vmiről - (auf etwas / von etwas) verzichten, sich lossagen; absagen; zurücktreten</p>
+<p>1. Sok nő jobb feleség lenne, ha lemondana arról, hogy jobb férjet akarjon faragni a férjéből.</p>
+<p class="pc-note">farag</p>
+<p class="pc-note">fa</p>
+<p>2. .rág</p>
+<p class="pc-note">rágcsálók (Rodentia)</p>
+<p class="pc-note">ragozás</p>
+<p class="pc-note">igeragozás</p>
+<p class="pc-note">névszóragozás</p>
+<p class="pc-note">faragvány</p>
+<p class="pc-note">elefántcsont faragvány</p>
+<p class="pc-note">lemond vmiről</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Sok asszony sokkal jobb feleség lehetne [lähätnä], ha nem próbálná meg „megjavítani” a férjét. - Viele Frauen könnten eine viel bessere Gattin sein, wenn sie nicht versuchen würden ihren Gatten zu „verbessern”.</p>
-<p class="pc-note">jó - gut</p>
-<p class="pc-note">(meg)javít = jobbá tesz - besser machen</p>
-<p class="pc-note">java - das Gute; der bessere Teil; das Beste; der Hauptteil; der Kern</p>
-<p class="pc-note">javak - das Gut (das Vermögen; die Habe)</p>
-<p class="pc-note">anyagi javak - materielle Güter</p>
-<p class="pc-note">földi javak - irdische Güter</p>
-<p class="pc-note">közjavak - Gemeingüter; öffentliche Güter</p>
+<p>1. Sok asszony sokkal jobb feleség lehetne [lähätnä], ha nem próbálná meg „megjavítani” a férjét.</p>
+<p class="pc-note">jó</p>
+<p class="pc-note">(meg)javít = jobbá tesz</p>
+<p class="pc-note">java</p>
+<p class="pc-note">javak</p>
+<p class="pc-note">anyagi javak</p>
+<p class="pc-note">földi javak</p>
+<p class="pc-note">közjavak</p>
 <p class="pc-note">vokalischen Stammwechsel bei meist einsilbigen Substntiven: tó (tavak); ló (lovak); fű (füvek): kő (kovek); szó (szavak); tő (tövek)</p>
-<p class="pc-note">a nyár java = a nyár nagyobb része = a nyár jó része - der größere Teil des Sommers; ein Gutteil des Sommers</p>
-<p class="pc-note">az étel java - das Beste am Essen; der beste Teil des Essens</p>
+<p class="pc-note">a nyár java = a nyár nagyobb része = a nyár jó része</p>
+<p class="pc-note">az étel java</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Sok nő házassága működne jobban, ha nem akarná a férjét átalakítani egy „ideális” férjjé. - Die Ehe vieler Frauen würde besser funktionieren, wenn sie ihren Mann nicht zum „idealen” Mann umformen wollen würden (wöllten). - Die Ehe vieler Frauen würde besser funktionieren, wenn sie darauf verzichten würden, ihren Mann zu einem besseren Gatten zu formen.</p>
-<p class="pc-note">nő házassága (a nőnek a házassága) - die Ehe der Frau (der Frau ihre Ehe: der Frau Ehe-ihre)</p>
-<p class="pc-note">átalakít - umformen</p>
-<p class="pc-note">alak - die Form</p>
-<p class="pc-note">alakít - formen</p>
-<p class="pc-note">egy „ideális” férjjé - zu einem „idealen” Gatten („-vá/-vé” - Transformativ)</p>
+<p>1. Sok nő házassága működne jobban, ha nem akarná a férjét átalakítani egy „ideális” férjjé.</p>
+<p class="pc-note">nő házassága (a nőnek a házassága)</p>
+<p class="pc-note">átalakít</p>
+<p class="pc-note">alak</p>
+<p class="pc-note">alakít</p>
+<p class="pc-note">egy „ideális” férjjé</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1146,47 +1146,47 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sok nő jobb feleség lenne, ha lemondana arról, hogy jobb férjet akarjon faragni a férjéből.</p>
+<p>1. Sok nő jobb feleség lenne, ha lemondana arról, hogy jobb férjet akarjon faragni a férjéből. - Viele Frauen wären bessere Ehefrauen, wenn sie darauf verzichten würden, aus ihrem Mann einen besseren Gatten machen zu wollen (schnitzen zu wollen).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">farag</p>
+<p class="pc-note">farag - schnitzen, meißeln</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">fa</p>
+<p class="pc-note">fa - Holz, Baum</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. .rág</p>
+<p>2. .rág - nagen, knabbern</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">rágcsálók (Rodentia)</p>
+<p class="pc-note">rágcsálók (Rodentia) - Nagetieren</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">ragozás</p>
+<p class="pc-note">ragozás - Flexion, Beugung (Grammatik)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">igeragozás</p>
+<p class="pc-note">igeragozás - (Verb-)Konjugation</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">névszóragozás</p>
+<p class="pc-note">névszóragozás - (Substantiv-)Deklination</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">faragvány</p>
+<p class="pc-note">faragvány - Schnitzerei (Schnitzwerk)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elefántcsont faragvány</p>
+<p class="pc-note">elefántcsont faragvány - Elfenbeinschnitzerei; Elfenbein-Schnitzwerk</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lemond vmiről</p>
+<p class="pc-note">lemond vmiről - (auf etwas / von etwas) verzichten, sich lossagen; absagen; zurücktreten</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1194,35 +1194,35 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sok asszony sokkal jobb feleség lehetne [lähätnä], ha nem próbálná meg „megjavítani” a férjét.</p>
+<p>1. Sok asszony sokkal jobb feleség lehetne [lähätnä], ha nem próbálná meg „megjavítani” a férjét. - Viele Frauen könnten eine viel bessere Gattin sein, wenn sie nicht versuchen würden ihren Gatten zu „verbessern”.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">jó</p>
+<p class="pc-note">jó - gut</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">(meg)javít = jobbá tesz</p>
+<p class="pc-note">(meg)javít = jobbá tesz - besser machen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">java</p>
+<p class="pc-note">java - das Gute; der bessere Teil; das Beste; der Hauptteil; der Kern</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">javak</p>
+<p class="pc-note">javak - das Gut (das Vermögen; die Habe)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">anyagi javak</p>
+<p class="pc-note">anyagi javak - materielle Güter</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">földi javak</p>
+<p class="pc-note">földi javak - irdische Güter</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">közjavak</p>
+<p class="pc-note">közjavak - Gemeingüter; öffentliche Güter</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1230,11 +1230,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">a nyár java = a nyár nagyobb része = a nyár jó része</p>
+<p class="pc-note">a nyár java = a nyár nagyobb része = a nyár jó része - der größere Teil des Sommers; ein Gutteil des Sommers</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">az étel java</p>
+<p class="pc-note">az étel java - das Beste am Essen; der beste Teil des Essens</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1242,27 +1242,27 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sok nő házassága működne jobban, ha nem akarná a férjét átalakítani egy „ideális” férjjé.</p>
+<p>1. Sok nő házassága működne jobban, ha nem akarná a férjét átalakítani egy „ideális” férjjé. - Die Ehe vieler Frauen würde besser funktionieren, wenn sie ihren Mann nicht zum „idealen” Mann umformen wollen würden (wöllten). - Die Ehe vieler Frauen würde besser funktionieren, wenn sie darauf verzichten würden, ihren Mann zu einem besseren Gatten zu formen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">nő házassága (a nőnek a házassága)</p>
+<p class="pc-note">nő házassága (a nőnek a házassága) - die Ehe der Frau (der Frau ihre Ehe: der Frau Ehe-ihre)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">átalakít</p>
+<p class="pc-note">átalakít - umformen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">alak</p>
+<p class="pc-note">alak - die Form</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">alakít</p>
+<p class="pc-note">alakít - formen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">egy „ideális” férjjé</p>
+<p class="pc-note">egy „ideális” férjjé - zu einem „idealen” Gatten („-vá/-vé” - Transformativ)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

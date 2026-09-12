@@ -48,40 +48,40 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Kilenc vicces tény - 9 witzige Fakten</p>
-<p>2. Első.) Nem tudod szappannal megmosni a szemed. - Du kannst dir die Augen nicht mit Seife waschen.</p>
-<p>3. Második.) Nem tudod megszámolni a hajszálaidat. - Du kannst nicht deine Haare zählen.</p>
-<p>4. Harmadik.) Nem tudsz az orrodon át lélegezni, miközben a nyelved kilóg a szádból. - Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
-<p>5. Negyedik.) Most kipróbáltad a harmadik pontot. - Du hast gerade Punkt 3 ausprobiert.</p>
-<p>6. Hatodik.) Amikor kipróbáltad a harmadik pontot, rájöttél, hogy mégis lehetséges, és egy lihegő kutyára hasonlítasz. - Als du Punkt 3 ausprobiert hast, ist dir klar geworden, dass es doch möglich ist und du einem hechelnden Hund ähnelst.</p>
-<p>7. Hetedik.) Elmosolyodtál, mert rajtakaptunk. - Du hast gelächelt, weil wir dich erwischt haben.</p>
-<p>8. Nyolcadik.) Kihagytad az ötödik pontot. - Du hast Punkt 5 ausgelassen.</p>
-<p>9. Kilencedik.) Most ellenőrizted, hogy van-e egyáltalán ötödik pont. - Du hast gerade kontrolliert, ob es überhaut einen 5. Punkt gibt.</p>
+<p>1. Kilenc vicces tény</p>
+<p>2. Első.) Nem tudod szappannal megmosni a szemed.</p>
+<p>3. Második.) Nem tudod megszámolni a hajszálaidat.</p>
+<p>4. Harmadik.) Nem tudsz az orrodon át lélegezni, miközben a nyelved kilóg a szádból.</p>
+<p>5. Negyedik.) Most kipróbáltad a harmadik pontot.</p>
+<p>6. Hatodik.) Amikor kipróbáltad a harmadik pontot, rájöttél, hogy mégis lehetséges, és egy lihegő kutyára hasonlítasz.</p>
+<p>7. Hetedik.) Elmosolyodtál, mert rajtakaptunk.</p>
+<p>8. Nyolcadik.) Kihagytad az ötödik pontot.</p>
+<p>9. Kilencedik.) Most ellenőrizted, hogy van-e egyáltalán ötödik pont.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nyolc humoros tény - 9 humorvolle Fakten</p>
-<p>2. 1.) Nem lehet szappannal szemet mosni. - Du kannst dir die Augen nicht mit Seife waschen.</p>
-<p>3. 2.) A hajszálaid megszámolása neked (= magadnak) lehetetlen. - Das Abzählen deiner einzelnen Haare ist für dich unmöglich.</p>
-<p>4. 3.) Nem kapsz levegőt az orrodon, ha közben kilóg a nyelved. - Du bekommst keine Luft durch deine Nase, wenn dabei deine Zunge herausragt.</p>
-<p>5. 4.) Épp most tesztelted a 3. pontot. - Du hast gerade Punkt 3 getestet.</p>
-<p>6. 6.) Közben rájöttél, hogy mégis működik, és pont úgy nézel ki, mint egy lihegő kutya. - Dabei hast du gemerkt, dass es doch funktioniert, und du genau so aussiehst wie ein hechelnder Hund.</p>
-<p>7. 7.) Mosolyogtál, mert lebuktál. - Du hast gelächelt, weil du erwischt wurdest.</p>
-<p>8. 8.) Az 5. pontot kihagytad. - Du hast den 5. Punkt ausgelassen.</p>
-<p>9. 9.) Most megnézted, létezik-e az 5. pont. - Du hast gerade kontrolliert, ob ein 5. Punkt existiert.</p>
+<p>1. Nyolc humoros tény</p>
+<p>2. 1.) Nem lehet szappannal szemet mosni.</p>
+<p>3. 2.) A hajszálaid megszámolása neked (= magadnak) lehetetlen.</p>
+<p>4. 3.) Nem kapsz levegőt az orrodon, ha közben kilóg a nyelved.</p>
+<p>5. 4.) Épp most tesztelted a 3. pontot.</p>
+<p>6. 6.) Közben rájöttél, hogy mégis működik, és pont úgy nézel ki, mint egy lihegő kutya.</p>
+<p>7. 7.) Mosolyogtál, mert lebuktál.</p>
+<p>8. 8.) Az 5. pontot kihagytad.</p>
+<p>9. 9.) Most megnézted, létezik-e az 5. pont.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. 9 mókás (= vidám) tény - 9 lustige Fakten</p>
-<p>2. 1.) A szemedet nem tudod szappannal megmosni. - Du kannst deine Augen nicht mit Seife waschen.</p>
-<p>3. 2.) Nem tudod megszámolni a hajad. - Du kannst nicht deine Haare zählen.</p>
-<p>4. 3.) Nem lehet az orron át lélegezni, miközben a nyelv kilóg. - Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
-<p>5. 4.) Az imént kipróbáltad a 3. pontot. - Du hast gerade Punkt 3 ausprobiert.</p>
-<p>6. 6.) Aztán rájöttél, hogy mégis megy, és egy lihegő kutyára hasonlítasz. - Dann hast du gemerkt, dass es doch geht, und du einem keuchenden Hund ähnelst.</p>
-<p>7. 7.) Elvigyorodtál, mert elkaptunk. - Du hast gegrinst, weil wir dich erwischt haben.</p>
-<p>8. 8.) Átugrottad az 5. pontot. - Du hast Punkt 5 übersprungen.</p>
-<p>9. 9.) Éppen ellenőrizted, van-e 5. pont. - Du hast gerade kontrolliert, ob es einen Punkt 5 gibt.</p>
+<p>1. 9 mókás (= vidám) tény</p>
+<p>2. 1.) A szemedet nem tudod szappannal megmosni.</p>
+<p>3. 2.) Nem tudod megszámolni a hajad.</p>
+<p>4. 3.) Nem lehet az orron át lélegezni, miközben a nyelv kilóg.</p>
+<p>5. 4.) Az imént kipróbáltad a 3. pontot.</p>
+<p>6. 6.) Aztán rájöttél, hogy mégis megy, és egy lihegő kutyára hasonlítasz.</p>
+<p>7. 7.) Elvigyorodtál, mert elkaptunk.</p>
+<p>8. 8.) Átugrottad az 5. pontot.</p>
+<p>9. 9.) Éppen ellenőrizted, van-e 5. pont.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -90,39 +90,39 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Kilenc vicces tény</p>
+<p>1. Kilenc vicces tény - 9 witzige Fakten</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Első.) Nem tudod szappannal megmosni a szemed.</p>
+<p>2. Első.) Nem tudod szappannal megmosni a szemed. - Du kannst dir die Augen nicht mit Seife waschen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Második.) Nem tudod megszámolni a hajszálaidat.</p>
+<p>3. Második.) Nem tudod megszámolni a hajszálaidat. - Du kannst nicht deine Haare zählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. Harmadik.) Nem tudsz az orrodon át lélegezni, miközben a nyelved kilóg a szádból.</p>
+<p>4. Harmadik.) Nem tudsz az orrodon át lélegezni, miközben a nyelved kilóg a szádból. - Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. Negyedik.) Most kipróbáltad a harmadik pontot.</p>
+<p>5. Negyedik.) Most kipróbáltad a harmadik pontot. - Du hast gerade Punkt 3 ausprobiert.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. Hatodik.) Amikor kipróbáltad a harmadik pontot, rájöttél, hogy mégis lehetséges, és egy lihegő kutyára hasonlítasz.</p>
+<p>6. Hatodik.) Amikor kipróbáltad a harmadik pontot, rájöttél, hogy mégis lehetséges, és egy lihegő kutyára hasonlítasz. - Als du Punkt 3 ausprobiert hast, ist dir klar geworden, dass es doch möglich ist und du einem hechelnden Hund ähnelst.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>7. Hetedik.) Elmosolyodtál, mert rajtakaptunk.</p>
+<p>7. Hetedik.) Elmosolyodtál, mert rajtakaptunk. - Du hast gelächelt, weil wir dich erwischt haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>8. Nyolcadik.) Kihagytad az ötödik pontot.</p>
+<p>8. Nyolcadik.) Kihagytad az ötödik pontot. - Du hast Punkt 5 ausgelassen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>9. Kilencedik.) Most ellenőrizted, hogy van-e egyáltalán ötödik pont.</p>
+<p>9. Kilencedik.) Most ellenőrizted, hogy van-e egyáltalán ötödik pont. - Du hast gerade kontrolliert, ob es überhaut einen 5. Punkt gibt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -130,39 +130,39 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nyolc humoros tény</p>
+<p>1. Nyolc humoros tény - 9 humorvolle Fakten</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. 1.) Nem lehet szappannal szemet mosni.</p>
+<p>2. 1.) Nem lehet szappannal szemet mosni. - Du kannst dir die Augen nicht mit Seife waschen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. 2.) A hajszálaid megszámolása neked (= magadnak) lehetetlen.</p>
+<p>3. 2.) A hajszálaid megszámolása neked (= magadnak) lehetetlen. - Das Abzählen deiner einzelnen Haare ist für dich unmöglich.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. 3.) Nem kapsz levegőt az orrodon, ha közben kilóg a nyelved.</p>
+<p>4. 3.) Nem kapsz levegőt az orrodon, ha közben kilóg a nyelved. - Du bekommst keine Luft durch deine Nase, wenn dabei deine Zunge herausragt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. 4.) Épp most tesztelted a 3. pontot.</p>
+<p>5. 4.) Épp most tesztelted a 3. pontot. - Du hast gerade Punkt 3 getestet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. 6.) Közben rájöttél, hogy mégis működik, és pont úgy nézel ki, mint egy lihegő kutya.</p>
+<p>6. 6.) Közben rájöttél, hogy mégis működik, és pont úgy nézel ki, mint egy lihegő kutya. - Dabei hast du gemerkt, dass es doch funktioniert, und du genau so aussiehst wie ein hechelnder Hund.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>7. 7.) Mosolyogtál, mert lebuktál.</p>
+<p>7. 7.) Mosolyogtál, mert lebuktál. - Du hast gelächelt, weil du erwischt wurdest.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>8. 8.) Az 5. pontot kihagytad.</p>
+<p>8. 8.) Az 5. pontot kihagytad. - Du hast den 5. Punkt ausgelassen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>9. 9.) Most megnézted, létezik-e az 5. pont.</p>
+<p>9. 9.) Most megnézted, létezik-e az 5. pont. - Du hast gerade kontrolliert, ob ein 5. Punkt existiert.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -170,39 +170,39 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. 9 mókás (= vidám) tény</p>
+<p>1. 9 mókás (= vidám) tény - 9 lustige Fakten</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. 1.) A szemedet nem tudod szappannal megmosni.</p>
+<p>2. 1.) A szemedet nem tudod szappannal megmosni. - Du kannst deine Augen nicht mit Seife waschen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. 2.) Nem tudod megszámolni a hajad.</p>
+<p>3. 2.) Nem tudod megszámolni a hajad. - Du kannst nicht deine Haare zählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. 3.) Nem lehet az orron át lélegezni, miközben a nyelv kilóg.</p>
+<p>4. 3.) Nem lehet az orron át lélegezni, miközben a nyelv kilóg. - Du kannst nicht durch die Nase atmen, während deine Zunge aus dem Mund hängt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. 4.) Az imént kipróbáltad a 3. pontot.</p>
+<p>5. 4.) Az imént kipróbáltad a 3. pontot. - Du hast gerade Punkt 3 ausprobiert.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. 6.) Aztán rájöttél, hogy mégis megy, és egy lihegő kutyára hasonlítasz.</p>
+<p>6. 6.) Aztán rájöttél, hogy mégis megy, és egy lihegő kutyára hasonlítasz. - Dann hast du gemerkt, dass es doch geht, und du einem keuchenden Hund ähnelst.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>7. 7.) Elvigyorodtál, mert elkaptunk.</p>
+<p>7. 7.) Elvigyorodtál, mert elkaptunk. - Du hast gegrinst, weil wir dich erwischt haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>8. 8.) Átugrottad az 5. pontot.</p>
+<p>8. 8.) Átugrottad az 5. pontot. - Du hast Punkt 5 übersprungen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>9. 9.) Éppen ellenőrizted, van-e 5. pont.</p>
+<p>9. 9.) Éppen ellenőrizted, van-e 5. pont. - Du hast gerade kontrolliert, ob es einen Punkt 5 gibt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -351,16 +351,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Nő: Fogadj [Fogaggy] el olyannak, amilyen vagyok, vagy szedj [szeggy] tablettákat, hogy olyannak tudj [tuggy] elfogadni, amilyen vagyok. - Frau: Nimm mich so, wie ich bin oder nimm Tabletten, damit du mich so nehmen kannst, wie ich bin.</p>
+<p>1. Nő: Fogadj [Fogaggy] el olyannak, amilyen vagyok, vagy szedj [szeggy] tablettákat, hogy olyannak tudj [tuggy] elfogadni, amilyen vagyok.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A nő azt mondja: Fogadj  [Fogaggy] el engem úgy, ahogy vagyok, vagy vegyél be gyógyszert, hogy el tudd viselni, amilyen vagyok. - Frau: Nimm mich so, wie ich bin, oder nimm Medikamente ein, damit du mich so erträgst, wie ich bin.</p>
+<p>1. A nő azt mondja: Fogadj  [Fogaggy] el engem úgy, ahogy vagyok, vagy vegyél be gyógyszert, hogy el tudd viselni, amilyen vagyok.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Nő: Vagy elfogadsz [elfogacc] olyannak, amilyen vagyok, vagy beszeded a pirulákat, hogy képes legyél erre. - Frau: Entweder nimmst du mich so, wie ich bin, oder du nimmst Pillen ein, um dazu fähig zu sein.</p>
+<p>1. Nő: Vagy elfogadsz [elfogacc] olyannak, amilyen vagyok, vagy beszeded a pirulákat, hogy képes legyél erre.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -369,7 +369,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nő: Fogadj [Fogaggy] el olyannak, amilyen vagyok, vagy szedj [szeggy] tablettákat, hogy olyannak tudj [tuggy] elfogadni, amilyen vagyok.</p>
+<p>1. Nő: Fogadj [Fogaggy] el olyannak, amilyen vagyok, vagy szedj [szeggy] tablettákat, hogy olyannak tudj [tuggy] elfogadni, amilyen vagyok. - Frau: Nimm mich so, wie ich bin oder nimm Tabletten, damit du mich so nehmen kannst, wie ich bin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -377,7 +377,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nő azt mondja: Fogadj  [Fogaggy] el engem úgy, ahogy vagyok, vagy vegyél be gyógyszert, hogy el tudd viselni, amilyen vagyok.</p>
+<p>1. A nő azt mondja: Fogadj  [Fogaggy] el engem úgy, ahogy vagyok, vagy vegyél be gyógyszert, hogy el tudd viselni, amilyen vagyok. - Frau: Nimm mich so, wie ich bin, oder nimm Medikamente ein, damit du mich so erträgst, wie ich bin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -385,7 +385,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nő: Vagy elfogadsz [elfogacc] olyannak, amilyen vagyok, vagy beszeded a pirulákat, hogy képes legyél erre.</p>
+<p>1. Nő: Vagy elfogadsz [elfogacc] olyannak, amilyen vagyok, vagy beszeded a pirulákat, hogy képes legyél erre. - Frau: Entweder nimmst du mich so, wie ich bin, oder du nimmst Pillen ein, um dazu fähig zu sein.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -438,19 +438,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ma reggel a pszichoterapeutámnál voltam, és meséltem neki az életemről. - Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
-<p>2. Alig tudtam megnyugtatni, annyira sírt. - Ich konnte ihn kaum beruhigen – so sehr hat er geweint.</p>
+<p>1. Ma reggel a pszichoterapeutámnál voltam, és meséltem neki az életemről.</p>
+<p>2. Alig tudtam megnyugtatni, annyira sírt.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ma reggel elmentem a pszichoterapeutához, és elmondtam neki az életem történetét. - Ich war heute Morgen beim Psychotherapeuten und habe ihm meine Lebensgeschichte erzählt.</p>
-<p>2. Úgy elsírta magát, hogy alig tudtam megvigasztalni. - Er weinte so sehr, dass ich ihn kaum trösten konnte.</p>
+<p>1. Ma reggel elmentem a pszichoterapeutához, és elmondtam neki az életem történetét.</p>
+<p>2. Úgy elsírta magát, hogy alig tudtam megvigasztalni.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Reggel a terapeutámnál [terapëutámnál] jártam, és beszámoltam neki az életemről. - Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
-<p>2. A végén nekem kellett megnyugtatni őt, mert teljesen elsírta magát. - Am Ende musste ich ihn beruhigen, weil er so sehr geweint hat.</p>
+<p>1. Reggel a terapeutámnál [terapëutámnál] jártam, és beszámoltam neki az életemről.</p>
+<p>2. A végén nekem kellett megnyugtatni őt, mert teljesen elsírta magát.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -459,11 +459,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ma reggel a pszichoterapeutámnál voltam, és meséltem neki az életemről.</p>
+<p>1. Ma reggel a pszichoterapeutámnál voltam, és meséltem neki az életemről. - Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Alig tudtam megnyugtatni, annyira sírt.</p>
+<p>2. Alig tudtam megnyugtatni, annyira sírt. - Ich konnte ihn kaum beruhigen – so sehr hat er geweint.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -471,11 +471,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ma reggel elmentem a pszichoterapeutához, és elmondtam neki az életem történetét.</p>
+<p>1. Ma reggel elmentem a pszichoterapeutához, és elmondtam neki az életem történetét. - Ich war heute Morgen beim Psychotherapeuten und habe ihm meine Lebensgeschichte erzählt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Úgy elsírta magát, hogy alig tudtam megvigasztalni.</p>
+<p>2. Úgy elsírta magát, hogy alig tudtam megvigasztalni. - Er weinte so sehr, dass ich ihn kaum trösten konnte.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -483,11 +483,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Reggel a terapeutámnál [terapëutámnál] jártam, és beszámoltam neki az életemről.</p>
+<p>1. Reggel a terapeutámnál [terapëutámnál] jártam, és beszámoltam neki az életemről. - Ich war heute Morgen beim Psychotherapeuten und habe ihm von meinem Leben erzählt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A végén nekem kellett megnyugtatni őt, mert teljesen elsírta magát.</p>
+<p>2. A végén nekem kellett megnyugtatni őt, mert teljesen elsírta magát. - Am Ende musste ich ihn beruhigen, weil er so sehr geweint hat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -552,25 +552,25 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Apa ráüvöltött anyára. - Papa hat Mama angeschrien.</p>
-<p>2. Anya leszidta a fiút. - Mama hat mit dem Sohn geschimpft.</p>
-<p>3. A fiú leszidta a macskát. - Der Sohn hat mit der Katze geschimpft.</p>
-<p>4. A macska pedig mindenkinek a cipőjébe szart. - Und die Katze hat allen in die Schuhe geschissen.</p>
+<p>1. Apa ráüvöltött anyára.</p>
+<p>2. Anya leszidta a fiút.</p>
+<p>3. A fiú leszidta a macskát.</p>
+<p>4. A macska pedig mindenkinek a cipőjébe szart.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Apa kiabált anyával. - Papa hat Mama angeschrien.</p>
-<p>2. Anya a fiún vezette le a dühét. - Die Mutter hat ihre Wut an dem Jungen ausgelassen.</p>
-<p>3. A fiú a macskán töltötte ki a mérgét. - Der Junge ließ seine Wut an der Katze aus.</p>
-<p>4. A macska bosszúból mindenkinek a cipőjébe végzett. - Und die Katze hat aus Rache allen in ihre Schuhe gemacht.</p>
+<p>1. Apa kiabált anyával.</p>
+<p>2. Anya a fiún vezette le a dühét.</p>
+<p>3. A fiú a macskán töltötte ki a mérgét.</p>
+<p>4. A macska bosszúból mindenkinek a cipőjébe végzett.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Papa összeveszett Mamával. - Papa hat Mama angeschrien.</p>
-<p>2. Mama rászólt a gyerekre. - Mama hat mit dem Sohn geschimpft.</p>
-<p>3. A gyerek a macskát szidta le. - Der Sohn hat mit der Katze geschimpft.</p>
-<p>4. A macska viszont igazságot [igasságot] szolgáltatott a cipőkben. - Die Katze hat dafür an den Schuhen Rache genommen.</p>
+<p>1. Papa összeveszett Mamával.</p>
+<p>2. Mama rászólt a gyerekre.</p>
+<p>3. A gyerek a macskát szidta le.</p>
+<p>4. A macska viszont igazságot [igasságot] szolgáltatott a cipőkben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -579,19 +579,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Apa ráüvöltött anyára.</p>
+<p>1. Apa ráüvöltött anyára. - Papa hat Mama angeschrien.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Anya leszidta a fiút.</p>
+<p>2. Anya leszidta a fiút. - Mama hat mit dem Sohn geschimpft.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. A fiú leszidta a macskát.</p>
+<p>3. A fiú leszidta a macskát. - Der Sohn hat mit der Katze geschimpft.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. A macska pedig mindenkinek a cipőjébe szart.</p>
+<p>4. A macska pedig mindenkinek a cipőjébe szart. - Und die Katze hat allen in die Schuhe geschissen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -599,19 +599,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Apa kiabált anyával.</p>
+<p>1. Apa kiabált anyával. - Papa hat Mama angeschrien.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Anya a fiún vezette le a dühét.</p>
+<p>2. Anya a fiún vezette le a dühét. - Die Mutter hat ihre Wut an dem Jungen ausgelassen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. A fiú a macskán töltötte ki a mérgét.</p>
+<p>3. A fiú a macskán töltötte ki a mérgét. - Der Junge ließ seine Wut an der Katze aus.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. A macska bosszúból mindenkinek a cipőjébe végzett.</p>
+<p>4. A macska bosszúból mindenkinek a cipőjébe végzett. - Und die Katze hat aus Rache allen in ihre Schuhe gemacht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -619,19 +619,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Papa összeveszett Mamával.</p>
+<p>1. Papa összeveszett Mamával. - Papa hat Mama angeschrien.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Mama rászólt a gyerekre.</p>
+<p>2. Mama rászólt a gyerekre. - Mama hat mit dem Sohn geschimpft.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. A gyerek a macskát szidta le.</p>
+<p>3. A gyerek a macskát szidta le. - Der Sohn hat mit der Katze geschimpft.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. A macska viszont igazságot [igasságot] szolgáltatott a cipőkben.</p>
+<p>4. A macska viszont igazságot [igasságot] szolgáltatott a cipőkben. - Die Katze hat dafür an den Schuhen Rache genommen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -720,16 +720,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. „Nincs szeretet fájdalom nélkül” – mondta a nyúl, és átölelte a sündisznót. - „Liebe gibt es nicht ohne Schmerz“, sagte der Hase und umarmte den Igel.</p>
+<p>1. „Nincs szeretet fájdalom nélkül” – mondta a nyúl, és átölelte a sündisznót.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. „A szeretet mindig jár egy kis fájdalommal” – szólalt meg a nyúl, miközben átkarolta a sündisznót. - „Die Liebe geht immer mit ein wenig Schmerz einher.“, sagte der Hase während er den Igel umarmte.</p>
+<p>1. „A szeretet mindig jár egy kis fájdalommal” – szólalt meg a nyúl, miközben átkarolta a sündisznót.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. „Szeretet nem létezik fájdalom nélkül” – mondta a nyúl, és szorosan megölelte a sündisznót. - „Liebe existiert nicht ohne Schmerz“, sagte der Hase und umarmte den Igel eng.</p>
+<p>1. „Szeretet nem létezik fájdalom nélkül” – mondta a nyúl, és szorosan megölelte a sündisznót.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -738,7 +738,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Nincs szeretet fájdalom nélkül” – mondta a nyúl, és átölelte a sündisznót.</p>
+<p>1. „Nincs szeretet fájdalom nélkül” – mondta a nyúl, és átölelte a sündisznót. - „Liebe gibt es nicht ohne Schmerz“, sagte der Hase und umarmte den Igel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -746,7 +746,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „A szeretet mindig jár egy kis fájdalommal” – szólalt meg a nyúl, miközben átkarolta a sündisznót.</p>
+<p>1. „A szeretet mindig jár egy kis fájdalommal” – szólalt meg a nyúl, miközben átkarolta a sündisznót. - „Die Liebe geht immer mit ein wenig Schmerz einher.“, sagte der Hase während er den Igel umarmte.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -754,7 +754,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Szeretet nem létezik fájdalom nélkül” – mondta a nyúl, és szorosan megölelte a sündisznót.</p>
+<p>1. „Szeretet nem létezik fájdalom nélkül” – mondta a nyúl, és szorosan megölelte a sündisznót. - „Liebe existiert nicht ohne Schmerz“, sagte der Hase und umarmte den Igel eng.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -807,16 +807,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. „Tévedni emberi dolog” – mondta a sündisznó, és leszállt a keféről. - „Irren ist menschlich“, sagte der Igel und stieg von der Bürste.</p>
+<p>1. „Tévedni emberi dolog” – mondta a sündisznó, és leszállt a keféről.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. „Az ember tévedhet” – jegyezte meg a sündisznó, majd lemászott a keféről. - „Menschen können sich irren“, sagte der Igel und kletterte von der Bürste herunter.</p>
+<p>1. „Az ember tévedhet” – jegyezte meg a sündisznó, majd lemászott a keféről.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. „A tévedés az emberi természet része” – mondta a sündisznó, és lelépett a hajkeféről. - „Der Irrtum ist Teil der menschlichen Natur.“, sagte der Igel und stieg von der Haarbürste herunter.</p>
+<p>1. „A tévedés az emberi természet része” – mondta a sündisznó, és lelépett a hajkeféről.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -825,7 +825,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Tévedni emberi dolog” – mondta a sündisznó, és leszállt a keféről.</p>
+<p>1. „Tévedni emberi dolog” – mondta a sündisznó, és leszállt a keféről. - „Irren ist menschlich“, sagte der Igel und stieg von der Bürste.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -833,7 +833,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Az ember tévedhet” – jegyezte meg a sündisznó, majd lemászott a keféről.</p>
+<p>1. „Az ember tévedhet” – jegyezte meg a sündisznó, majd lemászott a keféről. - „Menschen können sich irren“, sagte der Igel und kletterte von der Bürste herunter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -841,7 +841,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „A tévedés az emberi természet része” – mondta a sündisznó, és lelépett a hajkeféről.</p>
+<p>1. „A tévedés az emberi természet része” – mondta a sündisznó, és lelépett a hajkeféről. - „Der Irrtum ist Teil der menschlichen Natur.“, sagte der Igel und stieg von der Haarbürste herunter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -894,14 +894,14 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az élet nem főpróba. - Das Leben ist keine Generalprobe.</p>
+<p>1. Az élet nem főpróba.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az életben nincs lehetőség főpróbára. - Im Leben gibt es keine Gelegenheit für eine Generalprobe.</p>
+<p>1. Az életben nincs lehetőség főpróbára.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -910,7 +910,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az élet nem főpróba.</p>
+<p>1. Az élet nem főpróba. - Das Leben ist keine Generalprobe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -918,7 +918,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az életben nincs lehetőség főpróbára.</p>
+<p>1. Az életben nincs lehetőség főpróbára. - Im Leben gibt es keine Gelegenheit für eine Generalprobe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -963,18 +963,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A szerelmi bánat nem éri meg. - Liebeskummer lohnt sich nicht.</p>
-<p>2. Más anyáknak is vannak szép lányaik. - Andere Mütter haben auch hübsche Töchter.</p>
+<p>1. A szerelmi bánat nem éri meg.</p>
+<p>2. Más anyáknak is vannak szép lányaik.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nem érdemes a szerelmi bánaton rágódni. - Es lohnt sich nicht, auf dem Liebeskummer herumzukauen. (Es lohnt sich nicht, über Liebeskummer zu grübeln.)</p>
-<p>2. Más anyák lányai is csinosak. - Andere Mütter haben auch hübsche Töchter.</p>
+<p>1. Nem érdemes a szerelmi bánaton rágódni.</p>
+<p>2. Más anyák lányai is csinosak.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak szép lányok. - Eine Liebesenttäuschung lohnt sich nicht, denn auch bei anderen Müttern gibt es schöne Töchter.</p>
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak szép lányok.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -983,11 +983,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A szerelmi bánat nem éri meg.</p>
+<p>1. A szerelmi bánat nem éri meg. - Liebeskummer lohnt sich nicht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Más anyáknak is vannak szép lányaik.</p>
+<p>2. Más anyáknak is vannak szép lányaik. - Andere Mütter haben auch hübsche Töchter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -995,11 +995,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem érdemes a szerelmi bánaton rágódni.</p>
+<p>1. Nem érdemes a szerelmi bánaton rágódni. - Es lohnt sich nicht, auf dem Liebeskummer herumzukauen. (Es lohnt sich nicht, über Liebeskummer zu grübeln.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Más anyák lányai is csinosak.</p>
+<p>2. Más anyák lányai is csinosak. - Andere Mütter haben auch hübsche Töchter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1007,7 +1007,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak szép lányok.</p>
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak szép lányok. - Eine Liebesenttäuschung lohnt sich nicht, denn auch bei anderen Müttern gibt es schöne Töchter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1068,16 +1068,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A szerelmi bánat nem éri meg. Más anyáknak is vannak csinos fiaik. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<p>1. A szerelmi bánat nem éri meg. Más anyáknak is vannak csinos fiaik.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nem érdemes a szerelmi bánattal foglalkozni. Más anyák fiai is jóképűek. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<p>1. Nem érdemes a szerelmi bánattal foglalkozni. Más anyák fiai is jóképűek.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak jóképű fiúk. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak jóképű fiúk.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1086,7 +1086,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A szerelmi bánat nem éri meg. Más anyáknak is vannak csinos fiaik.</p>
+<p>1. A szerelmi bánat nem éri meg. Más anyáknak is vannak csinos fiaik. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1094,7 +1094,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem érdemes a szerelmi bánattal foglalkozni. Más anyák fiai is jóképűek.</p>
+<p>1. Nem érdemes a szerelmi bánattal foglalkozni. Más anyák fiai is jóképűek. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1102,7 +1102,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak jóképű fiúk.</p>
+<p>1. A szerelmi csalódás nem kifizetődő, hiszen más anyáknál is akadnak jóképű fiúk. - Liebeskummer lohnt sich nicht. Andere Mütter haben auch hübsche Söhne.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1155,22 +1155,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Nincs fodrászod, akinek ezt el tudnád mesélni? - Hast du keinen Friseur, dem du das erzählen könntest?</p>
-<p>2. Miért nekem mondod ezt? - Warum erzählst du mir das?</p>
-<p>3. Ez engem nem érdekel! - Das interessiert mich nicht!</p>
+<p>1. Nincs fodrászod, akinek ezt el tudnád mesélni?</p>
+<p>2. Miért nekem mondod ezt?</p>
+<p>3. Ez engem nem érdekel!</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nem tudnád ezt inkább a fodrászodnak elmondani? - Warum erzählst du das nicht lieber deinem Friseur?</p>
-<p>2. Miért pont engem zaklatsz [zaklacc] vele? - Warum belästigst du ausgerechnet mich damit?</p>
-<p>3. Egyáltalán nem érdekel. - Das interessiert mich überhaupt nicht.</p>
+<p>1. Nem tudnád ezt inkább a fodrászodnak elmondani?</p>
+<p>2. Miért pont engem zaklatsz [zaklacc] vele?</p>
+<p>3. Egyáltalán nem érdekel.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Nincs valaki más, például a fodrászod, akinek ezt elmondhatnád? - Hast du keinen Anderen, zum Beispiel deinen Friseur, dem du das erzählen kannst?</p>
-<p>2. Miért kell ezt nekem hallgatnom? - Warum muss ich mir das anhören?</p>
-<p>3. Hidegen hagy. - Das lässt mich kalt.</p>
+<p>1. Nincs valaki más, például a fodrászod, akinek ezt elmondhatnád?</p>
+<p>2. Miért kell ezt nekem hallgatnom?</p>
+<p>3. Hidegen hagy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1179,15 +1179,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nincs fodrászod, akinek ezt el tudnád mesélni?</p>
+<p>1. Nincs fodrászod, akinek ezt el tudnád mesélni? - Hast du keinen Friseur, dem du das erzählen könntest?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Miért nekem mondod ezt?</p>
+<p>2. Miért nekem mondod ezt? - Warum erzählst du mir das?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Ez engem nem érdekel!</p>
+<p>3. Ez engem nem érdekel! - Das interessiert mich nicht!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1195,15 +1195,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem tudnád ezt inkább a fodrászodnak elmondani?</p>
+<p>1. Nem tudnád ezt inkább a fodrászodnak elmondani? - Warum erzählst du das nicht lieber deinem Friseur?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Miért pont engem zaklatsz [zaklacc] vele?</p>
+<p>2. Miért pont engem zaklatsz [zaklacc] vele? - Warum belästigst du ausgerechnet mich damit?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Egyáltalán nem érdekel.</p>
+<p>3. Egyáltalán nem érdekel. - Das interessiert mich überhaupt nicht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1211,15 +1211,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nincs valaki más, például a fodrászod, akinek ezt elmondhatnád?</p>
+<p>1. Nincs valaki más, például a fodrászod, akinek ezt elmondhatnád? - Hast du keinen Anderen, zum Beispiel deinen Friseur, dem du das erzählen kannst?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Miért kell ezt nekem hallgatnom?</p>
+<p>2. Miért kell ezt nekem hallgatnom? - Warum muss ich mir das anhören?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Hidegen hagy.</p>
+<p>3. Hidegen hagy. - Das lässt mich kalt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1295,22 +1295,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Miért tegez engem? - Warum duzt du mich?</p>
-<p>2. Őriztünk mi már együtt disznókat? - Haben wir schon mal zusammen Schweine gehütet?</p>
+<p>1. Miért tegez engem?</p>
+<p>2. Őriztünk mi már együtt disznókat?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Miért tegez engem?</p>
+<p>1. Miért tegez engem? - Warum duzt du mich?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Őriztünk mi már együtt disznókat?</p>
+<p>2. Őriztünk mi már együtt disznókat? - Haben wir schon mal zusammen Schweine gehütet?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1346,17 +1346,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Túl forró vízben fürödtél? - Du hast wohl zu heiß gebadet?</p>
+<p>1. Túl forró vízben fürödtél?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Túl forró vízben fürödtél?</p>
+<p>1. Túl forró vízben fürödtél? - Du hast wohl zu heiß gebadet?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1390,17 +1390,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Túl sokáig voltál a napon? - Du warst wohl zu lange in der Sonne?</p>
+<p>1. Túl sokáig voltál a napon?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Túl sokáig voltál a napon?</p>
+<p>1. Túl sokáig voltál a napon? - Du warst wohl zu lange in der Sonne?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1432,17 +1432,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Így kell kifaggatni az embereket. - So fragt man Leute aus.</p>
+<p>1. Így kell kifaggatni az embereket.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Így kell kifaggatni az embereket.</p>
+<p>1. Így kell kifaggatni az embereket. - So fragt man Leute aus.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1475,15 +1475,15 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Tanárok - Lehrer</p>
-<p>2. Délelőtt igazuk van, délután szabadok. - Am Vormittag haben sie recht, am Nachmittag frei.</p>
+<p>1. Tanárok</p>
+<p>2. Délelőtt igazuk van, délután szabadok.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Reggel még igazuk van, délutánra már szabadidő jár. - Am Vormittag haben sie recht, am Nachmittag frei.</p>
+<p>1. Reggel még igazuk van, délutánra már szabadidő jár.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1492,11 +1492,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Tanárok</p>
+<p>1. Tanárok - Lehrer</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Délelőtt igazuk van, délután szabadok.</p>
+<p>2. Délelőtt igazuk van, délután szabadok. - Am Vormittag haben sie recht, am Nachmittag frei.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1504,7 +1504,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Reggel még igazuk van, délutánra már szabadidő jár.</p>
+<p>1. Reggel még igazuk van, délutánra már szabadidő jár. - Am Vormittag haben sie recht, am Nachmittag frei.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1553,18 +1553,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Két dolog végtelen: az univerzum és az emberi ostobaság. - Zwei Dinge sind unendlich: das Universum und die menschliche Dummheit.</p>
-<p>2. Az univerzummal kapcsolatban azonban nem vagyok teljesen biztos. - In Bezug auf das Universum bin ich mir jedoch nicht völlig sicher. (Albert Einstein)</p>
+<p>1. Két dolog végtelen: az univerzum és az emberi ostobaság.</p>
+<p>2. Az univerzummal kapcsolatban azonban nem vagyok teljesen biztos.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Két dolog tűnik végtelennek: a világegyetem és az emberi butaság. - Zwei Dinge scheinen unendlich zu sein, das Universum und die menschliche Dummheit.</p>
-<p>2. Az elsőnél azért vannak kétségeim. - Beim Ersteren bin ich etwas im Zweifel. (Albert Einstein)</p>
+<p>1. Két dolog tűnik végtelennek: a világegyetem és az emberi butaság.</p>
+<p>2. Az elsőnél azért vannak kétségeim.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Végtelennek látszik az univerzum és az emberi hülyeség – bár az univerzum esetében nem vagyok teljesen meggyőződve. - Das Universum und die menschliche :Dummheit scheinen unendlich zu sein, obwohl ich beim Universum nicht ganz überzeugt bin.  (Albert Einstein)</p>
+<p>1. Végtelennek látszik az univerzum és az emberi hülyeség – bár az univerzum esetében nem vagyok teljesen meggyőződve.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1573,11 +1573,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Két dolog végtelen: az univerzum és az emberi ostobaság.</p>
+<p>1. Két dolog végtelen: az univerzum és az emberi ostobaság. - Zwei Dinge sind unendlich: das Universum und die menschliche Dummheit.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az univerzummal kapcsolatban azonban nem vagyok teljesen biztos.</p>
+<p>2. Az univerzummal kapcsolatban azonban nem vagyok teljesen biztos. - In Bezug auf das Universum bin ich mir jedoch nicht völlig sicher. (Albert Einstein)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1585,11 +1585,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Két dolog tűnik végtelennek: a világegyetem és az emberi butaság.</p>
+<p>1. Két dolog tűnik végtelennek: a világegyetem és az emberi butaság. - Zwei Dinge scheinen unendlich zu sein, das Universum und die menschliche Dummheit.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az elsőnél azért vannak kétségeim.</p>
+<p>2. Az elsőnél azért vannak kétségeim. - Beim Ersteren bin ich etwas im Zweifel. (Albert Einstein)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1597,7 +1597,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Végtelennek látszik az univerzum és az emberi hülyeség – bár az univerzum esetében nem vagyok teljesen meggyőződve.</p>
+<p>1. Végtelennek látszik az univerzum és az emberi hülyeség – bár az univerzum esetében nem vagyok teljesen meggyőződve. - Das Universum und die menschliche :Dummheit scheinen unendlich zu sein, obwohl ich beim Universum nicht ganz überzeugt bin.  (Albert Einstein)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1658,19 +1658,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A rovarok közül leginkább az imádkozó sáskát csodálom. - Unter den Insekten bewundere ich am meisten die Gottesanbeterin.</p>
-<p>2. Párzás után megeszi a hímet, majd elfelejti. - Sie frisst nach der Paarung das Männchen auf und vergisst es.</p>
+<p>1. A rovarok közül leginkább az imádkozó sáskát csodálom.</p>
+<p>2. Párzás után megeszi a hímet, majd elfelejti.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A rovarvilágban számomra az imádkozó sáska a leglenyűgözőbb. - Für mich ist in der Insektenwelt die Gottesanbeterin am beeindruckendsten.</p>
-<p>2. A párzás után elfogyasztja a hímet, és továbblép. - Sie frisst nach der Paarung das Männchen auf und geht weiter.</p>
+<p>1. A rovarvilágban számomra az imádkozó sáska a leglenyűgözőbb.</p>
+<p>2. A párzás után elfogyasztja a hímet, és továbblép.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Az összes rovar közül az imádkozó sáskát tisztelem a legjobban. - Unter allen Insekten achte ich Gottesanbeterin am meisten.</p>
-<p>2. Párzás után felfalja a hímet, majd elfelejti. - Nach der Paarung verschlingt sie das Männchen auf und vergisst es.</p>
+<p>1. Az összes rovar közül az imádkozó sáskát tisztelem a legjobban.</p>
+<p>2. Párzás után felfalja a hímet, majd elfelejti.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1679,11 +1679,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A rovarok közül leginkább az imádkozó sáskát csodálom.</p>
+<p>1. A rovarok közül leginkább az imádkozó sáskát csodálom. - Unter den Insekten bewundere ich am meisten die Gottesanbeterin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Párzás után megeszi a hímet, majd elfelejti.</p>
+<p>2. Párzás után megeszi a hímet, majd elfelejti. - Sie frisst nach der Paarung das Männchen auf und vergisst es.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1691,11 +1691,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A rovarvilágban számomra az imádkozó sáska a leglenyűgözőbb.</p>
+<p>1. A rovarvilágban számomra az imádkozó sáska a leglenyűgözőbb. - Für mich ist in der Insektenwelt die Gottesanbeterin am beeindruckendsten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A párzás után elfogyasztja a hímet, és továbblép.</p>
+<p>2. A párzás után elfogyasztja a hímet, és továbblép. - Sie frisst nach der Paarung das Männchen auf und geht weiter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1703,11 +1703,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az összes rovar közül az imádkozó sáskát tisztelem a legjobban.</p>
+<p>1. Az összes rovar közül az imádkozó sáskát tisztelem a legjobban. - Unter allen Insekten achte ich Gottesanbeterin am meisten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Párzás után felfalja a hímet, majd elfelejti.</p>
+<p>2. Párzás után felfalja a hímet, majd elfelejti. - Nach der Paarung verschlingt sie das Männchen auf und vergisst es.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1772,19 +1772,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Sokan azt gondolják, hogy ha a feleségük rosszkedvű, akkor neki problémája van. - Viele denken, wenn ihre Frau schlecht gelaunt ist, dann hat sie Probleme.</p>
-<p>2. Valójában azonban nekik van problémájuk, ha a feleségük rosszkedvű. - In Wirklichkeit haben sie jedoch ein Problem, wenn ihre Frau schlecht gelaunt ist.</p>
+<p>1. Sokan azt gondolják, hogy ha a feleségük rosszkedvű, akkor neki problémája van.</p>
+<p>2. Valójában azonban nekik van problémájuk, ha a feleségük rosszkedvű.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Sok férfi úgy véli (= vélekedik), hogy a rosszkedvű feleség problémás. - Viele glauben, eine schlecht gelaunte Frau problematisch ist.</p>
-<p>2. Az igazság az, hogy ilyenkor a férjnek van gondja. - Die Wahrheit ist, dass in solchen Fällen der Ehemann ein Problem hat.</p>
+<p>1. Sok férfi úgy véli (= vélekedik), hogy a rosszkedvű feleség problémás.</p>
+<p>2. Az igazság az, hogy ilyenkor a férjnek van gondja.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Gyakori tévedés, hogy a feleség rossz hangulata az ő baja lenne. - Ein häufiger Irrtum ist, dass die schlechte Laune der Ehefrau ihr Problem ist sei.</p>
-<p>2. Pedig ilyenkor valójában a férj kerül bajba. - Und doch gerät in solchen Fällen in Wirklichkeit der Ehemann in Schwierigkeiten.</p>
+<p>1. Gyakori tévedés, hogy a feleség rossz hangulata az ő baja lenne.</p>
+<p>2. Pedig ilyenkor valójában a férj kerül bajba.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1793,11 +1793,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sokan azt gondolják, hogy ha a feleségük rosszkedvű, akkor neki problémája van.</p>
+<p>1. Sokan azt gondolják, hogy ha a feleségük rosszkedvű, akkor neki problémája van. - Viele denken, wenn ihre Frau schlecht gelaunt ist, dann hat sie Probleme.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Valójában azonban nekik van problémájuk, ha a feleségük rosszkedvű.</p>
+<p>2. Valójában azonban nekik van problémájuk, ha a feleségük rosszkedvű. - In Wirklichkeit haben sie jedoch ein Problem, wenn ihre Frau schlecht gelaunt ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1805,11 +1805,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sok férfi úgy véli (= vélekedik), hogy a rosszkedvű feleség problémás.</p>
+<p>1. Sok férfi úgy véli (= vélekedik), hogy a rosszkedvű feleség problémás. - Viele glauben, eine schlecht gelaunte Frau problematisch ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az igazság az, hogy ilyenkor a férjnek van gondja.</p>
+<p>2. Az igazság az, hogy ilyenkor a férjnek van gondja. - Die Wahrheit ist, dass in solchen Fällen der Ehemann ein Problem hat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1817,11 +1817,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Gyakori tévedés, hogy a feleség rossz hangulata az ő baja lenne.</p>
+<p>1. Gyakori tévedés, hogy a feleség rossz hangulata az ő baja lenne. - Ein häufiger Irrtum ist, dass die schlechte Laune der Ehefrau ihr Problem ist sei.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Pedig ilyenkor valójában a férj kerül bajba.</p>
+<p>2. Pedig ilyenkor valójában a férj kerül bajba. - Und doch gerät in solchen Fällen in Wirklichkeit der Ehemann in Schwierigkeiten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

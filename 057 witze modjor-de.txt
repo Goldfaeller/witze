@@ -48,16 +48,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A ti szegénységetek undorít. (Egy Porsche-n lévő matrica.) - Eure Armut kotzt mich an. (Aufkleber auf einem Porsche.)</p>
+<p>1. A ti szegénységetek undorít. (Egy Porsche-n lévő matrica.)</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Undorodom a szegénységetektől. (Egy Porsche-re ragasztott matrica.) - Eure Armut widert mich an. (Aufkleber auf einem Porsche.)</p>
+<p>1. Undorodom a szegénységetektől. (Egy Porsche-re ragasztott matrica.)</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A szegénységetek hányingerkeltő. (Felirat egy Porsche-n.) - Eure Armut ist zum Kotzen. (Aufkleber auf einem Porsche.)</p>
+<p>1. A szegénységetek hányingerkeltő. (Felirat egy Porsche-n.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -66,7 +66,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A ti szegénységetek undorít. (Egy Porsche-n lévő matrica.)</p>
+<p>1. A ti szegénységetek undorít. (Egy Porsche-n lévő matrica.) - Eure Armut kotzt mich an. (Aufkleber auf einem Porsche.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,7 +74,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Undorodom a szegénységetektől. (Egy Porsche-re ragasztott matrica.)</p>
+<p>1. Undorodom a szegénységetektől. (Egy Porsche-re ragasztott matrica.) - Eure Armut widert mich an. (Aufkleber auf einem Porsche.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -82,7 +82,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A szegénységetek hányingerkeltő. (Felirat egy Porsche-n.)</p>
+<p>1. A szegénységetek hányingerkeltő. (Felirat egy Porsche-n.) - Eure Armut ist zum Kotzen. (Aufkleber auf einem Porsche.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -135,16 +135,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A hosszú, boldog élet titka egyszerű. De a titok az titok. - Das Geheimnis eines langen, glücklichen Lebens ist einfach. Aber Geheimnis ist Geheimnis.</p>
+<p>1. A hosszú, boldog élet titka egyszerű. De a titok az titok.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Egy hosszú és boldog élet titka nagyon egyszerű. Csakhogy a titok maradjon titok. - Das Geheimnis eines langen, glücklichen Lebens ist sehr einfach. Aber ein Geheimnis bleibt ein Geheimnis.</p>
+<p>1. Egy hosszú és boldog élet titka nagyon egyszerű. Csakhogy a titok maradjon titok.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A hosszú, boldog életnek megvan az egyszerű titka. De a titokról nem beszélünk. - Das Geheimnis eines langen, glücklichen Lebens ist einfach. Aber über das Geheimnis spricht man nicht.</p>
+<p>1. A hosszú, boldog életnek megvan az egyszerű titka. De a titokról nem beszélünk.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -153,7 +153,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A hosszú, boldog élet titka egyszerű. De a titok az titok.</p>
+<p>1. A hosszú, boldog élet titka egyszerű. De a titok az titok. - Das Geheimnis eines langen, glücklichen Lebens ist einfach. Aber Geheimnis ist Geheimnis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -161,7 +161,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy hosszú és boldog élet titka nagyon egyszerű. Csakhogy a titok maradjon titok.</p>
+<p>1. Egy hosszú és boldog élet titka nagyon egyszerű. Csakhogy a titok maradjon titok. - Das Geheimnis eines langen, glücklichen Lebens ist sehr einfach. Aber ein Geheimnis bleibt ein Geheimnis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -169,7 +169,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A hosszú, boldog életnek megvan az egyszerű titka. De a titokról nem beszélünk.</p>
+<p>1. A hosszú, boldog életnek megvan az egyszerű titka. De a titokról nem beszélünk. - Das Geheimnis eines langen, glücklichen Lebens ist einfach. Aber über das Geheimnis spricht man nicht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -222,16 +222,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Anya, csukd be a konyhaajtót, nem tudom nézni, ahogy dolgozol! - Mutter, mach die Küchentür zu, ich kann dich nicht arbeiten sehen!</p>
+<p>1. Anya, csukd be a konyhaajtót, nem tudom nézni, ahogy dolgozol!</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Mama, zárd be a konyhaajtót, nem tudom elviselni, hogy látom, ahogy dolgozol. - Mutter, schließ die Küchentür, ich halte es nicht aus, dich arbeiten zu sehen.</p>
+<p>1. Mama, zárd be a konyhaajtót, nem tudom elviselni, hogy látom, ahogy dolgozol.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Anya, tedd be a konyhaajtót, nem tudom elnézni, hogy munkában vagy. - Mutter, mach die Küchentür zu, ich ertrage es nicht, dich bei der Arbeit zu sehen.</p>
+<p>1. Anya, tedd be a konyhaajtót, nem tudom elnézni, hogy munkában vagy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -240,7 +240,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Anya, csukd be a konyhaajtót, nem tudom nézni, ahogy dolgozol!</p>
+<p>1. Anya, csukd be a konyhaajtót, nem tudom nézni, ahogy dolgozol! - Mutter, mach die Küchentür zu, ich kann dich nicht arbeiten sehen!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -248,7 +248,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mama, zárd be a konyhaajtót, nem tudom elviselni, hogy látom, ahogy dolgozol.</p>
+<p>1. Mama, zárd be a konyhaajtót, nem tudom elviselni, hogy látom, ahogy dolgozol. - Mutter, schließ die Küchentür, ich halte es nicht aus, dich arbeiten zu sehen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -256,7 +256,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Anya, tedd be a konyhaajtót, nem tudom elnézni, hogy munkában vagy.</p>
+<p>1. Anya, tedd be a konyhaajtót, nem tudom elnézni, hogy munkában vagy. - Mutter, mach die Küchentür zu, ich ertrage es nicht, dich bei der Arbeit zu sehen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -309,16 +309,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ha a férjed azt mondta, hogy kerti házat fog építeni, akkor meg is fogja csinálni. Nem kell minden nyáron újra emlékeztetned rá. - Wenn dein Mann gesagt hat, dass er ein Gartenhäuschen bauen wird, dann wird er es auch tun. Du brauchst ihn nicht jeden Sommer wieder daran erinnern.</p>
+<p>1. Ha a férjed azt mondta, hogy kerti házat fog építeni, akkor meg is fogja csinálni. Nem kell minden nyáron újra emlékeztetned rá.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ha a férj kijelentette, hogy épít egy kerti házikót, akkor azt meg is teszi. Nem szükséges minden nyáron újra szóba hozni. - Wenn der Mann gesagt hat, dass er ein Gartenhäuschen bauen wird, dann tut er das auch. Man muss ihn nicht jeden Sommer erneut daran erinnern.</p>
+<p>1. Ha a férj kijelentette, hogy épít egy kerti házikót, akkor azt meg is teszi. Nem szükséges minden nyáron újra szóba hozni.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Amikor a férjed megígéri, hogy kerti házat épít, az úgy is lesz. Nem kell neki minden nyáron ismét felhozni. - Wenn dein Mann versprochen hat, ein Gartenhäuschen zu bauen, dann wird es auch geschehen. Du musst ihn nicht jeden Sommer wieder daran erinnern.</p>
+<p>1. Amikor a férjed megígéri, hogy kerti házat épít, az úgy is lesz. Nem kell neki minden nyáron ismét felhozni.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -327,7 +327,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha a férjed azt mondta, hogy kerti házat fog építeni, akkor meg is fogja csinálni. Nem kell minden nyáron újra emlékeztetned rá.</p>
+<p>1. Ha a férjed azt mondta, hogy kerti házat fog építeni, akkor meg is fogja csinálni. Nem kell minden nyáron újra emlékeztetned rá. - Wenn dein Mann gesagt hat, dass er ein Gartenhäuschen bauen wird, dann wird er es auch tun. Du brauchst ihn nicht jeden Sommer wieder daran erinnern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -335,7 +335,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha a férj kijelentette, hogy épít egy kerti házikót, akkor azt meg is teszi. Nem szükséges minden nyáron újra szóba hozni.</p>
+<p>1. Ha a férj kijelentette, hogy épít egy kerti házikót, akkor azt meg is teszi. Nem szükséges minden nyáron újra szóba hozni. - Wenn der Mann gesagt hat, dass er ein Gartenhäuschen bauen wird, dann tut er das auch. Man muss ihn nicht jeden Sommer erneut daran erinnern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -343,7 +343,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amikor a férjed megígéri, hogy kerti házat épít, az úgy is lesz. Nem kell neki minden nyáron ismét felhozni.</p>
+<p>1. Amikor a férjed megígéri, hogy kerti házat épít, az úgy is lesz. Nem kell neki minden nyáron ismét felhozni. - Wenn dein Mann versprochen hat, ein Gartenhäuschen zu bauen, dann wird es auch geschehen. Du musst ihn nicht jeden Sommer wieder daran erinnern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -396,16 +396,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Önnek is feltűnt már, hogy minden főnök szereti a reggel pontos alkalmazottakat, este viszont ki nem állhatja őket? - Ist Ihnen auch schon aufgefallen, dass alle Chefs morgens pünktliche Angestellte lieben, sie aber abends nicht ausstehen können?</p>
+<p>1. Önnek is feltűnt már, hogy minden főnök szereti a reggel pontos alkalmazottakat, este viszont ki nem állhatja őket?</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ön is észrevette már, hogy a főnökök reggel imádják a pontos dolgozókat, estére viszont idegesítik őket? - Haben Sie auch schon bemerkt, dass Chefs morgens die pünktlichen Mitarbeiter lieben, sie am Abend jedoch nerven?</p>
+<p>1. Ön is észrevette már, hogy a főnökök reggel imádják a pontos dolgozókat, estére viszont idegesítik őket?</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Nem tűnt még fel, hogy a főnökök reggel szeretik a pontos alkalmazottakat, de munkaidő végén már nem kedvelik őket? - Ist Ihnen nicht schon aufgefallen, dass Chefs pünktliche Angestellte morgens mögen, sie am Abend jedoch nicht mehr leiden können?</p>
+<p>1. Nem tűnt még fel, hogy a főnökök reggel szeretik a pontos alkalmazottakat, de munkaidő végén már nem kedvelik őket?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -414,7 +414,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Önnek is feltűnt már, hogy minden főnök szereti a reggel pontos alkalmazottakat, este viszont ki nem állhatja őket?</p>
+<p>1. Önnek is feltűnt már, hogy minden főnök szereti a reggel pontos alkalmazottakat, este viszont ki nem állhatja őket? - Ist Ihnen auch schon aufgefallen, dass alle Chefs morgens pünktliche Angestellte lieben, sie aber abends nicht ausstehen können?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -422,7 +422,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ön is észrevette már, hogy a főnökök reggel imádják a pontos dolgozókat, estére viszont idegesítik őket?</p>
+<p>1. Ön is észrevette már, hogy a főnökök reggel imádják a pontos dolgozókat, estére viszont idegesítik őket? - Haben Sie auch schon bemerkt, dass Chefs morgens die pünktlichen Mitarbeiter lieben, sie am Abend jedoch nerven?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -430,7 +430,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem tűnt még fel, hogy a főnökök reggel szeretik a pontos alkalmazottakat, de munkaidő végén már nem kedvelik őket?</p>
+<p>1. Nem tűnt még fel, hogy a főnökök reggel szeretik a pontos alkalmazottakat, de munkaidő végén már nem kedvelik őket? - Ist Ihnen nicht schon aufgefallen, dass Chefs pünktliche Angestellte morgens mögen, sie am Abend jedoch nicht mehr leiden können?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -485,16 +485,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A legtöbbet választások előtt, szex előtt és egy horgászkirándulás után hazudnak. - Am meisten wird vor Wahlen, vor dem Sex und nach einem Anglerausflug gelogen.</p>
+<p>1. A legtöbbet választások előtt, szex előtt és egy horgászkirándulás után hazudnak.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az emberek leginkább a választások előtt, a szex előtt és egy horgásztúra után hazudnak. - Die Menschen lügen am meisten vor Wahlen, vor dem Sex und nach einem Angelausflug.</p>
+<p>1. Az emberek leginkább a választások előtt, a szex előtt és egy horgásztúra után hazudnak.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A hazugságok csúcspontja választások előtt, szex előtt és egy horgászat után van. - Die Hochphase der Lügen liegt vor Wahlen, vor dem Sex und nach dem Angeln.</p>
+<p>1. A hazugságok csúcspontja választások előtt, szex előtt és egy horgászat után van.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -503,7 +503,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A legtöbbet választások előtt, szex előtt és egy horgászkirándulás után hazudnak.</p>
+<p>1. A legtöbbet választások előtt, szex előtt és egy horgászkirándulás után hazudnak. - Am meisten wird vor Wahlen, vor dem Sex und nach einem Anglerausflug gelogen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -511,7 +511,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az emberek leginkább a választások előtt, a szex előtt és egy horgásztúra után hazudnak.</p>
+<p>1. Az emberek leginkább a választások előtt, a szex előtt és egy horgásztúra után hazudnak. - Die Menschen lügen am meisten vor Wahlen, vor dem Sex und nach einem Angelausflug.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -519,7 +519,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A hazugságok csúcspontja választások előtt, szex előtt és egy horgászat után van.</p>
+<p>1. A hazugságok csúcspontja választások előtt, szex előtt és egy horgászat után van. - Die Hochphase der Lügen liegt vor Wahlen, vor dem Sex und nach dem Angeln.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -572,16 +572,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ha egyszer már tönkrement a hírnév, teljesen gátlástalanul lehet élni. - Ist der Ruf erst ruiniert, lebt’s sich völlig ungeniert.</p>
+<p>1. Ha egyszer már tönkrement a hírnév, teljesen gátlástalanul lehet élni.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ha a jó hírnév odavan, az ember gond nélkül él tovább. - Ist der Ruf ruiniert, lebt es sich ganz ungeniert. (wörtlich: Wenn der gute Ruf dahin ist, lebt der Mensch ohne Bedenken weiter.)</p>
+<p>1. Ha a jó hírnév odavan, az ember gond nélkül él tovább.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Amint elvész a hírnév, minden gát eltűnik az életben. - Sobald der Ruf dahin ist, lebt man völlig ungeniert. (wörtlich: Sobald der Ruf verloren geht, verschwinden im Leben alle Hemmungen.)</p>
+<p>1. Amint elvész a hírnév, minden gát eltűnik az életben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -590,7 +590,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha egyszer már tönkrement a hírnév, teljesen gátlástalanul lehet élni.</p>
+<p>1. Ha egyszer már tönkrement a hírnév, teljesen gátlástalanul lehet élni. - Ist der Ruf erst ruiniert, lebt’s sich völlig ungeniert.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -598,7 +598,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha a jó hírnév odavan, az ember gond nélkül él tovább.</p>
+<p>1. Ha a jó hírnév odavan, az ember gond nélkül él tovább. - Ist der Ruf ruiniert, lebt es sich ganz ungeniert. (wörtlich: Wenn der gute Ruf dahin ist, lebt der Mensch ohne Bedenken weiter.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -606,7 +606,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amint elvész a hírnév, minden gát eltűnik az életben.</p>
+<p>1. Amint elvész a hírnév, minden gát eltűnik az életben. - Sobald der Ruf dahin ist, lebt man völlig ungeniert. (wörtlich: Sobald der Ruf verloren geht, verschwinden im Leben alle Hemmungen.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -659,16 +659,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ne vezess gyorsabban, mint ahogy az őrangyalod repülni tud. - Fahr nicht schneller, als dein Schutzengel fliegen kann.</p>
+<p>1. Ne vezess gyorsabban, mint ahogy az őrangyalod repülni tud.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ne hajts gyorsabban annál, amit az őrangyalod még követni tud. - Fahr nicht schneller, als dein Schutzengel noch folgen kann.</p>
+<p>1. Ne hajts gyorsabban annál, amit az őrangyalod még követni tud.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ne lépd túl azt a sebességet, amit az őrangyalod is bír. - Überschreite nicht die Geschwindigkeit, die dein Schutzengel auch noch aushält.</p>
+<p>1. Ne lépd túl azt a sebességet, amit az őrangyalod is bír.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -677,7 +677,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ne vezess gyorsabban, mint ahogy az őrangyalod repülni tud.</p>
+<p>1. Ne vezess gyorsabban, mint ahogy az őrangyalod repülni tud. - Fahr nicht schneller, als dein Schutzengel fliegen kann.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -685,7 +685,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ne hajts gyorsabban annál, amit az őrangyalod még követni tud.</p>
+<p>1. Ne hajts gyorsabban annál, amit az őrangyalod még követni tud. - Fahr nicht schneller, als dein Schutzengel noch folgen kann.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -693,7 +693,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ne lépd túl azt a sebességet, amit az őrangyalod is bír.</p>
+<p>1. Ne lépd túl azt a sebességet, amit az őrangyalod is bír. - Überschreite nicht die Geschwindigkeit, die dein Schutzengel auch noch aushält.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -746,16 +746,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Nincs olyan, hogy valódi semmi, mert még a semmi is valami, mégpedig „semmi”. - Es gibt nichts, das wirklich nichts ist, denn selbst das Nichts ist auch ein Etwas – nämlich „Nichts“.</p>
+<p>1. Nincs olyan, hogy valódi semmi, mert még a semmi is valami, mégpedig „semmi”.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nem létezik igazi semmi, hiszen a semmi maga is valami: a „semmi”. - Es gibt kein echtes Nichts, denn das Nichts selbst ist auch etwas: das „Nichts“.</p>
+<p>1. Nem létezik igazi semmi, hiszen a semmi maga is valami: a „semmi”.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Valódi semmi nem létezik, mert még a semmi is létező dolog, még ha „semmi”-nek hívjuk is. - Ein wirkliches Nichts existiert nicht, denn selbst das Nichts ist etwas Existierendes, auch wenn wir es „Nichts“ nennen.</p>
+<p>1. Valódi semmi nem létezik, mert még a semmi is létező dolog, még ha „semmi”-nek hívjuk is.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -764,7 +764,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nincs olyan, hogy valódi semmi, mert még a semmi is valami, mégpedig „semmi”.</p>
+<p>1. Nincs olyan, hogy valódi semmi, mert még a semmi is valami, mégpedig „semmi”. - Es gibt nichts, das wirklich nichts ist, denn selbst das Nichts ist auch ein Etwas – nämlich „Nichts“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -772,7 +772,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem létezik igazi semmi, hiszen a semmi maga is valami: a „semmi”.</p>
+<p>1. Nem létezik igazi semmi, hiszen a semmi maga is valami: a „semmi”. - Es gibt kein echtes Nichts, denn das Nichts selbst ist auch etwas: das „Nichts“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -780,7 +780,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Valódi semmi nem létezik, mert még a semmi is létező dolog, még ha „semmi”-nek hívjuk is.</p>
+<p>1. Valódi semmi nem létezik, mert még a semmi is létező dolog, még ha „semmi”-nek hívjuk is. - Ein wirkliches Nichts existiert nicht, denn selbst das Nichts ist etwas Existierendes, auch wenn wir es „Nichts“ nennen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -833,16 +833,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A „szoros” után jön a „nagyon szoros”, és a „nagyon szoros” után jön a „teljesen laza”. - Nach „fest“ kommt „ganz fest“, und nach „ganz fest“ kommt „ganz locker“.</p>
+<p>1. A „szoros” után jön a „nagyon szoros”, és a „nagyon szoros” után jön a „teljesen laza”.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A „feszes” után a „nagyon feszes” következik, a „nagyon feszes” után pedig a „teljesen laza”. - Nach „fest“ folgt „ganz fest“, und nach „ganz fest“ folgt „ganz locker“.</p>
+<p>1. A „feszes” után a „nagyon feszes” következik, a „nagyon feszes” után pedig a „teljesen laza”.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Először „szoros”, aztán „egészen szoros”, végül pedig „egészen laza”. - Erst kommt „fest“, dann „ganz fest“, und nach „ganz fest“ kommt „ganz locker“.</p>
+<p>1. Először „szoros”, aztán „egészen szoros”, végül pedig „egészen laza”.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -851,7 +851,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A „szoros” után jön a „nagyon szoros”, és a „nagyon szoros” után jön a „teljesen laza”.</p>
+<p>1. A „szoros” után jön a „nagyon szoros”, és a „nagyon szoros” után jön a „teljesen laza”. - Nach „fest“ kommt „ganz fest“, und nach „ganz fest“ kommt „ganz locker“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -859,7 +859,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A „feszes” után a „nagyon feszes” következik, a „nagyon feszes” után pedig a „teljesen laza”.</p>
+<p>1. A „feszes” után a „nagyon feszes” következik, a „nagyon feszes” után pedig a „teljesen laza”. - Nach „fest“ folgt „ganz fest“, und nach „ganz fest“ folgt „ganz locker“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -867,7 +867,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Először „szoros”, aztán „egészen szoros”, végül pedig „egészen laza”.</p>
+<p>1. Először „szoros”, aztán „egészen szoros”, végül pedig „egészen laza”. - Erst kommt „fest“, dann „ganz fest“, und nach „ganz fest“ kommt „ganz locker“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -920,16 +920,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Félrészegen lenni kidobott pénz. - Halb besoffen ist rausgeschmissenes Geld.</p>
+<p>1. Félrészegen lenni kidobott pénz.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A félrészegség pénzkidobás. - Halb besoffen ist rausgeschmissenes Geld.</p>
+<p>1. A félrészegség pénzkidobás.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Csak félig berúgni tiszta pénzpazarlás. - Nur halb besoffen ist Geldverschwendung.</p>
+<p>1. Csak félig berúgni tiszta pénzpazarlás.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -938,7 +938,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Félrészegen lenni kidobott pénz.</p>
+<p>1. Félrészegen lenni kidobott pénz. - Halb besoffen ist rausgeschmissenes Geld.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -946,7 +946,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A félrészegség pénzkidobás.</p>
+<p>1. A félrészegség pénzkidobás. - Halb besoffen ist rausgeschmissenes Geld.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -954,7 +954,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Csak félig berúgni tiszta pénzpazarlás.</p>
+<p>1. Csak félig berúgni tiszta pénzpazarlás. - Nur halb besoffen ist Geldverschwendung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1007,14 +1007,14 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Inkább legyek egy idegen nő szeretője, mint egy idegen szerető férje. - Lieber der Liebhaber einer fremden Frau sein, als der Mann einer fremden Geliebten.</p>
+<p>1. Inkább legyek egy idegen nő szeretője, mint egy idegen szerető férje.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Jobb egy más nő szeretőjének lenni, mint egy olyan nő férjének, aki mást szeret. - Lieber der Liebhaber einer fremden Frau sein, als der Mann einer fremden Geliebten.</p>
+<p>1. Jobb egy más nő szeretőjének lenni, mint egy olyan nő férjének, aki mást szeret.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1023,7 +1023,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Inkább legyek egy idegen nő szeretője, mint egy idegen szerető férje.</p>
+<p>1. Inkább legyek egy idegen nő szeretője, mint egy idegen szerető férje. - Lieber der Liebhaber einer fremden Frau sein, als der Mann einer fremden Geliebten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1031,7 +1031,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Jobb egy más nő szeretőjének lenni, mint egy olyan nő férjének, aki mást szeret.</p>
+<p>1. Jobb egy más nő szeretőjének lenni, mint egy olyan nő férjének, aki mást szeret. - Lieber der Liebhaber einer fremden Frau sein, als der Mann einer fremden Geliebten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1076,16 +1076,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Jaj, ember, ezeknek a nőknek egyáltalán nincs lelkiismeretük. A bugyijait a törölközőkkel mossa együtt, az én alsónadrágjaimat meg a zoknikkal. - Oh Mann, diese Frauen haben überhaupt kein Gewissen. Ihre Höschen wäscht sie zusammen mit den Handtüchern und meine Unterhosen mit den Socken.</p>
+<p>1. Jaj, ember, ezeknek a nőknek egyáltalán nincs lelkiismeretük. A bugyijait a törölközőkkel mossa együtt, az én alsónadrágjaimat meg a zoknikkal.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Te jó ég, ezeknek a nőknek nincs semmi lelkiismeretük. Az alsóit a törölközőkkel mossa, az én alsóneműmet pedig a zoknikkal. - Mann oh Mann, diese Frauen haben kein Gewissen. Ihre Höschen wäscht sie mit den Handtüchern und meine Unterwäsche mit den Socken.</p>
+<p>1. Te jó ég, ezeknek a nőknek nincs semmi lelkiismeretük. Az alsóit a törölközőkkel mossa, az én alsóneműmet pedig a zoknikkal.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Hát ez kész, ezeknek a nőknek nincs lelkiismeretük. A bugyijait a törölközők közé teszi, az én alsónadrágjaimat meg a zoknikhoz. - Oh Mann, diese Frauen haben kein Gewissen. Ihre Höschen kommen zu den Handtüchern, meine Unterhosen zu den Socken.</p>
+<p>1. Hát ez kész, ezeknek a nőknek nincs lelkiismeretük. A bugyijait a törölközők közé teszi, az én alsónadrágjaimat meg a zoknikhoz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1094,7 +1094,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Jaj, ember, ezeknek a nőknek egyáltalán nincs lelkiismeretük. A bugyijait a törölközőkkel mossa együtt, az én alsónadrágjaimat meg a zoknikkal.</p>
+<p>1. Jaj, ember, ezeknek a nőknek egyáltalán nincs lelkiismeretük. A bugyijait a törölközőkkel mossa együtt, az én alsónadrágjaimat meg a zoknikkal. - Oh Mann, diese Frauen haben überhaupt kein Gewissen. Ihre Höschen wäscht sie zusammen mit den Handtüchern und meine Unterhosen mit den Socken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1102,7 +1102,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Te jó ég, ezeknek a nőknek nincs semmi lelkiismeretük. Az alsóit a törölközőkkel mossa, az én alsóneműmet pedig a zoknikkal.</p>
+<p>1. Te jó ég, ezeknek a nőknek nincs semmi lelkiismeretük. Az alsóit a törölközőkkel mossa, az én alsóneműmet pedig a zoknikkal. - Mann oh Mann, diese Frauen haben kein Gewissen. Ihre Höschen wäscht sie mit den Handtüchern und meine Unterwäsche mit den Socken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1110,7 +1110,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Hát ez kész, ezeknek a nőknek nincs lelkiismeretük. A bugyijait a törölközők közé teszi, az én alsónadrágjaimat meg a zoknikhoz.</p>
+<p>1. Hát ez kész, ezeknek a nőknek nincs lelkiismeretük. A bugyijait a törölközők közé teszi, az én alsónadrágjaimat meg a zoknikhoz. - Oh Mann, diese Frauen haben kein Gewissen. Ihre Höschen kommen zu den Handtüchern, meine Unterhosen zu den Socken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1163,19 +1163,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Reggel a tükör előtt: sürgősen fogynom kell. - Früh vor dem Spiegel: Ich muss dringend abnehmen.</p>
-<p>2. Este a hűtő előtt: szeressen csak úgy, ahogy vagyok. - Abends vor dem Kühlschrank: Soll er mich doch so lieben, wie ich bin.</p>
+<p>1. Reggel a tükör előtt: sürgősen fogynom kell.</p>
+<p>2. Este a hűtő előtt: szeressen csak úgy, ahogy vagyok.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Reggel a tükörben nézve: le kell fogynom, méghozzá gyorsan. - Morgens vor dem Spiegel: Ich muss dringend abnehmen.</p>
-<p>2. Este a hűtőszekrény előtt: majd szeret úgy, ahogy vagyok. - Abends vor dem Kühlschrank: Dann soll er mich eben so lieben, wie ich bin.</p>
+<p>1. Reggel a tükörben nézve: le kell fogynom, méghozzá gyorsan.</p>
+<p>2. Este a hűtőszekrény előtt: majd szeret úgy, ahogy vagyok.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Reggel a tükör előtt állva: ideje lenne lefogyni. - Früh vor dem Spiegel stehend: Es wäre Zeit abzunehmen.</p>
-<p>2. Este a hűtőnél: jó leszek így is. - Abends am Kühlschrank: So bin ich auch gut.</p>
+<p>1. Reggel a tükör előtt állva: ideje lenne lefogyni.</p>
+<p>2. Este a hűtőnél: jó leszek így is.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1184,11 +1184,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Reggel a tükör előtt: sürgősen fogynom kell.</p>
+<p>1. Reggel a tükör előtt: sürgősen fogynom kell. - Früh vor dem Spiegel: Ich muss dringend abnehmen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Este a hűtő előtt: szeressen csak úgy, ahogy vagyok.</p>
+<p>2. Este a hűtő előtt: szeressen csak úgy, ahogy vagyok. - Abends vor dem Kühlschrank: Soll er mich doch so lieben, wie ich bin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1196,11 +1196,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Reggel a tükörben nézve: le kell fogynom, méghozzá gyorsan.</p>
+<p>1. Reggel a tükörben nézve: le kell fogynom, méghozzá gyorsan. - Morgens vor dem Spiegel: Ich muss dringend abnehmen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Este a hűtőszekrény előtt: majd szeret úgy, ahogy vagyok.</p>
+<p>2. Este a hűtőszekrény előtt: majd szeret úgy, ahogy vagyok. - Abends vor dem Kühlschrank: Dann soll er mich eben so lieben, wie ich bin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1208,11 +1208,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Reggel a tükör előtt állva: ideje lenne lefogyni.</p>
+<p>1. Reggel a tükör előtt állva: ideje lenne lefogyni. - Früh vor dem Spiegel stehend: Es wäre Zeit abzunehmen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Este a hűtőnél: jó leszek így is.</p>
+<p>2. Este a hűtőnél: jó leszek így is. - Abends am Kühlschrank: So bin ich auch gut.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1277,16 +1277,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Addig marad boldogtalan, amíg azt hiszi, hogy mások fogják boldoggá tenni. - Sie werden so lange unglücklich bleiben, wie Sie glauben, dass andere Sie glücklich machen werden.</p>
+<p>1. Addig marad boldogtalan, amíg azt hiszi, hogy mások fogják boldoggá tenni.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az ember addig lesz boldogtalan, amíg abban hisz, hogy a boldogságát másoktól kapja. - Der Mensch wird so lange unglücklich sein, wie er daran glaubt, sein Glück von anderen zu bekommen.</p>
+<p>1. Az ember addig lesz boldogtalan, amíg abban hisz, hogy a boldogságát másoktól kapja.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Boldogtalan maradsz mindaddig, amíg azt várod, hogy mások tegyenek boldoggá. - Du bleibst unglücklich, solange du erwartest, dass andere dich glücklich machen.</p>
+<p>1. Boldogtalan maradsz mindaddig, amíg azt várod, hogy mások tegyenek boldoggá.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1295,7 +1295,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Addig marad boldogtalan, amíg azt hiszi, hogy mások fogják boldoggá tenni.</p>
+<p>1. Addig marad boldogtalan, amíg azt hiszi, hogy mások fogják boldoggá tenni. - Sie werden so lange unglücklich bleiben, wie Sie glauben, dass andere Sie glücklich machen werden.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1303,7 +1303,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az ember addig lesz boldogtalan, amíg abban hisz, hogy a boldogságát másoktól kapja.</p>
+<p>1. Az ember addig lesz boldogtalan, amíg abban hisz, hogy a boldogságát másoktól kapja. - Der Mensch wird so lange unglücklich sein, wie er daran glaubt, sein Glück von anderen zu bekommen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1311,7 +1311,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Boldogtalan maradsz mindaddig, amíg azt várod, hogy mások tegyenek boldoggá.</p>
+<p>1. Boldogtalan maradsz mindaddig, amíg azt várod, hogy mások tegyenek boldoggá. - Du bleibst unglücklich, solange du erwartest, dass andere dich glücklich machen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1364,16 +1364,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A 212 682 340 236. számú tény az emberi lustaságról: túl lusta ahhoz, hogy elolvassa ezt a számot. - Fakt Nr. 212.682.340.236 über die menschliche Faulheit: Sie sind zu faul, um diese Nummer zu lesen.</p>
+<p>1. A 212 682 340 236. számú tény az emberi lustaságról: túl lusta ahhoz, hogy elolvassa ezt a számot.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A 212 682 340 236-os tény az emberi lustaságról szól: nincs kedve elolvasni ezt a számot. - Fakt Nummer 212.682.340.236 über menschliche Faulheit: Sie sind zu faul, diese Nummer zu lesen.</p>
+<p>1. A 212 682 340 236-os tény az emberi lustaságról szól: nincs kedve elolvasni ezt a számot.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Az emberi lustaság 212 682 340 236. számú ténye: túl nagy fáradság elolvasni ezt a számot. - Fakt Nr. 212.682.340.236 zur menschlichen Faulheit: Sie sind zu müde, um diese Nummer zu lesen.</p>
+<p>1. Az emberi lustaság 212 682 340 236. számú ténye: túl nagy fáradság elolvasni ezt a számot.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1382,7 +1382,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A 212 682 340 236. számú tény az emberi lustaságról: túl lusta ahhoz, hogy elolvassa ezt a számot.</p>
+<p>1. A 212 682 340 236. számú tény az emberi lustaságról: túl lusta ahhoz, hogy elolvassa ezt a számot. - Fakt Nr. 212.682.340.236 über die menschliche Faulheit: Sie sind zu faul, um diese Nummer zu lesen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1390,7 +1390,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A 212 682 340 236-os tény az emberi lustaságról szól: nincs kedve elolvasni ezt a számot.</p>
+<p>1. A 212 682 340 236-os tény az emberi lustaságról szól: nincs kedve elolvasni ezt a számot. - Fakt Nummer 212.682.340.236 über menschliche Faulheit: Sie sind zu faul, diese Nummer zu lesen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1398,7 +1398,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az emberi lustaság 212 682 340 236. számú ténye: túl nagy fáradság elolvasni ezt a számot.</p>
+<p>1. Az emberi lustaság 212 682 340 236. számú ténye: túl nagy fáradság elolvasni ezt a számot. - Fakt Nr. 212.682.340.236 zur menschlichen Faulheit: Sie sind zu müde, um diese Nummer zu lesen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1451,16 +1451,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Szóval… ahhoz, hogy jó nő légy, otthon jó háziasszonynak kell lenned, a vendégek előtt királynőnek, az ágyban pedig prostituáltnak… Jaj, ember, csak nehogy összekeverjem. - Also …, um eine gute Frau zu sein, musst du zu Hause eine gute Hausfrau sein, vor den Gästen eine Königin und im Bett eine Prostituierte … Oh Mann, Hauptsache, ich verwechsele nichts.</p>
+<p>1. Szóval… ahhoz, hogy jó nő légy, otthon jó háziasszonynak kell lenned, a vendégek előtt királynőnek, az ágyban pedig prostituáltnak… Jaj, ember, csak nehogy összekeverjem.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Tehát… egy jó nő otthon háziasszony, vendégek előtt királynő, az ágyban pedig prostituált… Ember, remélem, nem keverem össze. - Also …, um eine gute Frau zu sein, soll man zu Hause Hausfrau sein, vor den Gästen Königin und im Bett Prostituierte … Mann, hoffentlich bringe ich nichts durcheinander.</p>
+<p>1. Tehát… egy jó nő otthon háziasszony, vendégek előtt királynő, az ágyban pedig prostituált… Ember, remélem, nem keverem össze.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Na szóval… jó nőnek lenni azt jelenti, hogy otthon háziasszony, társaságban királynő, az ágyban pedig prostituált az ember… Ó, ember, csak a sorrend stimmeljen. - Also gut … eine gute Frau zu sein bedeutet, zu Hause Hausfrau, in Gesellschaft Königin und im Bett Prostituierte zu sein … Ach Mensch, Hauptsache, die Reihenfolge stimmt.</p>
+<p>1. Na szóval… jó nőnek lenni azt jelenti, hogy otthon háziasszony, társaságban királynő, az ágyban pedig prostituált az ember… Ó, ember, csak a sorrend stimmeljen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1469,7 +1469,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Szóval… ahhoz, hogy jó nő légy, otthon jó háziasszonynak kell lenned, a vendégek előtt királynőnek, az ágyban pedig prostituáltnak… Jaj, ember, csak nehogy összekeverjem.</p>
+<p>1. Szóval… ahhoz, hogy jó nő légy, otthon jó háziasszonynak kell lenned, a vendégek előtt királynőnek, az ágyban pedig prostituáltnak… Jaj, ember, csak nehogy összekeverjem. - Also …, um eine gute Frau zu sein, musst du zu Hause eine gute Hausfrau sein, vor den Gästen eine Königin und im Bett eine Prostituierte … Oh Mann, Hauptsache, ich verwechsele nichts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1477,7 +1477,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Tehát… egy jó nő otthon háziasszony, vendégek előtt királynő, az ágyban pedig prostituált… Ember, remélem, nem keverem össze.</p>
+<p>1. Tehát… egy jó nő otthon háziasszony, vendégek előtt királynő, az ágyban pedig prostituált… Ember, remélem, nem keverem össze. - Also …, um eine gute Frau zu sein, soll man zu Hause Hausfrau sein, vor den Gästen Königin und im Bett Prostituierte … Mann, hoffentlich bringe ich nichts durcheinander.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1485,7 +1485,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Na szóval… jó nőnek lenni azt jelenti, hogy otthon háziasszony, társaságban királynő, az ágyban pedig prostituált az ember… Ó, ember, csak a sorrend stimmeljen.</p>
+<p>1. Na szóval… jó nőnek lenni azt jelenti, hogy otthon háziasszony, társaságban királynő, az ágyban pedig prostituált az ember… Ó, ember, csak a sorrend stimmeljen. - Also gut … eine gute Frau zu sein bedeutet, zu Hause Hausfrau, in Gesellschaft Königin und im Bett Prostituierte zu sein … Ach Mensch, Hauptsache, die Reihenfolge stimmt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1538,16 +1538,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Valaki falánk embernek nevezett téged? Fald fel! - Dich hat jemand als Vielfraß bezeichnet? Friss ihn auf!</p>
+<p>1. Valaki falánk embernek nevezett téged? Fald fel!</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Falánknak hívott valaki téged? Akkor edd meg! - Hat dich jemand Vielfraß genannt? Dann iss ihn auf!</p>
+<p>1. Falánknak hívott valaki téged? Akkor edd meg!</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Azt mondták, hogy te egy falánk ember vagy? Edd meg őt! - Man hat dich als Vielfraß bezeichnet? Iss ihn auf!</p>
+<p>1. Azt mondták, hogy te egy falánk ember vagy? Edd meg őt!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1556,7 +1556,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Valaki falánk embernek nevezett téged? Fald fel!</p>
+<p>1. Valaki falánk embernek nevezett téged? Fald fel! - Dich hat jemand als Vielfraß bezeichnet? Friss ihn auf!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1564,7 +1564,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Falánknak hívott valaki téged? Akkor edd meg!</p>
+<p>1. Falánknak hívott valaki téged? Akkor edd meg! - Hat dich jemand Vielfraß genannt? Dann iss ihn auf!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1572,7 +1572,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Azt mondták, hogy te egy falánk ember vagy? Edd meg őt!</p>
+<p>1. Azt mondták, hogy te egy falánk ember vagy? Edd meg őt! - Man hat dich als Vielfraß bezeichnet? Iss ihn auf!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1625,16 +1625,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Egy rendesen kidobott férfi úgy jön vissza, mint egy bumeráng. - Ein richtig (ordnungsgemäß) weggeworfener Mann kommt zurück wie ein Bumerang.</p>
+<p>1. Egy rendesen kidobott férfi úgy jön vissza, mint egy bumeráng.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A jól elhajított férfi mindig visszatér, mint a bumeráng. - Ein gut weggeschleuderter Mann kommt immer zurück, wie ein Bumerang.</p>
+<p>1. A jól elhajított férfi mindig visszatér, mint a bumeráng.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha egy férfit igazán „eldobnak”, bumerángként tér vissza. - Ein Mann, der richtig weggeworfen wird, kehrt wie ein Bumerang zurück.</p>
+<p>1. Ha egy férfit igazán „eldobnak”, bumerángként tér vissza.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1643,7 +1643,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy rendesen kidobott férfi úgy jön vissza, mint egy bumeráng.</p>
+<p>1. Egy rendesen kidobott férfi úgy jön vissza, mint egy bumeráng. - Ein richtig (ordnungsgemäß) weggeworfener Mann kommt zurück wie ein Bumerang.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1651,7 +1651,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A jól elhajított férfi mindig visszatér, mint a bumeráng.</p>
+<p>1. A jól elhajított férfi mindig visszatér, mint a bumeráng. - Ein gut weggeschleuderter Mann kommt immer zurück, wie ein Bumerang.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1659,7 +1659,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha egy férfit igazán „eldobnak”, bumerángként tér vissza.</p>
+<p>1. Ha egy férfit igazán „eldobnak”, bumerángként tér vissza. - Ein Mann, der richtig weggeworfen wird, kehrt wie ein Bumerang zurück.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

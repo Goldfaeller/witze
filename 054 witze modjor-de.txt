@@ -48,22 +48,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A fizika az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres. - Physik ist, wenn jemand in einem dunklen Raum mit verbundenen Augen eine schwarze Katze sucht.</p>
-<p>2. A filozófia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott. - Philosophie ist, wenn jemand in einem dunklen Raum mit verbundenen Augen eine schwarze Katze sucht, die gar nicht da ist.</p>
-<p>3. A teológia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott, és azt kiáltja: „Hurrá, megvan!” - Theologie ist, wenn jemand in einem dunklen Raum mit verbundenen Augen eine schwarze Katze sucht, die gar nicht da ist, und ruft: „Hurra, ich hab sie!“</p>
+<p>1. A fizika az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres.</p>
+<p>2. A filozófia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott.</p>
+<p>3. A teológia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott, és azt kiáltja: „Hurrá, megvan!”</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Fizika: sötét szoba, bekötött szem, fekete macska keresése. - Physik: dunkler Raum, verbundene Augen, Suche nach einer schwarzen Katze.</p>
-<p>2. Filozófia: ugyanaz, csak a macska nem létezik. - Philosophie: dasselbe, nur dass die Katze gar nicht existiert.</p>
-<p>3. Teológia: ugyanaz, a macska nincs ott, de az illető felkiált: „Megtaláltam!” - Theologie: dasselbe, die Katze ist nicht da, aber jemand ruft: „Ich habe sie gefunden!“</p>
+<p>1. Fizika: sötét szoba, bekötött szem, fekete macska keresése.</p>
+<p>2. Filozófia: ugyanaz, csak a macska nem létezik.</p>
+<p>3. Teológia: ugyanaz, a macska nincs ott, de az illető felkiált: „Megtaláltam!”</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A fizika egy vak keresés egy sötét szobában. - Physik ist eine blinde Suche in einem dunklen Raum.</p>
-<p>2. A filozófia ugyanez, egy nem létező macskával. - Philosophie ist dasselbe, mit einer nicht existierenden Katze.</p>
-<p>3. A teológia pedig az, amikor valaki azt állítja, hogy mégis megtalálta a macskát. - Und Theologie ist es dann, wenn jemand behauptet, dass er dennoch die Katze gefunden hat.</p>
+<p>1. A fizika egy vak keresés egy sötét szobában.</p>
+<p>2. A filozófia ugyanez, egy nem létező macskával.</p>
+<p>3. A teológia pedig az, amikor valaki azt állítja, hogy mégis megtalálta a macskát.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -72,15 +72,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A fizika az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres.</p>
+<p>1. A fizika az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres. - Physik ist, wenn jemand in einem dunklen Raum mit verbundenen Augen eine schwarze Katze sucht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A filozófia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott.</p>
+<p>2. A filozófia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott. - Philosophie ist, wenn jemand in einem dunklen Raum mit verbundenen Augen eine schwarze Katze sucht, die gar nicht da ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. A teológia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott, és azt kiáltja: „Hurrá, megvan!”</p>
+<p>3. A teológia az, amikor valaki egy sötét szobában, bekötött szemmel egy fekete macskát keres, amely nincs is ott, és azt kiáltja: „Hurrá, megvan!” - Theologie ist, wenn jemand in einem dunklen Raum mit verbundenen Augen eine schwarze Katze sucht, die gar nicht da ist, und ruft: „Hurra, ich hab sie!“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -88,15 +88,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Fizika: sötét szoba, bekötött szem, fekete macska keresése.</p>
+<p>1. Fizika: sötét szoba, bekötött szem, fekete macska keresése. - Physik: dunkler Raum, verbundene Augen, Suche nach einer schwarzen Katze.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Filozófia: ugyanaz, csak a macska nem létezik.</p>
+<p>2. Filozófia: ugyanaz, csak a macska nem létezik. - Philosophie: dasselbe, nur dass die Katze gar nicht existiert.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Teológia: ugyanaz, a macska nincs ott, de az illető felkiált: „Megtaláltam!”</p>
+<p>3. Teológia: ugyanaz, a macska nincs ott, de az illető felkiált: „Megtaláltam!” - Theologie: dasselbe, die Katze ist nicht da, aber jemand ruft: „Ich habe sie gefunden!“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -104,15 +104,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A fizika egy vak keresés egy sötét szobában.</p>
+<p>1. A fizika egy vak keresés egy sötét szobában. - Physik ist eine blinde Suche in einem dunklen Raum.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A filozófia ugyanez, egy nem létező macskával.</p>
+<p>2. A filozófia ugyanez, egy nem létező macskával. - Philosophie ist dasselbe, mit einer nicht existierenden Katze.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. A teológia pedig az, amikor valaki azt állítja, hogy mégis megtalálta a macskát.</p>
+<p>3. A teológia pedig az, amikor valaki azt állítja, hogy mégis megtalálta a macskát. - Und Theologie ist es dann, wenn jemand behauptet, dass er dennoch die Katze gefunden hat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -189,16 +189,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A családban nem az a legfontosabb, aki megkeresi a pénzt, hanem az, aki elkölti. - In der Familie ist nicht derjenige der Wichtigste, der das Geld erarbeitet, sondern der, der es ausgibt.</p>
+<p>1. A családban nem az a legfontosabb, aki megkeresi a pénzt, hanem az, aki elkölti.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A család legfontosabb tagja nem a pénzkereső, hanem a pénzköltő. - Der Wichtigste in der Familie ist nicht der, der das Geld verdient, sondern der, der es ausgibt.</p>
+<p>1. A család legfontosabb tagja nem a pénzkereső, hanem a pénzköltő.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Nem az számít a családban, ki keresi a pénzt, hanem az, ki költi el. - Entscheidend in der Familie ist nicht, wer das Geld erarbeitet, sondern wer es ausgibt.</p>
+<p>1. Nem az számít a családban, ki keresi a pénzt, hanem az, ki költi el.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -207,7 +207,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A családban nem az a legfontosabb, aki megkeresi a pénzt, hanem az, aki elkölti.</p>
+<p>1. A családban nem az a legfontosabb, aki megkeresi a pénzt, hanem az, aki elkölti. - In der Familie ist nicht derjenige der Wichtigste, der das Geld erarbeitet, sondern der, der es ausgibt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -215,7 +215,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A család legfontosabb tagja nem a pénzkereső, hanem a pénzköltő.</p>
+<p>1. A család legfontosabb tagja nem a pénzkereső, hanem a pénzköltő. - Der Wichtigste in der Familie ist nicht der, der das Geld verdient, sondern der, der es ausgibt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -223,7 +223,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem az számít a családban, ki keresi a pénzt, hanem az, ki költi el.</p>
+<p>1. Nem az számít a családban, ki keresi a pénzt, hanem az, ki költi el. - Entscheidend in der Familie ist nicht, wer das Geld erarbeitet, sondern wer es ausgibt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -276,19 +276,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az élet nem egy fehér és fekete csíkos zebra, hanem egy fehér és fekete mezőkből álló sakk­tábla. - Das Leben ist kein Zebra mit weißen und schwarzen Streifen, sondern ein Schachbrett mit weißen und schwarzen Feldern.</p>
-<p>2. Minden a te lépéseidtől függ. - Alles hängt von deinen Zügen ab.</p>
+<p>1. Az élet nem egy fehér és fekete csíkos zebra, hanem egy fehér és fekete mezőkből álló sakk­tábla.</p>
+<p>2. Minden a te lépéseidtől függ.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az élet nem zebra csíkokkal, hanem sakktábla mezőkkel. - Das Leben ist kein Zebra mit Streifen, sondern ein Schachbrett mit Feldern.</p>
-<p>2. A játék kimenetele a te lépéseiden múlik. - Der Ausgang hängt von deinen Zügen ab.</p>
+<p>1. Az élet nem zebra csíkokkal, hanem sakktábla mezőkkel.</p>
+<p>2. A játék kimenetele a te lépéseiden múlik.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Az élet inkább sakk, mint zebra. - Das Leben ist eher Schach als Zebra.</p>
+<p>1. Az élet inkább sakk, mint zebra.</p>
 <p>2. Nem a csíkok vezetnek, hanem a fehér és fekete mezők között te döntesz. Nicht die Streifen führen dich, sondern zwischen weißen und schwarzen Feldern entscheidest du.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -297,11 +297,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az élet nem egy fehér és fekete csíkos zebra, hanem egy fehér és fekete mezőkből álló sakk­tábla.</p>
+<p>1. Az élet nem egy fehér és fekete csíkos zebra, hanem egy fehér és fekete mezőkből álló sakk­tábla. - Das Leben ist kein Zebra mit weißen und schwarzen Streifen, sondern ein Schachbrett mit weißen und schwarzen Feldern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Minden a te lépéseidtől függ.</p>
+<p>2. Minden a te lépéseidtől függ. - Alles hängt von deinen Zügen ab.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -309,11 +309,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az élet nem zebra csíkokkal, hanem sakktábla mezőkkel.</p>
+<p>1. Az élet nem zebra csíkokkal, hanem sakktábla mezőkkel. - Das Leben ist kein Zebra mit Streifen, sondern ein Schachbrett mit Feldern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A játék kimenetele a te lépéseiden múlik.</p>
+<p>2. A játék kimenetele a te lépéseiden múlik. - Der Ausgang hängt von deinen Zügen ab.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -321,7 +321,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az élet inkább sakk, mint zebra.</p>
+<p>1. Az élet inkább sakk, mint zebra. - Das Leben ist eher Schach als Zebra.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -388,18 +388,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Csak azt látjuk, amit tudunk. - Man sieht nur, was man weiß.</p>
-<p>2. (Csak azt látják, amit tudnak.) - (Man sieht nur, was man weiß.)</p>
-<p>3. (Csak azt látod, amit tudsz.) - (Man sieht nur, was man weiß.)</p>
+<p>1. Csak azt látjuk, amit tudunk.</p>
+<p>2. (Csak azt látják, amit tudnak.)</p>
+<p>3. (Csak azt látod, amit tudsz.)</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az ember csak azt veszi észre, amit ismer. - Man sieht nur das, was man kennt.</p>
+<p>1. Az ember csak azt veszi észre, amit ismer.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A látásunkat az határozza meg, amit tudunk. - Man sieht nur, was man weiß. (Unsere Sicht bestimmt das, was wir wissen.)</p>
+<p>1. A látásunkat az határozza meg, amit tudunk.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -408,15 +408,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Csak azt látjuk, amit tudunk.</p>
+<p>1. Csak azt látjuk, amit tudunk. - Man sieht nur, was man weiß.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. (Csak azt látják, amit tudnak.)</p>
+<p>2. (Csak azt látják, amit tudnak.) - (Man sieht nur, was man weiß.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. (Csak azt látod, amit tudsz.)</p>
+<p>3. (Csak azt látod, amit tudsz.) - (Man sieht nur, was man weiß.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -424,7 +424,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az ember csak azt veszi észre, amit ismer.</p>
+<p>1. Az ember csak azt veszi észre, amit ismer. - Man sieht nur das, was man kennt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -432,7 +432,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A látásunkat az határozza meg, amit tudunk.</p>
+<p>1. A látásunkat az határozza meg, amit tudunk. - Man sieht nur, was man weiß. (Unsere Sicht bestimmt das, was wir wissen.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -493,18 +493,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Mit közös van egy könyvelőben és egy melltartóban? - Was haben ein Buchhalter und ein Büstenhalter gemeinsam?</p>
-<p>2. Mindketten el tudnak rejteni dolgokat, amelyeket jobb nem megmutatni. - Beide können Dinge verstecken, die man lieber nicht zeigt.</p>
-<p>3. És mindketten képesek olyasmit mutatni, ami valójában nem is létezik. - Und beide können etwas vorspiegeln, was es eigentlich nicht gibt.</p>
+<p>1. Mit közös van egy könyvelőben és egy melltartóban?</p>
+<p>2. Mindketten el tudnak rejteni dolgokat, amelyeket jobb nem megmutatni.</p>
+<p>3. És mindketten képesek olyasmit mutatni, ami valójában nem is létezik.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Mi a hasonlóság egy könyvelő és egy melltartó között? - Was ist die Gemeinsamkeit zwischen einem Buchhalter und einem Büstenhalter?</p>
-<p>2. Elrejtik azt, amit nem szívesen teszünk nyilvánossá. - Sie verbergen das, was man ungern öffentlich macht.</p>
-<p>3. És képesek olyan képet mutatni, ami csak látszat. - Und sie können ein Bild zeigen, das nur Schein ist.</p>
+<p>1. Mi a hasonlóság egy könyvelő és egy melltartó között?</p>
+<p>2. Elrejtik azt, amit nem szívesen teszünk nyilvánossá.</p>
+<p>3. És képesek olyan képet mutatni, ami csak látszat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -513,15 +513,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mit közös van egy könyvelőben és egy melltartóban?</p>
+<p>1. Mit közös van egy könyvelőben és egy melltartóban? - Was haben ein Buchhalter und ein Büstenhalter gemeinsam?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Mindketten el tudnak rejteni dolgokat, amelyeket jobb nem megmutatni.</p>
+<p>2. Mindketten el tudnak rejteni dolgokat, amelyeket jobb nem megmutatni. - Beide können Dinge verstecken, die man lieber nicht zeigt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. És mindketten képesek olyasmit mutatni, ami valójában nem is létezik.</p>
+<p>3. És mindketten képesek olyasmit mutatni, ami valójában nem is létezik. - Und beide können etwas vorspiegeln, was es eigentlich nicht gibt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -529,15 +529,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mi a hasonlóság egy könyvelő és egy melltartó között?</p>
+<p>1. Mi a hasonlóság egy könyvelő és egy melltartó között? - Was ist die Gemeinsamkeit zwischen einem Buchhalter und einem Büstenhalter?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Elrejtik azt, amit nem szívesen teszünk nyilvánossá.</p>
+<p>2. Elrejtik azt, amit nem szívesen teszünk nyilvánossá. - Sie verbergen das, was man ungern öffentlich macht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. És képesek olyan képet mutatni, ami csak látszat.</p>
+<p>3. És képesek olyan képet mutatni, ami csak látszat. - Und sie können ein Bild zeigen, das nur Schein ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -598,19 +598,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, a Parkinsont választanám. - Wenn ich zwischen Parkinson und Alzheimer wählen könnte, dann würde ich Parkinson wählen.</p>
-<p>2. Inkább kiöntök egy kis pálinkát a nadrágomra, mint hogy elfelejtsem, hová tettem az üveget. - Lieber sich etwas Schnaps auf die Hose verschütten, als vergessen, wo man die Flasche hingestellt hat.</p>
+<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, a Parkinsont választanám.</p>
+<p>2. Inkább kiöntök egy kis pálinkát a nadrágomra, mint hogy elfelejtsem, hová tettem az üveget.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ha döntenem kellene Parkinson és Alzheimer között, inkább a Parkinson mellett döntenék. - Wenn ich mich zwischen Parkinson und Alzheimer entscheiden müsste, würde ich Parkinson wählen.</p>
-<p>2. Jobb, ha kilöttyen egy kis szesz a nadrágra, mint ha nem emlékszem rá, hol van az üveg. - Besser etwas Alkohol auf die Hose kleckern, als nicht mehr zu wissen, wo die Flasche ist.</p>
+<p>1. Ha döntenem kellene Parkinson és Alzheimer között, inkább a Parkinson mellett döntenék.</p>
+<p>2. Jobb, ha kilöttyen egy kis szesz a nadrágra, mint ha nem emlékszem rá, hol van az üveg.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha lenne választásom Parkinson és Alzheimer között, a Parkinsont választanám. - Wenn ich die Wahl zwischen Parkinson und Alzheimer hätte, würde ich Parkinson wählen.</p>
-<p>2. Előnyösebb kicsit leönteni a nadrágot, mint teljesen elfelejteni az üveg helyét. - Es ist angenehmer, die Hose etwas zu bekleckern, als den Standort der Flasche völlig zu vergessen.</p>
+<p>1. Ha lenne választásom Parkinson és Alzheimer között, a Parkinsont választanám.</p>
+<p>2. Előnyösebb kicsit leönteni a nadrágot, mint teljesen elfelejteni az üveg helyét.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -619,11 +619,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, a Parkinsont választanám.</p>
+<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, a Parkinsont választanám. - Wenn ich zwischen Parkinson und Alzheimer wählen könnte, dann würde ich Parkinson wählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Inkább kiöntök egy kis pálinkát a nadrágomra, mint hogy elfelejtsem, hová tettem az üveget.</p>
+<p>2. Inkább kiöntök egy kis pálinkát a nadrágomra, mint hogy elfelejtsem, hová tettem az üveget. - Lieber sich etwas Schnaps auf die Hose verschütten, als vergessen, wo man die Flasche hingestellt hat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -631,11 +631,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha döntenem kellene Parkinson és Alzheimer között, inkább a Parkinson mellett döntenék.</p>
+<p>1. Ha döntenem kellene Parkinson és Alzheimer között, inkább a Parkinson mellett döntenék. - Wenn ich mich zwischen Parkinson und Alzheimer entscheiden müsste, würde ich Parkinson wählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Jobb, ha kilöttyen egy kis szesz a nadrágra, mint ha nem emlékszem rá, hol van az üveg.</p>
+<p>2. Jobb, ha kilöttyen egy kis szesz a nadrágra, mint ha nem emlékszem rá, hol van az üveg. - Besser etwas Alkohol auf die Hose kleckern, als nicht mehr zu wissen, wo die Flasche ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -643,11 +643,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha lenne választásom Parkinson és Alzheimer között, a Parkinsont választanám.</p>
+<p>1. Ha lenne választásom Parkinson és Alzheimer között, a Parkinsont választanám. - Wenn ich die Wahl zwischen Parkinson und Alzheimer hätte, würde ich Parkinson wählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Előnyösebb kicsit leönteni a nadrágot, mint teljesen elfelejteni az üveg helyét.</p>
+<p>2. Előnyösebb kicsit leönteni a nadrágot, mint teljesen elfelejteni az üveg helyét. - Es ist angenehmer, die Hose etwas zu bekleckern, als den Standort der Flasche völlig zu vergessen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -712,16 +712,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd [szerezsd] ellenségeidet. - Alkohol kann der schlimmste Feind des Menschen sein, aber die Bibel sagt: liebe deine Feinde.</p>
+<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd [szerezsd] ellenségeidet.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az alkohol bár az ember legnagyobb ellensége is lehet, ám a Biblia szerint szeretnünk kell az ellenségeinket. - Obwohl der Alkohol der größte Feind des Menschen sein kann, müssen wir laut der Bibel unsere Feinde doch lieben.</p>
+<p>1. Az alkohol bár az ember legnagyobb ellensége is lehet, ám a Biblia szerint szeretnünk kell az ellenségeinket.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Lehet, hogy az alkohol az ember esküdt ellensége, viszont a Biblia tanítása így szól: szeresd az ellenségedet. - Alkohol mag vielleicht der eingeschworene Feind des Menschen sein, aber die Bibel lehrt: liebe deinen Feind.</p>
+<p>1. Lehet, hogy az alkohol az ember esküdt ellensége, viszont a Biblia tanítása így szól: szeresd az ellenségedet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -730,7 +730,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd [szerezsd] ellenségeidet.</p>
+<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd [szerezsd] ellenségeidet. - Alkohol kann der schlimmste Feind des Menschen sein, aber die Bibel sagt: liebe deine Feinde.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -738,7 +738,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol bár az ember legnagyobb ellensége is lehet, ám a Biblia szerint szeretnünk kell az ellenségeinket.</p>
+<p>1. Az alkohol bár az ember legnagyobb ellensége is lehet, ám a Biblia szerint szeretnünk kell az ellenségeinket. - Obwohl der Alkohol der größte Feind des Menschen sein kann, müssen wir laut der Bibel unsere Feinde doch lieben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -746,7 +746,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Lehet, hogy az alkohol az ember esküdt ellensége, viszont a Biblia tanítása így szól: szeresd az ellenségedet.</p>
+<p>1. Lehet, hogy az alkohol az ember esküdt ellensége, viszont a Biblia tanítása így szól: szeresd az ellenségedet. - Alkohol mag vielleicht der eingeschworene Feind des Menschen sein, aber die Bibel lehrt: liebe deinen Feind.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -799,17 +799,17 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Mindenki meg akarja változtatni a világot, de senki sem akarja megváltoztatni önmagát. - Alle wollen die Welt verändern, aber niemand will sich selbst verändern.</p>
+<p>1. Mindenki meg akarja változtatni a világot, de senki sem akarja megváltoztatni önmagát.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az emberek mind meg akarják változtatni a világot, de saját magukon senki sem akar változtatni. - Alle wollen die Welt verändern, doch an sich selbst will niemand etwas ändern.</p>
+<p>1. Az emberek mind meg akarják változtatni a világot, de saját magukon senki sem akar változtatni.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Mindenki a világ átalakításáról beszél, de önmaga megváltoztatását senki sem vállalja. - Alle reden davon, die Welt zu verändern, aber niemand ist bereit, sich selbst zu ändern.</p>
-<p>2. (Mindenki a világ átalakításáról beszél, de senki nem áll készen arra, hogy saját magát megváltoztassa.) - (Alle reden davon, die Welt zu verändern, aber niemand ist bereit, sich selbst zu ändern.)</p>
+<p>1. Mindenki a világ átalakításáról beszél, de önmaga megváltoztatását senki sem vállalja.</p>
+<p>2. (Mindenki a világ átalakításáról beszél, de senki nem áll készen arra, hogy saját magát megváltoztassa.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -818,7 +818,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mindenki meg akarja változtatni a világot, de senki sem akarja megváltoztatni önmagát.</p>
+<p>1. Mindenki meg akarja változtatni a világot, de senki sem akarja megváltoztatni önmagát. - Alle wollen die Welt verändern, aber niemand will sich selbst verändern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -826,7 +826,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az emberek mind meg akarják változtatni a világot, de saját magukon senki sem akar változtatni.</p>
+<p>1. Az emberek mind meg akarják változtatni a világot, de saját magukon senki sem akar változtatni. - Alle wollen die Welt verändern, doch an sich selbst will niemand etwas ändern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -834,11 +834,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mindenki a világ átalakításáról beszél, de önmaga megváltoztatását senki sem vállalja.</p>
+<p>1. Mindenki a világ átalakításáról beszél, de önmaga megváltoztatását senki sem vállalja. - Alle reden davon, die Welt zu verändern, aber niemand ist bereit, sich selbst zu ändern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. (Mindenki a világ átalakításáról beszél, de senki nem áll készen arra, hogy saját magát megváltoztassa.)</p>
+<p>2. (Mindenki a világ átalakításáról beszél, de senki nem áll készen arra, hogy saját magát megváltoztassa.) - (Alle reden davon, die Welt zu verändern, aber niemand ist bereit, sich selbst zu ändern.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -895,16 +895,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Azok az emberek, akik mindent holnapra halasztanak, ugyanazok, akik tegnapról mára halasztották. - Die Leute, die alles von heute auf morgen verschieben, sind die gleichen, die von gestern auf heute verschoben haben.</p>
+<p>1. Azok az emberek, akik mindent holnapra halasztanak, ugyanazok, akik tegnapról mára halasztották.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Akik mindig egyik napról a másikra tolják a dolgokat, ugyanazok, akik tegnapról mára áttették őket. - Diejenigen, die alles von heute auf morgen verschieben, sind dieselben, die es von gestern auf heute getan haben.</p>
+<p>1. Akik mindig egyik napról a másikra tolják a dolgokat, ugyanazok, akik tegnapról mára áttették őket.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Akik mindent későbbre halogatnak, azok már tegnapról mára is halasztottak. - Die Leute, die alles von heute auf morgen verschieben, sind die gleichen, die von gestern auf heute verschoben haben.</p>
+<p>1. Akik mindent későbbre halogatnak, azok már tegnapról mára is halasztottak.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -913,7 +913,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Azok az emberek, akik mindent holnapra halasztanak, ugyanazok, akik tegnapról mára halasztották.</p>
+<p>1. Azok az emberek, akik mindent holnapra halasztanak, ugyanazok, akik tegnapról mára halasztották. - Die Leute, die alles von heute auf morgen verschieben, sind die gleichen, die von gestern auf heute verschoben haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -921,7 +921,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Akik mindig egyik napról a másikra tolják a dolgokat, ugyanazok, akik tegnapról mára áttették őket.</p>
+<p>1. Akik mindig egyik napról a másikra tolják a dolgokat, ugyanazok, akik tegnapról mára áttették őket. - Diejenigen, die alles von heute auf morgen verschieben, sind dieselben, die es von gestern auf heute getan haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -929,7 +929,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Akik mindent későbbre halogatnak, azok már tegnapról mára is halasztottak.</p>
+<p>1. Akik mindent későbbre halogatnak, azok már tegnapról mára is halasztottak. - Die Leute, die alles von heute auf morgen verschieben, sind die gleichen, die von gestern auf heute verschoben haben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -982,20 +982,20 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ne halassz „későbbre”. - Verschiebe mich nicht auf „später“.</p>
-<p>2. „Később” nem fogok létezni. - „Später“ wird es mich nicht geben.</p>
-<p>3. („Később” nem leszek.) - („Später“ werde ich nicht sein.)</p>
+<p>1. Ne halassz „későbbre”.</p>
+<p>2. „Később” nem fogok létezni.</p>
+<p>3. („Később” nem leszek.)</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ne rakd rám a dolgot későbbre. - Verschiebe die Sache nicht auf später.</p>
-<p>2. Nem lesz „később”. - Es wird kein „später“ geben.</p>
+<p>1. Ne rakd rám a dolgot későbbre.</p>
+<p>2. Nem lesz „később”.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ne mondj azt, hogy majd később. - Sag nicht „später“.</p>
-<p>2. A „később” az a pillanat, amely soha nem fog eljönni. - „Später“ ist der Moment, den es nicht geben wird.</p>
+<p>1. Ne mondj azt, hogy majd később.</p>
+<p>2. A „később” az a pillanat, amely soha nem fog eljönni.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1004,15 +1004,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ne halassz „későbbre”.</p>
+<p>1. Ne halassz „későbbre”. - Verschiebe mich nicht auf „später“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. „Később” nem fogok létezni.</p>
+<p>2. „Később” nem fogok létezni. - „Später“ wird es mich nicht geben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. („Később” nem leszek.)</p>
+<p>3. („Később” nem leszek.) - („Später“ werde ich nicht sein.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1020,11 +1020,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ne rakd rám a dolgot későbbre.</p>
+<p>1. Ne rakd rám a dolgot későbbre. - Verschiebe die Sache nicht auf später.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Nem lesz „később”.</p>
+<p>2. Nem lesz „később”. - Es wird kein „später“ geben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1032,11 +1032,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ne mondj azt, hogy majd később.</p>
+<p>1. Ne mondj azt, hogy majd később. - Sag nicht „später“.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A „később” az a pillanat, amely soha nem fog eljönni.</p>
+<p>2. A „később” az a pillanat, amely soha nem fog eljönni. - „Später“ ist der Moment, den es nicht geben wird.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1105,19 +1105,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Hogyan lehet lehűteni egy túl forró teát? - Wie kann man einen zu heißen Tee abkühlen lassen?</p>
-<p>2. Nagyon egyszerű: egy percre felmegyünk az internetre, és máris hideg. - Ganz einfach: für eine Minute ins Internet gehen, und schon ist er kalt.</p>
+<p>1. Hogyan lehet lehűteni egy túl forró teát?</p>
+<p>2. Nagyon egyszerű: egy percre felmegyünk az internetre, és máris hideg.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Mit lehet tenni, ha a tea túl forró? - Wie kann man einen zu heißen Tee abkühlen lassen?</p>
-<p>2. Csak menj [menny] fel egy percre a netre, mire visszajössz, kihűl. - Geh einfach eine Minute ins Internet, und wenn du zurückkommst, ist er kalt.</p>
+<p>1. Mit lehet tenni, ha a tea túl forró?</p>
+<p>2. Csak menj [menny] fel egy percre a netre, mire visszajössz, kihűl.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Mi a legegyszerűbb módja annak, hogy a forró tea kihűljön [kihűjjön]? - Wie kann man einen zu heißen Tee abkühlen lassen?</p>
-<p>2. Egy perc internet elég hozzá. - Eine Minute Internet reicht dafür aus.</p>
+<p>1. Mi a legegyszerűbb módja annak, hogy a forró tea kihűljön [kihűjjön]?</p>
+<p>2. Egy perc internet elég hozzá.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1126,11 +1126,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Hogyan lehet lehűteni egy túl forró teát?</p>
+<p>1. Hogyan lehet lehűteni egy túl forró teát? - Wie kann man einen zu heißen Tee abkühlen lassen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Nagyon egyszerű: egy percre felmegyünk az internetre, és máris hideg.</p>
+<p>2. Nagyon egyszerű: egy percre felmegyünk az internetre, és máris hideg. - Ganz einfach: für eine Minute ins Internet gehen, und schon ist er kalt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1138,11 +1138,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mit lehet tenni, ha a tea túl forró?</p>
+<p>1. Mit lehet tenni, ha a tea túl forró? - Wie kann man einen zu heißen Tee abkühlen lassen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Csak menj [menny] fel egy percre a netre, mire visszajössz, kihűl.</p>
+<p>2. Csak menj [menny] fel egy percre a netre, mire visszajössz, kihűl. - Geh einfach eine Minute ins Internet, und wenn du zurückkommst, ist er kalt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1150,11 +1150,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mi a legegyszerűbb módja annak, hogy a forró tea kihűljön [kihűjjön]?</p>
+<p>1. Mi a legegyszerűbb módja annak, hogy a forró tea kihűljön [kihűjjön]? - Wie kann man einen zu heißen Tee abkühlen lassen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Egy perc internet elég hozzá.</p>
+<p>2. Egy perc internet elég hozzá. - Eine Minute Internet reicht dafür aus.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1219,18 +1219,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ha az ember szabadságon van, a munkahelyről érkező hívás olyan, mint egy hívás a túlvilágról – minden alkalommal összerezzen az ember. - Wenn man im Urlaub ist, ist ein Anruf von der Arbeit wie ein Anruf aus dem Jenseits – jedes Mal zuckt man zusammen.</p>
+<p>1. Ha az ember szabadságon van, a munkahelyről érkező hívás olyan, mint egy hívás a túlvilágról – minden alkalommal összerezzen az ember.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Szabadság alatt egy munkahelyi telefonhívás felér egy túlvilági jelzéssel. - Während des Urlaubs kommt ein Anruf vom Arbeitsplatz einem Zeichen aus dem Jenseits gleich.</p>
-<p>2. Az ember mindig összerezzen tőle. - Jedes Mal zuckt man zusammen.</p>
+<p>1. Szabadság alatt egy munkahelyi telefonhívás felér egy túlvilági jelzéssel.</p>
+<p>2. Az ember mindig összerezzen tőle.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Amikor nyaral az ember, a munkahelyről jövő hívás kísérteties élmény. - Wenn man im Urlaub ist, sind Anrufe vom Arbeitsplatz eine unheimliche Erfahrung.</p>
-<p>2. Minden alkalommal megijedünk. - Jedes Mal schreckt man zusammen.</p>
+<p>1. Amikor nyaral az ember, a munkahelyről jövő hívás kísérteties élmény.</p>
+<p>2. Minden alkalommal megijedünk.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1239,7 +1239,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha az ember szabadságon van, a munkahelyről érkező hívás olyan, mint egy hívás a túlvilágról – minden alkalommal összerezzen az ember.</p>
+<p>1. Ha az ember szabadságon van, a munkahelyről érkező hívás olyan, mint egy hívás a túlvilágról – minden alkalommal összerezzen az ember. - Wenn man im Urlaub ist, ist ein Anruf von der Arbeit wie ein Anruf aus dem Jenseits – jedes Mal zuckt man zusammen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1247,11 +1247,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Szabadság alatt egy munkahelyi telefonhívás felér egy túlvilági jelzéssel.</p>
+<p>1. Szabadság alatt egy munkahelyi telefonhívás felér egy túlvilági jelzéssel. - Während des Urlaubs kommt ein Anruf vom Arbeitsplatz einem Zeichen aus dem Jenseits gleich.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az ember mindig összerezzen tőle.</p>
+<p>2. Az ember mindig összerezzen tőle. - Jedes Mal zuckt man zusammen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1259,11 +1259,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amikor nyaral az ember, a munkahelyről jövő hívás kísérteties élmény.</p>
+<p>1. Amikor nyaral az ember, a munkahelyről jövő hívás kísérteties élmény. - Wenn man im Urlaub ist, sind Anrufe vom Arbeitsplatz eine unheimliche Erfahrung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Minden alkalommal megijedünk.</p>
+<p>2. Minden alkalommal megijedünk. - Jedes Mal schreckt man zusammen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1324,19 +1324,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Felébredtem, és azt gondoltam magamban: „Most felkelek, és hegyeket mozdítok el.” - Ich bin aufgewacht und dachte bei mir: „Jetzt steh ich auf und werde Berge versetzen.“</p>
-<p>2. Aztán mégis visszafordultam: „Hadd legyen ma békéje a természetnek tőlem.” - Dann habe ich mich doch wieder umgedreht: „Soll doch die Natur heute ihren Frieden vor mir haben.“</p>
+<p>1. Felébredtem, és azt gondoltam magamban: „Most felkelek, és hegyeket mozdítok el.”</p>
+<p>2. Aztán mégis visszafordultam: „Hadd legyen ma békéje a természetnek tőlem.”</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Amikor felébredtem, elhatároztam: „Felkelek most, és megváltoztatom a világot.” - Ich bin aufgewacht und habe entschieden: „Ich stehe jetzt auf und werde die Welt verändern.“</p>
-<p>2. De végül inkább újra visszafeküdtem: „Ma inkább megkímélem a természetet.” - Dann schließlich habe ich mich lieber wieder hingelegt: „Heute verschone ich lieber die Natur.“</p>
+<p>1. Amikor felébredtem, elhatároztam: „Felkelek most, és megváltoztatom a világot.”</p>
+<p>2. De végül inkább újra visszafeküdtem: „Ma inkább megkímélem a természetet.”</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Felébredéskor nagy terveim voltak: „Ideje hegyeket elmozdítani.” - Beim Aufwachen hatte ich große Pläne: „Es ist Zeit, Berge zu versetzen.“</p>
-<p>2. Egy pillanattal később mégis így döntöttem: „Ma maradjon minden a helyén.” - Kurz darauf entschied ich mich doch: „Heute soll alles an seinem Platz bleiben.“</p>
+<p>1. Felébredéskor nagy terveim voltak: „Ideje hegyeket elmozdítani.”</p>
+<p>2. Egy pillanattal később mégis így döntöttem: „Ma maradjon minden a helyén.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1345,11 +1345,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Felébredtem, és azt gondoltam magamban: „Most felkelek, és hegyeket mozdítok el.”</p>
+<p>1. Felébredtem, és azt gondoltam magamban: „Most felkelek, és hegyeket mozdítok el.” - Ich bin aufgewacht und dachte bei mir: „Jetzt steh ich auf und werde Berge versetzen.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Aztán mégis visszafordultam: „Hadd legyen ma békéje a természetnek tőlem.”</p>
+<p>2. Aztán mégis visszafordultam: „Hadd legyen ma békéje a természetnek tőlem.” - Dann habe ich mich doch wieder umgedreht: „Soll doch die Natur heute ihren Frieden vor mir haben.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1357,11 +1357,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amikor felébredtem, elhatároztam: „Felkelek most, és megváltoztatom a világot.”</p>
+<p>1. Amikor felébredtem, elhatároztam: „Felkelek most, és megváltoztatom a világot.” - Ich bin aufgewacht und habe entschieden: „Ich stehe jetzt auf und werde die Welt verändern.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. De végül inkább újra visszafeküdtem: „Ma inkább megkímélem a természetet.”</p>
+<p>2. De végül inkább újra visszafeküdtem: „Ma inkább megkímélem a természetet.” - Dann schließlich habe ich mich lieber wieder hingelegt: „Heute verschone ich lieber die Natur.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1369,11 +1369,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Felébredéskor nagy terveim voltak: „Ideje hegyeket elmozdítani.”</p>
+<p>1. Felébredéskor nagy terveim voltak: „Ideje hegyeket elmozdítani.” - Beim Aufwachen hatte ich große Pläne: „Es ist Zeit, Berge zu versetzen.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Egy pillanattal később mégis így döntöttem: „Ma maradjon minden a helyén.”</p>
+<p>2. Egy pillanattal később mégis így döntöttem: „Ma maradjon minden a helyén.” - Kurz darauf entschied ich mich doch: „Heute soll alles an seinem Platz bleiben.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1438,19 +1438,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Csak szeretettel lehet meglepni engem – igazi, őszinte szeretettel, csalás és árulás nélkül. - Mich kann man nur mit Liebe überraschen – echter, aufrichtiger Liebe, ohne Betrug und Verrat.</p>
-<p>2. Minden mást már láttam. - Alles Andere habe ich schon gesehen.</p>
+<p>1. Csak szeretettel lehet meglepni engem – igazi, őszinte szeretettel, csalás és árulás nélkül.</p>
+<p>2. Minden mást már láttam.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Engem már csak a szeretet tud meglepni: valódi és tiszta szeretet, hazugság [hazukság] és árulás nélkül. - Mich kann nur noch Liebe überraschen: echte und ehrliche Liebe, ohne Lüge und Verrat.</p>
-<p>2. A többit mind ismerem. - Alles andere kenne ich schon.</p>
+<p>1. Engem már csak a szeretet tud meglepni: valódi és tiszta szeretet, hazugság [hazukság] és árulás nélkül.</p>
+<p>2. A többit mind ismerem.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Számomra az egyetlen meglepetés: a valódi szeretet. - Für mich ist echte Liebe die einzige Überraschung.</p>
-<p>2. Az őszinte, tiszta szeretet, csalás és árulás nélkül; minden mást már átéltem. - Aufrichtige, reine Liebe ohne Betrug und Verrat; alles andere habe ich bereits erlebt.</p>
+<p>1. Számomra az egyetlen meglepetés: a valódi szeretet.</p>
+<p>2. Az őszinte, tiszta szeretet, csalás és árulás nélkül; minden mást már átéltem.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1459,11 +1459,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Csak szeretettel lehet meglepni engem – igazi, őszinte szeretettel, csalás és árulás nélkül.</p>
+<p>1. Csak szeretettel lehet meglepni engem – igazi, őszinte szeretettel, csalás és árulás nélkül. - Mich kann man nur mit Liebe überraschen – echter, aufrichtiger Liebe, ohne Betrug und Verrat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Minden mást már láttam.</p>
+<p>2. Minden mást már láttam. - Alles Andere habe ich schon gesehen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1471,11 +1471,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Engem már csak a szeretet tud meglepni: valódi és tiszta szeretet, hazugság [hazukság] és árulás nélkül.</p>
+<p>1. Engem már csak a szeretet tud meglepni: valódi és tiszta szeretet, hazugság [hazukság] és árulás nélkül. - Mich kann nur noch Liebe überraschen: echte und ehrliche Liebe, ohne Lüge und Verrat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A többit mind ismerem.</p>
+<p>2. A többit mind ismerem. - Alles andere kenne ich schon.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1483,11 +1483,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Számomra az egyetlen meglepetés: a valódi szeretet.</p>
+<p>1. Számomra az egyetlen meglepetés: a valódi szeretet. - Für mich ist echte Liebe die einzige Überraschung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az őszinte, tiszta szeretet, csalás és árulás nélkül; minden mást már átéltem.</p>
+<p>2. Az őszinte, tiszta szeretet, csalás és árulás nélkül; minden mást már átéltem. - Aufrichtige, reine Liebe ohne Betrug und Verrat; alles andere habe ich bereits erlebt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1552,16 +1552,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Húszévesen már megházasodni olyan, mintha este kilenckor elmennél a diszkóból. - Mit 20 schon zu heiraten, das ist so, als ob man die Disko schon um 9 verlässt.</p>
+<p>1. Húszévesen már megházasodni olyan, mintha este kilenckor elmennél a diszkóból.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Húszévesen házasságot kötni olyan érzés, mint kilenckor hazamenni a diszkóból. - Mit zwanzig zu heiraten ist wie mit neun aus der Disco nach Hause zu gehen.</p>
+<p>1. Húszévesen házasságot kötni olyan érzés, mint kilenckor hazamenni a diszkóból.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha valaki húszévesen megházasodik, az olyan, mintha a buli elején elhagyná a diszkót. - Wenn jemand mit zwanzig heiratet, ist das so, als würde er die Disco gleich zu Beginn der Party verlassen.</p>
+<p>1. Ha valaki húszévesen megházasodik, az olyan, mintha a buli elején elhagyná a diszkót.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1570,7 +1570,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Húszévesen már megházasodni olyan, mintha este kilenckor elmennél a diszkóból.</p>
+<p>1. Húszévesen már megházasodni olyan, mintha este kilenckor elmennél a diszkóból. - Mit 20 schon zu heiraten, das ist so, als ob man die Disko schon um 9 verlässt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1578,7 +1578,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Húszévesen házasságot kötni olyan érzés, mint kilenckor hazamenni a diszkóból.</p>
+<p>1. Húszévesen házasságot kötni olyan érzés, mint kilenckor hazamenni a diszkóból. - Mit zwanzig zu heiraten ist wie mit neun aus der Disco nach Hause zu gehen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1586,7 +1586,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha valaki húszévesen megházasodik, az olyan, mintha a buli elején elhagyná a diszkót.</p>
+<p>1. Ha valaki húszévesen megházasodik, az olyan, mintha a buli elején elhagyná a diszkót. - Wenn jemand mit zwanzig heiratet, ist das so, als würde er die Disco gleich zu Beginn der Party verlassen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

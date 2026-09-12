@@ -48,20 +48,20 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az emberek azt mondják, megváltoztam, pedig csak abbahagytam azt, hogy olyan legyek, amilyennek ők szeretnének. - Die Leute sagen, ich hätte mich verändert, dabei habe ich nur aufgehört, so zu sein, wie sie es gerne von mir möchten.</p>
+<p>1. Az emberek azt mondják, megváltoztam, pedig csak abbahagytam azt, hogy olyan legyek, amilyennek ők szeretnének.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Sokan azt állítják, hogy megváltoztam, holott csupán nem vagyok többé olyan, amilyennek ők látni akarnak. - Viel behaupten, dass ich mich verändert habe, dabei bin ich nur nicht mehr so, wie sie mich gern hätten.</p>
-<p class="pc-note">csupán = csak - lediglich, nur</p>
-<p class="pc-note">holott - hingegen; wo .. doch; obwohl</p>
-<p class="pc-note">holott csupán - dabei; obwohl lediglich; wo doch nur; wo doch bloß</p>
-<p class="pc-note">vmilyennek látni - jemanden als etwas sehen; jemanden für etwas ansehen (“-nak/-nek” - jemandem eine Eigenschaft zuschreiben)</p>
+<p>1. Sokan azt állítják, hogy megváltoztam, holott csupán nem vagyok többé olyan, amilyennek ők látni akarnak.</p>
+<p class="pc-note">csupán = csak</p>
+<p class="pc-note">holott</p>
+<p class="pc-note">holott csupán</p>
+<p class="pc-note">vmilyennek látni</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Azt mondják rólam, hogy megváltoztam, pedig valójában csak megszűntem megfelelni mások elvárásainak. - Man sagt über mich (von mir), ich habe mich verändert, aber in Wirklichkeit habe ich nur aufgehört, den Erwartungen der Anderen zu entsprechen.</p>
+<p>1. Azt mondják rólam, hogy megváltoztam, pedig valójában csak megszűntem megfelelni mások elvárásainak.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -70,7 +70,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az emberek azt mondják, megváltoztam, pedig csak abbahagytam azt, hogy olyan legyek, amilyennek ők szeretnének.</p>
+<p>1. Az emberek azt mondják, megváltoztam, pedig csak abbahagytam azt, hogy olyan legyek, amilyennek ők szeretnének. - Die Leute sagen, ich hätte mich verändert, dabei habe ich nur aufgehört, so zu sein, wie sie es gerne von mir möchten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -78,23 +78,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sokan azt állítják, hogy megváltoztam, holott csupán nem vagyok többé olyan, amilyennek ők látni akarnak.</p>
+<p>1. Sokan azt állítják, hogy megváltoztam, holott csupán nem vagyok többé olyan, amilyennek ők látni akarnak. - Viel behaupten, dass ich mich verändert habe, dabei bin ich nur nicht mehr so, wie sie mich gern hätten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">csupán = csak</p>
+<p class="pc-note">csupán = csak - lediglich, nur</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">holott</p>
+<p class="pc-note">holott - hingegen; wo .. doch; obwohl</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">holott csupán</p>
+<p class="pc-note">holott csupán - dabei; obwohl lediglich; wo doch nur; wo doch bloß</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">vmilyennek látni</p>
+<p class="pc-note">vmilyennek látni - jemanden als etwas sehen; jemanden für etwas ansehen (“-nak/-nek” - jemandem eine Eigenschaft zuschreiben)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -102,7 +102,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Azt mondják rólam, hogy megváltoztam, pedig valójában csak megszűntem megfelelni mások elvárásainak.</p>
+<p>1. Azt mondják rólam, hogy megváltoztam, pedig valójában csak megszűntem megfelelni mások elvárásainak. - Man sagt über mich (von mir), ich habe mich verändert, aber in Wirklichkeit habe ich nur aufgehört, den Erwartungen der Anderen zu entsprechen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -171,24 +171,24 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az emberekben mindig csak a jót keresem, - Ich suche in den Menschen immer nur das Gute,</p>
-<p>2. a rosszat maguktól is megmutatják.[megmutattyák] - das Schlechte zeigen sie auch von alleine.</p>
-<p class="pc-note">jód - Jot</p>
-<p class="pc-note">a jót - das Gute (im Akkusativ / tárgyeset)</p>
+<p>1. Az emberekben mindig csak a jót keresem,</p>
+<p>2. a rosszat maguktól is megmutatják.[megmutattyák]</p>
+<p class="pc-note">jód</p>
+<p class="pc-note">a jót</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Én az emberekben elsősorban a jót próbálom meglátni, - Ich versuche in den Menschen vor allem (in erster Linie) das Gute zu sehen,</p>
-<p>2. a rossz úgyis önmagától előtérbe kerül. - das Schlechte tritt ohnehin von selbst zutage.</p>
-<p class="pc-note">előtér - Vordergrund</p>
-<p class="pc-note">kerül - (hin)gelangen</p>
-<p class="pc-note">háttér - Hintergrund</p>
+<p>1. Én az emberekben elsősorban a jót próbálom meglátni,</p>
+<p>2. a rossz úgyis önmagától előtérbe kerül.</p>
+<p class="pc-note">előtér</p>
+<p class="pc-note">kerül</p>
+<p class="pc-note">háttér</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Mindig a jót keresem az emberekben, - Ich suche stets das Gute im Menschen,</p>
-<p>2. mert a rosszat nem kell bemutatniuk, az magától is látszik [láccik]. - denn das Schlechte müssen sie nicht zeigen (präsentieren, vorstellen), es wird auch von selbst sichtbar.</p>
+<p>1. Mindig a jót keresem az emberekben,</p>
+<p>2. mert a rosszat nem kell bemutatniuk, az magától is látszik [láccik].</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -197,19 +197,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az emberekben mindig csak a jót keresem,</p>
+<p>1. Az emberekben mindig csak a jót keresem, - Ich suche in den Menschen immer nur das Gute,</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. a rosszat maguktól is megmutatják.[megmutattyák]</p>
+<p>2. a rosszat maguktól is megmutatják.[megmutattyák] - das Schlechte zeigen sie auch von alleine.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">jód</p>
+<p class="pc-note">jód - Jot</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">a jót</p>
+<p class="pc-note">a jót - das Gute (im Akkusativ / tárgyeset)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -217,23 +217,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Én az emberekben elsősorban a jót próbálom meglátni,</p>
+<p>1. Én az emberekben elsősorban a jót próbálom meglátni, - Ich versuche in den Menschen vor allem (in erster Linie) das Gute zu sehen,</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. a rossz úgyis önmagától előtérbe kerül.</p>
+<p>2. a rossz úgyis önmagától előtérbe kerül. - das Schlechte tritt ohnehin von selbst zutage.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">előtér</p>
+<p class="pc-note">előtér - Vordergrund</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kerül</p>
+<p class="pc-note">kerül - (hin)gelangen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">háttér</p>
+<p class="pc-note">háttér - Hintergrund</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -241,11 +241,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mindig a jót keresem az emberekben,</p>
+<p>1. Mindig a jót keresem az emberekben, - Ich suche stets das Gute im Menschen,</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. mert a rosszat nem kell bemutatniuk, az magától is látszik [láccik].</p>
+<p>2. mert a rosszat nem kell bemutatniuk, az magától is látszik [láccik]. - denn das Schlechte müssen sie nicht zeigen (präsentieren, vorstellen), es wird auch von selbst sichtbar.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -330,20 +330,20 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ó, hová tűntek azok az arany idők, amikor még megdicsértek azért, mert aludtam és szépen mindent megettem. - Ach, wohin sind nur die goldenen Zeiten verschwunden, als man mich dafür noch gelobt hat, weil ich geschlafen habe und brav aufgegessen habe.</p>
-<p class="pc-note">eltűnik - verschwinden, sich verlieren</p>
+<p>1. Ó, hová tűntek azok az arany idők, amikor még megdicsértek azért, mert aludtam és szépen mindent megettem.</p>
+<p class="pc-note">eltűnik</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ó, mennyire hiányoznak nekem azok az arany idők, amikor dicséret járt azért, ha aludtam és rendesen megettem mindent. - Ach, wie sehr fehlen mir die goldenen Zeiten, als man mich lobte, wenn ich geschlafen und alles ordentlich aufgegessen habe.</p>
-<p class="pc-note">dicséret jár - (ein) Lob bekommen</p>
+<p>1. Ó, mennyire hiányoznak nekem azok az arany idők, amikor dicséret járt azért, ha aludtam és rendesen megettem mindent.</p>
+<p class="pc-note">dicséret jár</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ó, hová lettek azok a régi, arany idők, amikor még elismerést kaptam azért, hogy aludtam és mindent megettem. - Ach, wo sind die alten goldenen Zeiten geblieben, als ich dafür noch Anerkennung bekam, dass ich geschlafen und alles aufgegessen habe.</p>
-<p class="pc-note">Hová lettek? - Wo sind sie geblieben?  (Wohin sind sie geblieben?)</p>
-<p class="pc-note">Hová lett? - Wo ist er/sie/es geblieben?</p>
+<p>1. Ó, hová lettek azok a régi, arany idők, amikor még elismerést kaptam azért, hogy aludtam és mindent megettem.</p>
+<p class="pc-note">Hová lettek?</p>
+<p class="pc-note">Hová lett?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -352,11 +352,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ó, hová tűntek azok az arany idők, amikor még megdicsértek azért, mert aludtam és szépen mindent megettem.</p>
+<p>1. Ó, hová tűntek azok az arany idők, amikor még megdicsértek azért, mert aludtam és szépen mindent megettem. - Ach, wohin sind nur die goldenen Zeiten verschwunden, als man mich dafür noch gelobt hat, weil ich geschlafen habe und brav aufgegessen habe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">eltűnik</p>
+<p class="pc-note">eltűnik - verschwinden, sich verlieren</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -364,11 +364,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ó, mennyire hiányoznak nekem azok az arany idők, amikor dicséret járt azért, ha aludtam és rendesen megettem mindent.</p>
+<p>1. Ó, mennyire hiányoznak nekem azok az arany idők, amikor dicséret járt azért, ha aludtam és rendesen megettem mindent. - Ach, wie sehr fehlen mir die goldenen Zeiten, als man mich lobte, wenn ich geschlafen und alles ordentlich aufgegessen habe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">dicséret jár</p>
+<p class="pc-note">dicséret jár - (ein) Lob bekommen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -376,15 +376,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ó, hová lettek azok a régi, arany idők, amikor még elismerést kaptam azért, hogy aludtam és mindent megettem.</p>
+<p>1. Ó, hová lettek azok a régi, arany idők, amikor még elismerést kaptam azért, hogy aludtam és mindent megettem. - Ach, wo sind die alten goldenen Zeiten geblieben, als ich dafür noch Anerkennung bekam, dass ich geschlafen und alles aufgegessen habe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Hová lettek?</p>
+<p class="pc-note">Hová lettek? - Wo sind sie geblieben?  (Wohin sind sie geblieben?)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Hová lett?</p>
+<p class="pc-note">Hová lett? - Wo ist er/sie/es geblieben?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -453,21 +453,21 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Kár, hogy az élet első felében hiányzik az ész, a második felében pedig az egészség. [egésség] - Schade, dass in der ersten Lebenshälfte (dass in des Lebens seiner ersten Hälfte), es an Verstand fehlt und in der zweiten (in seiner zweiten Hälfte) hingegen an Gesundheit.</p>
-<p class="pc-note">fél [felet, fele, felek] - die Hälfte</p>
+<p>1. Kár, hogy az élet első felében hiányzik az ész, a második felében pedig az egészség. [egésség]</p>
+<p class="pc-note">fél [felet, fele, felek]</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Sajnálatos (= sajnos), hogy az élet elején nincs elég józan ész, később pedig az egészség fogy el. - Schade (bedauerlicherweise = leider), dass es am Anfang des Lebens nicht genug Vernunft (gesunder Verstand) gibt, später jedoch die Gesundheit schwindet.</p>
-<p class="pc-note">kár hogy - schade dass</p>
-<p class="pc-note">a kezdet - der Beginn</p>
-<p class="pc-note">(vminek) az eleje - der Anfang (von irgendwas)</p>
-<p class="pc-note">elfogy - schwinden; ausgehen; verbraucht werden</p>
+<p>1. Sajnálatos (= sajnos), hogy az élet elején nincs elég józan ész, később pedig az egészség fogy el.</p>
+<p class="pc-note">kár hogy</p>
+<p class="pc-note">a kezdet</p>
+<p class="pc-note">(vminek) az eleje</p>
+<p class="pc-note">elfogy</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Szomorú, hogy az élet első szakaszában az ész hiányzik, a másodikban pedig az egészség. - Es ist traurig, dass im ersten Abschnitt  des Lebens der Verstand fehlt, im zweiten Abschnitt hingegen die Gesundheit.</p>
+<p>1. Szomorú, hogy az élet első szakaszában az ész hiányzik, a másodikban pedig az egészség.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -476,11 +476,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Kár, hogy az élet első felében hiányzik az ész, a második felében pedig az egészség. [egésség]</p>
+<p>1. Kár, hogy az élet első felében hiányzik az ész, a második felében pedig az egészség. [egésség] - Schade, dass in der ersten Lebenshälfte (dass in des Lebens seiner ersten Hälfte), es an Verstand fehlt und in der zweiten (in seiner zweiten Hälfte) hingegen an Gesundheit.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">fél [felet, fele, felek]</p>
+<p class="pc-note">fél [felet, fele, felek] - die Hälfte</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -488,23 +488,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sajnálatos (= sajnos), hogy az élet elején nincs elég józan ész, később pedig az egészség fogy el.</p>
+<p>1. Sajnálatos (= sajnos), hogy az élet elején nincs elég józan ész, később pedig az egészség fogy el. - Schade (bedauerlicherweise = leider), dass es am Anfang des Lebens nicht genug Vernunft (gesunder Verstand) gibt, später jedoch die Gesundheit schwindet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kár hogy</p>
+<p class="pc-note">kár hogy - schade dass</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">a kezdet</p>
+<p class="pc-note">a kezdet - der Beginn</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">(vminek) az eleje</p>
+<p class="pc-note">(vminek) az eleje - der Anfang (von irgendwas)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elfogy</p>
+<p class="pc-note">elfogy - schwinden; ausgehen; verbraucht werden</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -512,7 +512,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Szomorú, hogy az élet első szakaszában az ész hiányzik, a másodikban pedig az egészség.</p>
+<p>1. Szomorú, hogy az élet első szakaszában az ész hiányzik, a másodikban pedig az egészség. - Es ist traurig, dass im ersten Abschnitt  des Lebens der Verstand fehlt, im zweiten Abschnitt hingegen die Gesundheit.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -585,25 +585,23 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. „Minden igazság [igasság] könnyen érthető, ha egyszer már felfedeztük. A nehézség [nehésség] abban rejlik, hogy felfedezzük őket.” - „Alle Wahrheiten (Jede Wahrheit) sind leicht zu verstehen, wenn man sie erst einmal (wenn schon einmal) entdeckt hat. Die Schwierigkeit liegt darin, sie zu entdecken.“ (Galileo Galilei)</p>
-<p class="pc-note">minden igazság = minden egyes igázság - jede einzelne Wahrheit</p>
+<p>1. „Minden igazság [igasság] könnyen érthető, ha egyszer már felfedeztük. A nehézség [nehésség] abban rejlik, hogy felfedezzük őket.”</p>
+<p class="pc-note">minden igazság = minden egyes igázság</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. „Minden igazság egyszerűvé válik, miután sikerült felfedezni. A gond mindig a felfedezésben van.” - „Alle Wahrheiten sind leicht zu verstehen, sobald man sie entdeckt hat. Die Schwierigkeit (das Problem, Kummer, Sorge) besteht darin, sie zu entdecken.“ (Galileo Galilei)</p>
-<p class="pc-note">„Alle Wahrheit wird einfach, nachdem es gelungen ist, (sie) zu entdecken. Das Problem ist immer im Entdecken.“</p>
+<p>1. „Minden igazság egyszerűvé válik, miután sikerült felfedezni. A gond mindig a felfedezésben van.”</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. „Az igazságok [igasságok] önmagukban nem bonyolultak, ha már napvilágra kerültek. A valódi nehézség [nehésség] a feltárásuk.” - „Alle Wahrheiten sind leicht zu verstehen, wenn sie einmal erkannt wurden. Die eigentliche Schwierigkeit liegt im Entdecken.“ (Galileo Galilei)</p>
-<p class="pc-note">Die Wahrheiten sind an sich nicht kompliziert, wenn sie bereits ans Tageslicht gelangt sind. Die wirkliche Schwierigkeit ist ihr Aufdecken.</p>
-<p class="pc-note">önmaga - er/sie selbst</p>
-<p class="pc-note">önmagukban - an sich (in sich selbst)</p>
-<p class="pc-note">feltárás - Ausgrabung</p>
-<p class="pc-note">feltár - ausgraben, erforschen, enthüllen, weit öffnen</p>
-<p class="pc-note">tár - öffnen, auftun, darlegen</p>
-<p class="pc-note">kitárja az ajtót - er reißt / öffnet die Tür weit auf</p>
+<p>1. „Az igazságok [igasságok] önmagukban nem bonyolultak, ha már napvilágra kerültek. A valódi nehézség [nehésség] a feltárásuk.”</p>
+<p class="pc-note">önmaga</p>
+<p class="pc-note">önmagukban</p>
+<p class="pc-note">feltárás</p>
+<p class="pc-note">feltár</p>
+<p class="pc-note">tár</p>
+<p class="pc-note">kitárja az ajtót</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -612,11 +610,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Minden igazság [igasság] könnyen érthető, ha egyszer már felfedeztük. A nehézség [nehésség] abban rejlik, hogy felfedezzük őket.”</p>
+<p>1. „Minden igazság [igasság] könnyen érthető, ha egyszer már felfedeztük. A nehézség [nehésség] abban rejlik, hogy felfedezzük őket.” - „Alle Wahrheiten (Jede Wahrheit) sind leicht zu verstehen, wenn man sie erst einmal (wenn schon einmal) entdeckt hat. Die Schwierigkeit liegt darin, sie zu entdecken.“ (Galileo Galilei)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">minden igazság = minden egyes igázság</p>
+<p class="pc-note">minden igazság = minden egyes igázság - jede einzelne Wahrheit</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -624,7 +622,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Minden igazság egyszerűvé válik, miután sikerült felfedezni. A gond mindig a felfedezésben van.”</p>
+<p>1. „Minden igazság egyszerűvé válik, miután sikerült felfedezni. A gond mindig a felfedezésben van.” - „Alle Wahrheiten sind leicht zu verstehen, sobald man sie entdeckt hat. Die Schwierigkeit (das Problem, Kummer, Sorge) besteht darin, sie zu entdecken.“ (Galileo Galilei)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">„Alle Wahrheit wird einfach, nachdem es gelungen ist, (sie) zu entdecken. Das Problem ist immer im Entdecken.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -632,31 +634,35 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Az igazságok [igasságok] önmagukban nem bonyolultak, ha már napvilágra kerültek. A valódi nehézség [nehésség] a feltárásuk.”</p>
+<p>1. „Az igazságok [igasságok] önmagukban nem bonyolultak, ha már napvilágra kerültek. A valódi nehézség [nehésség] a feltárásuk.” - „Alle Wahrheiten sind leicht zu verstehen, wenn sie einmal erkannt wurden. Die eigentliche Schwierigkeit liegt im Entdecken.“ (Galileo Galilei)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">önmaga</p>
+<p class="pc-note">Die Wahrheiten sind an sich nicht kompliziert, wenn sie bereits ans Tageslicht gelangt sind. Die wirkliche Schwierigkeit ist ihr Aufdecken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">önmagukban</p>
+<p class="pc-note">önmaga - er/sie selbst</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">feltárás</p>
+<p class="pc-note">önmagukban - an sich (in sich selbst)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">feltár</p>
+<p class="pc-note">feltárás - Ausgrabung</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tár</p>
+<p class="pc-note">feltár - ausgraben, erforschen, enthüllen, weit öffnen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kitárja az ajtót</p>
+<p class="pc-note">tár - öffnen, auftun, darlegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kitárja az ajtót - er reißt / öffnet die Tür weit auf</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -745,18 +751,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. „Aki feladja [felaggya] a szabadságot [szabaccságot] a biztonságért [bisztonsá-gért], végül mindkettőt [minkettőt] (= mind a kettőt) elveszti.” - „Wer die Freiheit aufgibt, wegen der Sicherheit, verliert am Ende beides.“ (Benjamin Franklin)</p>
+<p>1. „Aki feladja [felaggya] a szabadságot [szabaccságot] a biztonságért [bisztonsá-gért], végül mindkettőt [minkettőt] (= mind a kettőt) elveszti.”</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. „Az, aki a szabadságot biztonságra cseréli, a végén sem szabadságot, sem biztonságot nem kap.” - „Wer Freiheit gegen Sicherheit eintauscht, wird am Ende weder die Freiheit, noch die Sicherheit (nicht) bekommen.“ (Benjamin Franklin)</p>
+<p>1. „Az, aki a szabadságot biztonságra cseréli, a végén sem szabadságot, sem biztonságot nem kap.”</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. „Ha valaki a szabadságról lemond a biztonság kedvéért, végül egyik sem marad meg számára.” - „Wer (Wenn jemand) die Freiheit zugunsten der Sicherheit aufgibt (entsagen), verliert am Ende beides. (am Ende nicht eins von ihnen bleibt)“ (Benjamin Franklin)</p>
-<p class="pc-note">kedvéért - zuliebe; um ... willen; wegen ... ;/ im Interesse von ... ; (ursprünglich etwa: um seines Gefallens willen)</p>
-<p class="pc-note">kedv - Lust, Laune, Gefallen</p>
+<p>1. „Ha valaki a szabadságról lemond a biztonság kedvéért, végül egyik sem marad meg számára.”</p>
+<p class="pc-note">kedvéért</p>
+<p class="pc-note">kedv</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -765,7 +771,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Aki feladja [felaggya] a szabadságot [szabaccságot] a biztonságért [bisztonsá-gért], végül mindkettőt [minkettőt] (= mind a kettőt) elveszti.”</p>
+<p>1. „Aki feladja [felaggya] a szabadságot [szabaccságot] a biztonságért [bisztonsá-gért], végül mindkettőt [minkettőt] (= mind a kettőt) elveszti.” - „Wer die Freiheit aufgibt, wegen der Sicherheit, verliert am Ende beides.“ (Benjamin Franklin)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -773,7 +779,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Az, aki a szabadságot biztonságra cseréli, a végén sem szabadságot, sem biztonságot nem kap.”</p>
+<p>1. „Az, aki a szabadságot biztonságra cseréli, a végén sem szabadságot, sem biztonságot nem kap.” - „Wer Freiheit gegen Sicherheit eintauscht, wird am Ende weder die Freiheit, noch die Sicherheit (nicht) bekommen.“ (Benjamin Franklin)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -781,15 +787,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Ha valaki a szabadságról lemond a biztonság kedvéért, végül egyik sem marad meg számára.”</p>
+<p>1. „Ha valaki a szabadságról lemond a biztonság kedvéért, végül egyik sem marad meg számára.” - „Wer (Wenn jemand) die Freiheit zugunsten der Sicherheit aufgibt (entsagen), verliert am Ende beides. (am Ende nicht eins von ihnen bleibt)“ (Benjamin Franklin)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kedvéért</p>
+<p class="pc-note">kedvéért - zuliebe; um ... willen; wegen ... ;/ im Interesse von ... ; (ursprünglich etwa: um seines Gefallens willen)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kedv</p>
+<p class="pc-note">kedv - Lust, Laune, Gefallen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -852,19 +858,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Egy házaspár akkor jön ki a legjobban egymással, ha a nő egy kicsit rosszabbul lát, a férfi pedig egy kicsit rosszabbul hall. - Am besten kommt ein Ehepaar miteinander aus, wenn die Frau etwas schlechter sieht und der Mann etwas schlechter hört.</p>
-<p class="pc-note">egymással kijön - miteinander auskommen</p>
-<p class="pc-note">jön - kommen</p>
+<p>1. Egy házaspár akkor jön ki a legjobban egymással, ha a nő egy kicsit rosszabbul lát, a férfi pedig egy kicsit rosszabbul hall.</p>
+<p class="pc-note">egymással kijön</p>
+<p class="pc-note">jön</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A házasság akkor működik a legsimábban, ha a feleség nem lát mindent olyan élesen, a férj pedig nem hall meg mindent olyan pontosan. - Die Ehe funktioniert dann am besten (reibungslos, glatt), wenn die Frau nicht alles so scharf sieht und der Mann nicht alles so genau hört.</p>
+<p>1. A házasság akkor működik a legsimábban, ha a feleség nem lát mindent olyan élesen, a férj pedig nem hall meg mindent olyan pontosan.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Úgy tűnik, a házasság titka az, hogy a nő nem olyan éles szemű, a férfi pedig nem olyan éles hallású. - Es scheint, das Geheimnis der Ehe ist, dass die Frau nicht so gut sieht (weniger scharfäugig ist) und der Mann andererseits nicht so gut hört (weniger scharfhörig ist).</p>
-<p class="pc-note">éles nyelvű - scharfzüngig</p>
+<p>1. Úgy tűnik, a házasság titka az, hogy a nő nem olyan éles szemű, a férfi pedig nem olyan éles hallású.</p>
+<p class="pc-note">éles nyelvű</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -873,15 +879,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy házaspár akkor jön ki a legjobban egymással, ha a nő egy kicsit rosszabbul lát, a férfi pedig egy kicsit rosszabbul hall.</p>
+<p>1. Egy házaspár akkor jön ki a legjobban egymással, ha a nő egy kicsit rosszabbul lát, a férfi pedig egy kicsit rosszabbul hall. - Am besten kommt ein Ehepaar miteinander aus, wenn die Frau etwas schlechter sieht und der Mann etwas schlechter hört.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">egymással kijön</p>
+<p class="pc-note">egymással kijön - miteinander auskommen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">jön</p>
+<p class="pc-note">jön - kommen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -889,7 +895,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A házasság akkor működik a legsimábban, ha a feleség nem lát mindent olyan élesen, a férj pedig nem hall meg mindent olyan pontosan.</p>
+<p>1. A házasság akkor működik a legsimábban, ha a feleség nem lát mindent olyan élesen, a férj pedig nem hall meg mindent olyan pontosan. - Die Ehe funktioniert dann am besten (reibungslos, glatt), wenn die Frau nicht alles so scharf sieht und der Mann nicht alles so genau hört.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -897,11 +903,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Úgy tűnik, a házasság titka az, hogy a nő nem olyan éles szemű, a férfi pedig nem olyan éles hallású.</p>
+<p>1. Úgy tűnik, a házasság titka az, hogy a nő nem olyan éles szemű, a férfi pedig nem olyan éles hallású. - Es scheint, das Geheimnis der Ehe ist, dass die Frau nicht so gut sieht (weniger scharfäugig ist) und der Mann andererseits nicht so gut hört (weniger scharfhörig ist).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">éles nyelvű</p>
+<p class="pc-note">éles nyelvű - scharfzüngig</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -966,32 +972,31 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A nő tartozni szeretne valakihez, de mindenkinek tetszeni [tecceni]. - Die Frau möchte einem gehören (zu jemandem gehören), aber allen gefallen.</p>
-<p>2. A férfi mindenkit meg akar hódítani, de azt szeretné, hogy a nő csak hozzá tartozzon. - Der Mann möchte alle erobern, aber er möchte, dass die Frau nur ihm gehören soll.</p>
-<p class="pc-note">tartozik - zugehören</p>
-<p class="pc-note">(meg)hódít - erobern</p>
-<p class="pc-note">hozzá tartozik - dazu gehören</p>
-<p class="pc-note">hozzá tartozó - dazugehörig</p>
+<p>1. A nő tartozni szeretne valakihez, de mindenkinek tetszeni [tecceni].</p>
+<p>2. A férfi mindenkit meg akar hódítani, de azt szeretné, hogy a nő csak hozzá tartozzon.</p>
+<p class="pc-note">tartozik</p>
+<p class="pc-note">(meg)hódít</p>
+<p class="pc-note">hozzá tartozik</p>
+<p class="pc-note">hozzá tartozó</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A nő arra vágyik, hogy egy emberé legyen, miközben mindenkinek tessen. - Die Frau sehnt sich danach, dass sie einem Menschen gehören soll und zugleich (= währenddessen; während) allen gefallen (gefallen soll).</p>
-<p class="pc-note">tessen (felszólító mód - Imperativ) - Warum Imperativ? - Der “felszólító mód” steht hier, weil der Nebensatz nach „hogy“ einen Wunsch, ein Ziel oder etwas Ersehntes ausdrückt.</p>
-<p class="pc-note">vágyik = vágyódik - sich sehnen; gelüsten</p>
-<p class="pc-note">Imperativ in „hogy“-Nebensätzen nach Verben des Wollens, Wünschens, Forderns, Zulassens, Erhoffens oder Anstrebens</p>
-<p>2. A férfi viszont mindenkit akar, de elvárja, hogy a nő kizárólag hozzá tartozzon. - Der Mann will alle haben, erwartet aber, dass die Frau ausschließlich ihm gehören soll.</p>
-<p class="pc-note">kizárólag - ausschließlich</p>
-<p class="pc-note">zár - schließen</p>
-<p class="pc-note">kizár - aussperren, ausschließen</p>
+<p>1. A nő arra vágyik, hogy egy emberé legyen, miközben mindenkinek tessen.</p>
+<p class="pc-note">tessen (felszólító mód - Imperativ)</p>
+<p class="pc-note">vágyik = vágyódik</p>
+<p>2. A férfi viszont mindenkit akar, de elvárja, hogy a nő kizárólag hozzá tartozzon.</p>
+<p class="pc-note">kizárólag</p>
+<p class="pc-note">zár</p>
+<p class="pc-note">kizár</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A nő egyvalakihez kötődne, de mindenkinek tetszeni akar. - Die Frau möchte einem gehören (möchte sich mit einem verboinden), aber will allen gefallen.</p>
-<p>2. A férfi minden nőt meg akar szerezni, mégis azt akarja, hogy az övé csak neki legyen. - Der Mann möchte alle haben, aber trotzdem will er, dass sie nur seine sei.</p>
-<p class="pc-note">egyvalaki - sonstwer; einer; jemand; (einer- irgendeiner)</p>
-<p class="pc-note">kötődik - verbinden; gehören zu; (sich verbinden; sich binden)</p>
-<p class="pc-note">övé - die Seinige/der Seinige</p>
+<p>1. A nő egyvalakihez kötődne, de mindenkinek tetszeni akar.</p>
+<p>2. A férfi minden nőt meg akar szerezni, mégis azt akarja, hogy az övé csak neki legyen.</p>
+<p class="pc-note">egyvalaki</p>
+<p class="pc-note">kötődik</p>
+<p class="pc-note">övé</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1000,27 +1005,27 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nő tartozni szeretne valakihez, de mindenkinek tetszeni [tecceni].</p>
+<p>1. A nő tartozni szeretne valakihez, de mindenkinek tetszeni [tecceni]. - Die Frau möchte einem gehören (zu jemandem gehören), aber allen gefallen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A férfi mindenkit meg akar hódítani, de azt szeretné, hogy a nő csak hozzá tartozzon.</p>
+<p>2. A férfi mindenkit meg akar hódítani, de azt szeretné, hogy a nő csak hozzá tartozzon. - Der Mann möchte alle erobern, aber er möchte, dass die Frau nur ihm gehören soll.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tartozik</p>
+<p class="pc-note">tartozik - zugehören</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">(meg)hódít</p>
+<p class="pc-note">(meg)hódít - erobern</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">hozzá tartozik</p>
+<p class="pc-note">hozzá tartozik - dazu gehören</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">hozzá tartozó</p>
+<p class="pc-note">hozzá tartozó - dazugehörig</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1028,31 +1033,35 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nő arra vágyik, hogy egy emberé legyen, miközben mindenkinek tessen.</p>
+<p>1. A nő arra vágyik, hogy egy emberé legyen, miközben mindenkinek tessen. - Die Frau sehnt sich danach, dass sie einem Menschen gehören soll und zugleich (= währenddessen; während) allen gefallen (gefallen soll).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tessen (felszólító mód - Imperativ)</p>
+<p class="pc-note">tessen (felszólító mód - Imperativ) - Warum Imperativ? - Der “felszólító mód” steht hier, weil der Nebensatz nach „hogy“ einen Wunsch, ein Ziel oder etwas Ersehntes ausdrückt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">vágyik = vágyódik</p>
+<p class="pc-note">vágyik = vágyódik - sich sehnen; gelüsten</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A férfi viszont mindenkit akar, de elvárja, hogy a nő kizárólag hozzá tartozzon.</p>
+<p class="pc-note">Imperativ in „hogy“-Nebensätzen nach Verben des Wollens, Wünschens, Forderns, Zulassens, Erhoffens oder Anstrebens</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kizárólag</p>
+<p>2. A férfi viszont mindenkit akar, de elvárja, hogy a nő kizárólag hozzá tartozzon. - Der Mann will alle haben, erwartet aber, dass die Frau ausschließlich ihm gehören soll.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">zár</p>
+<p class="pc-note">kizárólag - ausschließlich</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kizár</p>
+<p class="pc-note">zár - schließen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kizár - aussperren, ausschließen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1060,23 +1069,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A nő egyvalakihez kötődne, de mindenkinek tetszeni akar.</p>
+<p>1. A nő egyvalakihez kötődne, de mindenkinek tetszeni akar. - Die Frau möchte einem gehören (möchte sich mit einem verboinden), aber will allen gefallen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A férfi minden nőt meg akar szerezni, mégis azt akarja, hogy az övé csak neki legyen.</p>
+<p>2. A férfi minden nőt meg akar szerezni, mégis azt akarja, hogy az övé csak neki legyen. - Der Mann möchte alle haben, aber trotzdem will er, dass sie nur seine sei.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">egyvalaki</p>
+<p class="pc-note">egyvalaki - sonstwer; einer; jemand; (einer- irgendeiner)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kötődik</p>
+<p class="pc-note">kötődik - verbinden; gehören zu; (sich verbinden; sich binden)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">övé</p>
+<p class="pc-note">övé - die Seinige/der Seinige</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1193,16 +1202,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. „Ha nem tudsz boldoggá tenni egy nőt, akkor ne zavard azokat, akik igen!” - „Wenn du eine Frau nicht glücklich machen kannst, dann störe nicht andere dabei! (dann störe nicht diejenigen, die es ja (doch) können! )“</p>
+<p>1. „Ha nem tudsz boldoggá tenni egy nőt, akkor ne zavard azokat, akik igen!”</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. „Ha nem vagy képes boldoggá tenni egy nőt, legalább ne akadályozz meg másokat ebben!” - „Wenn du nicht fähig bist eine Frau glücklich zu machen, dann hindere wenigstens nicht andere daran!“</p>
+<p>1. „Ha nem vagy képes boldoggá tenni egy nőt, legalább ne akadályozz meg másokat ebben!”</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. „Amennyiben nem tudsz egy nőt boldoggá tenni, tartsd magad távol attól, hogy másokat megzavarj!” - „Sofern (falls; wenn) du eine Frau nicht glücklich machen kannst, halte dich davon fern, dass du andere störst!“</p>
+<p>1. „Amennyiben nem tudsz egy nőt boldoggá tenni, tartsd magad távol attól, hogy másokat megzavarj!”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1211,7 +1220,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Ha nem tudsz boldoggá tenni egy nőt, akkor ne zavard azokat, akik igen!”</p>
+<p>1. „Ha nem tudsz boldoggá tenni egy nőt, akkor ne zavard azokat, akik igen!” - „Wenn du eine Frau nicht glücklich machen kannst, dann störe nicht andere dabei! (dann störe nicht diejenigen, die es ja (doch) können! )“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1219,7 +1228,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Ha nem vagy képes boldoggá tenni egy nőt, legalább ne akadályozz meg másokat ebben!”</p>
+<p>1. „Ha nem vagy képes boldoggá tenni egy nőt, legalább ne akadályozz meg másokat ebben!” - „Wenn du nicht fähig bist eine Frau glücklich zu machen, dann hindere wenigstens nicht andere daran!“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1227,7 +1236,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Amennyiben nem tudsz egy nőt boldoggá tenni, tartsd magad távol attól, hogy másokat megzavarj!”</p>
+<p>1. „Amennyiben nem tudsz egy nőt boldoggá tenni, tartsd magad távol attól, hogy másokat megzavarj!” - „Sofern (falls; wenn) du eine Frau nicht glücklich machen kannst, halte dich davon fern, dass du andere störst!“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1280,22 +1289,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. „Hogyan lehet egyetlen nap alatt húszezer eurót elkölteni vásárláskor?” - „Wie kann man an einem einzigen Tag 20.000 Euro beim Shoppen ausgeben?“</p>
-<p>2. „Induljunk el, hozz magaddal elég pénzt, majd megmutatom!” - „Lass uns losgehen, nimm genug Geld mit, ich zeig dir, wie es geht!“</p>
+<p>1. „Hogyan lehet egyetlen nap alatt húszezer eurót elkölteni vásárláskor?”</p>
+<p>2. „Induljunk el, hozz magaddal elég pénzt, majd megmutatom!”</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. „Miként lehet egy nap alatt 20 000 eurót elverni vásárlással?” - „Wie schafft man es, an einem Tag 20.000 Euro beim Shoppen zu verjubeln?“</p>
-<p>2. „Gyere velem, hozz sok pénzt, és én megmutatom!” - „Komm mit, nimm viel Geld mit, ich zeige es dir!“</p>
-<p class="pc-note">pénzt elver - Geld verjubeln</p>
-<p class="pc-note">elver - verprügeln</p>
-<p class="pc-note">ver = üt - schlagen</p>
+<p>1. „Miként lehet egy nap alatt 20 000 eurót elverni vásárlással?”</p>
+<p>2. „Gyere velem, hozz sok pénzt, és én megmutatom!”</p>
+<p class="pc-note">pénzt elver</p>
+<p class="pc-note">elver</p>
+<p class="pc-note">ver = üt</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. „Hogy lehet egyetlen nap alatt 20 000 eurót elköltetni egymagad vásárlás közben?” - „Wie kann man an einem einzigen Tag 20.000 Euro beim Shoppen ganz allein ausgeben?“</p>
-<p>2. „Menjünk, készülj fel elegendő pénzzel, majd én beavatlak.” - „Lass uns gehen, mach dich bereit mit genügend Geld, ich weihe dich ein.“</p>
+<p>1. „Hogy lehet egyetlen nap alatt 20 000 eurót elköltetni egymagad vásárlás közben?”</p>
+<p>2. „Menjünk, készülj fel elegendő pénzzel, majd én beavatlak.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1304,11 +1313,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Hogyan lehet egyetlen nap alatt húszezer eurót elkölteni vásárláskor?”</p>
+<p>1. „Hogyan lehet egyetlen nap alatt húszezer eurót elkölteni vásárláskor?” - „Wie kann man an einem einzigen Tag 20.000 Euro beim Shoppen ausgeben?“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. „Induljunk el, hozz magaddal elég pénzt, majd megmutatom!”</p>
+<p>2. „Induljunk el, hozz magaddal elég pénzt, majd megmutatom!” - „Lass uns losgehen, nimm genug Geld mit, ich zeig dir, wie es geht!“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1316,23 +1325,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Miként lehet egy nap alatt 20 000 eurót elverni vásárlással?”</p>
+<p>1. „Miként lehet egy nap alatt 20 000 eurót elverni vásárlással?” - „Wie schafft man es, an einem Tag 20.000 Euro beim Shoppen zu verjubeln?“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. „Gyere velem, hozz sok pénzt, és én megmutatom!”</p>
+<p>2. „Gyere velem, hozz sok pénzt, és én megmutatom!” - „Komm mit, nimm viel Geld mit, ich zeige es dir!“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">pénzt elver</p>
+<p class="pc-note">pénzt elver - Geld verjubeln</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elver</p>
+<p class="pc-note">elver - verprügeln</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">ver = üt</p>
+<p class="pc-note">ver = üt - schlagen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1340,11 +1349,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. „Hogy lehet egyetlen nap alatt 20 000 eurót elköltetni egymagad vásárlás közben?”</p>
+<p>1. „Hogy lehet egyetlen nap alatt 20 000 eurót elköltetni egymagad vásárlás közben?” - „Wie kann man an einem einzigen Tag 20.000 Euro beim Shoppen ganz allein ausgeben?“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. „Menjünk, készülj fel elegendő pénzzel, majd én beavatlak.”</p>
+<p>2. „Menjünk, készülj fel elegendő pénzzel, majd én beavatlak.” - „Lass uns gehen, mach dich bereit mit genügend Geld, ich weihe dich ein.“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1421,22 +1430,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A bátorság, az elszántság [elszáncság] és az őszinteség az alkoholmámor három fő tünete. - Mut, Entschlossenheit und Ehrlichkeit – das sind die drei Hauptsymptome eines Alkoholrausches.</p>
-<p class="pc-note">bátor - mutig</p>
-<p class="pc-note">elszánt - entschlossen</p>
-<p class="pc-note">őszinte - ehrlich, aufrichtig</p>
+<p>1. A bátorság, az elszántság [elszáncság] és az őszinteség az alkoholmámor három fő tünete.</p>
+<p class="pc-note">bátor</p>
+<p class="pc-note">elszánt</p>
+<p class="pc-note">őszinte</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A bátorság, a határozottság és a nyíltság az ittas állapot legjellemzőbb jelei közé tartozik. - Der Mut, die Entschlossenheit und die Offenheit gehören zu den charakteristischsten Zeichen des betrunkenen Zustands.</p>
-<p class="pc-note">határozott - bestimmt, entschlossen</p>
-<p class="pc-note">nyíltság - Offenzeit</p>
+<p>1. A bátorság, a határozottság és a nyíltság az ittas állapot legjellemzőbb jelei közé tartozik.</p>
+<p class="pc-note">határozott</p>
+<p class="pc-note">nyíltság</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Az alkohol hatására hirtelen megjelenik a bátorság, az elszántság és a kíméletlen őszinteség. - Durch die Wirkung von Alkohol erscheinen plötzlich Mut, Entschlossenheit und schonungslose Ehrlichkeit. (Unter :Alkoholeinfluss treten plötzlich Mut, Entschlossenheit und rücksichtslose Offenheit hervor.)</p>
-<p class="pc-note">kíméletlen - brutal; rücksichtslos</p>
+<p>1. Az alkohol hatására hirtelen megjelenik a bátorság, az elszántság és a kíméletlen őszinteség.</p>
+<p class="pc-note">kíméletlen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1445,19 +1454,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A bátorság, az elszántság [elszáncság] és az őszinteség az alkoholmámor három fő tünete.</p>
+<p>1. A bátorság, az elszántság [elszáncság] és az őszinteség az alkoholmámor három fő tünete. - Mut, Entschlossenheit und Ehrlichkeit – das sind die drei Hauptsymptome eines Alkoholrausches.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">bátor</p>
+<p class="pc-note">bátor - mutig</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elszánt</p>
+<p class="pc-note">elszánt - entschlossen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">őszinte</p>
+<p class="pc-note">őszinte - ehrlich, aufrichtig</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1465,15 +1474,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A bátorság, a határozottság és a nyíltság az ittas állapot legjellemzőbb jelei közé tartozik.</p>
+<p>1. A bátorság, a határozottság és a nyíltság az ittas állapot legjellemzőbb jelei közé tartozik. - Der Mut, die Entschlossenheit und die Offenheit gehören zu den charakteristischsten Zeichen des betrunkenen Zustands.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">határozott</p>
+<p class="pc-note">határozott - bestimmt, entschlossen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">nyíltság</p>
+<p class="pc-note">nyíltság - Offenzeit</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1481,11 +1490,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol hatására hirtelen megjelenik a bátorság, az elszántság és a kíméletlen őszinteség.</p>
+<p>1. Az alkohol hatására hirtelen megjelenik a bátorság, az elszántság és a kíméletlen őszinteség. - Durch die Wirkung von Alkohol erscheinen plötzlich Mut, Entschlossenheit und schonungslose Ehrlichkeit. (Unter :Alkoholeinfluss treten plötzlich Mut, Entschlossenheit und rücksichtslose Offenheit hervor.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kíméletlen</p>
+<p class="pc-note">kíméletlen - brutal; rücksichtslos</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1562,19 +1571,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Nem az az erős, aki legyőzte a gyengét, hanem az, aki segítségére siet a gyengének. - Stark ist nicht der, der den Schwachen besiegt hat, sondern der, der dem Schwachen zu Hilfe kommt (eilt).</p>
+<p>1. Nem az az erős, aki legyőzte a gyengét, hanem az, aki segítségére siet a gyengének.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nem az az igazán erős, aki a gyengébbet legyőzi, hanem aki mellé áll és segít neki. - Stark ist nicht, wer den Schwächeren besiegt, sondern wer ihm beisteht (neben ihm steht) und hilft.</p>
+<p>1. Nem az az igazán erős, aki a gyengébbet legyőzi, hanem aki mellé áll és segít neki.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Az erő nem a legyőzésben, hanem a segítségnyújtásban mutatkozik meg a gyengékkel szemben. - Die Stärke zeigt sich nicht im Besiegen, sondern im Hilfeleisten gegenüber den Schwachen.</p>
-<p class="pc-note">vkivel szemben - jemandem gegenüber (gegenüber MIT jemandem)</p>
-<p class="pc-note">segítségnyújtásban [segíccségnyújtázsban] - in der Hilfe (Hilfeleistung)</p>
-<p class="pc-note">segítségnyújtás [segíccségnyújtás] - Hilfe (Hilfeleistung)</p>
+<p>1. Az erő nem a legyőzésben, hanem a segítségnyújtásban mutatkozik meg a gyengékkel szemben.</p>
+<p class="pc-note">vkivel szemben</p>
+<p class="pc-note">segítségnyújtásban [segíccségnyújtázsban]</p>
+<p class="pc-note">segítségnyújtás [segíccségnyújtás]</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1583,7 +1592,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem az az erős, aki legyőzte a gyengét, hanem az, aki segítségére siet a gyengének.</p>
+<p>1. Nem az az erős, aki legyőzte a gyengét, hanem az, aki segítségére siet a gyengének. - Stark ist nicht der, der den Schwachen besiegt hat, sondern der, der dem Schwachen zu Hilfe kommt (eilt).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1591,7 +1600,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem az az igazán erős, aki a gyengébbet legyőzi, hanem aki mellé áll és segít neki.</p>
+<p>1. Nem az az igazán erős, aki a gyengébbet legyőzi, hanem aki mellé áll és segít neki. - Stark ist nicht, wer den Schwächeren besiegt, sondern wer ihm beisteht (neben ihm steht) und hilft.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1599,19 +1608,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az erő nem a legyőzésben, hanem a segítségnyújtásban mutatkozik meg a gyengékkel szemben.</p>
+<p>1. Az erő nem a legyőzésben, hanem a segítségnyújtásban mutatkozik meg a gyengékkel szemben. - Die Stärke zeigt sich nicht im Besiegen, sondern im Hilfeleisten gegenüber den Schwachen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">vkivel szemben</p>
+<p class="pc-note">vkivel szemben - jemandem gegenüber (gegenüber MIT jemandem)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">segítségnyújtásban [segíccségnyújtázsban]</p>
+<p class="pc-note">segítségnyújtásban [segíccségnyújtázsban] - in der Hilfe (Hilfeleistung)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">segítségnyújtás [segíccségnyújtás]</p>
+<p class="pc-note">segítségnyújtás [segíccségnyújtás] - Hilfe (Hilfeleistung)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

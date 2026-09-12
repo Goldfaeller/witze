@@ -48,16 +48,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A szépség áldozatokat követel: én vagyok a szépség, a férfi pedig az áldozat. - Schönheit verlangt Opfer: Ich bin die Schönheit. Und der Mann ist das Opfer.</p>
+<p>1. A szépség áldozatokat követel: én vagyok a szépség, a férfi pedig az áldozat.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A szépségnek ára van: én képviselem a szépséget, és a férfi fizeti meg az árát. - Schönheit hat ihren Preis: Ich repräsentiere die Schönheit. Und der Mann bezahlt den Preis.</p>
+<p>1. A szépségnek ára van: én képviselem a szépséget, és a férfi fizeti meg az árát.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha a szépség áldozatot kíván, akkor én vagyok a szépség, a férfi pedig az áldozat. - Wenn die Schönheit ein Opfer verlangt, dann bin ich die Schönheit, und der Mann ist das Opfer.</p>
+<p>1. Ha a szépség áldozatot kíván, akkor én vagyok a szépség, a férfi pedig az áldozat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -66,7 +66,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A szépség áldozatokat követel: én vagyok a szépség, a férfi pedig az áldozat.</p>
+<p>1. A szépség áldozatokat követel: én vagyok a szépség, a férfi pedig az áldozat. - Schönheit verlangt Opfer: Ich bin die Schönheit. Und der Mann ist das Opfer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,7 +74,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A szépségnek ára van: én képviselem a szépséget, és a férfi fizeti meg az árát.</p>
+<p>1. A szépségnek ára van: én képviselem a szépséget, és a férfi fizeti meg az árát. - Schönheit hat ihren Preis: Ich repräsentiere die Schönheit. Und der Mann bezahlt den Preis.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -82,7 +82,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha a szépség áldozatot kíván, akkor én vagyok a szépség, a férfi pedig az áldozat.</p>
+<p>1. Ha a szépség áldozatot kíván, akkor én vagyok a szépség, a férfi pedig az áldozat. - Wenn die Schönheit ein Opfer verlangt, dann bin ich die Schönheit, und der Mann ist das Opfer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -135,16 +135,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Amit a buszon zsúfoltságnak neveznek, azt a kocsmában hangulatnak hívják. - Was man im Bus Überfüllung nennt, heißt in Kneipen Atmosphäre.</p>
+<p>1. Amit a buszon zsúfoltságnak neveznek, azt a kocsmában hangulatnak hívják.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A buszon tömegnyomor, a kocsmában viszont jó atmoszféra. - Was man im Bus Überfüllung nennt, ist in der Kneipe Atmosphäre.</p>
+<p>1. A buszon tömegnyomor, a kocsmában viszont jó atmoszféra.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A buszban ez túlzsúfoltság, a kocsmában ugyanez már hangulat. - Im Bus ist das Überfüllung, in der Kneipe ist genau dasselbe schon Atmosphäre.</p>
+<p>1. A buszban ez túlzsúfoltság, a kocsmában ugyanez már hangulat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -153,7 +153,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amit a buszon zsúfoltságnak neveznek, azt a kocsmában hangulatnak hívják.</p>
+<p>1. Amit a buszon zsúfoltságnak neveznek, azt a kocsmában hangulatnak hívják. - Was man im Bus Überfüllung nennt, heißt in Kneipen Atmosphäre.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -161,7 +161,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A buszon tömegnyomor, a kocsmában viszont jó atmoszféra.</p>
+<p>1. A buszon tömegnyomor, a kocsmában viszont jó atmoszféra. - Was man im Bus Überfüllung nennt, ist in der Kneipe Atmosphäre.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -169,7 +169,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A buszban ez túlzsúfoltság, a kocsmában ugyanez már hangulat.</p>
+<p>1. A buszban ez túlzsúfoltság, a kocsmában ugyanez már hangulat. - Im Bus ist das Überfüllung, in der Kneipe ist genau dasselbe schon Atmosphäre.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -222,16 +222,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Inkább legyen sörhasam az ivástól, mint púpos hátam a munkától. - Lieber einen Bierbauch vom Saufen, als einen Buckel vom Arbeiten.</p>
+<p>1. Inkább legyen sörhasam az ivástól, mint púpos hátam a munkától.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Jobb az ivástól nőtt has, mint a munkától görbe hát. - Lieber einen Bauch vom Saufen gewachsenen Bauch, als einen Buckel vom Arbeiten.</p>
+<p>1. Jobb az ivástól nőtt has, mint a munkától görbe hát.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Többre tartom az ivástól nőtt pocakot, mint a robotolástól kapott púpot. - Ich schätze den vom Trinken gewachsenen Bauch mehr, als einen Buckel vom Schuften.</p>
+<p>1. Többre tartom az ivástól nőtt pocakot, mint a robotolástól kapott púpot.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -240,7 +240,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Inkább legyen sörhasam az ivástól, mint púpos hátam a munkától.</p>
+<p>1. Inkább legyen sörhasam az ivástól, mint púpos hátam a munkától. - Lieber einen Bierbauch vom Saufen, als einen Buckel vom Arbeiten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -248,7 +248,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Jobb az ivástól nőtt has, mint a munkától görbe hát.</p>
+<p>1. Jobb az ivástól nőtt has, mint a munkától görbe hát. - Lieber einen Bauch vom Saufen gewachsenen Bauch, als einen Buckel vom Arbeiten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -256,7 +256,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Többre tartom az ivástól nőtt pocakot, mint a robotolástól kapott púpot.</p>
+<p>1. Többre tartom az ivástól nőtt pocakot, mint a robotolástól kapott púpot. - Ich schätze den vom Trinken gewachsenen Bauch mehr, als einen Buckel vom Schuften.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -309,22 +309,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az alkohol nem oldja meg a problémádat. - Alkohol löst nicht dein Problem.</p>
-<p>2. De alkohol nélkül sem oldódik meg. - Aber ohne Alkohol löst es sich auch nicht.</p>
-<p>3. Egészségedre! - Prost!</p>
+<p>1. Az alkohol nem oldja meg a problémádat.</p>
+<p>2. De alkohol nélkül sem oldódik meg.</p>
+<p>3. Egészségedre!</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az alkohol nem jelent megoldást. - Alkohol ist keine Lösung.</p>
-<p>2. Viszont alkohol nélkül sincs megoldás. - Aber kein Alkohol ist auch keine Lösung.</p>
-<p>3. Egészségére! - Prosit!</p>
+<p>1. Az alkohol nem jelent megoldást.</p>
+<p>2. Viszont alkohol nélkül sincs megoldás.</p>
+<p>3. Egészségére!</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Az alkohol nem old meg semmit. - Alkohol löst nichts.</p>
-<p>2. De ha nincs alkohol, akkor sem oldódik meg. - Aber ohne Alkohol löst sich auch nicht.</p>
-<p>3. Egészségünkre! - Prost!</p>
+<p>1. Az alkohol nem old meg semmit.</p>
+<p>2. De ha nincs alkohol, akkor sem oldódik meg.</p>
+<p>3. Egészségünkre!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -333,15 +333,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol nem oldja meg a problémádat.</p>
+<p>1. Az alkohol nem oldja meg a problémádat. - Alkohol löst nicht dein Problem.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. De alkohol nélkül sem oldódik meg.</p>
+<p>2. De alkohol nélkül sem oldódik meg. - Aber ohne Alkohol löst es sich auch nicht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Egészségedre!</p>
+<p>3. Egészségedre! - Prost!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -349,15 +349,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol nem jelent megoldást.</p>
+<p>1. Az alkohol nem jelent megoldást. - Alkohol ist keine Lösung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Viszont alkohol nélkül sincs megoldás.</p>
+<p>2. Viszont alkohol nélkül sincs megoldás. - Aber kein Alkohol ist auch keine Lösung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Egészségére!</p>
+<p>3. Egészségére! - Prosit!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -365,15 +365,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol nem old meg semmit.</p>
+<p>1. Az alkohol nem old meg semmit. - Alkohol löst nichts.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. De ha nincs alkohol, akkor sem oldódik meg.</p>
+<p>2. De ha nincs alkohol, akkor sem oldódik meg. - Aber ohne Alkohol löst sich auch nicht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Egészségünkre!</p>
+<p>3. Egészségünkre! - Prost!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -450,20 +450,20 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ne igyál alkoholt vezetés közben! - Trinke keinen Alkohol während der Fahrt.</p>
-<p>2. Egy kátyú, és máris mindent kilöttyentesz. - Ein Schlagloch und man verschüttet alles.</p>
+<p>1. Ne igyál alkoholt vezetés közben!</p>
+<p>2. Egy kátyú, és máris mindent kilöttyentesz.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nincs alkohol a volánnál! - Kein Alkohol am Steuer!</p>
-<p>2. Elég egy kátyú, és már megy is kárba az ital. - Ein Schlagloch reicht, und der Drink ist auch schon futsch.</p>
-<p>3. (kárba megy) - (fuccsba megy)</p>
+<p>1. Nincs alkohol a volánnál!</p>
+<p>2. Elég egy kátyú, és már megy is kárba az ital.</p>
+<p>3. (kárba megy)</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Vezetés közben nincs alkohol! - Während des Fahrens kein Alkohol!</p>
-<p>2. Egyetlen úthiba, és máris kiöntöd az egészet. - Ein einziges Schlagloch und schon hast du alles verschütte.</p>
+<p>1. Vezetés közben nincs alkohol!</p>
+<p>2. Egyetlen úthiba, és máris kiöntöd az egészet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -472,11 +472,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ne igyál alkoholt vezetés közben!</p>
+<p>1. Ne igyál alkoholt vezetés közben! - Trinke keinen Alkohol während der Fahrt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Egy kátyú, és máris mindent kilöttyentesz.</p>
+<p>2. Egy kátyú, és máris mindent kilöttyentesz. - Ein Schlagloch und man verschüttet alles.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -484,15 +484,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nincs alkohol a volánnál!</p>
+<p>1. Nincs alkohol a volánnál! - Kein Alkohol am Steuer!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Elég egy kátyú, és már megy is kárba az ital.</p>
+<p>2. Elég egy kátyú, és már megy is kárba az ital. - Ein Schlagloch reicht, und der Drink ist auch schon futsch.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. (kárba megy)</p>
+<p>3. (kárba megy) - (fuccsba megy)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -500,11 +500,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Vezetés közben nincs alkohol!</p>
+<p>1. Vezetés közben nincs alkohol! - Während des Fahrens kein Alkohol!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Egyetlen úthiba, és máris kiöntöd az egészet.</p>
+<p>2. Egyetlen úthiba, és máris kiöntöd az egészet. - Ein einziges Schlagloch und schon hast du alles verschütte.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -573,19 +573,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Mit számolnak a juhok, amikor el akarnak aludni? - Was zählen Schafe, wenn sie einschlafen wollen?</p>
-<p>2. Az embereket számolják? - Zählen sie Menschen?</p>
+<p>1. Mit számolnak a juhok, amikor el akarnak aludni?</p>
+<p>2. Az embereket számolják?</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Mit számol egy birka elalvás előtt? - Was zählt ein Schaf vor dem Einschlafen?</p>
-<p>2. Juhász vagy juhászkutya? - Schäfer oder Schäferhunde?</p>
+<p>1. Mit számol egy birka elalvás előtt?</p>
+<p>2. Juhász vagy juhászkutya?</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Mit számolnak a juhok, amikor álomba merülnek? - Was zählen Schafe, wenn sie einschlafen?</p>
-<p>2. (álomba merül) - (in den Traum eintauchen)</p>
+<p>1. Mit számolnak a juhok, amikor álomba merülnek?</p>
+<p>2. (álomba merül)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -594,11 +594,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mit számolnak a juhok, amikor el akarnak aludni?</p>
+<p>1. Mit számolnak a juhok, amikor el akarnak aludni? - Was zählen Schafe, wenn sie einschlafen wollen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az embereket számolják?</p>
+<p>2. Az embereket számolják? - Zählen sie Menschen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -606,11 +606,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mit számol egy birka elalvás előtt?</p>
+<p>1. Mit számol egy birka elalvás előtt? - Was zählt ein Schaf vor dem Einschlafen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Juhász vagy juhászkutya?</p>
+<p>2. Juhász vagy juhászkutya? - Schäfer oder Schäferhunde?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -618,11 +618,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Mit számolnak a juhok, amikor álomba merülnek?</p>
+<p>1. Mit számolnak a juhok, amikor álomba merülnek? - Was zählen Schafe, wenn sie einschlafen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. (álomba merül)</p>
+<p>2. (álomba merül) - (in den Traum eintauchen)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -687,16 +687,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Aki fogyni szeretne, hagyja el az előételt, és a főétel helyett ne egyen desszertet! - Wer abnehmen möchte, soll die Vorspeise weglassen und statt des Hauptgerichts keinen Nachtisch nehmen!</p>
+<p>1. Aki fogyni szeretne, hagyja el az előételt, és a főétel helyett ne egyen desszertet!</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Fogyókúrához elég kihagyni az előételt, majd lemondani a főfogásról és a desszertről. - Für eine Schlankheitskur reicht es die Vorspeise wegzulassen und Hauptspeise und Nachtisch abzusagen.</p>
+<p>1. Fogyókúrához elég kihagyni az előételt, majd lemondani a főfogásról és a desszertről.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha valaki le akar fogyni, ne egyen előételt, és a főételt is átugrani és a desszertet is. - Wenn jemand abnehmen möchte, sollte er keine Vorspeise essen und sowohl Hauptspeise als auch Nachtisch überspringen.</p>
+<p>1. Ha valaki le akar fogyni, ne egyen előételt, és a főételt is átugrani és a desszertet is.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -705,7 +705,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Aki fogyni szeretne, hagyja el az előételt, és a főétel helyett ne egyen desszertet!</p>
+<p>1. Aki fogyni szeretne, hagyja el az előételt, és a főétel helyett ne egyen desszertet! - Wer abnehmen möchte, soll die Vorspeise weglassen und statt des Hauptgerichts keinen Nachtisch nehmen!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -713,7 +713,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Fogyókúrához elég kihagyni az előételt, majd lemondani a főfogásról és a desszertről.</p>
+<p>1. Fogyókúrához elég kihagyni az előételt, majd lemondani a főfogásról és a desszertről. - Für eine Schlankheitskur reicht es die Vorspeise wegzulassen und Hauptspeise und Nachtisch abzusagen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -721,7 +721,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha valaki le akar fogyni, ne egyen előételt, és a főételt is átugrani és a desszertet is.</p>
+<p>1. Ha valaki le akar fogyni, ne egyen előételt, és a főételt is átugrani és a desszertet is. - Wenn jemand abnehmen möchte, sollte er keine Vorspeise essen und sowohl Hauptspeise als auch Nachtisch überspringen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -774,22 +774,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az út a cél. - Der Weg ist das Ziel.</p>
-<p>2. A cél az útban áll. - Das Ziel steht im Weg.</p>
-<p>3. Az út nem a cél, hanem maga az út. - Der Weg ist nicht das Ziel, sondern der Weg.</p>
+<p>1. Az út a cél.</p>
+<p>2. A cél az útban áll.</p>
+<p>3. Az út nem a cél, hanem maga az út.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az út maga a cél. - Der Weg ist das Ziel.</p>
-<p>2. Csakhogy a cél útban van. - Aber das Ziel steht im Weg.</p>
-<p>3. Nem a cél számít, hanem az út. - Nicht das Ziel zählt, sondern der Weg.</p>
+<p>1. Az út maga a cél.</p>
+<p>2. Csakhogy a cél útban van.</p>
+<p>3. Nem a cél számít, hanem az út.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Sokan mondják: az út a cél. - Viele sagen: Der Weg ist das Ziel.</p>
-<p>2. De a cél gyakran az út akadálya. - Aber das Ziel ist oft ein Hindernis für den Weg.</p>
-<p>3. Valójában nem a cél, hanem az út a lényeg. - Eigentlich ist nicht das Ziel, sondern der Weg die Hauptsache.</p>
+<p>1. Sokan mondják: az út a cél.</p>
+<p>2. De a cél gyakran az út akadálya.</p>
+<p>3. Valójában nem a cél, hanem az út a lényeg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -798,15 +798,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az út a cél.</p>
+<p>1. Az út a cél. - Der Weg ist das Ziel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A cél az útban áll.</p>
+<p>2. A cél az útban áll. - Das Ziel steht im Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Az út nem a cél, hanem maga az út.</p>
+<p>3. Az út nem a cél, hanem maga az út. - Der Weg ist nicht das Ziel, sondern der Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -814,15 +814,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az út maga a cél.</p>
+<p>1. Az út maga a cél. - Der Weg ist das Ziel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Csakhogy a cél útban van.</p>
+<p>2. Csakhogy a cél útban van. - Aber das Ziel steht im Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Nem a cél számít, hanem az út.</p>
+<p>3. Nem a cél számít, hanem az út. - Nicht das Ziel zählt, sondern der Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -830,15 +830,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Sokan mondják: az út a cél.</p>
+<p>1. Sokan mondják: az út a cél. - Viele sagen: Der Weg ist das Ziel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. De a cél gyakran az út akadálya.</p>
+<p>2. De a cél gyakran az út akadálya. - Aber das Ziel ist oft ein Hindernis für den Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. Valójában nem a cél, hanem az út a lényeg.</p>
+<p>3. Valójában nem a cél, hanem az út a lényeg. - Eigentlich ist nicht das Ziel, sondern der Weg die Hauptsache.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -915,14 +915,14 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Undorodom a szegénységetektől. (Matrica egy Porsche-n.) - Eure Armut kotzt mich an. (Aufkleber auf einem Porsche)</p>
+<p>1. Undorodom a szegénységetektől. (Matrica egy Porsche-n.)</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Hányingerem van a ti szegénységetektől. - Eure Armut kotzt mich an.</p>
+<p>1. Hányingerem van a ti szegénységetektől.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -931,7 +931,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Undorodom a szegénységetektől. (Matrica egy Porsche-n.)</p>
+<p>1. Undorodom a szegénységetektől. (Matrica egy Porsche-n.) - Eure Armut kotzt mich an. (Aufkleber auf einem Porsche)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -939,7 +939,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Hányingerem van a ti szegénységetektől.</p>
+<p>1. Hányingerem van a ti szegénységetektől. - Eure Armut kotzt mich an.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -986,16 +986,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Egy férfinak három dolgot kell megtennie az életben: házat építeni, fiút nemzeni és fát ültetni. - Ein Mann muss drei Dinge im Leben tun: ein Haus bauen, einen Sohn zeugen und einen Baum pflanzen.</p>
+<p>1. Egy férfinak három dolgot kell megtennie az életben: házat építeni, fiút nemzeni és fát ültetni.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Egy férfi életében három dolog kötelező: házat építeni, fiút nemzeni és fát ültetni. - Im Leben eines Mannes sind drei Dinge verpflichtend: ein Haus bauen, einen Sohn zeugen und einen Baum pflanzen.</p>
+<p>1. Egy férfi életében három dolog kötelező: házat építeni, fiút nemzeni és fát ültetni.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Egy férfinak az élet során három feladata van: házat építeni, fiút nemzeni, valamint fát ültetni. - Ein Mann hat im Laufe des Lebens drei Aufgaben: ein Haus zu bauen, einen Sohn zu zeugen und einen Baum zu pflanzen.</p>
+<p>1. Egy férfinak az élet során három feladata van: házat építeni, fiút nemzeni, valamint fát ültetni.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1004,7 +1004,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy férfinak három dolgot kell megtennie az életben: házat építeni, fiút nemzeni és fát ültetni.</p>
+<p>1. Egy férfinak három dolgot kell megtennie az életben: házat építeni, fiút nemzeni és fát ültetni. - Ein Mann muss drei Dinge im Leben tun: ein Haus bauen, einen Sohn zeugen und einen Baum pflanzen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1012,7 +1012,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy férfi életében három dolog kötelező: házat építeni, fiút nemzeni és fát ültetni.</p>
+<p>1. Egy férfi életében három dolog kötelező: házat építeni, fiút nemzeni és fát ültetni. - Im Leben eines Mannes sind drei Dinge verpflichtend: ein Haus bauen, einen Sohn zeugen und einen Baum pflanzen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1020,7 +1020,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy férfinak az élet során három feladata van: házat építeni, fiút nemzeni, valamint fát ültetni.</p>
+<p>1. Egy férfinak az élet során három feladata van: házat építeni, fiút nemzeni, valamint fát ültetni. - Ein Mann hat im Laufe des Lebens drei Aufgaben: ein Haus zu bauen, einen Sohn zu zeugen und einen Baum zu pflanzen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1073,16 +1073,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Egy igazi nőnek három dolgot kell tennie: fiút szülni, férfit nevelni és anyóst építeni. - Ein richtige Frau muss drei Dinge tun: einen Sohn gebären, einen Mann erziehen und eine Schwiegermutter bauen.</p>
+<p>1. Egy igazi nőnek három dolgot kell tennie: fiút szülni, férfit nevelni és anyóst építeni.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Egy rendes nő életében három feladat van: fiút hozni a világra, férfit formálni és anyóst építeni. - Im Leben einer richtigen Frau gibt es drei Aufgaben: einen Sohn zur Welt bringen, einen Mann formen und eine Schwiegermutter bauen.</p>
+<p>1. Egy rendes nő életében három feladat van: fiút hozni a világra, férfit formálni és anyóst építeni.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Egy igazi nő három dologra képes: fiút szül, férfit nevel, és anyóst felépít. - Eine echte Frau ist zu drei Dingen fähig: sie gebärt einen Sohn, erzieht einen Mann und baut eine Schwiegermutter.</p>
+<p>1. Egy igazi nő három dologra képes: fiút szül, férfit nevel, és anyóst felépít.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1091,7 +1091,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy igazi nőnek három dolgot kell tennie: fiút szülni, férfit nevelni és anyóst építeni.</p>
+<p>1. Egy igazi nőnek három dolgot kell tennie: fiút szülni, férfit nevelni és anyóst építeni. - Ein richtige Frau muss drei Dinge tun: einen Sohn gebären, einen Mann erziehen und eine Schwiegermutter bauen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1099,7 +1099,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy rendes nő életében három feladat van: fiút hozni a világra, férfit formálni és anyóst építeni.</p>
+<p>1. Egy rendes nő életében három feladat van: fiút hozni a világra, férfit formálni és anyóst építeni. - Im Leben einer richtigen Frau gibt es drei Aufgaben: einen Sohn zur Welt bringen, einen Mann formen und eine Schwiegermutter bauen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1107,7 +1107,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy igazi nő három dologra képes: fiút szül, férfit nevel, és anyóst felépít.</p>
+<p>1. Egy igazi nő három dologra képes: fiút szül, férfit nevel, és anyóst felépít. - Eine echte Frau ist zu drei Dingen fähig: sie gebärt einen Sohn, erzieht einen Mann und baut eine Schwiegermutter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1160,19 +1160,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Tegnap azt mondták nekem, hogy a saját fantáziavilágomban élek. - Gestern hat man mir gesagt, dass ich in meiner eigenen Phantasiewelt lebe.</p>
-<p>2. Majdnem leestem a sárkányomról. - Ich wäre fast von meinem Drachen gefallen.</p>
+<p>1. Tegnap azt mondták nekem, hogy a saját fantáziavilágomban élek.</p>
+<p>2. Majdnem leestem a sárkányomról.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Tegnap azt mondták nekem, hogy egy fantáziavilágban élek. - Gestern hat man mir gesagt, dass ich in einer Phantasiewelt lebe.</p>
-<p>2. Kis híján leestem a sárkányomról. - Ich wäre beinahe von meinem Drachen gefallen.</p>
+<p>1. Tegnap azt mondták nekem, hogy egy fantáziavilágban élek.</p>
+<p>2. Kis híján leestem a sárkányomról.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Tegnap közölték velem, hogy a fantáziavilágom rabja vagyok. - Gestern teilte man mir mit, dass ich Gefangener meiner Phantasiewelt bin.</p>
-<p>2. Úgy meglepődtem, hogy majdnem leestem a sárkányom hátáról. - Ich war so überrascht, dass ich fast vom Rücken meines Drachen gefallen wäre.</p>
+<p>1. Tegnap közölték velem, hogy a fantáziavilágom rabja vagyok.</p>
+<p>2. Úgy meglepődtem, hogy majdnem leestem a sárkányom hátáról.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1181,11 +1181,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Tegnap azt mondták nekem, hogy a saját fantáziavilágomban élek.</p>
+<p>1. Tegnap azt mondták nekem, hogy a saját fantáziavilágomban élek. - Gestern hat man mir gesagt, dass ich in meiner eigenen Phantasiewelt lebe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Majdnem leestem a sárkányomról.</p>
+<p>2. Majdnem leestem a sárkányomról. - Ich wäre fast von meinem Drachen gefallen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1193,11 +1193,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Tegnap azt mondták nekem, hogy egy fantáziavilágban élek.</p>
+<p>1. Tegnap azt mondták nekem, hogy egy fantáziavilágban élek. - Gestern hat man mir gesagt, dass ich in einer Phantasiewelt lebe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Kis híján leestem a sárkányomról.</p>
+<p>2. Kis híján leestem a sárkányomról. - Ich wäre beinahe von meinem Drachen gefallen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1205,11 +1205,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Tegnap közölték velem, hogy a fantáziavilágom rabja vagyok.</p>
+<p>1. Tegnap közölték velem, hogy a fantáziavilágom rabja vagyok. - Gestern teilte man mir mit, dass ich Gefangener meiner Phantasiewelt bin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Úgy meglepődtem, hogy majdnem leestem a sárkányom hátáról.</p>
+<p>2. Úgy meglepődtem, hogy majdnem leestem a sárkányom hátáról. - Ich war so überrascht, dass ich fast vom Rücken meines Drachen gefallen wäre.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1274,19 +1274,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, akkor a Parkinson-kórt választanám. - Wenn ich zwischen Parkinson und Alzheimer wählen könnte, dann würde ich Parkinson wählen.</p>
-<p>2. Inkább kilöttyinteni egy kis pálinkát a nadrágra, mint elfelejteni, hová tettem az üveget. - Lieber sich etwas Schnaps auf die Hose verschütten, als vergessen, wo man die Flasche hingestellt hat.</p>
+<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, akkor a Parkinson-kórt választanám.</p>
+<p>2. Inkább kilöttyinteni egy kis pálinkát a nadrágra, mint elfelejteni, hová tettem az üveget.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Ha döntenem kellene Parkinson és Alzheimer között, a Parkinson mellett döntenék. - Wenn ich mich zwischen Parkinson und Alzheimer entscheiden müsste, würde ich Parkinson wählen.</p>
-<p>2. Jobb egy kis pálinkát a nadrágra önteni, mint nem emlékezni arra, hol van az üveg. - Besser etwas Schnaps auf die Hose kippen, als sich nicht erinnern, wo die Flasche ist.</p>
+<p>1. Ha döntenem kellene Parkinson és Alzheimer között, a Parkinson mellett döntenék.</p>
+<p>2. Jobb egy kis pálinkát a nadrágra önteni, mint nem emlékezni arra, hol van az üveg.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha lenne választásom a Parkinson-kór és az Alzheimer-kór között, a Parkinson-kórt választanám. - Wenn ich die Wahl zwischen Parkinson und Alzheimer hätte, würde ich Parkinson wählen.</p>
-<p>2. Inkább lecsöpögjön egy kis pálinka a nadrágra, mint hogy elfelejtsem [elfelejcsem], hová raktam az üveget. - Lieber tropft etwas Schnaps auf die Hose, als dass ich vergesse, wo ich die Flasche hingestellt habe.</p>
+<p>1. Ha lenne választásom a Parkinson-kór és az Alzheimer-kór között, a Parkinson-kórt választanám.</p>
+<p>2. Inkább lecsöpögjön egy kis pálinka a nadrágra, mint hogy elfelejtsem [elfelejcsem], hová raktam az üveget.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1295,11 +1295,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, akkor a Parkinson-kórt választanám.</p>
+<p>1. Ha választhatnék a Parkinson-kór és az Alzheimer-kór között, akkor a Parkinson-kórt választanám. - Wenn ich zwischen Parkinson und Alzheimer wählen könnte, dann würde ich Parkinson wählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Inkább kilöttyinteni egy kis pálinkát a nadrágra, mint elfelejteni, hová tettem az üveget.</p>
+<p>2. Inkább kilöttyinteni egy kis pálinkát a nadrágra, mint elfelejteni, hová tettem az üveget. - Lieber sich etwas Schnaps auf die Hose verschütten, als vergessen, wo man die Flasche hingestellt hat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1307,11 +1307,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha döntenem kellene Parkinson és Alzheimer között, a Parkinson mellett döntenék.</p>
+<p>1. Ha döntenem kellene Parkinson és Alzheimer között, a Parkinson mellett döntenék. - Wenn ich mich zwischen Parkinson und Alzheimer entscheiden müsste, würde ich Parkinson wählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Jobb egy kis pálinkát a nadrágra önteni, mint nem emlékezni arra, hol van az üveg.</p>
+<p>2. Jobb egy kis pálinkát a nadrágra önteni, mint nem emlékezni arra, hol van az üveg. - Besser etwas Schnaps auf die Hose kippen, als sich nicht erinnern, wo die Flasche ist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1319,11 +1319,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha lenne választásom a Parkinson-kór és az Alzheimer-kór között, a Parkinson-kórt választanám.</p>
+<p>1. Ha lenne választásom a Parkinson-kór és az Alzheimer-kór között, a Parkinson-kórt választanám. - Wenn ich die Wahl zwischen Parkinson und Alzheimer hätte, würde ich Parkinson wählen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Inkább lecsöpögjön egy kis pálinka a nadrágra, mint hogy elfelejtsem [elfelejcsem], hová raktam az üveget.</p>
+<p>2. Inkább lecsöpögjön egy kis pálinka a nadrágra, mint hogy elfelejtsem [elfelejcsem], hová raktam az üveget. - Lieber tropft etwas Schnaps auf die Hose, als dass ich vergesse, wo ich die Flasche hingestellt habe.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1388,16 +1388,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd ellenségeidet. - Alkohol kann der schlimmste Feind des Menschen sein, aber die Bibel sagt: liebe deine Feinde.</p>
+<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd ellenségeidet.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az alkohol akár az ember legnagyobb ellensége is lehet, de a Biblia szerint szeretni kell az ellenségeket. - Alkohol kann sogar der größte Feind des Menschen sein, aber laut der Bibel soll man seine Feinde lieben.</p>
+<p>1. Az alkohol akár az ember legnagyobb ellensége is lehet, de a Biblia szerint szeretni kell az ellenségeket.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Az alkohol az ember egyik legrosszabb ellensége lehet, viszont a Biblia ezt tanítja: szeresd a felebarátodat és az ellenségedet is. - Alkohol kann einer der schlimmsten Feinde des Menschen sein, doch die Bibel lehrt: liebe deinen Nächsten  auch deine Feinde.</p>
+<p>1. Az alkohol az ember egyik legrosszabb ellensége lehet, viszont a Biblia ezt tanítja: szeresd a felebarátodat és az ellenségedet is.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1406,7 +1406,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd ellenségeidet.</p>
+<p>1. Az alkohol lehet az ember legrosszabb ellensége, de a Biblia azt mondja: szeresd ellenségeidet. - Alkohol kann der schlimmste Feind des Menschen sein, aber die Bibel sagt: liebe deine Feinde.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1414,7 +1414,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol akár az ember legnagyobb ellensége is lehet, de a Biblia szerint szeretni kell az ellenségeket.</p>
+<p>1. Az alkohol akár az ember legnagyobb ellensége is lehet, de a Biblia szerint szeretni kell az ellenségeket. - Alkohol kann sogar der größte Feind des Menschen sein, aber laut der Bibel soll man seine Feinde lieben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1422,7 +1422,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az alkohol az ember egyik legrosszabb ellensége lehet, viszont a Biblia ezt tanítja: szeresd a felebarátodat és az ellenségedet is.</p>
+<p>1. Az alkohol az ember egyik legrosszabb ellensége lehet, viszont a Biblia ezt tanítja: szeresd a felebarátodat és az ellenségedet is. - Alkohol kann einer der schlimmsten Feinde des Menschen sein, doch die Bibel lehrt: liebe deinen Nächsten  auch deine Feinde.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1475,16 +1475,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Félrészegnek lenni kidobott pénz. - Halb besoffen zu sein ist rausgeschmissenes Geld.</p>
+<p>1. Félrészegnek lenni kidobott pénz.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Félrészegen inni pénzkidobás. - Halb betrunken zu trinken ist Geldverschwendung.</p>
+<p>1. Félrészegen inni pénzkidobás.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Csak félig berúgni tiszta pénzpazarlás. - Nur halb besoffen zu werden ist reine Geldverschwendung.</p>
+<p>1. Csak félig berúgni tiszta pénzpazarlás.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1493,7 +1493,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Félrészegnek lenni kidobott pénz.</p>
+<p>1. Félrészegnek lenni kidobott pénz. - Halb besoffen zu sein ist rausgeschmissenes Geld.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1501,7 +1501,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Félrészegen inni pénzkidobás.</p>
+<p>1. Félrészegen inni pénzkidobás. - Halb betrunken zu trinken ist Geldverschwendung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1509,7 +1509,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Csak félig berúgni tiszta pénzpazarlás.</p>
+<p>1. Csak félig berúgni tiszta pénzpazarlás. - Nur halb besoffen zu werden ist reine Geldverschwendung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1562,16 +1562,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Koraérett csak fiatalon lehet az ember, hiszékeny viszont később is. - Altklug kann man nur in der Jugend sein, naiv aber auch später.</p>
+<p>1. Koraérett csak fiatalon lehet az ember, hiszékeny viszont később is.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Az ember csak fiatalkorában lehet koravén, de naiv akár később is maradhat. - Man kann nur in jungen Jahren altklug sein, naiv jedoch auch noch später bleiben.</p>
+<p>1. Az ember csak fiatalkorában lehet koravén, de naiv akár később is maradhat.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Koraérett csak a fiatalokra jellemző, naivság viszont idősebb korban is előfordul. - Altklugheit gehört zur Jugend, Naivität kommt aber auch später noch vor.</p>
+<p>1. Koraérett csak a fiatalokra jellemző, naivság viszont idősebb korban is előfordul.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1580,7 +1580,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Koraérett csak fiatalon lehet az ember, hiszékeny viszont később is.</p>
+<p>1. Koraérett csak fiatalon lehet az ember, hiszékeny viszont később is. - Altklug kann man nur in der Jugend sein, naiv aber auch später.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1588,7 +1588,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Az ember csak fiatalkorában lehet koravén, de naiv akár később is maradhat.</p>
+<p>1. Az ember csak fiatalkorában lehet koravén, de naiv akár később is maradhat. - Man kann nur in jungen Jahren altklug sein, naiv jedoch auch noch später bleiben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1596,7 +1596,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Koraérett csak a fiatalokra jellemző, naivság viszont idősebb korban is előfordul.</p>
+<p>1. Koraérett csak a fiatalokra jellemző, naivság viszont idősebb korban is előfordul. - Altklugheit gehört zur Jugend, Naivität kommt aber auch später noch vor.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1649,16 +1649,16 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Hogy néztél ki tulajdonképpen a baleseted előtt? - Wie sahst du eigentlich vor deinem Unfall aus?</p>
+<p>1. Hogy néztél ki tulajdonképpen a baleseted előtt?</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Tulajdonképpen milyen voltál a baleset előtt? - Wie hast du eigentlich vor deinem Unfall ausgesehen?</p>
+<p>1. Tulajdonképpen milyen voltál a baleset előtt?</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Milyen volt a kinézeted a baleset előtt? - Wie sah dein Aussehen vor dem Unfall aus?</p>
+<p>1. Milyen volt a kinézeted a baleset előtt?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1667,7 +1667,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Hogy néztél ki tulajdonképpen a baleseted előtt?</p>
+<p>1. Hogy néztél ki tulajdonképpen a baleseted előtt? - Wie sahst du eigentlich vor deinem Unfall aus?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1675,7 +1675,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Tulajdonképpen milyen voltál a baleset előtt?</p>
+<p>1. Tulajdonképpen milyen voltál a baleset előtt? - Wie hast du eigentlich vor deinem Unfall ausgesehen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1683,7 +1683,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Milyen volt a kinézeted a baleset előtt?</p>
+<p>1. Milyen volt a kinézeted a baleset előtt? - Wie sah dein Aussehen vor dem Unfall aus?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1736,19 +1736,19 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A cél útban van. Az út a cél. (Konfuciusz) - Das Ziel steht im Weg. Der Weg ist das Ziel. (Konfuzius)</p>
-<p>2. Az út nem a cél, hanem az út. - Der Weg ist nicht das Ziel, sondern der Weg.</p>
+<p>1. A cél útban van. Az út a cél. (Konfuciusz)</p>
+<p>2. Az út nem a cél, hanem az út.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A cél elállja az utat, az út maga a cél. (Konfuciusz) - Das Ziel versperrt den Weg, der Weg selbst ist das Ziel. (Konfuzius)</p>
-<p>2. Az út nem cél, hanem maga az út. - Der Weg ist kein Ziel, sondern der Weg selbst.</p>
+<p>1. A cél elállja az utat, az út maga a cél. (Konfuciusz)</p>
+<p>2. Az út nem cél, hanem maga az út.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A cél akadály, az út a cél. (Konfuciusz) - Das Ziel ist ein Hindernis, der Weg ist das Ziel. (Konfuzius)</p>
-<p>2. Az út nem célként értendő, hanem útként. - Der Weg ist nicht als Ziel zu verstehen, sondern als Weg.</p>
+<p>1. A cél akadály, az út a cél. (Konfuciusz)</p>
+<p>2. Az út nem célként értendő, hanem útként.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1757,11 +1757,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A cél útban van. Az út a cél. (Konfuciusz)</p>
+<p>1. A cél útban van. Az út a cél. (Konfuciusz) - Das Ziel steht im Weg. Der Weg ist das Ziel. (Konfuzius)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az út nem a cél, hanem az út.</p>
+<p>2. Az út nem a cél, hanem az út. - Der Weg ist nicht das Ziel, sondern der Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1769,11 +1769,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A cél elállja az utat, az út maga a cél. (Konfuciusz)</p>
+<p>1. A cél elállja az utat, az út maga a cél. (Konfuciusz) - Das Ziel versperrt den Weg, der Weg selbst ist das Ziel. (Konfuzius)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az út nem cél, hanem maga az út.</p>
+<p>2. Az út nem cél, hanem maga az út. - Der Weg ist kein Ziel, sondern der Weg selbst.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1781,11 +1781,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A cél akadály, az út a cél. (Konfuciusz)</p>
+<p>1. A cél akadály, az út a cél. (Konfuciusz) - Das Ziel ist ein Hindernis, der Weg ist das Ziel. (Konfuzius)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Az út nem célként értendő, hanem útként.</p>
+<p>2. Az út nem célként értendő, hanem útként. - Der Weg ist nicht als Ziel zu verstehen, sondern als Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

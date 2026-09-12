@@ -1833,17 +1833,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Vakon követni az utasítást ez rosszabb, mintha nézne és csendben maradna. - Noch schlimmer als blind zu gehorchen ist sehend zu schweigen.</p>
+<p>1. Vakon követni az utasítást ez rosszabb, mintha nézne és csendben maradna.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Vakon követni az utasítást ez rosszabb, mintha nézne és csendben maradna.</p>
+<p>1. Vakon követni az utasítást ez rosszabb, mintha nézne és csendben maradna. - Noch schlimmer als blind zu gehorchen ist sehend zu schweigen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

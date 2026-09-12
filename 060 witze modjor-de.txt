@@ -48,23 +48,23 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A házasság annak a kísérlete, hogy ketten legalább feleannyira boldogok legyünk, mint amilyen boldog az ember egyedül volt. - Die Ehe ist der Versuch, zu zweit wenigstens halb so glücklich zu werden, wie man alleine gewesen wäre (war).</p>
-<p class="pc-note">fél [felet, fele, felek] - die Hälfte</p>
-<p class="pc-note">hogy ... boldogok legyünk - (damit) ... wir glücklich sind (Imperativ im Ungarischen) (Im Ungarischen steht der Imperativ nicht nur für Befehle, sondern sehr oft auch bei: Zweck / damit-Sätze, Wunsch, Bitte, Vorschlag, Aufforderung, Erlaubnis, Einräumung,</p>
-<p class="pc-note">volt - war</p>
-<p class="pc-note">lenne - wäre</p>
-<p class="pc-note">lenni - sein</p>
+<p>1. A házasság annak a kísérlete, hogy ketten legalább feleannyira boldogok legyünk, mint amilyen boldog az ember egyedül volt.</p>
+<p class="pc-note">fél [felet, fele, felek]</p>
+<p class="pc-note">hogy ... boldogok legyünk</p>
+<p class="pc-note">volt</p>
+<p class="pc-note">lenne</p>
+<p class="pc-note">lenni</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A házasság egy próbálkozás arra, hogy két ember [ämber] együtt [ägyütt] elérje legalább a fele boldogságot annak, amit külön-külön megéltek. - Die Ehe ist der Versuch, gemeinsam wenigstens halb so glücklich zu sein, wie man es alleine war.</p>
-<p class="pc-note">elér - erreichen</p>
-<p class="pc-note">ő elérje [E/3] a boldogságot - er erreicht das Glück</p>
+<p>1. A házasság egy próbálkozás arra, hogy két ember [ämber] együtt [ägyütt] elérje legalább a fele boldogságot annak, amit külön-külön megéltek.</p>
+<p class="pc-note">elér</p>
+<p class="pc-note">ő elérje [E/3] a boldogságot</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A házasság nem más, mint kísérlet arra, hogy ketten elérjük annak a boldogságnak legalább a felét, amelyet egyedül már ismertünk. - Die Ehe ist nichts anderes, als der Versuch, zu zweit wenigstens die Hälfte des Glücks zu erreichen, das man alleine kannte.</p>
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten elérjük annak a boldogságnak legalább a felét, amelyet egyedül már ismertünk.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -73,27 +73,27 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A házasság annak a kísérlete, hogy ketten legalább feleannyira boldogok legyünk, mint amilyen boldog az ember egyedül volt.</p>
+<p>1. A házasság annak a kísérlete, hogy ketten legalább feleannyira boldogok legyünk, mint amilyen boldog az ember egyedül volt. - Die Ehe ist der Versuch, zu zweit wenigstens halb so glücklich zu werden, wie man alleine gewesen wäre (war).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">fél [felet, fele, felek]</p>
+<p class="pc-note">fél [felet, fele, felek] - die Hälfte</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">hogy ... boldogok legyünk</p>
+<p class="pc-note">hogy ... boldogok legyünk - (damit) ... wir glücklich sind (Imperativ im Ungarischen) (Im Ungarischen steht der Imperativ nicht nur für Befehle, sondern sehr oft auch bei: Zweck / damit-Sätze, Wunsch, Bitte, Vorschlag, Aufforderung, Erlaubnis, Einräumung,</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">volt</p>
+<p class="pc-note">volt - war</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lenne</p>
+<p class="pc-note">lenne - wäre</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lenni</p>
+<p class="pc-note">lenni - sein</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -101,15 +101,15 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A házasság egy próbálkozás arra, hogy két ember [ämber] együtt [ägyütt] elérje legalább a fele boldogságot annak, amit külön-külön megéltek.</p>
+<p>1. A házasság egy próbálkozás arra, hogy két ember [ämber] együtt [ägyütt] elérje legalább a fele boldogságot annak, amit külön-külön megéltek. - Die Ehe ist der Versuch, gemeinsam wenigstens halb so glücklich zu sein, wie man es alleine war.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elér</p>
+<p class="pc-note">elér - erreichen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">ő elérje [E/3] a boldogságot</p>
+<p class="pc-note">ő elérje [E/3] a boldogságot - er erreicht das Glück</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -117,7 +117,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A házasság nem más, mint kísérlet arra, hogy ketten elérjük annak a boldogságnak legalább a felét, amelyet egyedül már ismertünk.</p>
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten elérjük annak a boldogságnak legalább a felét, amelyet egyedül már ismertünk. - Die Ehe ist nichts anderes, als der Versuch, zu zweit wenigstens die Hälfte des Glücks zu erreichen, das man alleine kannte.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -198,23 +198,23 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Nem, nem vagyok házas, mert miért tennék boldogtalanná egyetlen nőt, ha közben olyan sokat boldoggá tehetek. - Nein, ich bin nicht verheiratet, denn warum soll ich eine einzige Frau unglücklich machen, wenn ich währenddessen so viele glücklich machen kann.</p>
-<p class="pc-note">közben - indessen, während, in der Zwischenzeit</p>
+<p>1. Nem, nem vagyok házas, mert miért tennék boldogtalanná egyetlen nőt, ha közben olyan sokat boldoggá tehetek.</p>
+<p class="pc-note">közben</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Nem vagyok nős, hiszen miért keserítenék meg egy nő életét, amikor sok másnak örömet szerezhetek. - Nein, ich bin nicht verheiratet, warum sollte ich das Leben einer Frau bitter machen, wenn ich viele andere glücklich machen kann.</p>
-<p class="pc-note">keserű - bitter</p>
-<p class="pc-note">megkeserít = keserűvé tesz - bitter machen; verbittern</p>
-<p class="pc-note">hiszen = mert - weil</p>
-<p class="pc-note">öröm - Glück, Lust, Freude, Wonne</p>
-<p class="pc-note">szerencse - Glück</p>
-<p class="pc-note">szerez - erreichen, verschaffen, machen, bekommen, erwerben</p>
+<p>1. Nem vagyok nős, hiszen miért keserítenék meg egy nő életét, amikor sok másnak örömet szerezhetek.</p>
+<p class="pc-note">keserű</p>
+<p class="pc-note">megkeserít = keserűvé tesz</p>
+<p class="pc-note">hiszen = mert</p>
+<p class="pc-note">öröm</p>
+<p class="pc-note">szerencse</p>
+<p class="pc-note">szerez</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Nem, nincs feleségem: minek (miért) tennék boldogtalanná egyet, ha ennyi nőt tehetek boldoggá. - Nein, ich habe keine Ehefrau: warum sollte ich eine (Frau) unglücklich machen, wenn ich so viele (Frau) glücklich machen kann.</p>
+<p>1. Nem, nincs feleségem: minek (miért) tennék boldogtalanná egyet, ha ennyi nőt tehetek boldoggá.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -223,11 +223,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem, nem vagyok házas, mert miért tennék boldogtalanná egyetlen nőt, ha közben olyan sokat boldoggá tehetek.</p>
+<p>1. Nem, nem vagyok házas, mert miért tennék boldogtalanná egyetlen nőt, ha közben olyan sokat boldoggá tehetek. - Nein, ich bin nicht verheiratet, denn warum soll ich eine einzige Frau unglücklich machen, wenn ich währenddessen so viele glücklich machen kann.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">közben</p>
+<p class="pc-note">közben - indessen, während, in der Zwischenzeit</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -235,31 +235,31 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem vagyok nős, hiszen miért keserítenék meg egy nő életét, amikor sok másnak örömet szerezhetek.</p>
+<p>1. Nem vagyok nős, hiszen miért keserítenék meg egy nő életét, amikor sok másnak örömet szerezhetek. - Nein, ich bin nicht verheiratet, warum sollte ich das Leben einer Frau bitter machen, wenn ich viele andere glücklich machen kann.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">keserű</p>
+<p class="pc-note">keserű - bitter</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">megkeserít = keserűvé tesz</p>
+<p class="pc-note">megkeserít = keserűvé tesz - bitter machen; verbittern</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">hiszen = mert</p>
+<p class="pc-note">hiszen = mert - weil</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">öröm</p>
+<p class="pc-note">öröm - Glück, Lust, Freude, Wonne</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">szerencse</p>
+<p class="pc-note">szerencse - Glück</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">szerez</p>
+<p class="pc-note">szerez - erreichen, verschaffen, machen, bekommen, erwerben</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -267,7 +267,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Nem, nincs feleségem: minek (miért) tennék boldogtalanná egyet, ha ennyi nőt tehetek boldoggá.</p>
+<p>1. Nem, nincs feleségem: minek (miért) tennék boldogtalanná egyet, ha ennyi nőt tehetek boldoggá. - Nein, ich habe keine Ehefrau: warum sollte ich eine (Frau) unglücklich machen, wenn ich so viele (Frau) glücklich machen kann.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -348,22 +348,22 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A házasság annak a kísérlete, hogy ketten megbirkózzunk azokkal a problémákkal, amelyek egyedül sosem léteztek volna. - Die Ehe ist der Versuch, zu zweit mit den Problemen fertig zu werden, die alleine (wenn man alleine ist) nie existieren würden.</p>
-<p class="pc-note">a kísérlete annak ... - der Versuch dafür ...</p>
-<p class="pc-note">megbirkózik vmivel - bewältigen; meistern; ringen; sich raufen</p>
-<p class="pc-note">hogy ... megbirkózzunk (Imperativ; T/1) - damit ... wir bewältigen (Final-Nebensatz)</p>
-<p class="pc-note">lét - die Existenz, das Dasein, das Wesen</p>
-<p class="pc-note">létezik - existieren</p>
-<p class="pc-note">Ha egyedül lettem volna, akkor nem lettek volna problémák. - Wenn ich alleine leben würden, dann hätte ich keine Probleme.</p>
+<p>1. A házasság annak a kísérlete, hogy ketten megbirkózzunk azokkal a problémákkal, amelyek egyedül sosem léteztek volna.</p>
+<p class="pc-note">a kísérlete annak ...</p>
+<p class="pc-note">megbirkózik vmivel</p>
+<p class="pc-note">hogy ... megbirkózzunk (Imperativ; T/1)</p>
+<p class="pc-note">lét</p>
+<p class="pc-note">létezik</p>
+<p class="pc-note">Ha egyedül lettem volna, akkor nem lettek volna problémák.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A házasság egy próbálkozás arra, hogy közösen kezeljük azokat a gondokat, amelyek csak azért vannak, mert nem vagyunk egyedül. - Die Ehe ist der Versuch, gemeinsam mit Problemen umzugehen, die es nur deshalb gibt, weil wir nicht allein sind.</p>
+<p>1. A házasság egy próbálkozás arra, hogy közösen kezeljük azokat a gondokat, amelyek csak azért vannak, mert nem vagyunk egyedül.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A házasság nem más, mint kísérlet arra, hogy ketten oldjuk meg azokat a nehézségeket [nehésségeket], amelyeket az egyedüllét [ägyädüllét] soha nem hozott volna. - Die Ehe ist nichts anderes, als der Versuch dazu, zu zweit jene Schwierigkeiten zu lösen, die das Alleinsein nie gebracht hätte.</p>
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten oldjuk meg azokat a nehézségeket [nehésségeket], amelyeket az egyedüllét [ägyädüllét] soha nem hozott volna.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -372,31 +372,31 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A házasság annak a kísérlete, hogy ketten megbirkózzunk azokkal a problémákkal, amelyek egyedül sosem léteztek volna.</p>
+<p>1. A házasság annak a kísérlete, hogy ketten megbirkózzunk azokkal a problémákkal, amelyek egyedül sosem léteztek volna. - Die Ehe ist der Versuch, zu zweit mit den Problemen fertig zu werden, die alleine (wenn man alleine ist) nie existieren würden.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">a kísérlete annak ...</p>
+<p class="pc-note">a kísérlete annak ... - der Versuch dafür ...</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">megbirkózik vmivel</p>
+<p class="pc-note">megbirkózik vmivel - bewältigen; meistern; ringen; sich raufen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">hogy ... megbirkózzunk (Imperativ; T/1)</p>
+<p class="pc-note">hogy ... megbirkózzunk (Imperativ; T/1) - damit ... wir bewältigen (Final-Nebensatz)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lét</p>
+<p class="pc-note">lét - die Existenz, das Dasein, das Wesen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">létezik</p>
+<p class="pc-note">létezik - existieren</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Ha egyedül lettem volna, akkor nem lettek volna problémák.</p>
+<p class="pc-note">Ha egyedül lettem volna, akkor nem lettek volna problémák. - Wenn ich alleine leben würden, dann hätte ich keine Probleme.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -404,7 +404,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A házasság egy próbálkozás arra, hogy közösen kezeljük azokat a gondokat, amelyek csak azért vannak, mert nem vagyunk egyedül.</p>
+<p>1. A házasság egy próbálkozás arra, hogy közösen kezeljük azokat a gondokat, amelyek csak azért vannak, mert nem vagyunk egyedül. - Die Ehe ist der Versuch, gemeinsam mit Problemen umzugehen, die es nur deshalb gibt, weil wir nicht allein sind.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -412,7 +412,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A házasság nem más, mint kísérlet arra, hogy ketten oldjuk meg azokat a nehézségeket [nehésségeket], amelyeket az egyedüllét [ägyädüllét] soha nem hozott volna.</p>
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten oldjuk meg azokat a nehézségeket [nehésségeket], amelyeket az egyedüllét [ägyädüllét] soha nem hozott volna. - Die Ehe ist nichts anderes, als der Versuch dazu, zu zweit jene Schwierigkeiten zu lösen, die das Alleinsein nie gebracht hätte.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -491,20 +491,20 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. A második házasság a remény győzelme a tapasztalat felett. - Die zweite Ehe ist der Triumph der Hoffnung über die Erfahrung.</p>
+<p>1. A második házasság a remény győzelme a tapasztalat felett.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. A második házasság azt jelenti, hogy a remény felülírja a korábbi tapasztalatokat. - Die zweite Ehe bedeutet, dass die Hoffnung die früheren Erfahrungen überschreiben hat.</p>
+<p>1. A második házasság azt jelenti, hogy a remény felülírja a korábbi tapasztalatokat.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A második házasság nem más, mint a remény diadala a megszerzett tapasztalattal szemben. - Die zweite Ehe ist nichts anderes, als der Triumph der Hoffnung über die gewonnene (gesammelte; erworbene)  Erfahrung.</p>
-<p class="pc-note">diadal = győzelem - Sieg, Triumph</p>
-<p class="pc-note">diadalmaskodik - triumphieren, siegen</p>
-<p class="pc-note">diadalmas = triumphal - siegreich</p>
-<p class="pc-note">szemben (vmivel) - im Gegensatz zu; im Widerstreit; gegenüber</p>
+<p>1. A második házasság nem más, mint a remény diadala a megszerzett tapasztalattal szemben.</p>
+<p class="pc-note">diadal = győzelem</p>
+<p class="pc-note">diadalmaskodik</p>
+<p class="pc-note">diadalmas = triumphal</p>
+<p class="pc-note">szemben (vmivel)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -513,7 +513,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A második házasság a remény győzelme a tapasztalat felett.</p>
+<p>1. A második házasság a remény győzelme a tapasztalat felett. - Die zweite Ehe ist der Triumph der Hoffnung über die Erfahrung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -521,7 +521,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A második házasság azt jelenti, hogy a remény felülírja a korábbi tapasztalatokat.</p>
+<p>1. A második házasság azt jelenti, hogy a remény felülírja a korábbi tapasztalatokat. - Die zweite Ehe bedeutet, dass die Hoffnung die früheren Erfahrungen überschreiben hat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -529,23 +529,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A második házasság nem más, mint a remény diadala a megszerzett tapasztalattal szemben.</p>
+<p>1. A második házasság nem más, mint a remény diadala a megszerzett tapasztalattal szemben. - Die zweite Ehe ist nichts anderes, als der Triumph der Hoffnung über die gewonnene (gesammelte; erworbene)  Erfahrung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">diadal = győzelem</p>
+<p class="pc-note">diadal = győzelem - Sieg, Triumph</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">diadalmaskodik</p>
+<p class="pc-note">diadalmaskodik - triumphieren, siegen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">diadalmas = triumphal</p>
+<p class="pc-note">diadalmas = triumphal - siegreich</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">szemben (vmivel)</p>
+<p class="pc-note">szemben (vmivel) - im Gegensatz zu; im Widerstreit; gegenüber</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -614,18 +614,18 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Egy nő valójában nagyon könnyen érthető: olyan, mint egy nyitott könyv. Olyan, mint egy kínai nyelvű kvantumfizika-könyv. De legalább nyitva van. - Eine Frau ist eigentlich ganz einfach zu verstehen: Sie ist so wie ein offenes Buch. So wie ein Buch über Quantenphysik auf Chinesisch. Aber wenigstens ist es offen.</p>
-<p class="pc-note">valójában - in Wirklichkeit, eigentlich, tatsächlich</p>
+<p>1. Egy nő valójában nagyon könnyen érthető: olyan, mint egy nyitott könyv. Olyan, mint egy kínai nyelvű kvantumfizika-könyv. De legalább nyitva van.</p>
+<p class="pc-note">valójában</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Egy nőt nem nehéz megérteni: olyan, mint egy nyitott könyv. Igaz, ez a könyv kvantumfizikáról szól, kínaiul. Viszont (de) nyitva van. - Es ist nicht schwer eine Frau zu verstehen (Eine Frau ist nicht schwer zu verstehen): So wie ein offenes Buch. Zwar (es ist wahr) handelt (erzählt) dieses Buch von Quantenphysik, auf Chinesisch. Aber immerhin (andererseits) ist es offen.</p>
+<p>1. Egy nőt nem nehéz megérteni: olyan, mint egy nyitott könyv. Igaz, ez a könyv kvantumfizikáról szól, kínaiul. Viszont (de) nyitva van.</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Egy nő megértése egyszerű dolog: nyitott könyv. Csak éppen egy kínai kvantumfizikai szakkönyv. De legalább nem csukott. - Eine Frau zu verstehen ist eine einfache Sache (Das Verstehen einer Frau ist einfach): ein offenes Buch. Allerdings (nur eben/gerade) ein chinesisches Fachbuch über Quantenphysik. Aber wenigstens nicht geschlossen.</p>
-<p class="pc-note">csuk (csukni) = bezár - schließen</p>
+<p>1. Egy nő megértése egyszerű dolog: nyitott könyv. Csak éppen egy kínai kvantumfizikai szakkönyv. De legalább nem csukott.</p>
+<p class="pc-note">csuk (csukni) = bezár</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -634,11 +634,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy nő valójában nagyon könnyen érthető: olyan, mint egy nyitott könyv. Olyan, mint egy kínai nyelvű kvantumfizika-könyv. De legalább nyitva van.</p>
+<p>1. Egy nő valójában nagyon könnyen érthető: olyan, mint egy nyitott könyv. Olyan, mint egy kínai nyelvű kvantumfizika-könyv. De legalább nyitva van. - Eine Frau ist eigentlich ganz einfach zu verstehen: Sie ist so wie ein offenes Buch. So wie ein Buch über Quantenphysik auf Chinesisch. Aber wenigstens ist es offen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">valójában</p>
+<p class="pc-note">valójában - in Wirklichkeit, eigentlich, tatsächlich</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -646,7 +646,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy nőt nem nehéz megérteni: olyan, mint egy nyitott könyv. Igaz, ez a könyv kvantumfizikáról szól, kínaiul. Viszont (de) nyitva van.</p>
+<p>1. Egy nőt nem nehéz megérteni: olyan, mint egy nyitott könyv. Igaz, ez a könyv kvantumfizikáról szól, kínaiul. Viszont (de) nyitva van. - Es ist nicht schwer eine Frau zu verstehen (Eine Frau ist nicht schwer zu verstehen): So wie ein offenes Buch. Zwar (es ist wahr) handelt (erzählt) dieses Buch von Quantenphysik, auf Chinesisch. Aber immerhin (andererseits) ist es offen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -654,11 +654,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Egy nő megértése egyszerű dolog: nyitott könyv. Csak éppen egy kínai kvantumfizikai szakkönyv. De legalább nem csukott.</p>
+<p>1. Egy nő megértése egyszerű dolog: nyitott könyv. Csak éppen egy kínai kvantumfizikai szakkönyv. De legalább nem csukott. - Eine Frau zu verstehen ist eine einfache Sache (Das Verstehen einer Frau ist einfach): ein offenes Buch. Allerdings (nur eben/gerade) ein chinesisches Fachbuch über Quantenphysik. Aber wenigstens nicht geschlossen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">csuk (csukni) = bezár</p>
+<p class="pc-note">csuk (csukni) = bezár - schließen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -719,21 +719,21 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Utólag mindig előre tudta. - Hinterher hat er es immer vorher gewusst.</p>
+<p>1. Utólag mindig előre tudta.</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Visszatekintve számára mindig nyilvánvaló volt előre. - Rückblickend war es für ihn immer im Voraus offensichtlich. - Im Nachhinein erschien es ihm immer schon offensichtlich.</p>
-<p class="pc-note">tekint - betrachten, blicken, sehen</p>
-<p class="pc-note">számára - für ihn</p>
-<p class="pc-note">szamár - Esel</p>
-<p class="pc-note">szamara - sein Esel</p>
-<p class="pc-note">Számára a szamara a barátja [baráttya]. - Für ihn ist sein Esel sein Freund.</p>
+<p>1. Visszatekintve számára mindig nyilvánvaló volt előre.</p>
+<p class="pc-note">tekint</p>
+<p class="pc-note">számára</p>
+<p class="pc-note">szamár</p>
+<p class="pc-note">szamara</p>
+<p class="pc-note">Számára a szamara a barátja [baráttya].</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. A történtek után azt állította, hogy mindezt előre látta. - Nach den Geschehnissen behauptete er, dass er das alles vorher gewusst (gesehen) hat.</p>
+<p>1. A történtek után azt állította, hogy mindezt előre látta.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -742,7 +742,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Utólag mindig előre tudta.</p>
+<p>1. Utólag mindig előre tudta. - Hinterher hat er es immer vorher gewusst.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -750,27 +750,27 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Visszatekintve számára mindig nyilvánvaló volt előre.</p>
+<p>1. Visszatekintve számára mindig nyilvánvaló volt előre. - Rückblickend war es für ihn immer im Voraus offensichtlich. - Im Nachhinein erschien es ihm immer schon offensichtlich.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tekint</p>
+<p class="pc-note">tekint - betrachten, blicken, sehen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">számára</p>
+<p class="pc-note">számára - für ihn</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">szamár</p>
+<p class="pc-note">szamár - Esel</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">szamara</p>
+<p class="pc-note">szamara - sein Esel</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Számára a szamara a barátja [baráttya].</p>
+<p class="pc-note">Számára a szamara a barátja [baráttya]. - Für ihn ist sein Esel sein Freund.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -778,7 +778,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. A történtek után azt állította, hogy mindezt előre látta.</p>
+<p>1. A történtek után azt állította, hogy mindezt előre látta. - Nach den Geschehnissen behauptete er, dass er das alles vorher gewusst (gesehen) hat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -851,27 +851,27 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ha nincs dolga, akkor ne itt csinálja! - Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier!</p>
+<p>1. Ha nincs dolga, akkor ne itt csinálja!</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Amennyiben nincs semmi teendője, kérem, ne ezen a helyen tegye. - Wenn Sie nichts zu tun haben, dann tun Sie es bitte nicht hier!</p>
-<p class="pc-note">teendő - zu tun; die Maßnahme; die Aufgabe; das, was zu tun ist (im Ungarischen, noch dazu auf einer Tafel geschrieben würde es eher so verstanden werden: Hier ist kein WC. Kacken Sie hier nicht hin!)</p>
-<p class="pc-note">Sok teendőm van. - Ich habe viel zu tun.</p>
-<p class="pc-note">Nincs semmi teendő. - Es gibt nichts zu erledigen.</p>
-<p class="pc-note">A napi teendők. - Die täglichen Aufgaben.</p>
-<p class="pc-note">tesz - tun</p>
+<p>1. Amennyiben nincs semmi teendője, kérem, ne ezen a helyen tegye.</p>
+<p class="pc-note">teendő</p>
+<p class="pc-note">Sok teendőm van.</p>
+<p class="pc-note">Nincs semmi teendő.</p>
+<p class="pc-note">A napi teendők.</p>
+<p class="pc-note">tesz</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha éppen nincs elfoglaltsága [elfoglalcsága], máshol legyen tétlen. - Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier! - Wenn Sie gerade keine Beschäftigung haben, (dann) seien Sie anderswo.</p>
-<p class="pc-note">elfoglaltság - die Beschäftigung; Aktivität</p>
-<p class="pc-note">elfoglalt - beschäftigt</p>
-<p class="pc-note">foglalt - besetzt</p>
-<p class="pc-note">foglalt - freihalten; buchen</p>
-<p class="pc-note">fog - fangen; greifen; empfangen: Zahn; Futur (werden)</p>
-<p class="pc-note">tétlen - untätig; passiv  (tesz - tun); (“-tlan/-tlen” - “un-”)</p>
+<p>1. Ha éppen nincs elfoglaltsága [elfoglalcsága], máshol legyen tétlen.</p>
+<p class="pc-note">elfoglaltság</p>
+<p class="pc-note">elfoglalt</p>
+<p class="pc-note">foglalt</p>
+<p class="pc-note">foglalt</p>
+<p class="pc-note">fog</p>
+<p class="pc-note">tétlen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -880,7 +880,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha nincs dolga, akkor ne itt csinálja!</p>
+<p>1. Ha nincs dolga, akkor ne itt csinálja! - Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -888,27 +888,27 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amennyiben nincs semmi teendője, kérem, ne ezen a helyen tegye.</p>
+<p>1. Amennyiben nincs semmi teendője, kérem, ne ezen a helyen tegye. - Wenn Sie nichts zu tun haben, dann tun Sie es bitte nicht hier!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">teendő</p>
+<p class="pc-note">teendő - zu tun; die Maßnahme; die Aufgabe; das, was zu tun ist (im Ungarischen, noch dazu auf einer Tafel geschrieben würde es eher so verstanden werden: Hier ist kein WC. Kacken Sie hier nicht hin!)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Sok teendőm van.</p>
+<p class="pc-note">Sok teendőm van. - Ich habe viel zu tun.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Nincs semmi teendő.</p>
+<p class="pc-note">Nincs semmi teendő. - Es gibt nichts zu erledigen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">A napi teendők.</p>
+<p class="pc-note">A napi teendők. - Die täglichen Aufgaben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tesz</p>
+<p class="pc-note">tesz - tun</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -916,31 +916,31 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha éppen nincs elfoglaltsága [elfoglalcsága], máshol legyen tétlen.</p>
+<p>1. Ha éppen nincs elfoglaltsága [elfoglalcsága], máshol legyen tétlen. - Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier! - Wenn Sie gerade keine Beschäftigung haben, (dann) seien Sie anderswo.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elfoglaltság</p>
+<p class="pc-note">elfoglaltság - die Beschäftigung; Aktivität</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elfoglalt</p>
+<p class="pc-note">elfoglalt - beschäftigt</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">foglalt</p>
+<p class="pc-note">foglalt - besetzt</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">foglalt</p>
+<p class="pc-note">foglalt - freihalten; buchen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">fog</p>
+<p class="pc-note">fog - fangen; greifen; empfangen: Zahn; Futur (werden)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tétlen</p>
+<p class="pc-note">tétlen - untätig; passiv  (tesz - tun); (“-tlan/-tlen” - “un-”)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1037,26 +1037,26 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Ha tényleg van ott fenn az égben valaki, akkor nekem igazán nagy problémám van. Bele sem merek gondolni. (= Nem is merek belegondolni) - Wenn es dort oben im Himmel wirklich jemanden gibt, dann habe ich wirklich ein ganz großes Problem. Ich mag gar nicht daran denken. (Ich wage nicht daran zu denken)</p>
-<p class="pc-note">mer - sich wagen; sich trauen</p>
-<p class="pc-note">mér - messen wiegen</p>
-<p class="pc-note">bele gondol - daran denken</p>
-<p class="pc-note">sem (nem is) - auch nicht; nicht einmal; nicht mal</p>
-<p class="pc-note">Bele sem merek gondolni. - Ich wage es nicht einmal, daran zu denken. (gar nicht)</p>
-<p class="pc-note">Nem merek belegondolni - Ich wage es nicht, daran zu denken.</p>
+<p>1. Ha tényleg van ott fenn az égben valaki, akkor nekem igazán nagy problémám van. Bele sem merek gondolni. (= Nem is merek belegondolni)</p>
+<p class="pc-note">mer</p>
+<p class="pc-note">mér</p>
+<p class="pc-note">bele gondol</p>
+<p class="pc-note">sem (nem is)</p>
+<p class="pc-note">Bele sem merek gondolni.</p>
+<p class="pc-note">Nem merek belegondolni</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Amennyiben valóban létezik (= van) valaki odafent a mennyben, akkor komoly bajban vagyok. Inkább nem is gondolok rá. - Wenn (insofern) es dort oben im Himmel wirklich jemanden gibt (existiert), dann habe ich ein ernsthaftes Problem. Daran möchte ich lieber nicht denken. (Lieber denke ich nicht daran. - Ich denke lieber gar nicht erst daran. - Ich will lieber überhaupt nicht daran denken.)</p>
-<p class="pc-note">bajban vagyok - ich bin in Schwierigkeiten.</p>
-<p class="pc-note">nem gondolok rá - ich denke nicht daran</p>
-<p class="pc-note">nem is gondolok rá - ich denke überhaupt nicht (erst gar nicht)daran</p>
+<p>1. Amennyiben valóban létezik (= van) valaki odafent a mennyben, akkor komoly bajban vagyok. Inkább nem is gondolok rá.</p>
+<p class="pc-note">bajban vagyok</p>
+<p class="pc-note">nem gondolok rá</p>
+<p class="pc-note">nem is gondolok rá</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Ha az égben tényleg van valaki, akkor számomra ez óriási gondot jelentene. Jobb, ha nem foglalkozom a gondolattal. - Wenn im Himmel wirklich jemanden ist, dann würde das für mich ein riesiges Problem bedeuten. Es ist besser, wenn ich mich nicht mit mit (diesem) Gedanken beschäftige.</p>
-<p class="pc-note">gondolat - Gedanke; Idee</p>
+<p>1. Ha az égben tényleg van valaki, akkor számomra ez óriási gondot jelentene. Jobb, ha nem foglalkozom a gondolattal.</p>
+<p class="pc-note">gondolat</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1065,31 +1065,31 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha tényleg van ott fenn az égben valaki, akkor nekem igazán nagy problémám van. Bele sem merek gondolni. (= Nem is merek belegondolni)</p>
+<p>1. Ha tényleg van ott fenn az égben valaki, akkor nekem igazán nagy problémám van. Bele sem merek gondolni. (= Nem is merek belegondolni) - Wenn es dort oben im Himmel wirklich jemanden gibt, dann habe ich wirklich ein ganz großes Problem. Ich mag gar nicht daran denken. (Ich wage nicht daran zu denken)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">mer</p>
+<p class="pc-note">mer - sich wagen; sich trauen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">mér</p>
+<p class="pc-note">mér - messen wiegen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">bele gondol</p>
+<p class="pc-note">bele gondol - daran denken</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">sem (nem is)</p>
+<p class="pc-note">sem (nem is) - auch nicht; nicht einmal; nicht mal</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Bele sem merek gondolni.</p>
+<p class="pc-note">Bele sem merek gondolni. - Ich wage es nicht einmal, daran zu denken. (gar nicht)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">Nem merek belegondolni</p>
+<p class="pc-note">Nem merek belegondolni - Ich wage es nicht, daran zu denken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1097,19 +1097,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amennyiben valóban létezik (= van) valaki odafent a mennyben, akkor komoly bajban vagyok. Inkább nem is gondolok rá.</p>
+<p>1. Amennyiben valóban létezik (= van) valaki odafent a mennyben, akkor komoly bajban vagyok. Inkább nem is gondolok rá. - Wenn (insofern) es dort oben im Himmel wirklich jemanden gibt (existiert), dann habe ich ein ernsthaftes Problem. Daran möchte ich lieber nicht denken. (Lieber denke ich nicht daran. - Ich denke lieber gar nicht erst daran. - Ich will lieber überhaupt nicht daran denken.)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">bajban vagyok</p>
+<p class="pc-note">bajban vagyok - ich bin in Schwierigkeiten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">nem gondolok rá</p>
+<p class="pc-note">nem gondolok rá - ich denke nicht daran</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">nem is gondolok rá</p>
+<p class="pc-note">nem is gondolok rá - ich denke überhaupt nicht (erst gar nicht)daran</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1117,11 +1117,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Ha az égben tényleg van valaki, akkor számomra ez óriási gondot jelentene. Jobb, ha nem foglalkozom a gondolattal.</p>
+<p>1. Ha az égben tényleg van valaki, akkor számomra ez óriási gondot jelentene. Jobb, ha nem foglalkozom a gondolattal. - Wenn im Himmel wirklich jemanden ist, dann würde das für mich ein riesiges Problem bedeuten. Es ist besser, wenn ich mich nicht mit mit (diesem) Gedanken beschäftige.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">gondolat</p>
+<p class="pc-note">gondolat - Gedanke; Idee</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1214,35 +1214,35 @@
 
 <!-- wp:paragraph -->
 <p class="pc-note"><strong>Version 1</strong></p>
-<p>1. Miután végleg szem elől tévesztettük a célt, megkettőztük az erőfeszítéseinket. - Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem wir endgültig vor den Augen das Ziel verfehlt (verloren) haben, verdoppelten wir unsere Anstrengungen.</p>
+<p>1. Miután végleg szem elől tévesztettük a célt, megkettőztük az erőfeszítéseinket.</p>
 <p class="pc-note">miután . nachdem; da</p>
-<p class="pc-note">mi után? - wonach?</p>
-<p class="pc-note">mi után - wonach</p>
-<p class="pc-note">elveszít - verlieren</p>
-<p class="pc-note">téved - täuschen</p>
-<p class="pc-note">tévszt - verfehlen; verwechseln; sich irren (in etwas)</p>
-<p class="pc-note">erőfeszítés - Anstrengung; Bemühung</p>
-<p class="pc-note">szem elől téveszt - aus den Augen verlieren (vor den Augen verfehlen)</p>
+<p class="pc-note">mi után?</p>
+<p class="pc-note">mi után</p>
+<p class="pc-note">elveszít</p>
+<p class="pc-note">téved</p>
+<p class="pc-note">tévszt</p>
+<p class="pc-note">erőfeszítés</p>
+<p class="pc-note">szem elől téveszt</p>
 <p class="pc-note"><strong>Version 2</strong></p>
-<p>1. Amikor már teljesen elvesztettük a célt, még nagyobb lendülettel dolgoztunk tovább. - Als wir das Ziel schon ganz aus den Augen verloren hatten, arbeiteten wir mit noch mit größerem Schwung weiter.</p>
-<p class="pc-note">lendület - Schwung; Anstoß; Wucht</p>
-<p class="pc-note">svung - Schwungkraft</p>
-<p class="pc-note">lendül - sich schwingen; geschwungen</p>
-<p class="pc-note">lendületes - schwungvoll; schwunghaft</p>
+<p>1. Amikor már teljesen elvesztettük a célt, még nagyobb lendülettel dolgoztunk tovább.</p>
+<p class="pc-note">lendület</p>
+<p class="pc-note">svung</p>
+<p class="pc-note">lendül</p>
+<p class="pc-note">lendületes</p>
 <p class="pc-note"><strong>Version 3</strong></p>
-<p>1. Miután a cél végleg kicsúszott a látóterünkből, kétszer akkora erővel igyekeztünk. (sehr poetisch/offiziell) - Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem das Ziel endgültig aus unserem Gesichtsfeld herausgerutscht ist, bemühten wir uns mit zweimal so großer Kraft.</p>
-<p class="pc-note">csúszik - rutschen; schlittern</p>
-<p class="pc-note">kicsúszik - ausrutschen; verrutschen; entschlüpfen; herausrutschen</p>
-<p class="pc-note">látótér - Blickfeld; Gesichtsfeld</p>
-<p class="pc-note">igyekezik - sich Mühe geben; sich bemühen; eilen</p>
-<p class="pc-note">igyekvés - Bemühung; Bestreben; Emsigkeit</p>
-<p class="pc-note">igyekvő - strebsam; emsig</p>
-<p class="pc-note">stréber - der Streber</p>
+<p>1. Miután a cél végleg kicsúszott a látóterünkből, kétszer akkora erővel igyekeztünk. (sehr poetisch/offiziell)</p>
+<p class="pc-note">csúszik</p>
+<p class="pc-note">kicsúszik</p>
+<p class="pc-note">látótér</p>
+<p class="pc-note">igyekezik</p>
+<p class="pc-note">igyekvés</p>
+<p class="pc-note">igyekvő</p>
+<p class="pc-note">stréber</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
@@ -1251,7 +1251,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Miután végleg szem elől tévesztettük a célt, megkettőztük az erőfeszítéseinket.</p>
+<p>1. Miután végleg szem elől tévesztettük a célt, megkettőztük az erőfeszítéseinket. - Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem wir endgültig vor den Augen das Ziel verfehlt (verloren) haben, verdoppelten wir unsere Anstrengungen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1259,31 +1259,31 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">mi után?</p>
+<p class="pc-note">mi után? - wonach?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">mi után</p>
+<p class="pc-note">mi után - wonach</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">elveszít</p>
+<p class="pc-note">elveszít - verlieren</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">téved</p>
+<p class="pc-note">téved - täuschen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">tévszt</p>
+<p class="pc-note">tévszt - verfehlen; verwechseln; sich irren (in etwas)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">erőfeszítés</p>
+<p class="pc-note">erőfeszítés - Anstrengung; Bemühung</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">szem elől téveszt</p>
+<p class="pc-note">szem elől téveszt - aus den Augen verlieren (vor den Augen verfehlen)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1291,23 +1291,23 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Amikor már teljesen elvesztettük a célt, még nagyobb lendülettel dolgoztunk tovább.</p>
+<p>1. Amikor már teljesen elvesztettük a célt, még nagyobb lendülettel dolgoztunk tovább. - Als wir das Ziel schon ganz aus den Augen verloren hatten, arbeiteten wir mit noch mit größerem Schwung weiter.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lendület</p>
+<p class="pc-note">lendület - Schwung; Anstoß; Wucht</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">svung</p>
+<p class="pc-note">svung - Schwungkraft</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lendül</p>
+<p class="pc-note">lendül - sich schwingen; geschwungen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">lendületes</p>
+<p class="pc-note">lendületes - schwungvoll; schwunghaft</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1315,35 +1315,35 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>1. Miután a cél végleg kicsúszott a látóterünkből, kétszer akkora erővel igyekeztünk. (sehr poetisch/offiziell)</p>
+<p>1. Miután a cél végleg kicsúszott a látóterünkből, kétszer akkora erővel igyekeztünk. (sehr poetisch/offiziell) - Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem das Ziel endgültig aus unserem Gesichtsfeld herausgerutscht ist, bemühten wir uns mit zweimal so großer Kraft.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">csúszik</p>
+<p class="pc-note">csúszik - rutschen; schlittern</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">kicsúszik</p>
+<p class="pc-note">kicsúszik - ausrutschen; verrutschen; entschlüpfen; herausrutschen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">látótér</p>
+<p class="pc-note">látótér - Blickfeld; Gesichtsfeld</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">igyekezik</p>
+<p class="pc-note">igyekezik - sich Mühe geben; sich bemühen; eilen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">igyekvés</p>
+<p class="pc-note">igyekvés - Bemühung; Bestreben; Emsigkeit</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">igyekvő</p>
+<p class="pc-note">igyekvő - strebsam; emsig</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p class="pc-note">stréber</p>
+<p class="pc-note">stréber - der Streber</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1469,17 +1469,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Az, hogy egy paradicsomra szükség volt, mindent elmond a teremtésről. - Dass sich ein Paradies als nötig erwies, sagt alles über die Schöpfung.</p>
+<p>1. Az, hogy egy paradicsomra szükség volt, mindent elmond a teremtésről.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Az, hogy egy paradicsomra szükség volt, mindent elmond a teremtésről.</p>
+<p>1. Az, hogy egy paradicsomra szükség volt, mindent elmond a teremtésről. - Dass sich ein Paradies als nötig erwies, sagt alles über die Schöpfung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1511,22 +1511,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Este okossá válik az ember az elmúlt napra nézve, - Am Abend wird man klug, für den vergangenen Tag,</p>
-<p>2. de sosem elég okossá ahhoz, amelyik még csak ezután jön. - doch niemals klug genug, für den, der kommen mag.</p>
+<p>1. Este okossá válik az ember az elmúlt napra nézve,</p>
+<p>2. de sosem elég okossá ahhoz, amelyik még csak ezután jön.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Este okossá válik az ember az elmúlt napra nézve,</p>
+<p>1. Este okossá válik az ember az elmúlt napra nézve, - Am Abend wird man klug, für den vergangenen Tag,</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. de sosem elég okossá ahhoz, amelyik még csak ezután jön.</p>
+<p>2. de sosem elég okossá ahhoz, amelyik még csak ezután jön. - doch niemals klug genug, für den, der kommen mag.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1562,17 +1562,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A henyélés minden bűn kezdete. - Müßiggang ist aller Laster Anfang.</p>
+<p>1. A henyélés minden bűn kezdete.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A henyélés minden bűn kezdete.</p>
+<p>1. A henyélés minden bűn kezdete. - Müßiggang ist aller Laster Anfang.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1604,17 +1604,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Vagyok, tehát gondolkodnom kellene. - Ich bin, also sollte ich denken.</p>
+<p>1. Vagyok, tehát gondolkodnom kellene.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Vagyok, tehát gondolkodnom kellene.</p>
+<p>1. Vagyok, tehát gondolkodnom kellene. - Ich bin, also sollte ich denken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1646,17 +1646,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Csak akkor ítélj meg valakit, ha végigjártad az útját! - Urteile erst über jemanden, wenn du seinen Weg gegangen bist!</p>
+<p>1. Csak akkor ítélj meg valakit, ha végigjártad az útját!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Csak akkor ítélj meg valakit, ha végigjártad az útját!</p>
+<p>1. Csak akkor ítélj meg valakit, ha végigjártad az útját! - Urteile erst über jemanden, wenn du seinen Weg gegangen bist!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1688,17 +1688,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A boldog rabszolgák a szabadság legnagyobb ellenségei. - Es sind die glücklichen Sklaven der Freiheit größter Feind.</p>
+<p>1. A boldog rabszolgák a szabadság legnagyobb ellenségei.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A boldog rabszolgák a szabadság legnagyobb ellenségei.</p>
+<p>1. A boldog rabszolgák a szabadság legnagyobb ellenségei. - Es sind die glücklichen Sklaven der Freiheit größter Feind.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1730,17 +1730,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Többet felejtettem el, mint amennyit ti valaha tudni fogtok. - Ich habe mehr vergessen, als ihr je wissen werdet.</p>
+<p>1. Többet felejtettem el, mint amennyit ti valaha tudni fogtok.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Többet felejtettem el, mint amennyit ti valaha tudni fogtok.</p>
+<p>1. Többet felejtettem el, mint amennyit ti valaha tudni fogtok. - Ich habe mehr vergessen, als ihr je wissen werdet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1772,22 +1772,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Mindennek három oldala van. - Alles hat drei Seiten.</p>
-<p>2. Egy pozitív, egy negatív és egy komikus. - Eine positive, eine negative und eine komische.</p>
+<p>1. Mindennek három oldala van.</p>
+<p>2. Egy pozitív, egy negatív és egy komikus.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Mindennek három oldala van.</p>
+<p>1. Mindennek három oldala van. - Alles hat drei Seiten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Egy pozitív, egy negatív és egy komikus.</p>
+<p>2. Egy pozitív, egy negatív és egy komikus. - Eine positive, eine negative und eine komische.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

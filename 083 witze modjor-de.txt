@@ -47,17 +47,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Az új kezdet gyakran fájdalmas végnek álcázza magát. - Der Neubeginn tarnt sich oft als schmerzhaftes Ende.</p>
+<p>1. Az új kezdet gyakran fájdalmas végnek álcázza magát.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Az új kezdet gyakran fájdalmas végnek álcázza magát.</p>
+<p>1. Az új kezdet gyakran fájdalmas végnek álcázza magát. - Der Neubeginn tarnt sich oft als schmerzhaftes Ende.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -89,22 +89,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Felirat egy lábtörlőn: „Jaj, Istenem! - Aufschrift auf einem Fußabtreter: „Oh mein Gott!</p>
-<p>2. Csak nem megint te!” - Nicht schon wieder Du!“</p>
+<p>1. Felirat egy lábtörlőn: „Jaj, Istenem!</p>
+<p>2. Csak nem megint te!”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Felirat egy lábtörlőn: „Jaj, Istenem!</p>
+<p>1. Felirat egy lábtörlőn: „Jaj, Istenem! - Aufschrift auf einem Fußabtreter: „Oh mein Gott!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Csak nem megint te!”</p>
+<p>2. Csak nem megint te!” - Nicht schon wieder Du!“</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -140,17 +140,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Aki a falnál hallgatózik, a saját szégyenét hallja. - Der Lauscher an der Wand hört seine eigene Schande.</p>
+<p>1. Aki a falnál hallgatózik, a saját szégyenét hallja.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Aki a falnál hallgatózik, a saját szégyenét hallja.</p>
+<p>1. Aki a falnál hallgatózik, a saját szégyenét hallja. - Der Lauscher an der Wand hört seine eigene Schande.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -182,22 +182,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Egy férfit tíz százalékban szeretni kell, és kilencven százalékban megérteni. - Einen Mann muss man zu 10% lieben und zu 90% verstehen.</p>
-<p>2. Egy nőt száz százalékban szeretni kell, mert megérteni úgysem lehet. - Eine Frau muss man zu 100% lieben, weil man sie nicht verstehen kann.</p>
+<p>1. Egy férfit tíz százalékban szeretni kell, és kilencven százalékban megérteni.</p>
+<p>2. Egy nőt száz százalékban szeretni kell, mert megérteni úgysem lehet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Egy férfit tíz százalékban szeretni kell, és kilencven százalékban megérteni.</p>
+<p>1. Egy férfit tíz százalékban szeretni kell, és kilencven százalékban megérteni. - Einen Mann muss man zu 10% lieben und zu 90% verstehen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Egy nőt száz százalékban szeretni kell, mert megérteni úgysem lehet.</p>
+<p>2. Egy nőt száz százalékban szeretni kell, mert megérteni úgysem lehet. - Eine Frau muss man zu 100% lieben, weil man sie nicht verstehen kann.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -233,22 +233,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A csapatmunka nagyon fontos. - Teamarbeit ist sehr wichtig.</p>
-<p>2. Így másokra lehet hárítani a felelősséget. - So kann man die Schuld auf Andere abschieben.</p>
+<p>1. A csapatmunka nagyon fontos.</p>
+<p>2. Így másokra lehet hárítani a felelősséget.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A csapatmunka nagyon fontos.</p>
+<p>1. A csapatmunka nagyon fontos. - Teamarbeit ist sehr wichtig.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Így másokra lehet hárítani a felelősséget.</p>
+<p>2. Így másokra lehet hárítani a felelősséget. - So kann man die Schuld auf Andere abschieben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -284,37 +284,37 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A jégkockás vodka árt a vesének. - Wodka mit Eis schädigt die Nieren.</p>
-<p>2. A jégkockás rum a májnak. - Rum mit Eis die Leber.</p>
-<p>3. A jégkockás gin a szívnek. - Gin mit Eis das Herz.</p>
-<p>4. A jégkockás whisky az agynak. - Whisky mit Eis das Gehirn.</p>
-<p>5. Ez az átkozott jég tényleg veszélyes. - Dieses verdammte Eis ist wirklich gefährlich.</p>
+<p>1. A jégkockás vodka árt a vesének.</p>
+<p>2. A jégkockás rum a májnak.</p>
+<p>3. A jégkockás gin a szívnek.</p>
+<p>4. A jégkockás whisky az agynak.</p>
+<p>5. Ez az átkozott jég tényleg veszélyes.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A jégkockás vodka árt a vesének.</p>
+<p>1. A jégkockás vodka árt a vesének. - Wodka mit Eis schädigt die Nieren.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A jégkockás rum a májnak.</p>
+<p>2. A jégkockás rum a májnak. - Rum mit Eis die Leber.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. A jégkockás gin a szívnek.</p>
+<p>3. A jégkockás gin a szívnek. - Gin mit Eis das Herz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. A jégkockás whisky az agynak.</p>
+<p>4. A jégkockás whisky az agynak. - Whisky mit Eis das Gehirn.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. Ez az átkozott jég tényleg veszélyes.</p>
+<p>5. Ez az átkozott jég tényleg veszélyes. - Dieses verdammte Eis ist wirklich gefährlich.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -362,17 +362,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ha egy nőnek nincs mit mondania, az nem jelenti azt, hogy hallgatni fog. - Wenn eine Frau nichts zu sagen hat heißt das nicht, dass sie schweigen wird.</p>
+<p>1. Ha egy nőnek nincs mit mondania, az nem jelenti azt, hogy hallgatni fog.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ha egy nőnek nincs mit mondania, az nem jelenti azt, hogy hallgatni fog.</p>
+<p>1. Ha egy nőnek nincs mit mondania, az nem jelenti azt, hogy hallgatni fog. - Wenn eine Frau nichts zu sagen hat heißt das nicht, dass sie schweigen wird.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -404,17 +404,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Persze hogy hétvégén is meg lehet lenni alkohol nélkül, de akkor hogyan választjuk el az egyik munkahetet a másiktól? - Natürlich kann man am Wochenende auch ohne Alkohol auskommen, aber wie soll man dann eine Arbeitswoche von der anderen trennen?</p>
+<p>1. Persze hogy hétvégén is meg lehet lenni alkohol nélkül, de akkor hogyan választjuk el az egyik munkahetet a másiktól?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Persze hogy hétvégén is meg lehet lenni alkohol nélkül, de akkor hogyan választjuk el az egyik munkahetet a másiktól?</p>
+<p>1. Persze hogy hétvégén is meg lehet lenni alkohol nélkül, de akkor hogyan választjuk el az egyik munkahetet a másiktól? - Natürlich kann man am Wochenende auch ohne Alkohol auskommen, aber wie soll man dann eine Arbeitswoche von der anderen trennen?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

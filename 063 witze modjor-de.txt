@@ -47,17 +47,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Az osztályvezető elment szabadságra, és az egész osztály kipihente magát. - Der Abteilungsleiter ist in den Urlaub gefahren und die ganze Abteilung hat sich erholt.</p>
+<p>1. Az osztályvezető elment szabadságra, és az egész osztály kipihente magát.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Az osztályvezető elment szabadságra, és az egész osztály kipihente magát.</p>
+<p>1. Az osztályvezető elment szabadságra, és az egész osztály kipihente magát. - Der Abteilungsleiter ist in den Urlaub gefahren und die ganze Abteilung hat sich erholt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -89,17 +89,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Az élet olyan, mint a kerékpározás: ha nehezedre esik, az azt jelenti, hogy felfelé haladsz. - Das Leben ist wie Radfahren: Wenn es dir schwer fällt, dann bedeutet das, dass es bergauf geht.</p>
+<p>1. Az élet olyan, mint a kerékpározás: ha nehezedre esik, az azt jelenti, hogy felfelé haladsz.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Az élet olyan, mint a kerékpározás: ha nehezedre esik, az azt jelenti, hogy felfelé haladsz.</p>
+<p>1. Az élet olyan, mint a kerékpározás: ha nehezedre esik, az azt jelenti, hogy felfelé haladsz. - Das Leben ist wie Radfahren: Wenn es dir schwer fällt, dann bedeutet das, dass es bergauf geht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -131,22 +131,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A csokoládé nem tesz fel neked buta kérdéseket. - Schokolade stellt dir keine dummen Fragen.</p>
-<p>2. A csokoládé egyszerűen megért téged. - Schokolade versteht dich einfach.</p>
+<p>1. A csokoládé nem tesz fel neked buta kérdéseket.</p>
+<p>2. A csokoládé egyszerűen megért téged.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A csokoládé nem tesz fel neked buta kérdéseket.</p>
+<p>1. A csokoládé nem tesz fel neked buta kérdéseket. - Schokolade stellt dir keine dummen Fragen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A csokoládé egyszerűen megért téged.</p>
+<p>2. A csokoládé egyszerűen megért téged. - Schokolade versteht dich einfach.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -182,22 +182,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A világ tele van kedves emberekkel. - Die Welt ist voller netter Menschen.</p>
-<p>2. Ha egyet sem találsz, akkor légy te az. - Wenn du keinen finden kannst dann sei einer.</p>
+<p>1. A világ tele van kedves emberekkel.</p>
+<p>2. Ha egyet sem találsz, akkor légy te az.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A világ tele van kedves emberekkel.</p>
+<p>1. A világ tele van kedves emberekkel. - Die Welt ist voller netter Menschen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Ha egyet sem találsz, akkor légy te az.</p>
+<p>2. Ha egyet sem találsz, akkor légy te az. - Wenn du keinen finden kannst dann sei einer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -233,22 +233,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Kicsinek lenni rendben van. - Klein zu sein ist in Ordnung.</p>
-<p>2. Ha leszakad az ég, a nagyok halnak meg először. - Wenn der Himmel einstürzt werden die Großen zuerst sterben.</p>
+<p>1. Kicsinek lenni rendben van.</p>
+<p>2. Ha leszakad az ég, a nagyok halnak meg először.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Kicsinek lenni rendben van.</p>
+<p>1. Kicsinek lenni rendben van. - Klein zu sein ist in Ordnung.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Ha leszakad az ég, a nagyok halnak meg először.</p>
+<p>2. Ha leszakad az ég, a nagyok halnak meg először. - Wenn der Himmel einstürzt werden die Großen zuerst sterben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -284,17 +284,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ne a többséget kövesd, hanem a helyes utat. - Folge nicht der Mehrheit, sondern dem richtigen Weg.</p>
+<p>1. Ne a többséget kövesd, hanem a helyes utat.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ne a többséget kövesd, hanem a helyes utat.</p>
+<p>1. Ne a többséget kövesd, hanem a helyes utat. - Folge nicht der Mehrheit, sondern dem richtigen Weg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -326,17 +326,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Már mindent elmondtak, amit erről el lehet mondani, csak éppen nem én. - Es ist schon alles gesagt was es dazu zu sagen gibt, aber nicht von mir.</p>
+<p>1. Már mindent elmondtak, amit erről el lehet mondani, csak éppen nem én.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Már mindent elmondtak, amit erről el lehet mondani, csak éppen nem én.</p>
+<p>1. Már mindent elmondtak, amit erről el lehet mondani, csak éppen nem én. - Es ist schon alles gesagt was es dazu zu sagen gibt, aber nicht von mir.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -368,32 +368,32 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ellenőrizd még egyszer a szavaidat, mielőtt kimondod őket: - Überprüfe nochmals deine Worte, bevor du sie aussprichst:</p>
-<p>2. igazak-e? - sind sie wahr?</p>
-<p>3. szükségesek-e? - sind sie notwendig?</p>
-<p>4. kedvesek-e? - sind sie freundlich?</p>
+<p>1. Ellenőrizd még egyszer a szavaidat, mielőtt kimondod őket:</p>
+<p>2. igazak-e?</p>
+<p>3. szükségesek-e?</p>
+<p>4. kedvesek-e?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ellenőrizd még egyszer a szavaidat, mielőtt kimondod őket:</p>
+<p>1. Ellenőrizd még egyszer a szavaidat, mielőtt kimondod őket: - Überprüfe nochmals deine Worte, bevor du sie aussprichst:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. igazak-e?</p>
+<p>2. igazak-e? - sind sie wahr?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. szükségesek-e?</p>
+<p>3. szükségesek-e? - sind sie notwendig?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. kedvesek-e?</p>
+<p>4. kedvesek-e? - sind sie freundlich?</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -437,17 +437,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Azért ragaszkodunk a múlthoz, mert nem bízunk a jövőben. - Wir hängen an der Vergangenheit weil wir der Zukunft nicht trauen.</p>
+<p>1. Azért ragaszkodunk a múlthoz, mert nem bízunk a jövőben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Azért ragaszkodunk a múlthoz, mert nem bízunk a jövőben.</p>
+<p>1. Azért ragaszkodunk a múlthoz, mert nem bízunk a jövőben. - Wir hängen an der Vergangenheit weil wir der Zukunft nicht trauen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -479,17 +479,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Imádok tökéletesen előadott hazugságot hallgatni, amikor közben ismerem az igazságot. - Ich liebe es einer vollendet vorgetragenen Lüge zu lauschen, wenn ich doch die Wahrheit kenne.</p>
+<p>1. Imádok tökéletesen előadott hazugságot hallgatni, amikor közben ismerem az igazságot.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Imádok tökéletesen előadott hazugságot hallgatni, amikor közben ismerem az igazságot.</p>
+<p>1. Imádok tökéletesen előadott hazugságot hallgatni, amikor közben ismerem az igazságot. - Ich liebe es einer vollendet vorgetragenen Lüge zu lauschen, wenn ich doch die Wahrheit kenne.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -521,17 +521,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Annyit olvastam az alkohol káros hatásairól, hogy elhatároztam: holnaptól abbahagyom az olvasást. - Ich habe so viel über die Schädlichkeit von Alkohol gelesen, dass ich beschlossen habe ab morgen das Lesen aufzugeben.</p>
+<p>1. Annyit olvastam az alkohol káros hatásairól, hogy elhatároztam: holnaptól abbahagyom az olvasást.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Annyit olvastam az alkohol káros hatásairól, hogy elhatároztam: holnaptól abbahagyom az olvasást.</p>
+<p>1. Annyit olvastam az alkohol káros hatásairól, hogy elhatároztam: holnaptól abbahagyom az olvasást. - Ich habe so viel über die Schädlichkeit von Alkohol gelesen, dass ich beschlossen habe ab morgen das Lesen aufzugeben.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -563,17 +563,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Amikor álmodom, semmilyen kívánságot nem tagadok meg magamtól, bármilyen nagy is. - Wenn ich träume, dann versage ich mir keinen noch so großen Wunsch.</p>
+<p>1. Amikor álmodom, semmilyen kívánságot nem tagadok meg magamtól, bármilyen nagy is.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Amikor álmodom, semmilyen kívánságot nem tagadok meg magamtól, bármilyen nagy is.</p>
+<p>1. Amikor álmodom, semmilyen kívánságot nem tagadok meg magamtól, bármilyen nagy is. - Wenn ich träume, dann versage ich mir keinen noch so großen Wunsch.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -605,27 +605,27 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Választhatsz, és döntened kell: - Du hast die Wahl und musst dich entscheiden:</p>
-<p>2. vagy élvezed a jóérzést, amikor degeszre eszed magad, - Entweder du geniest das Wohlgefühl wenn du dich vollfrisst</p>
-<p>3. vagy élvezed az érzést, amikor meztelenül állsz a tükör előtt, és megcsodálod a testedet. - oder du genießt das Gefühl wenn du nackt vor dem Spiegel stehst und deinen Körper im Spiegel bewunderst.</p>
+<p>1. Választhatsz, és döntened kell:</p>
+<p>2. vagy élvezed a jóérzést, amikor degeszre eszed magad,</p>
+<p>3. vagy élvezed az érzést, amikor meztelenül állsz a tükör előtt, és megcsodálod a testedet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Választhatsz, és döntened kell:</p>
+<p>1. Választhatsz, és döntened kell: - Du hast die Wahl und musst dich entscheiden:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. vagy élvezed a jóérzést, amikor degeszre eszed magad,</p>
+<p>2. vagy élvezed a jóérzést, amikor degeszre eszed magad, - Entweder du geniest das Wohlgefühl wenn du dich vollfrisst</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. vagy élvezed az érzést, amikor meztelenül állsz a tükör előtt, és megcsodálod a testedet.</p>
+<p>3. vagy élvezed az érzést, amikor meztelenül állsz a tükör előtt, és megcsodálod a testedet. - oder du genießt das Gefühl wenn du nackt vor dem Spiegel stehst und deinen Körper im Spiegel bewunderst.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -665,17 +665,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A család az, amikor a lépésekből felismered, ki jön. - Familie - das ist wenn man an den Schritten erkennt wer kommt.</p>
+<p>1. A család az, amikor a lépésekből felismered, ki jön.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A család az, amikor a lépésekből felismered, ki jön.</p>
+<p>1. A család az, amikor a lépésekből felismered, ki jön. - Familie - das ist wenn man an den Schritten erkennt wer kommt.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -709,42 +709,42 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Családi alapszabály: - Familienstatut:</p>
-<p>2. 1. Anyának igaza van. - 1. Mama hat Recht.</p>
-<p>3. 2. Bármi legyen is, anyának akkor is igaza van. - 2. Egal was ist, Mama hat trotzdem Recht.</p>
-<p>4. 3. Anya nem szid - tanácsot ad. - 3. Mama schimpft nicht - sie berät.</p>
-<p>5. 4. Anya nem idegesít - csak kiemel néhány részletet. - 4. Mama nervt nicht - sie betont nur einige Details.</p>
-<p>6. 5. Anya nem veszekszik - csak elmagyarázza a helyzetet. - 5. Mama streitet nicht - sie erklärt nur die Situation.</p>
+<p>1. Családi alapszabály:</p>
+<p>2. 1. Anyának igaza van.</p>
+<p>3. 2. Bármi legyen is, anyának akkor is igaza van.</p>
+<p>4. 3. Anya nem szid - tanácsot ad.</p>
+<p>5. 4. Anya nem idegesít - csak kiemel néhány részletet.</p>
+<p>6. 5. Anya nem veszekszik - csak elmagyarázza a helyzetet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Családi alapszabály:</p>
+<p>1. Családi alapszabály: - Familienstatut:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. 1. Anyának igaza van.</p>
+<p>2. 1. Anyának igaza van. - 1. Mama hat Recht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. 2. Bármi legyen is, anyának akkor is igaza van.</p>
+<p>3. 2. Bármi legyen is, anyának akkor is igaza van. - 2. Egal was ist, Mama hat trotzdem Recht.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. 3. Anya nem szid - tanácsot ad.</p>
+<p>4. 3. Anya nem szid - tanácsot ad. - 3. Mama schimpft nicht - sie berät.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>5. 4. Anya nem idegesít - csak kiemel néhány részletet.</p>
+<p>5. 4. Anya nem idegesít - csak kiemel néhány részletet. - 4. Mama nervt nicht - sie betont nur einige Details.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>6. 5. Anya nem veszekszik - csak elmagyarázza a helyzetet.</p>
+<p>6. 5. Anya nem veszekszik - csak elmagyarázza a helyzetet. - 5. Mama streitet nicht - sie erklärt nur die Situation.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -796,17 +796,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Nincs nehezebb annál, mint könnyebbé válni. - Es gibt nicht schwereres als leichter zu werde.</p>
+<p>1. Nincs nehezebb annál, mint könnyebbé válni.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Nincs nehezebb annál, mint könnyebbé válni.</p>
+<p>1. Nincs nehezebb annál, mint könnyebbé válni. - Es gibt nicht schwereres als leichter zu werde.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -838,22 +838,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Úgy élj, mintha holnap meghalnál. - Lebe so als ob du morgen sterben wirst.</p>
-<p>2. Úgy tanulj, mintha örökké élnél. - Lerne so als ob du ewig leben wirst.</p>
+<p>1. Úgy élj, mintha holnap meghalnál.</p>
+<p>2. Úgy tanulj, mintha örökké élnél.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Úgy élj, mintha holnap meghalnál.</p>
+<p>1. Úgy élj, mintha holnap meghalnál. - Lebe so als ob du morgen sterben wirst.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Úgy tanulj, mintha örökké élnél.</p>
+<p>2. Úgy tanulj, mintha örökké élnél. - Lerne so als ob du ewig leben wirst.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -889,22 +889,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Az életkorát könnyen eltitkolhatja az ember. - Sein Alter kann man einfach verbergen.</p>
-<p>2. A súlyát már nem annyira könnyen. - Sein Gewicht nicht ganz so einfach.</p>
+<p>1. Az életkorát könnyen eltitkolhatja az ember.</p>
+<p>2. A súlyát már nem annyira könnyen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Az életkorát könnyen eltitkolhatja az ember.</p>
+<p>1. Az életkorát könnyen eltitkolhatja az ember. - Sein Alter kann man einfach verbergen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A súlyát már nem annyira könnyen.</p>
+<p>2. A súlyát már nem annyira könnyen. - Sein Gewicht nicht ganz so einfach.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -940,32 +940,32 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A nő mindig igazat mond. - Die Frau sagt immer die Wahrheit.</p>
-<p>2. De nem azonnal. - Aber nicht sofort.</p>
-<p>3. És nem az egészet. - Und nicht die ganze.</p>
-<p>4. És nem is mindenkinek. - Und auch nicht allen.</p>
+<p>1. A nő mindig igazat mond.</p>
+<p>2. De nem azonnal.</p>
+<p>3. És nem az egészet.</p>
+<p>4. És nem is mindenkinek.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A nő mindig igazat mond.</p>
+<p>1. A nő mindig igazat mond. - Die Frau sagt immer die Wahrheit.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. De nem azonnal.</p>
+<p>2. De nem azonnal. - Aber nicht sofort.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. És nem az egészet.</p>
+<p>3. És nem az egészet. - Und nicht die ganze.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. És nem is mindenkinek.</p>
+<p>4. És nem is mindenkinek. - Und auch nicht allen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1009,32 +1009,32 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Három dolgot kell titokban tartani: - Drei Dinge muss man geheim halten:</p>
-<p>2. a kapcsolatainkat, - seine Beziehungen</p>
-<p>3. a jövedelmünket - sein Einkommen</p>
-<p>4. és a következő lépéseinket. - und seine nächsten Schritte</p>
+<p>1. Három dolgot kell titokban tartani:</p>
+<p>2. a kapcsolatainkat,</p>
+<p>3. a jövedelmünket</p>
+<p>4. és a következő lépéseinket.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Három dolgot kell titokban tartani:</p>
+<p>1. Három dolgot kell titokban tartani: - Drei Dinge muss man geheim halten:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. a kapcsolatainkat,</p>
+<p>2. a kapcsolatainkat, - seine Beziehungen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. a jövedelmünket</p>
+<p>3. a jövedelmünket - sein Einkommen</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>4. és a következő lépéseinket.</p>
+<p>4. és a következő lépéseinket. - und seine nächsten Schritte</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1078,22 +1078,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Csodálom a kolléganőmet. - Ich bewundere meine Kollegin.</p>
-<p>2. Már negyedszer férjnél van, és még mindig ugyanaz a szeretője. - Sie ist nun schon zum vierten mal verheiratet und hat immer noch den gleichen Liebhaber.</p>
+<p>1. Csodálom a kolléganőmet.</p>
+<p>2. Már negyedszer férjnél van, és még mindig ugyanaz a szeretője.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Csodálom a kolléganőmet.</p>
+<p>1. Csodálom a kolléganőmet. - Ich bewundere meine Kollegin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Már negyedszer férjnél van, és még mindig ugyanaz a szeretője.</p>
+<p>2. Már negyedszer férjnél van, és még mindig ugyanaz a szeretője. - Sie ist nun schon zum vierten mal verheiratet und hat immer noch den gleichen Liebhaber.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1129,17 +1129,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ahhoz, hogy ne veszítsünk el valamit, meg kell becsülnünk. - Um etwas nicht zu verlieren muss man es schätzen.</p>
+<p>1. Ahhoz, hogy ne veszítsünk el valamit, meg kell becsülnünk.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ahhoz, hogy ne veszítsünk el valamit, meg kell becsülnünk.</p>
+<p>1. Ahhoz, hogy ne veszítsünk el valamit, meg kell becsülnünk. - Um etwas nicht zu verlieren muss man es schätzen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1171,22 +1171,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Nem mehetsz vissza, hogy megváltoztasd a kezdetet. - Du kannst nicht zurückgehen und den Anfang ändern.</p>
-<p>2. De elkezdheted ott, ahol vagy, és megváltoztathatod a véget. - Aber du kannst dort wo du bist beginnen und das Ende ändern.</p>
+<p>1. Nem mehetsz vissza, hogy megváltoztasd a kezdetet.</p>
+<p>2. De elkezdheted ott, ahol vagy, és megváltoztathatod a véget.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Nem mehetsz vissza, hogy megváltoztasd a kezdetet.</p>
+<p>1. Nem mehetsz vissza, hogy megváltoztasd a kezdetet. - Du kannst nicht zurückgehen und den Anfang ändern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. De elkezdheted ott, ahol vagy, és megváltoztathatod a véget.</p>
+<p>2. De elkezdheted ott, ahol vagy, és megváltoztathatod a véget. - Aber du kannst dort wo du bist beginnen und das Ende ändern.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1222,17 +1222,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Minél jobban megismerem az embereket, annál jobban tetszenek a kutyák. - Je besser ich die Menschen kenne, um so mehr gefallen mir die Hunde.</p>
+<p>1. Minél jobban megismerem az embereket, annál jobban tetszenek a kutyák.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Minél jobban megismerem az embereket, annál jobban tetszenek a kutyák.</p>
+<p>1. Minél jobban megismerem az embereket, annál jobban tetszenek a kutyák. - Je besser ich die Menschen kenne, um so mehr gefallen mir die Hunde.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1264,17 +1264,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ha te vagy a legokosabb ember a szobában, akkor rossz szobában vagy. - Wenn Du die klügste Person im Raum bist, dann bist Du im falschen Raum.</p>
+<p>1. Ha te vagy a legokosabb ember a szobában, akkor rossz szobában vagy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ha te vagy a legokosabb ember a szobában, akkor rossz szobában vagy.</p>
+<p>1. Ha te vagy a legokosabb ember a szobában, akkor rossz szobában vagy. - Wenn Du die klügste Person im Raum bist, dann bist Du im falschen Raum.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1306,17 +1306,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ne higgy el mindent, amit gondolsz! - Glaube nicht alles was Du denkst!</p>
+<p>1. Ne higgy el mindent, amit gondolsz!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ne higgy el mindent, amit gondolsz!</p>
+<p>1. Ne higgy el mindent, amit gondolsz! - Glaube nicht alles was Du denkst!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1348,27 +1348,27 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Két ok, amiért kövér vagyok: - Zwei Gründe warum ich dick bin:</p>
-<p>2. 1. Eszem, amikor unatkozom. - 1.) Ich esse wenn ich mich langweile.</p>
-<p>3. 2. Mindig unatkozom. - 2.) Ich langweile mich immer.</p>
+<p>1. Két ok, amiért kövér vagyok:</p>
+<p>2. 1. Eszem, amikor unatkozom.</p>
+<p>3. 2. Mindig unatkozom.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Két ok, amiért kövér vagyok:</p>
+<p>1. Két ok, amiért kövér vagyok: - Zwei Gründe warum ich dick bin:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. 1. Eszem, amikor unatkozom.</p>
+<p>2. 1. Eszem, amikor unatkozom. - 1.) Ich esse wenn ich mich langweile.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. 2. Mindig unatkozom.</p>
+<p>3. 2. Mindig unatkozom. - 2.) Ich langweile mich immer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1408,22 +1408,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A gyerekeid olyanok lesznek, amilyen te vagy. - Deine Kinder werden so werden wie Du bist.</p>
-<p>2. Tehát olyan légy, amilyennek őket szeretnéd. - Also sei so wie Du sie haben möchtest.</p>
+<p>1. A gyerekeid olyanok lesznek, amilyen te vagy.</p>
+<p>2. Tehát olyan légy, amilyennek őket szeretnéd.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A gyerekeid olyanok lesznek, amilyen te vagy.</p>
+<p>1. A gyerekeid olyanok lesznek, amilyen te vagy. - Deine Kinder werden so werden wie Du bist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Tehát olyan légy, amilyennek őket szeretnéd.</p>
+<p>2. Tehát olyan légy, amilyennek őket szeretnéd. - Also sei so wie Du sie haben möchtest.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1459,22 +1459,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Mosolyogj ma! - Lächle heute!</p>
-<p>2. Sírj holnap! (Olvasd ezt minden nap!) - Weine morgen! (Lies das jeden Tag!)</p>
+<p>1. Mosolyogj ma!</p>
+<p>2. Sírj holnap! (Olvasd ezt minden nap!)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Mosolyogj ma!</p>
+<p>1. Mosolyogj ma! - Lächle heute!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. Sírj holnap! (Olvasd ezt minden nap!)</p>
+<p>2. Sírj holnap! (Olvasd ezt minden nap!) - Weine morgen! (Lies das jeden Tag!)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1510,17 +1510,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ha nem találsz utat, akkor teremts egyet. - Wenn Du keinen Weg finden kannst, dann erschaffe einen.</p>
+<p>1. Ha nem találsz utat, akkor teremts egyet.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ha nem találsz utat, akkor teremts egyet.</p>
+<p>1. Ha nem találsz utat, akkor teremts egyet. - Wenn Du keinen Weg finden kannst, dann erschaffe einen.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1552,27 +1552,27 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Csak két dolog tudja megváltoztatni egy nő hangulatát: - Nur zwei Dinge können die Stimmung einer Frau ändern:</p>
-<p>2. 1. Szeretlek! - 1.) Ich liebe Dich!</p>
-<p>3. 2. Ötven százalék árengedmény. - 2.) 50 % Preisreduzierung</p>
+<p>1. Csak két dolog tudja megváltoztatni egy nő hangulatát:</p>
+<p>2. 1. Szeretlek!</p>
+<p>3. 2. Ötven százalék árengedmény.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Csak két dolog tudja megváltoztatni egy nő hangulatát:</p>
+<p>1. Csak két dolog tudja megváltoztatni egy nő hangulatát: - Nur zwei Dinge können die Stimmung einer Frau ändern:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. 1. Szeretlek!</p>
+<p>2. 1. Szeretlek! - 1.) Ich liebe Dich!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>3. 2. Ötven százalék árengedmény.</p>
+<p>3. 2. Ötven százalék árengedmény. - 2.) 50 % Preisreduzierung</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1612,22 +1612,22 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A győztesek a győzelemre összpontosítanak. - Gewinner konzentrieren sich auf den Sieg.</p>
-<p>2. A vesztesek a győztesre. - Verlierer auf den Gewinner.</p>
+<p>1. A győztesek a győzelemre összpontosítanak.</p>
+<p>2. A vesztesek a győztesre.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A győztesek a győzelemre összpontosítanak.</p>
+<p>1. A győztesek a győzelemre összpontosítanak. - Gewinner konzentrieren sich auf den Sieg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2. A vesztesek a győztesre.</p>
+<p>2. A vesztesek a győztesre. - Verlierer auf den Gewinner.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1663,17 +1663,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Semmi sem öl meg annyira, mint a saját gondolataid. - Nichts bringt Dich so sehr um wie Deine Gedanken.</p>
+<p>1. Semmi sem öl meg annyira, mint a saját gondolataid.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Semmi sem öl meg annyira, mint a saját gondolataid.</p>
+<p>1. Semmi sem öl meg annyira, mint a saját gondolataid. - Nichts bringt Dich so sehr um wie Deine Gedanken.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1705,17 +1705,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Az igazi bölcsességet csak akkor érjük el, ha megértettük, milyen keveset értünk az életből, magunkból és a körülöttünk lévő világból. (Szókratész) - Wahre Weisheit erlangen wir erst, wenn wir begriffen haben wie wenig wir verstehen über das Leben, uns selber und die Welt um uns herum. (Sokrates)</p>
+<p>1. Az igazi bölcsességet csak akkor érjük el, ha megértettük, milyen keveset értünk az életből, magunkból és a körülöttünk lévő világból. (Szókratész)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Az igazi bölcsességet csak akkor érjük el, ha megértettük, milyen keveset értünk az életből, magunkból és a körülöttünk lévő világból. (Szókratész)</p>
+<p>1. Az igazi bölcsességet csak akkor érjük el, ha megértettük, milyen keveset értünk az életből, magunkból és a körülöttünk lévő világból. (Szókratész) - Wahre Weisheit erlangen wir erst, wenn wir begriffen haben wie wenig wir verstehen über das Leben, uns selber und die Welt um uns herum. (Sokrates)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1747,17 +1747,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Egy pillanatnyi türelem a harag pillanatában száz pillanatnyi megbánást takarít meg. - Ein Moment Geduld in einem Moment des Ärgers spart die Hundert Momente des Bedauerns.</p>
+<p>1. Egy pillanatnyi türelem a harag pillanatában száz pillanatnyi megbánást takarít meg.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Egy pillanatnyi türelem a harag pillanatában száz pillanatnyi megbánást takarít meg.</p>
+<p>1. Egy pillanatnyi türelem a harag pillanatában száz pillanatnyi megbánást takarít meg. - Ein Moment Geduld in einem Moment des Ärgers spart die Hundert Momente des Bedauerns.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1789,17 +1789,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A szép élet szép gondolatokkal kezdődik. - Ein schönes Leben fängt mit schönen Gedanken an.</p>
+<p>1. A szép élet szép gondolatokkal kezdődik.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A szép élet szép gondolatokkal kezdődik.</p>
+<p>1. A szép élet szép gondolatokkal kezdődik. - Ein schönes Leben fängt mit schönen Gedanken an.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1831,17 +1831,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Többször javítom ki az automatikus javítást, mint ahányszor az javít ki engem. - Ich korrigiere die Autokorrektur mehr, als die Autokorrektur mich korrigiert.</p>
+<p>1. Többször javítom ki az automatikus javítást, mint ahányszor az javít ki engem.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Többször javítom ki az automatikus javítást, mint ahányszor az javít ki engem.</p>
+<p>1. Többször javítom ki az automatikus javítást, mint ahányszor az javít ki engem. - Ich korrigiere die Autokorrektur mehr, als die Autokorrektur mich korrigiert.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1873,17 +1873,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ahogy a szomszédasszonyom olyan szépen mondja: csak a lusták házasodnak egyszer. - Wie sagt meine Nachbarin so schön: Nur die Faulen heiraten nur einmal.</p>
+<p>1. Ahogy a szomszédasszonyom olyan szépen mondja: csak a lusták házasodnak egyszer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. Ahogy a szomszédasszonyom olyan szépen mondja: csak a lusták házasodnak egyszer.</p>
+<p>1. Ahogy a szomszédasszonyom olyan szépen mondja: csak a lusták házasodnak egyszer. - Wie sagt meine Nachbarin so schön: Nur die Faulen heiraten nur einmal.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -1915,17 +1915,17 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. A siker az, amikor kilencszer estél el, de tízszer álltál fel. - Erfolg ist - wenn du neun mal hingefallen bist, aber zehn mal aufgestanden bist.</p>
+<p>1. A siker az, amikor kilencszer estél el, de tízszer álltál fel.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
 <details class="pc-collapsible">
-  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar - német</span></summary>
   <div class="pc-collapsible-body">
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
-<p>1. A siker az, amikor kilencszer estél el, de tízszer álltál fel.</p>
+<p>1. A siker az, amikor kilencszer estél el, de tízszer álltál fel. - Erfolg ist - wenn du neun mal hingefallen bist, aber zehn mal aufgestanden bist.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
