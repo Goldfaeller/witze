@@ -1,2 +1,4 @@
 hochladen.bat
 *.env
+__pycache__/
+*.pyc
