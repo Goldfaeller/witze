@@ -1,0 +1,1946 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/6-witze/">« Zurück zu Witze 6</a> &nbsp;|&nbsp; <span>Witze 7</span> &nbsp;|&nbsp; <a href="/8-witze/">Weiter zu Witze 8 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 7</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő hűtlenséggel gyanúsítja a barátját, és rajtakapja otthon az ágyban egy másik nővel. - Eine Blondine verdächtigt ihren Freund der Untreue und überrascht ihn zu Hause im Bett mit einer anderen.</p>
+<p>2. Pisztolyt ránt, és le akarja lőni, de hirtelen elönti a szomorúság, és a fegyvert a saját fejéhez emeli. - Sie zieht eine Pistole und will ihn erschießen, doch plötzlich überwältigt sie die Traurigkeit und sie hält (hebt) sich die Waffe an den eigenen Kopf.</p>
+<p>3. A barát még kiált: „Ne tedd!” - Ihr Freund ruft noch: „Tu es nicht!“</p>
+<p>4. Ő pedig válaszol: „Fogd be, te következel!” - Und sie antwortet: „Halt’s Maul, du bist als Nächster dran.“ (du folgst; du bist der Nächste)</p>
+<p class="pc-note">hű - treu, loyal, ergeben</p>
+<p class="pc-note">hűtlen - untreu</p>
+<p class="pc-note">hűtlenség - Untreu</p>
+<p class="pc-note">hűség - Treue</p>
+<p class="pc-note">hűbéres - Vasall, Lehensmann</p>
+<p class="pc-note">hűbérbirtok - Lehensgut</p>
+<p class="pc-note">hűbéri rendszer = feudalizmus - Feudalsystem, Lehenswesen</p>
+<p class="pc-note">gyanúsít - verdächtigen</p>
+<p class="pc-note">gyanús - verdächtigen; der Verdächtige</p>
+<p class="pc-note">gyanúsan viselkedik - er benimmt sich verdächtig</p>
+<p class="pc-note">gyanú - Verdacht, Mutmaßung</p>
+<p class="pc-note">gyanúsít vmival - (mit) etwas verdächtigen</p>
+<p class="pc-note">kap - fassen, kriegen, erwischen</p>
+<p class="pc-note">rajtakap - jemanden bei etwas erwischen; jemanden auf frischer Tat ertappen; („bei etwas draufkriegen“.)</p>
+<p class="pc-note">rajtakap valakit - jemanden erwischen</p>
+<p class="pc-note">rajtakapja a tolvajt - er erwischt den Dieb</p>
+<p class="pc-note">rajtakapta lopáson - er hat ihn beim Stehlen erwischt</p>
+<p class="pc-note">rajtakapják hazugságon - sie ertappen ihn beim Lügen</p>
+<p class="pc-note">rajtakapták csaláson - sie haben ihn beim Betrügen ertappt</p>
+<p class="pc-note">rajtakapják munka közben - sie erwischen ihn während der Arbeit</p>
+<p class="pc-note">rajtakapta a gyereket - er hat das Kind ertappt</p>
+<p class="pc-note">kiránt = előránt - zücken</p>
+<p class="pc-note">(ki)ránt egy pisztolyt - eine Pistole zücken</p>
+<p class="pc-note">rántott csirke - Backhähnchen</p>
+<p class="pc-note">rántotta - Rührei</p>
+<p class="pc-note">le akar lőni (akar lelőni) - er/sie erschießen (will niederschießen)</p>
+<p class="pc-note">eingeschobenes Hilfsverb (akar - will; tud - kann; fog - wird; kell - muss; szabad - darf, lehet - kann; usw. ) - dafür wird die Verb-Vorsilbe (igekötő: be-; ki-; le-; fel-; meg-; el-; át-; rá-; ide-; oda-; szét-; össze-; vissza-; usw.) abgetrennt und vor das Modalwort geschrieben. Das Modalverb steht also zwischen Vorsilbe und Verbstamm.</p>
+<p class="pc-note">önt - gießen (Flüssigkeit), schütten (z. B. Mehl, Zucker)</p>
+<p class="pc-note">elönt - überschwemmen (Fluss)</p>
+<p class="pc-note">elönti őt a szomorúság - Traurigkeit überkam ihn/sie</p>
+<p class="pc-note">elönti őt a boldogság - Freude überkam ihn/sie</p>
+<p class="pc-note">elönti őt a büszkeség - Stolz überkam ihn/sie</p>
+<p class="pc-note">elönti őt a szeretet - Liebe überkam ihn/sie</p>
+<p class="pc-note">elönti a falut a víz - Das Wasser überschwemmt das Dorf.</p>
+<p class="pc-note">elönti az utcát az esővíz - Das Regenwasser überschwemmt die Straße.</p>
+<p class="pc-note">elöntötte a pincét a víz - Das Wasser hat den Keller überflutet.</p>
+<p class="pc-note">a folyó elöntötte a mezőket - Der Fluss überschwemmte die Felder.</p>
+<p class="pc-note">elönti őt a félelem - Angst überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a düh - Wut überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a harag - Zorn überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a szégyen - Scham überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a hála - Dankbarkeit überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a megkönnyebbülés - Erleichterung überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a nyugalom - Ruhe durchströmt ihn/sie.</p>
+<p class="pc-note">elönti őt a melegség - Wärme durchströmt ihn/sie.</p>
+<p class="pc-note">elönti őt az öröm - Freude überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a bánat - Kummer überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a kétségbeesés - Verzweiflung überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a remény - Hoffnung erfüllt ihn/sie.</p>
+<p class="pc-note">elönti őt az irigység - Neid überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a gyűlölet - Hass überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt a nosztalgia - Nostalgie überkommt ihn/sie.</p>
+<p class="pc-note">elönti őt az emlékek áradata - Eine Flut von Erinnerungen überkommt ihn/sie.</p>
+<p class="pc-note">arcát elönti a pír - Röte überzieht sein/ihr Gesicht.</p>
+<p class="pc-note">a szemét elöntik a könnyek - Tränen füllen seine/ihre Augen.</p>
+<p class="pc-note">a szívét elönti a boldogság - Glück erfüllt sein/ihr Herz.</p>
+<p class="pc-note">a lelkét elönti a béke - Frieden erfüllt seine/ihre Seele.</p>
+<p class="pc-note">tesz - tun, machen; legen, stellen, setzen (englisch: put)</p>
+<p>5. Ne tedd! - Mach es nicht!</p>
+<p class="pc-note">befogját a száját - seinen Mund halten</p>
+<p class="pc-note">száj [~at, ~a, ~ak] - Mund</p>
+<p class="pc-note">(NICHT: a szájad), sondern verkürzt: a szádat - dein Mund</p>
+<p class="pc-note">Fogd be! (= Fogd be a szádat) - Halte deinen Mund!</p>
+<p class="pc-note">(NICHT: a szájam); a szám - mein Mund (a szám  die Zahl)</p>
+<p class="pc-note">(NICHT: a szájam); a szád - dein Mund</p>
+<p class="pc-note">a szjája - sein Mund</p>
+<p>6. .a mi szánk - unsere Münder (T/1)</p>
+<p class="pc-note">a ti szátok - eure Münder  (T/2)</p>
+<p class="pc-note">az ő szájuk - ihre Münder (T/3)</p>
+<p class="pc-note">Fogjátok be! (= Fogátok be a szátokat) - Halte eure Münder! (T/2) - Seid still! - eigentlich sehr grob, entspricht eher dem deutschen: Schnauze! Fresse halten!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő hűtlenséggel gyanúsítja a barátját, és rajtakapja otthon az ágyban egy másik nővel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Pisztolyt ránt, és le akarja lőni, de hirtelen elönti a szomorúság, és a fegyvert a saját fejéhez emeli.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A barát még kiált: „Ne tedd!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Ő pedig válaszol: „Fogd be, te következel!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hű</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hűtlen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hűtlenség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hűség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hűbéres</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hűbérbirtok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hűbéri rendszer = feudalizmus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gyanúsít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gyanús</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gyanúsan viselkedik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gyanú</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gyanúsít vmival</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kap</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakap</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakap valakit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakapja a tolvajt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakapta lopáson</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakapják hazugságon</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakapták csaláson</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakapják munka közben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakapta a gyereket</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kiránt = előránt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(ki)ránt egy pisztolyt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rántott csirke</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rántotta</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">le akar lőni (akar lelőni)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eingeschobenes Hilfsverb (akar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">önt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a szomorúság</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a boldogság</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a büszkeség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a szeretet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti a falut a víz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti az utcát az esővíz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elöntötte a pincét a víz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a folyó elöntötte a mezőket</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a félelem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a düh</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a harag</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a szégyen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a hála</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a megkönnyebbülés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a nyugalom</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a melegség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt az öröm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a bánat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a kétségbeesés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a remény</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt az irigység</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a gyűlölet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt a nosztalgia</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elönti őt az emlékek áradata</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">arcát elönti a pír</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a szemét elöntik a könnyek</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a szívét elönti a boldogság</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a lelkét elönti a béke</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Ne tedd!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">befogját a száját</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">száj [~at, ~a, ~ak]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(NICHT: a szájad), sondern verkürzt: a szádat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Fogd be! (= Fogd be a szádat)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(NICHT: a szájam); a szám</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(NICHT: a szájam); a szád</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a szjája</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. .a mi szánk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a ti szátok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">az ő szájuk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Fogjátok be! (= Fogátok be a szátokat)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine verdächtigt ihren Freund der Untreue und überrascht ihn zu Hause im Bett mit einer anderen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sie zieht eine Pistole und will ihn erschießen, doch plötzlich überwältigt sie die Traurigkeit und sie hält (hebt) sich die Waffe an den eigenen Kopf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ihr Freund ruft noch: „Tu es nicht!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Und sie antwortet: „Halt’s Maul, du bist als Nächster dran.“ (du folgst; du bist der Nächste)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">treu, loyal, ergeben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">untreu</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Untreu</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Treue</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Vasall, Lehensmann</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Lehensgut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Feudalsystem, Lehenswesen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verdächtigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verdächtigen; der Verdächtige</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er benimmt sich verdächtig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Verdacht, Mutmaßung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(mit) etwas verdächtigen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fassen, kriegen, erwischen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemanden bei etwas erwischen; jemanden auf frischer Tat ertappen; („bei etwas draufkriegen“.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jemanden erwischen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er erwischt den Dieb</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er hat ihn beim Stehlen erwischt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie ertappen ihn beim Lügen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie haben ihn beim Betrügen ertappt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie erwischen ihn während der Arbeit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er hat das Kind ertappt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zücken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eine Pistole zücken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Backhähnchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Rührei</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er/sie erschießen (will niederschießen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">will; tud - kann; fog - wird; kell - muss; szabad - darf, lehet - kann; usw. ) - dafür wird die Verb-Vorsilbe (igekötő: be-; ki-; le-; fel-; meg-; el-; át-; rá-; ide-; oda-; szét-; össze-; vissza-; usw.) abgetrennt und vor das Modalwort geschrieben. Das Modalverb steht also zwischen Vorsilbe und Verbstamm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gießen (Flüssigkeit), schütten (z. B. Mehl, Zucker)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">überschwemmen (Fluss)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Traurigkeit überkam ihn/sie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Freude überkam ihn/sie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Stolz überkam ihn/sie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Liebe überkam ihn/sie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das Wasser überschwemmt das Dorf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das Regenwasser überschwemmt die Straße.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Das Wasser hat den Keller überflutet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Der Fluss überschwemmte die Felder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Angst überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wut überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Zorn überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Scham überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Dankbarkeit überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Erleichterung überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ruhe durchströmt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wärme durchströmt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Freude überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kummer überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Verzweiflung überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Hoffnung erfüllt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Neid überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Hass überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nostalgie überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Eine Flut von Erinnerungen überkommt ihn/sie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Röte überzieht sein/ihr Gesicht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Tränen füllen seine/ihre Augen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Glück erfüllt sein/ihr Herz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Frieden erfüllt seine/ihre Seele.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tun, machen; legen, stellen, setzen (englisch: put)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Mach es nicht!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">seinen Mund halten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Mund</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dein Mund</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Halte deinen Mund!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mein Mund (a szám  die Zahl)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dein Mund</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sein Mund</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. unsere Münder (T/1)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eure Münder  (T/2)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ihre Münder (T/3)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Halte eure Münder! (T/2) - Seid still! - eigentlich sehr grob, entspricht eher dem deutschen: Schnauze! Fresse halten!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő gyanút fog, és hazaérve az ágyban találja a párját egy idegennel. - Eine Blondine schöpft Verdacht und erwischt ihren Freund (ihren Partner) zu Hause im Bett mit einer anderen Frau (mit einer/einem Fremden). (nach Hause ankommend; nach Hause gekommen)</p>
+<p>2. Előránt egy fegyvert, de a dühe hirtelen bánatba fordul, és magára szegezi a pisztolyt. - Sie zieht (zückt) eine Waffe, doch ihre Wut schlägt in Traurigkeit um, und sie richtet die Pistole auf sich selbst.</p>
+<p>3. A férfi rémülten kiabál: „Ne csináld!” - Der Mann ruft entsetzt: „Tu es nicht!“</p>
+<p>4. A nő higgadtan felel: „Csend, te vagy a következő.” - Sie antwortet ruhig: „Ruhe, du bist der Nächste.“</p>
+<p class="pc-note">düh - Wur</p>
+<p class="pc-note">dühös - wütend</p>
+<p class="pc-note">veszettség - die Tollwut</p>
+<p class="pc-note">veszett - tollwütig</p>
+<p class="pc-note">vesz - nehmen, kaufen</p>
+<p class="pc-note">fordul - wenden, sich wenden, umkehren, abbiegen</p>
+<p class="pc-note">szegez - richten</p>
+<p class="pc-note">a fegyvert vkire szegezi - Die Waffe auf jemanden richten</p>
+<p class="pc-note">a fegyvert vkire rászegezi - Die Waffe auf jemanden richten</p>
+<p class="pc-note">rém - Schrecken, schrecklich</p>
+<p class="pc-note">rémes - schrecklich</p>
+<p class="pc-note">rémült - entsetzt, bestürzt</p>
+<p>5. higgadt - seelenruhig, gelassen</p>
+<p class="pc-note">higgadtság - Gelassenheit, Gleichmut</p>
+<p class="pc-note">csendes - still</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő gyanút fog, és hazaérve az ágyban találja a párját egy idegennel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Előránt egy fegyvert, de a dühe hirtelen bánatba fordul, és magára szegezi a pisztolyt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A férfi rémülten kiabál: „Ne csináld!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A nő higgadtan felel: „Csend, te vagy a következő.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">düh</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">dühös</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">veszettség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">veszett</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fordul</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szegez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a fegyvert vkire szegezi</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a fegyvert vkire rászegezi</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rém</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rémes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rémült</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. higgadt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">higgadtság</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csendes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine schöpft Verdacht und erwischt ihren Freund (ihren Partner) zu Hause im Bett mit einer anderen Frau (mit einer/einem Fremden). (nach Hause ankommend; nach Hause gekommen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sie zieht (zückt) eine Waffe, doch ihre Wut schlägt in Traurigkeit um, und sie richtet die Pistole auf sich selbst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Der Mann ruft entsetzt: „Tu es nicht!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Sie antwortet ruhig: „Ruhe, du bist der Nächste.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wur</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wütend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Tollwut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tollwütig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nehmen, kaufen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wenden, sich wenden, umkehren, abbiegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">richten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Die Waffe auf jemanden richten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Die Waffe auf jemanden richten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schrecken, schrecklich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schrecklich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">entsetzt, bestürzt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. seelenruhig, gelassen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Gelassenheit, Gleichmut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">still</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő rajtakapja a barátját, amint egy másik nővel fekszik az ágyban. - Eine blonde Frau erwischt ihren Freund, wie er mit einer anderen Frau im Bett liegt. Fegyvert vesz elő, hogy lelője, de eluralkodik rajta a kétségbeesés, és a fegyvert a saját fejéhez tartja. – Sie zieht eine Waffe, um ihn zu erschießen, doch Verzweiflung überkommt sie und sie hält die Waffe an ihren eigenen Kopf.</p>
+<p>2. A férfi kétségbeesve könyörög: „Ne tedd meg!” - Der Freund fleht verzweifelt: „Tu es nicht!“</p>
+<p>3. A válasz rövid: „Hallgass! Rád kerül a sor.” - Die Antwort ist knapp (kurz): „Halt den Mund! (Schweig!) Du bist gleich dran.“ (an dich kommt die Reihe)</p>
+<p class="pc-note">rajtakap - ertappen, erwischen, überraschen</p>
+<p class="pc-note">amint - als; wie; dabei wie</p>
+<p class="pc-note">amint = éppen - gerade eben; just</p>
+<p class="pc-note">amint lehet - so bald als möglich</p>
+<p class="pc-note">mint azelőtt - wie vorher</p>
+<p class="pc-note">lő - schießen</p>
+<p class="pc-note">lelő - niederschießen, erschießen</p>
+<p class="pc-note">lelője = lelője [lelőjje] őt (határozott) - ihn niederschießen, ihn erschießen</p>
+<p class="pc-note">úr - Herr</p>
+<p class="pc-note">uralom - Herrschaft</p>
+<p class="pc-note">uralkodó - der Herrscher</p>
+<p class="pc-note">uralkodik - beherrschen</p>
+<p class="pc-note">Urál (hegység) - der Ural (Gebirge)</p>
+<p class="pc-note">eluralkodik rajta a félelem - die Angst überkommt ihn</p>
+<p class="pc-note">eluralkodik rajta a kétségbeesés [kéccségbeesés] - der Zweifel befällt ihn</p>
+<p class="pc-note">kétség - der Zweifel</p>
+<p class="pc-note">kételkedik (vmiben, vkiben) - zweifeln (an etwas, an jemandem)</p>
+<p class="pc-note">kétséges - zweifelhaft</p>
+<p class="pc-note">kétértelmű - zweideutig</p>
+<p class="pc-note">könyörög - flehen, anbetteln, beschwören</p>
+<p class="pc-note">könyörögve - flehend  („-va/-ve“ -  határozói igenév - Adverbialpartizip - eine Handlung, die gleichzeitig stattfindet)</p>
+<p class="pc-note">könyörgés - das Flehen, das Betteln</p>
+<p class="pc-note">segítségért könyörgő - hilfeflehend</p>
+<p class="pc-note">könny - die Träne</p>
+<p class="pc-note">könnyezik - tränen; (etwas) weinen</p>
+<p class="pc-note">sír - weinen; das Grab</p>
+<p class="pc-note">hall - hören (englisch: to hear; russisch: слышать )</p>
+<p class="pc-note">hallgat - zuhören (englisch: to listen; russich: слушать)</p>
+<p class="pc-note">Hallgass! (hallgat-j) - Hör zu! = Ruhe! = Schweig!  (Lautassimilation: “t-j” wird zu “ss”)</p>
+<p class="pc-note">kussol - kuschen</p>
+<p class="pc-note">csók - der Kuss</p>
+<p class="pc-note">Kuss! - Kusch! (zum Hund); Schnauze! (zu Personen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő rajtakapja a barátját, amint egy másik nővel fekszik az ágyban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A férfi kétségbeesve könyörög: „Ne tedd meg!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A válasz rövid: „Hallgass! Rád kerül a sor.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rajtakap</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">amint</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">amint = éppen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">amint lehet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mint azelőtt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lelő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lelője = lelője [lelőjje] őt (határozott)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">úr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">uralom</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">uralkodó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">uralkodik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Urál (hegység)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eluralkodik rajta a félelem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eluralkodik rajta a kétségbeesés [kéccségbeesés]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kétség</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kételkedik (vmiben, vkiben)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kétséges</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kétértelmű</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">könyörög</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">könyörögve</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">könyörgés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">segítségért könyörgő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">könny</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">könnyezik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sír</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hall</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hallgat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Hallgass! (hallgat-j)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kussol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csók</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kuss!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine blonde Frau erwischt ihren Freund, wie er mit einer anderen Frau im Bett liegt. Fegyvert vesz elő, hogy lelője, de eluralkodik rajta a kétségbeesés, és a fegyvert a saját fejéhez tartja. – Sie zieht eine Waffe, um ihn zu erschießen, doch Verzweiflung überkommt sie und sie hält die Waffe an ihren eigenen Kopf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Freund fleht verzweifelt: „Tu es nicht!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Antwort ist knapp (kurz): „Halt den Mund! (Schweig!) Du bist gleich dran.“ (an dich kommt die Reihe)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ertappen, erwischen, überraschen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">als; wie; dabei wie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gerade eben; just</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">so bald als möglich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wie vorher</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schießen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">niederschießen, erschießen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ihn niederschießen, ihn erschießen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Herr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Herrschaft</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Herrscher</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">beherrschen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Ural (Gebirge)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Angst überkommt ihn</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Zweifel befällt ihn</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Zweifel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zweifeln (an etwas, an jemandem)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zweifelhaft</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zweideutig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">flehen, anbetteln, beschwören</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">flehend  („-va/-ve“ -  határozói igenév - Adverbialpartizip - eine Handlung, die gleichzeitig stattfindet)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Flehen, das Betteln</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hilfeflehend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Träne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tränen; (etwas) weinen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">weinen; das Grab</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hören (englisch: to hear; russisch: слышать )</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zuhören (englisch: to listen; russich: слушать)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Hör zu! = Ruhe! = Schweig!  (Lautassimilation: “t-j” wird zu “ss”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kuschen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Kuss</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kusch! (zum Hund); Schnauze! (zu Personen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő, egy vörös hajú és egy barna hajú nő úszóversenyt rendeznek: 200 méter mellúszás. - Eine Blondine, eine Rothaarige und eine Brünette veranstalten ein Wettschwimmen, 200 Meter Brust.</p>
+<p>2. A vörös hajúzi és a barna hajú snte egyszerre érnek célba, a szőke néhány másodperccel később. - Die Rothaarige und die Brünette kommen fast gleichzeitig an, die Blondine kommt ein paar Sekunden später ins Ziel. (verspätet sich)</p>
+<p>3. A szőke felháborodva tiltakozik: „Ez nem ér! Csaltatok, hiszen ti a karotokat is használtátok!” - Da beschwert sie sich: „Das gilt nicht! Ihr habt geschummelt, denn Ihr habt auch eure Arme benutzt.“</p>
+<p class="pc-note">szinte = majdnem - fast</p>
+<p class="pc-note">érkezik vhova - ankommen (irgendwo; irgendwohin)</p>
+<p class="pc-note">késik - sich verspäten</p>
+<p class="pc-note">kés - Messer</p>
+<p class="pc-note">kar - der Arm</p>
+<p class="pc-note">karom - mein Arm</p>
+<p class="pc-note">karotok (kar-otok) - ihre Arme (T/2)  (mehrere Besitzer-Personen; ein Besitz - ein Arm der besessen wird)</p>
+<p class="pc-note">karjaitok  (kar-jaitok) - ihre Arme (mehrere Besitzer-Personen; Besitz im Plural - mehrere Arme, die besessen wird)</p>
+<p class="pc-note">az én karjaim  (kar-jaim) - meine Arme (ein Besitzer - mehrer Arme - zwei Arme)</p>
+<p class="pc-note">ABER: Im Ungarischen werden paarige Körperteile nur im Singular verwendet (Auge, Niere, Ohr, Bein; Socken, Handschuhe, Schuhe) - auch paarige Kleidungsstücke - DESHALB:</p>
+<p class="pc-note">karotok (kar-otok) - ihre Arme (T/2)  (mehrere Besitzer-Personen; ein Besitz - ein Arm der besessen wird) - Im Ungarischen sind damit ABER mehrere Arme gemeint.</p>
+<p class="pc-note">ti a karotokat is használtátok - ihr habe eure Arme auch benutzt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő, egy vörös hajú és egy barna hajú nő úszóversenyt rendeznek: 200 méter mellúszás.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A vörös hajúzi és a barna hajú snte egyszerre érnek célba, a szőke néhány másodperccel később.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A szőke felháborodva tiltakozik: „Ez nem ér! Csaltatok, hiszen ti a karotokat is használtátok!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szinte = majdnem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érkezik vhova</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">késik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">karom</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">karotok (kar-otok)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">karjaitok  (kar-jaitok)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">az én karjaim  (kar-jaim)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ABER: Im Ungarischen werden paarige Körperteile nur im Singular verwendet (Auge, Niere, Ohr, Bein; Socken, Handschuhe, Schuhe)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">karotok (kar-otok)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ti a karotokat is használtátok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine, eine Rothaarige und eine Brünette veranstalten ein Wettschwimmen, 200 Meter Brust.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Rothaarige und die Brünette kommen fast gleichzeitig an, die Blondine kommt ein paar Sekunden später ins Ziel. (verspätet sich)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Da beschwert sie sich: „Das gilt nicht! Ihr habt geschummelt, denn Ihr habt auch eure Arme benutzt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fast</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ankommen (irgendwo; irgendwohin)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich verspäten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Messer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Arm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mein Arm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ihre Arme (T/2)  (mehrere Besitzer-Personen; ein Besitz - ein Arm der besessen wird)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ihre Arme (mehrere Besitzer-Personen; Besitz im Plural - mehrere Arme, die besessen wird)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">meine Arme (ein Besitzer - mehrer Arme - zwei Arme)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auch paarige Kleidungsstücke - DESHALB:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ihre Arme (T/2)  (mehrere Besitzer-Personen; ein Besitz - ein Arm der besessen wird) - Im Ungarischen sind damit ABER mehrere Arme gemeint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ihr habe eure Arme auch benutzt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke, egy vörös és egy barna hajú nő versenyt úsznak, kétszáz métert mellen. - Eine Blondine, eine Rothaarige und eine Brünette schwimmen um die Wette, 200 Meter Brust.</p>
+<p>2. A vörös és a barna hajú szinte fej fej mellett ér célba, a szőke lemaradva érkezik. - Die Rothaarige und die Brünette kommen nahezu gleichzeitig an, die Blondine etwas später (zurückböeibend).</p>
+<p>3. A szőke panaszkodik: „Ez igazságtalan [igasságtalan]! Ti csaltatok, mert a karjaitokat is bevetettétek.” - Die Blonde beschwert sich: „Das ist ungerecht! Ihr habt betrogen, ihr habt ja auch die Arme benutzt.“</p>
+<p class="pc-note">mell - Brust</p>
+<p class="pc-note">mellen - auf der Brust (Brustschwimmen)</p>
+<p class="pc-note">pulyka mell - Putenbrust</p>
+<p class="pc-note">fej fej mellett - Kopf (an) Kopf (neben)</p>
+<p class="pc-note">lemarad - zurückbleiben</p>
+<p class="pc-note">ér = érkezik - ankommen</p>
+<p class="pc-note">fej fej mellett ér célba, a szőke lemaradva érkezik = fej fej mellett érkezik célba, a szőke lemaradva ér - (damit in einem Satz nicht das gleiche Wort 2x steht, nimmt man ein mal die eine Form und weiter hinten die andere Form. Beide Wörter sind austauschbar.)</p>
+<p class="pc-note">csal - betrügen</p>
+<p class="pc-note">csalás - der Betrug</p>
+<p class="pc-note">csaló - der Betrüger</p>
+<p class="pc-note">bevet = haszal - benutzen; einsetzen</p>
+<p class="pc-note">bevet - einsäen</p>
+<p class="pc-note">a ti karotokat (Besitz in der Einzahl) - eure Arme (T/2) - Dies Form ist schöner!</p>
+<p class="pc-note">a ti karjaitokat (Besitz in der Mehrzahl) - eure Arme (T/2) - Dies Form ist aber auch erlaubt!</p>
+<p class="pc-note">igazságtalan - ungerecht (igaz-ság-talan) [igasságtalan]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke, egy vörös és egy barna hajú nő versenyt úsznak, kétszáz métert mellen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A vörös és a barna hajú szinte fej fej mellett ér célba, a szőke lemaradva érkezik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. A szőke panaszkodik: „Ez igazságtalan [igasságtalan]! Ti csaltatok, mert a karjaitokat is bevetettétek.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mell</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mellen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">pulyka mell</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fej fej mellett</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lemarad</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ér = érkezik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fej fej mellett ér célba, a szőke lemaradva érkezik = fej fej mellett érkezik célba, a szőke lemaradva ér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csalás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csaló</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bevet = haszal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bevet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a ti karotokat (Besitz in der Einzahl)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a ti karjaitokat (Besitz in der Mehrzahl)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igazságtalan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine, eine Rothaarige und eine Brünette schwimmen um die Wette, 200 Meter Brust.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Rothaarige und die Brünette kommen nahezu gleichzeitig an, die Blondine etwas später (zurückböeibend).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Die Blonde beschwert sich: „Das ist ungerecht! Ihr habt betrogen, ihr habt ja auch die Arme benutzt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Brust</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auf der Brust (Brustschwimmen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Putenbrust</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Kopf (an) Kopf (neben)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zurückbleiben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ankommen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(damit in einem Satz nicht das gleiche Wort 2x steht, nimmt man ein mal die eine Form und weiter hinten die andere Form. Beide Wörter sind austauschbar.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">betrügen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Betrug</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Betrüger</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">benutzen; einsetzen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">einsäen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eure Arme (T/2) - Dies Form ist schöner!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">eure Arme (T/2) - Dies Form ist aber auch erlaubt!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ungerecht (igaz-ság-talan) [igasságtalan]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő egy vörös hajúval és egy barnával úszóversenybe kezd, 200 méter mell. - Eine Blondine, eine Rothaarigen und einer Brünette beginnen einen Schwimmwettbewerb an, 200 Meter Brustschwimmen.</p>
+<p>2. A két másik nő szinte egyszerre ér célba, a szőke csak később bukkan fel a célban. - Die beiden anderen Frauen kommen fast gleichzeitig ins Ziel, die Blondine taucht erst später am Ziel auf.</p>
+<p>3. Erre a szőke felháborodva mondja: „Így nem ér! Ti csaltatok, mert még a karotokat is használtátok.” - Darauf ruft die Blondine empört: „So gilt das nicht! Ihr habt geschummelt, weil ihr auch die Arme benutzt habt.“</p>
+<p class="pc-note">kez vmibe = belekezd vmibe - mit etwas anfangen; etwas in Angriff nehmen; sich an etwas machen; (“sich in etwas hineinbeginnen”)</p>
+<p class="pc-note">érvényes - gültig</p>
+<p class="pc-note">ér - gelten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő egy vörös hajúval és egy barnával úszóversenybe kezd, 200 méter mell.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A két másik nő szinte egyszerre ér célba, a szőke csak később bukkan fel a célban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Erre a szőke felháborodva mondja: „Így nem ér! Ti csaltatok, mert még a karotokat is használtátok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kez vmibe = belekezd vmibe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">érvényes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine, eine Rothaarigen und einer Brünette beginnen einen Schwimmwettbewerb an, 200 Meter Brustschwimmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die beiden anderen Frauen kommen fast gleichzeitig ins Ziel, die Blondine taucht erst später am Ziel auf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Darauf ruft die Blondine empört: „So gilt das nicht! Ihr habt geschummelt, weil ihr auch die Arme benutzt habt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mit etwas anfangen; etwas in Angriff nehmen; sich an etwas machen; (“sich in etwas hineinbeginnen”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gültig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gelten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Egy szőke nő hangosan kiabál: „Van egy fiam! Fiú!” - Eine Blondine schreit ganz laut: „Ich habe einen Sohn! Es ist ein Junge!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Egy szőke nő hangosan kiabál: „Van egy fiam! Fiú!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Eine Blondine schreit ganz laut: „Ich habe einen Sohn! Es ist ein Junge!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Egy szőke nő lelkesen ordít: „Megszületett a fiam! Fiú lett!” - Eine Blondine ruft begeistert: „Ich habe einen Sohn geboren! Es wurde ein Junge!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Egy szőke nő lelkesen ordít: „Megszületett a fiam! Fiú lett!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Eine Blondine ruft begeistert: „Ich habe einen Sohn geboren! Es wurde ein Junge!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő örömében kiált: „Fiam van! Fiú!” - Eine Blondine schreit vor Freude (in ihrer Freude): „Ich habe einen Sohn! Es ist ein Junge!“</p>
+<p class="pc-note">kiált - schreien; ausrufen; rufen</p>
+<p class="pc-note">kiáltott - sie schrie; sie rief aus; sie rif</p>
+<p class="pc-note">fogadásos - mit Wette; wettbezogen; auf einer Wette beruhend</p>
+<p class="pc-note">kérdezz-felelet - Frage-und-Antwort-Spiel, (“Frag-und-Antwort”)</p>
+<p class="pc-note">feleletet - die Antwort (Akkusativ; genauer also: der Antwort)</p>
+<p class="pc-note">ajánl - vorschlagen; empfehlen; anbieten</p>
+<p class="pc-note">ajánlat = ajánlás - Vorschlag; Empfehlung; Angebot</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy szőke nő örömében kiált: „Fiam van! Fiú!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kiált</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kiáltott</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fogadásos</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kérdezz-felelet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">feleletet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ajánl</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ajánlat = ajánlás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Blondine schreit vor Freude (in ihrer Freude): „Ich habe einen Sohn! Es ist ein Junge!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schreien; ausrufen; rufen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sie schrie; sie rief aus; sie rif</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mit Wette; wettbezogen; auf einer Wette beruhend</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Frage-und-Antwort-Spiel, (“Frag-und-Antwort”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Antwort (Akkusativ; genauer also: der Antwort)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vorschlagen; empfehlen; anbieten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Vorschlag; Empfehlung; Angebot</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/6-witze/">« Zurück zu Witze 6</a> &nbsp;|&nbsp; <span>Witze 7</span> &nbsp;|&nbsp; <a href="/8-witze/">Weiter zu Witze 8 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
