@@ -1,0 +1,618 @@
+;mondások - Sprüche
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+=== 1 ===
+:1. Családi alapszabály:
+:2. 1. Anyának igaza van.
+:3. 2. Bármi legyen is, anyának akkor is igaza van.
+:4. 3. Anya nem szid - tanácsot ad.
+:5. 4. Anya nem idegesít - csak kiemel néhány részletet.
+:6. 5. Anya nem veszekszik - csak elmagyarázza a helyzetet.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Családi alapszabály: - Familienstatut:
+:2. 1. Anyának igaza van. - 1. Mama hat Recht.
+:3. 2. Bármi legyen is, anyának akkor is igaza van. - 2. Egal was ist, Mama hat trotzdem Recht.
+:4. 3. Anya nem szid - tanácsot ad. - 3. Mama schimpft nicht - sie berät.
+:5. 4. Anya nem idegesít - csak kiemel néhány részletet. - 4. Mama nervt nicht - sie betont nur einige Details.
+:6. 5. Anya nem veszekszik - csak elmagyarázza a helyzetet. - 5. Mama streitet nicht - sie erklärt nur die Situation.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Familienstatut:
+:2. 1. Mama hat Recht.
+:3. 2. Egal was ist, Mama hat trotzdem Recht.
+:4. 3. Mama schimpft nicht - sie berät.
+:5. 4. Mama nervt nicht - sie betont nur einige Details.
+:6. 5. Mama streitet nicht - sie erklärt nur die Situation.
+|}
+
+=== 2 ===
+:1. Nincs nehezebb annál, mint könnyebbé válni.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Nincs nehezebb annál, mint könnyebbé válni. - Es gibt nicht schwereres als leichter zu werde.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Es gibt nicht schwereres als leichter zu werde.
+|}
+
+=== 3 ===
+:1. Úgy élj, mintha holnap meghalnál.
+:2. Úgy tanulj, mintha örökké élnél.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Úgy élj, mintha holnap meghalnál. - Lebe so als ob du morgen sterben wirst.
+:2. Úgy tanulj, mintha örökké élnél. - Lerne so als ob du ewig leben wirst.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Lebe so als ob du morgen sterben wirst.
+:2. Lerne so als ob du ewig leben wirst.
+|}
+
+=== 4 ===
+:1. Az életkorát könnyen eltitkolhatja az ember.
+:2. A súlyát már nem annyira könnyen.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az életkorát könnyen eltitkolhatja az ember. - Sein Alter kann man einfach verbergen.
+:2. A súlyát már nem annyira könnyen. - Sein Gewicht nicht ganz so einfach.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Sein Alter kann man einfach verbergen.
+:2. Sein Gewicht nicht ganz so einfach.
+|}
+
+=== 5 ===
+:1. A nő mindig igazat mond.
+:2. De nem azonnal.
+:3. És nem az egészet.
+:4. És nem is mindenkinek.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A nő mindig igazat mond. - Die Frau sagt immer die Wahrheit.
+:2. De nem azonnal. - Aber nicht sofort.
+:3. És nem az egészet. - Und nicht die ganze.
+:4. És nem is mindenkinek. - Und auch nicht allen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Die Frau sagt immer die Wahrheit.
+:2. Aber nicht sofort.
+:3. Und nicht die ganze.
+:4. Und auch nicht allen.
+|}
+
+=== 6 ===
+:1. Három dolgot kell titokban tartani:
+:2. a kapcsolatainkat,
+:3. a jövedelmünket
+:4. és a következő lépéseinket.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Három dolgot kell titokban tartani: - Drei Dinge muss man geheim halten:
+:2. a kapcsolatainkat, - seine Beziehungen
+:3. a jövedelmünket - sein Einkommen
+:4. és a következő lépéseinket. - und seine nächsten Schritte
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Drei Dinge muss man geheim halten:
+:2. seine Beziehungen
+:3. sein Einkommen
+:4. und seine nächsten Schritte
+|}
+
+=== 7 ===
+:1. Csodálom a kolléganőmet.
+:2. Már negyedszer férjnél van, és még mindig ugyanaz a szeretője.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Csodálom a kolléganőmet. - Ich bewundere meine Kollegin.
+:2. Már negyedszer férjnél van, és még mindig ugyanaz a szeretője. - Sie ist nun schon zum vierten mal verheiratet und hat immer noch den gleichen Liebhaber.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ich bewundere meine Kollegin.
+:2. Sie ist nun schon zum vierten mal verheiratet und hat immer noch den gleichen Liebhaber.
+|}
+
+=== 8 ===
+:1. Ahhoz, hogy ne veszítsünk el valamit, meg kell becsülnünk.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ahhoz, hogy ne veszítsünk el valamit, meg kell becsülnünk. - Um etwas nicht zu verlieren muss man es schätzen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Um etwas nicht zu verlieren muss man es schätzen.
+|}
+
+=== 9 ===
+:1. Nem mehetsz vissza, hogy megváltoztasd a kezdetet.
+:2. De elkezdheted ott, ahol vagy, és megváltoztathatod a véget.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Nem mehetsz vissza, hogy megváltoztasd a kezdetet. - Du kannst nicht zurückgehen und den Anfang ändern.
+:2. De elkezdheted ott, ahol vagy, és megváltoztathatod a véget. - Aber du kannst dort wo du bist beginnen und das Ende ändern.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Du kannst nicht zurückgehen und den Anfang ändern.
+:2. Aber du kannst dort wo du bist beginnen und das Ende ändern.
+|}
+
+=== 10 ===
+:1. Minél jobban megismerem az embereket, annál jobban tetszenek a kutyák.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Minél jobban megismerem az embereket, annál jobban tetszenek a kutyák. - Je besser ich die Menschen kenne, um so mehr gefallen mir die Hunde.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Je besser ich die Menschen kenne, um so mehr gefallen mir die Hunde.
+|}
+
+=== 11 ===
+:1. Ha te vagy a legokosabb ember a szobában, akkor rossz szobában vagy.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ha te vagy a legokosabb ember a szobában, akkor rossz szobában vagy. - Wenn Du die klügste Person im Raum bist, dann bist Du im falschen Raum.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wenn Du die klügste Person im Raum bist, dann bist Du im falschen Raum.
+|}
+
+=== 12 ===
+:1. Ne higgy el mindent, amit gondolsz!
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ne higgy el mindent, amit gondolsz! - Glaube nicht alles was Du denkst!
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Glaube nicht alles was Du denkst!
+|}
+
+=== 13 ===
+:1. Két ok, amiért kövér vagyok:
+:2. 1. Eszem, amikor unatkozom.
+:3. 2. Mindig unatkozom.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Két ok, amiért kövér vagyok: - Zwei Gründe warum ich dick bin:
+:2. 1. Eszem, amikor unatkozom. - 1.) Ich esse wenn ich mich langweile.
+:3. 2. Mindig unatkozom. - 2.) Ich langweile mich immer.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Zwei Gründe warum ich dick bin:
+:2. 1.) Ich esse wenn ich mich langweile.
+:3. 2.) Ich langweile mich immer.
+|}
+
+=== 14 ===
+:1. A gyerekeid olyanok lesznek, amilyen te vagy.
+:2. Tehát olyan légy, amilyennek őket szeretnéd.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A gyerekeid olyanok lesznek, amilyen te vagy. - Deine Kinder werden so werden wie Du bist.
+:2. Tehát olyan légy, amilyennek őket szeretnéd. - Also sei so wie Du sie haben möchtest.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Deine Kinder werden so werden wie Du bist.
+:2. Also sei so wie Du sie haben möchtest.
+|}
+
+=== 15 ===
+:1. Mosolyogj ma!
+:2. Sírj holnap! (Olvasd ezt minden nap!)
+{|
+!'''magyar - német'''
+|-
+|
+:1. Mosolyogj ma! - Lächle heute!
+:2. Sírj holnap! (Olvasd ezt minden nap!) - Weine morgen! (Lies das jeden Tag!)
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Lächle heute!
+:2. Weine morgen! (Lies das jeden Tag!)
+|}
+
+=== 16 ===
+:1. Ha nem találsz utat, akkor teremts egyet.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ha nem találsz utat, akkor teremts egyet. - Wenn Du keinen Weg finden kannst, dann erschaffe einen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wenn Du keinen Weg finden kannst, dann erschaffe einen.
+|}
+
+=== 17 ===
+:1. Csak két dolog tudja megváltoztatni egy nő hangulatát:
+:2. 1. Szeretlek!
+:3. 2. Ötven százalék árengedmény.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Csak két dolog tudja megváltoztatni egy nő hangulatát: - Nur zwei Dinge können die Stimmung einer Frau ändern:
+:2. 1. Szeretlek! - 1.) Ich liebe Dich!
+:3. 2. Ötven százalék árengedmény. - 2.) 50 % Preisreduzierung
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Nur zwei Dinge können die Stimmung einer Frau ändern:
+:2. 1.) Ich liebe Dich!
+:3. 2.) 50 % Preisreduzierung
+|}
+
+=== 18 ===
+:1. A győztesek a győzelemre összpontosítanak.
+:2. A vesztesek a győztesre.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A győztesek a győzelemre összpontosítanak. - Gewinner konzentrieren sich auf den Sieg.
+:2. A vesztesek a győztesre. - Verlierer auf den Gewinner.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Gewinner konzentrieren sich auf den Sieg.
+:2. Verlierer auf den Gewinner.
+|}
+
+=== 19 ===
+:1. Semmi sem öl meg annyira, mint a saját gondolataid.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Semmi sem öl meg annyira, mint a saját gondolataid. - Nichts bringt Dich so sehr um wie Deine Gedanken.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Nichts bringt Dich so sehr um wie Deine Gedanken.
+|}
+
+=== 20 ===
+:1. Az igazi bölcsességet csak akkor érjük el, ha megértettük, milyen keveset értünk az életből, magunkból és a körülöttünk lévő világból. (Szókratész)
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az igazi bölcsességet csak akkor érjük el, ha megértettük, milyen keveset értünk az életből, magunkból és a körülöttünk lévő világból. (Szókratész) - Wahre Weisheit erlangen wir erst, wenn wir begriffen haben wie wenig wir verstehen über das Leben, uns selber und die Welt um uns herum. (Sokrates)
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wahre Weisheit erlangen wir erst, wenn wir begriffen haben wie wenig wir verstehen über das Leben, uns selber und die Welt um uns herum. (Sokrates)
+|}
+
+=== 21 ===
+:1. Egy pillanatnyi türelem a harag pillanatában száz pillanatnyi megbánást takarít meg.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Egy pillanatnyi türelem a harag pillanatában száz pillanatnyi megbánást takarít meg. - Ein Moment Geduld in einem Moment des Ärgers spart die Hundert Momente des Bedauerns.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein Moment Geduld in einem Moment des Ärgers spart die Hundert Momente des Bedauerns.
+|}
+
+=== 22 ===
+:1. A szép élet szép gondolatokkal kezdődik.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A szép élet szép gondolatokkal kezdődik. - Ein schönes Leben fängt mit schönen Gedanken an.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein schönes Leben fängt mit schönen Gedanken an.
+|}
+
+=== 23 ===
+:1. Többször javítom ki az automatikus javítást, mint ahányszor az javít ki engem.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Többször javítom ki az automatikus javítást, mint ahányszor az javít ki engem. - Ich korrigiere die Autokorrektur mehr, als die Autokorrektur mich korrigiert.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ich korrigiere die Autokorrektur mehr, als die Autokorrektur mich korrigiert.
+|}
+
+=== 24 ===
+:1. Ahogy a szomszédasszonyom olyan szépen mondja: csak a lusták házasodnak egyszer.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ahogy a szomszédasszonyom olyan szépen mondja: csak a lusták házasodnak egyszer. - Wie sagt meine Nachbarin so schön: Nur die Faulen heiraten nur einmal.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wie sagt meine Nachbarin so schön: Nur die Faulen heiraten nur einmal.
+|}
+
+=== 25 ===
+:1. A siker az, amikor kilencszer estél el, de tízszer álltál fel.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A siker az, amikor kilencszer estél el, de tízszer álltál fel. - Erfolg ist - wenn du neun mal hingefallen bist, aber zehn mal aufgestanden bist.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Erfolg ist - wenn du neun mal hingefallen bist, aber zehn mal aufgestanden bist.
+|}
+
+=== 26 ===
+:1. Minek megházasodni?
+:2. Megteszi a lízing is!
+{|
+!'''magyar - német'''
+|-
+|
+:1. Minek megházasodni? - Warum heiraten?
+:2. Megteszi a lízing is! - Leasing tut's auch!
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Warum heiraten?
+:2. Leasing tut's auch!
+|}
+
+=== 27 ===
+:1. A fiatalság akkor ér véget, amikor a kozmetikai szekrényből házipatika lesz.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A fiatalság akkor ér véget, amikor a kozmetikai szekrényből házipatika lesz. - Die Jugend endet, wenn der Kosmetikschrank zum Apothekenschrank wird.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Die Jugend endet, wenn der Kosmetikschrank zum Apothekenschrank wird.
+|}
+
+=== 28 ===
+:1. Reggelizz úgy, mint egy császár,
+:2. ebédelj úgy, mint egy király,
+:3. és vacsorázz úgy, mint egy koldus.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Reggelizz úgy, mint egy császár, - Frühstücken wie ein Kaiser,
+:2. ebédelj úgy, mint egy király, - Mittagessen wie ein König
+:3. és vacsorázz úgy, mint egy koldus. - und Abendessen wie ein Bettler
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Frühstücken wie ein Kaiser,
+:2. Mittagessen wie ein König
+:3. und Abendessen wie ein Bettler
+|}
+
+=== 29 ===
+:1. Reggelizz úgy, mint egy királynő.
+:2. Ebédelj úgy, mint egy királynő.
+:3. Vacsorázz úgy, mint egy királynő.
+:4. És ne feledd: nem vagy kövér,
+:5. mert királynő vagy.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Reggelizz úgy, mint egy királynő. - Frühstücke wie eine Königin.
+:2. Ebédelj úgy, mint egy királynő. - Iss Mittag wie eine Königin.
+:3. Vacsorázz úgy, mint egy királynő. - Iss zu Abend wie eine Königin.
+:4. És ne feledd: nem vagy kövér, - Und denk dran - Du bist nicht dick
+:5. mert királynő vagy. - denn Du bist eine Königin.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Frühstücke wie eine Königin.
+:2. Iss Mittag wie eine Königin.
+:3. Iss zu Abend wie eine Königin.
+:4. Und denk dran - Du bist nicht dick
+:5. denn Du bist eine Königin.
+|}
+
+=== 30 ===
+:1. Mindig a legjobb barátom leszel - túl sokat tudsz rólam.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Mindig a legjobb barátom leszel - túl sokat tudsz rólam. - Du wirst immer mein bester Freund sein - Du weißt zu viel von mir.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Du wirst immer mein bester Freund sein - Du weißt zu viel von mir.
+|}
+
+=== 31 ===
+:1. Régen jobb volt a jövő.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Régen jobb volt a jövő. - Früher war die Zukunft besser.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Früher war die Zukunft besser.
+|}
+
+=== 32 ===
+:1. Ne annak higgyetek, aki a tévében van, hanem annak, ami a hűtőben van.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ne annak higgyetek, aki a tévében van, hanem annak, ami a hűtőben van. - Glaubt nicht dem, der im Fernsehen ist, sondern dem, was im Kühlschrank ist.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Glaubt nicht dem, der im Fernsehen ist, sondern dem, was im Kühlschrank ist.
+|}
+
+=== 33 ===
+:1. Az életet nem lehet elölről kezdeni, de másképp lehet folytatni.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az életet nem lehet elölről kezdeni, de másképp lehet folytatni. - Man kann sein Leben nicht von Neuem anfangen, aber man kann es anders fortsetzen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Man kann sein Leben nicht von Neuem anfangen, aber man kann es anders fortsetzen.
+|}
+
+=== 34 ===
+:1. Az éhség elleni tablettákat úgy hívják: fasírt.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az éhség elleni tablettákat úgy hívják: fasírt. - Die Tabletten gegen Hunger heißen „Frikadellen“.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Die Tabletten gegen Hunger heißen „Frikadellen“.
+|}
+
+=== 35 ===
+:1. Nincs kulcs a boldogsághoz.
+:2. - Az ajtó mindig nyitva van.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Nincs kulcs a boldogsághoz. - Es gibt keinen Schlüssel zum Glück.
+:2. - Az ajtó mindig nyitva van. - - Die Tür ist immer offen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Es gibt keinen Schlüssel zum Glück.
+:2. - Die Tür ist immer offen.
+|}
+

@@ -52,9 +52,10 @@ def chargen_lesen(ordner):
 
 
 def main():
-    eintraege = json.load(open(sys.argv[1], encoding="utf-8"))
-    ung = chargen_lesen(sys.argv[2])
-    ziele = sys.argv[3:5]
+    argumente = [a for a in sys.argv[1:] if not a.startswith("--")]
+    eintraege = json.load(open(argumente[0], encoding="utf-8"))
+    ung = chargen_lesen(argumente[1])
+    ziele = argumente[2:4]
 
     fehlt, schief, stuecke = [], [], []
     for e in eintraege:
@@ -88,7 +89,7 @@ def main():
     if schief or unbekannt:
         sys.exit(1)
 
-    if len(ziele) == 2 and not fehlt:
+    if len(ziele) == 2 and (not fehlt or "--unvollstaendig" in sys.argv):
         for ziel, art in zip(ziele, ("witz", "spruch")):
             o = []
             for a, hu, de in stuecke:

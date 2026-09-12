@@ -329,7 +329,7 @@ HOME_NAV = ('<a href="/">« Home</a> &nbsp;|&nbsp; '
             '« zurück zu Inhaltsverzeichnis</a>')
 
 
-def konfiguration(nr):
+def konfiguration(nr, wort=None):
     """Alles, was sich von Seite zu Seite unterscheidet - aus der Seitennummer.
 
     Die Metadaten (Titel, Permalink, übergeordnete Seite, Reihenfolge) stehen
@@ -344,7 +344,7 @@ def konfiguration(nr):
         "parent": "Witze",
         "menu_order": nr,
         # Seite 41 sind Sprüche, keine Witze
-        "joke_word": {41: "Spruch"}.get(nr, "Witz"),
+        "joke_word": wort or {41: "Spruch"}.get(nr, "Witz"),
         "home_nav": HOME_NAV,
         "chapter_nav": (f'<a href="/{nr - 1}-witze/">« Zurück zu Witze {nr - 1}</a>'
                         f' &nbsp;|&nbsp; <span>Witze {nr}</span> &nbsp;|&nbsp; '
@@ -354,7 +354,8 @@ def konfiguration(nr):
 
 def main():
     src, dst, nr = sys.argv[1], sys.argv[2], int(sys.argv[3])
-    cfg = konfiguration(nr)
+    wort = sys.argv[4] if len(sys.argv) > 4 else None
+    cfg = konfiguration(nr, wort)
     with open(src, encoding="utf-8") as f:
         text = f.read()
     intro, jokes = parse(text)

@@ -1,0 +1,906 @@
+;mondások - Sprüche
+:An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!
+
+=== 1 ===
+:1. Egy év hosszú, de az évtizedek rövidek.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Egy év hosszú, de az évtizedek rövidek. - Ein Jahr ist lange, aber die Jahrzehnte sind kurz.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein Jahr ist lange, aber die Jahrzehnte sind kurz.
+|}
+
+=== 2 ===
+:1. Fiatalon kellene meghalni, mégpedig minél későbben.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Fiatalon kellene meghalni, mégpedig minél későbben. - Man sollte jung sterben, und das möglichst spät.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Man sollte jung sterben, und das möglichst spät.
+|}
+
+=== 3 ===
+:1. A napjaim valahogy visszafelé mennek.
+:2. Fáradtan ébredek, és frissen fekszem le.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A napjaim valahogy visszafelé mennek. - Meine Tage gehen irgendwie rückwärts.
+:2. Fáradtan ébredek, és frissen fekszem le. - Ich wache müde auf und gehe munter ins Bett.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Meine Tage gehen irgendwie rückwärts.
+:2. Ich wache müde auf und gehe munter ins Bett.
+|}
+
+=== 4 ===
+:1. Az előítélet a kisember statisztikája.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az előítélet a kisember statisztikája. - Vorurteile sind die Statistik des kleinen Mannes.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Vorurteile sind die Statistik des kleinen Mannes.
+|}
+
+=== 5 ===
+:1. Aki későn jön, azt megbünteti az élet.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Aki későn jön, azt megbünteti az élet. - Wer zu spät kommt, den bestraft das Leben.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wer zu spät kommt, den bestraft das Leben.
+|}
+
+=== 6 ===
+:1. Jó munkához idő kell.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Jó munkához idő kell. - Gut Ding will Weile haben.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Gut Ding will Weile haben.
+|}
+
+=== 7 ===
+:1. Korán nősülj, sose bánd meg.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Korán nősülj, sose bánd meg. - Jung gefreit, nie bereut.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Jung gefreit, nie bereut.
+|}
+
+=== 8 ===
+:1. Lassú víz partot mos.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Lassú víz partot mos. - Steter Tropfen höhlt den Stein.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Steter Tropfen höhlt den Stein.
+|}
+
+=== 9 ===
+:1. Néha még az ördög is fél attól, ami egy nő fejében megfordul.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Néha még az ördög is fél attól, ami egy nő fejében megfordul. - Manchmal hat sogar der Teufel davor Angst, was einer Frau durch den Kopf geht.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Manchmal hat sogar der Teufel davor Angst, was einer Frau durch den Kopf geht.
+|}
+
+=== 10 ===
+:1. Egy munkanap nyolc órával rövidíti meg az életet.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Egy munkanap nyolc órával rövidíti meg az életet. - Ein Arbeitstag verkürzt das Leben um acht Stunden.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein Arbeitstag verkürzt das Leben um acht Stunden.
+|}
+
+=== 11 ===
+:1. A mai jelen lesz a holnapi múlt.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A mai jelen lesz a holnapi múlt. - Die Gegenwart von heute wird die Vergangenheit von morgen sein.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Die Gegenwart von heute wird die Vergangenheit von morgen sein.
+|}
+
+=== 12 ===
+:1. A mai bútorokból nem lesznek holnapi régiségek.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A mai bútorokból nem lesznek holnapi régiségek. - Die Möbel von heute sind nicht die Antiquitäten von morgen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Die Möbel von heute sind nicht die Antiquitäten von morgen.
+|}
+
+=== 13 ===
+:1. Minden végben ott van egy kezdet, és minden kezdetben varázs lakozik.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Minden végben ott van egy kezdet, és minden kezdetben varázs lakozik. - In jedem Ende liegt ein Anfang, und jedem Anfang wohnt ein Zauber inne.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. In jedem Ende liegt ein Anfang, und jedem Anfang wohnt ein Zauber inne.
+|}
+
+=== 14 ===
+:1. A szükség találékonnyá tesz.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A szükség találékonnyá tesz. - Not macht erfinderisch.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Not macht erfinderisch.
+|}
+
+=== 15 ===
+:1. Jó munkához idő kell.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Jó munkához idő kell. - Gut Ding will Weile haben.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Gut Ding will Weile haben.
+|}
+
+=== 16 ===
+:1. Egy bolond többet kérdezhet, mint amennyire száz bölcs válaszolni tud.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Egy bolond többet kérdezhet, mint amennyire száz bölcs válaszolni tud. - Ein Narr kann mehr fragen als hundert Weise beantworten können.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein Narr kann mehr fragen als hundert Weise beantworten können.
+|}
+
+=== 17 ===
+:1. Marx összetévesztette a szabadságot az egyenlőséggel.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Marx összetévesztette a szabadságot az egyenlőséggel. - Marx hat Freiheit mit Gleichheit verwechselt.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Marx hat Freiheit mit Gleichheit verwechselt.
+|}
+
+=== 18 ===
+:1. Az ember mindenhez hozzászokik.
+:2. Még a részes esethez is.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az ember mindenhez hozzászokik. - Der Mensch gewöhnt sich an allem.
+:2. Még a részes esethez is. - Auch an den Dativ.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Der Mensch gewöhnt sich an allem.
+:2. Auch an den Dativ.
+|}
+
+=== 19 ===
+:1. Azok az emberek, akik csodálatra vágynak, nem elég hiúak.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Azok az emberek, akik csodálatra vágynak, nem elég hiúak. - Menschen, die nach Bewunderung streben, sind nicht eitel genug.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Menschen, die nach Bewunderung streben, sind nicht eitel genug.
+|}
+
+=== 20 ===
+:1. Ha a jó hírnév már odavan, teljesen gátlástalanul él az ember.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ha a jó hírnév már odavan, teljesen gátlástalanul él az ember. - Ist der Ruf erst ruiniert, lebt sich’s gänzlich ungeniert.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ist der Ruf erst ruiniert, lebt sich’s gänzlich ungeniert.
+|}
+
+=== 21 ===
+:1. Egyszer nem szokás.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Egyszer nem szokás. - Ein mal ist kein mal.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein mal ist kein mal.
+|}
+
+=== 22 ===
+:1. Aki féreggé teszi magát, azt el is tapossák.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Aki féreggé teszi magát, azt el is tapossák. - Wer sich zum Wurm macht wird auch zertreten.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wer sich zum Wurm macht wird auch zertreten.
+|}
+
+=== 23 ===
+:1. A szerelem az, amikor - akár részegen, akár józanul - mindig ugyanazt a nőt hívod fel.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A szerelem az, amikor - akár részegen, akár józanul - mindig ugyanazt a nőt hívod fel. - Liebe das ist, wenn du - egal ob besoffen oder nüchtern - immer ein und die selbe Frau anrufst.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Liebe das ist, wenn du - egal ob besoffen oder nüchtern - immer ein und die selbe Frau anrufst.
+|}
+
+=== 24 ===
+:1. Azt a boldogságot, amely nem tartós, élvezetnek nevezzük.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Azt a boldogságot, amely nem tartós, élvezetnek nevezzük. - Ein Glück das nicht von Dauer ist nennt man Vergnügen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein Glück das nicht von Dauer ist nennt man Vergnügen.
+|}
+
+=== 25 ===
+:1. Ha a feleséged mobilon hív fel, pedig ő is otthon van, akkor túl nagy a házad.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ha a feleséged mobilon hív fel, pedig ő is otthon van, akkor túl nagy a házad. - Wenn deine Frau dich auf dem Handy anruft, obwohl sie ebenfalls zu Hause ist, dann ist dein Haus zu groß.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wenn deine Frau dich auf dem Handy anruft, obwohl sie ebenfalls zu Hause ist, dann ist dein Haus zu groß.
+|}
+
+=== 26 ===
+:1. Az olyan emberek, mint te, az okai annak, hogy a samponos flakonokon használati utasítás áll.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az olyan emberek, mint te, az okai annak, hogy a samponos flakonokon használati utasítás áll. - Leute wie du sind der Grund, warum auf Shampooflaschen eine Gebrauchsanweisung steht.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Leute wie du sind der Grund, warum auf Shampooflaschen eine Gebrauchsanweisung steht.
+|}
+
+=== 27 ===
+:1. Mosolyogj!
+:2. Úgysem tudod MINDET megölni.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Mosolyogj! - Lächle!
+:2. Úgysem tudod MINDET megölni. - Du kannst sie nicht ALLE umbringen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Lächle!
+:2. Du kannst sie nicht ALLE umbringen.
+|}
+
+=== 28 ===
+:1. Csak apálykor derül ki, ki fürdik meztelenül.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Csak apálykor derül ki, ki fürdik meztelenül. - Erst wenn die Ebbe kommt sieht man wer nackt schwimmt.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Erst wenn die Ebbe kommt sieht man wer nackt schwimmt.
+|}
+
+=== 29 ===
+:1. Ha valami fontos neked, nincs DE.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ha valami fontos neked, nincs DE. - Wenn dir was wichtig ist gibt es kein ABER.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wenn dir was wichtig ist gibt es kein ABER.
+|}
+
+=== 30 ===
+:1. A lelkiállapotom ivásra ingerlő.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A lelkiállapotom ivásra ingerlő. - Meine mentale Verfassung ist besäufniserregend.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Meine mentale Verfassung ist besäufniserregend.
+|}
+
+=== 31 ===
+:1. Nem vagyok öreg, klasszikus vagyok.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Nem vagyok öreg, klasszikus vagyok. - Ich bin nicht alt, ich bin klassisch.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ich bin nicht alt, ich bin klassisch.
+|}
+
+=== 32 ===
+:1. Az ember azzal idézi elő a sorsát, hogy el akarja hárítani.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az ember azzal idézi elő a sorsát, hogy el akarja hárítani. - Der Mensch führt sein Schicksal dadurch herbei, dass er es abzuwenden trachtet.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Der Mensch führt sein Schicksal dadurch herbei, dass er es abzuwenden trachtet.
+|}
+
+=== 33 ===
+:1. Aki a végéről gondolkodik, annak nehezebben megy a kezdés.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Aki a végéről gondolkodik, annak nehezebben megy a kezdés. - Wer vom Ende her denkt, tut sich mit dem Anfangen schwerer.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wer vom Ende her denkt, tut sich mit dem Anfangen schwerer.
+|}
+
+=== 34 ===
+:1. Hat tudósból öt bebizonyította, hogy az orosz rulett veszélytelen.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Hat tudósból öt bebizonyította, hogy az orosz rulett veszélytelen. - Fünft von sechs Wissenschaftlern haben bewiesen, dass russisches Roulett ungefährlich ist.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Fünft von sechs Wissenschaftlern haben bewiesen, dass russisches Roulett ungefährlich ist.
+|}
+
+=== 35 ===
+:1. Egy sokatmondó hallgatás többet mondhat, mint a semmitmondó szavak.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Egy sokatmondó hallgatás többet mondhat, mint a semmitmondó szavak. - Ein bedeutsames Schweigen kann mehr sagen als bedeutungslose Worte.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein bedeutsames Schweigen kann mehr sagen als bedeutungslose Worte.
+|}
+
+=== 36 ===
+:1. Minél keményebben dolgozol, annál gazdagabb lesz a főnököd.
+:2. Szóval csak lazán.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Minél keményebben dolgozol, annál gazdagabb lesz a főnököd. - Je härter du arbeitest, um so reicher wird dein Chef.
+:2. Szóval csak lazán. - Also, bleib mal locker.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Je härter du arbeitest, um so reicher wird dein Chef.
+:2. Also, bleib mal locker.
+|}
+
+=== 37 ===
+:1. Az ördög mindig a legnagyobb kupacra szarik.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az ördög mindig a legnagyobb kupacra szarik. - Der Teufel scheißt auf den größten Haufen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Der Teufel scheißt auf den größten Haufen.
+|}
+
+=== 38 ===
+:1. Azt a napot, amikor elfelejtettem a feleségem születésnapját, nem fogom elfelejteni.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Azt a napot, amikor elfelejtettem a feleségem születésnapját, nem fogom elfelejteni. - Den Tag, an dem ich den Geburtstag meiner Frau vergessen hatte, werde ich nicht vergessen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Den Tag, an dem ich den Geburtstag meiner Frau vergessen hatte, werde ich nicht vergessen.
+|}
+
+=== 39 ===
+:1. Az Úr adta, az Úr elvette.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az Úr adta, az Úr elvette. - Der Herr hat's gegeben, der Herr hat's genommen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Der Herr hat's gegeben, der Herr hat's genommen.
+|}
+
+=== 40 ===
+:1. Amilyen az öreg dala, olyan a fiatal csiripelése.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Amilyen az öreg dala, olyan a fiatal csiripelése. - Wie die Alten sungen, so zwitschern auch die Jungen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wie die Alten sungen, so zwitschern auch die Jungen.
+|}
+
+=== 41 ===
+:1. A beigazolódott előítélet még mindig előítélet?
+{|
+!'''magyar - német'''
+|-
+|
+:1. A beigazolódott előítélet még mindig előítélet? - Sind bestätigte Vorurteile noch welche?
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Sind bestätigte Vorurteile noch welche?
+|}
+
+=== 42 ===
+:1. Az alkohol nem segít megtalálni a választ, de segít elfelejteni a kérdést.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Az alkohol nem segít megtalálni a választ, de segít elfelejteni a kérdést. - Alkohol hilft nicht eine Antwort zu finden, aber er hilft die Frage zu vergessen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Alkohol hilft nicht eine Antwort zu finden, aber er hilft die Frage zu vergessen.
+|}
+
+=== 43 ===
+:1. Boldogság.
+:2. - Ez egyszerűen jó egészség és rossz emlékezet.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Boldogság. - Glück.
+:2. - Ez egyszerűen jó egészség és rossz emlékezet. - - Das ist einfach gute Gesundheit und ein schlechtes Gedächtnis.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Glück.
+:2. - Das ist einfach gute Gesundheit und ein schlechtes Gedächtnis.
+|}
+
+=== 44 ===
+:1. Nevess ma, és csak holnap sírj! (Olvasd ezt minden nap!)
+{|
+!'''magyar - német'''
+|-
+|
+:1. Nevess ma, és csak holnap sírj! (Olvasd ezt minden nap!) - Lach heute und wein erst morgen! (Ließ das jeden Tag!)
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Lach heute und wein erst morgen! (Ließ das jeden Tag!)
+|}
+
+=== 45 ===
+:1. Soha ne nevess mások múltján, mert a saját jövődet még nem ismered.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Soha ne nevess mások múltján, mert a saját jövődet még nem ismered. - Lache nie über die Vergangenheit anderer Leute, denn du kennst deine Zukunft noch nicht.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Lache nie über die Vergangenheit anderer Leute, denn du kennst deine Zukunft noch nicht.
+|}
+
+=== 46 ===
+:1. „Azt hittem, szellemi párbajt vívok veled. De látom, fegyvertelen vagy.”
+{|
+!'''magyar - német'''
+|-
+|
+:1. „Azt hittem, szellemi párbajt vívok veled. De látom, fegyvertelen vagy.” - „Ich dachte, mit dir ein geistiges Duell zu führen. Aber ich sehe, du bist unbewaffnet.“
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Ich dachte, mit dir ein geistiges Duell zu führen. Aber ich sehe, du bist unbewaffnet.“
+|}
+
+=== 47 ===
+:1. „De ahol veszély van, ott terem a mentő erő is.” (Hölderlin)
+{|
+!'''magyar - német'''
+|-
+|
+:1. „De ahol veszély van, ott terem a mentő erő is.” (Hölderlin) - „Wo aber Gefahr ist, wächst das Rettende auch.“ (Hölderlin)
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. „Wo aber Gefahr ist, wächst das Rettende auch.“ (Hölderlin)
+|}
+
+=== 48 ===
+:1. Ha ketten veszekszenek, az okosabb a hibás.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Ha ketten veszekszenek, az okosabb a hibás. - Wenn zwei sich streiten ist der Klügere schuld.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wenn zwei sich streiten ist der Klügere schuld.
+|}
+
+=== 49 ===
+:1. Kövesd a szívedet, de vidd magaddal az agyadat is.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Kövesd a szívedet, de vidd magaddal az agyadat is. - Folge deinem Herzen, aber nimm dein Gehirn mit.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Folge deinem Herzen, aber nimm dein Gehirn mit.
+|}
+
+=== 50 ===
+:1. Nincsenek egészséges emberek, csak rosszul kivizsgáltak.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Nincsenek egészséges emberek, csak rosszul kivizsgáltak. - Es gibt keine Gesunden, sondern nur schlecht untersuchte.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Es gibt keine Gesunden, sondern nur schlecht untersuchte.
+|}
+
+=== 51 ===
+:1. Aki nem jön időben, annak azt kell néznie, mi maradt.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Aki nem jön időben, annak azt kell néznie, mi maradt. - Wer nicht kommt zur rechten Zeit, der muss seh'n was übrig bleibt.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wer nicht kommt zur rechten Zeit, der muss seh'n was übrig bleibt.
+|}
+
+=== 52 ===
+:1. Aki minden irányba hajlong, mindenütt beveri a fenekét.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Aki minden irányba hajlong, mindenütt beveri a fenekét. - Wer sich nach allen Seiten verbeugt stößt überall mit dem Arsch an.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Wer sich nach allen Seiten verbeugt stößt überall mit dem Arsch an.
+|}
+
+=== 53 ===
+:1. Nincsenek hősök alsónadrágban.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Nincsenek hősök alsónadrágban. - Es gibt keine Helden in Unterhosen.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Es gibt keine Helden in Unterhosen.
+|}
+
+=== 54 ===
+:1. Majdnem minden emlékmű üreges.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Majdnem minden emlékmű üreges. - Fast alle Denkmäler sind hohl.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Fast alle Denkmäler sind hohl.
+|}
+
+=== 55 ===
+:1. Egy férfi, egy szó.
+:2. Egy nő, egy szótár.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Egy férfi, egy szó. - Ein Mann, ein Wort.
+:2. Egy nő, egy szótár. - Eine Frau, ein Wörterbuch.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Ein Mann, ein Wort.
+:2. Eine Frau, ein Wörterbuch.
+|}
+
+=== 56 ===
+:1. A gőgöt bukás követi.
+{|
+!'''magyar - német'''
+|-
+|
+:1. A gőgöt bukás követi. - Hochmut kommt vor dem Fall.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Hochmut kommt vor dem Fall.
+|}
+
+=== 57 ===
+:1. Akit halottnak hisznek, tovább él.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Akit halottnak hisznek, tovább él. - Totgesagte leben länger.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Totgesagte leben länger.
+|}
+
+=== 58 ===
+:1. Lemondani felesleges, amíg van mit inni.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Lemondani felesleges, amíg van mit inni. - Resignieren ist unnötig solange es was zu trinken gibt.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Resignieren ist unnötig solange es was zu trinken gibt.
+|}
+
+=== 59 ===
+:1. Kissé szerencsétlenül választotta meg az őseit.
+{|
+!'''magyar - német'''
+|-
+|
+:1. Kissé szerencsétlenül választotta meg az őseit. - Er war etwas unglücklich in der Wahl seiner Vorfahren.
+|}
+{|
+!'''deutsch'''
+|-
+|
+:1. Er war etwas unglücklich in der Wahl seiner Vorfahren.
+|}
+
