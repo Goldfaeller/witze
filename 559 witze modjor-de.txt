@@ -1,0 +1,1832 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/558-witze/">« Zurück zu Witze 558</a> &nbsp;|&nbsp; <span>Witze 559</span> &nbsp;|&nbsp; <a href="/560-witze/">Weiter zu Witze 560 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 559</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A házasság annak a kísérlete, hogy ketten legalább feleannyira boldogok legyünk, mint amilyen boldog az ember egyedül volt. - Die Ehe ist der Versuch, zu zweit wenigstens halb so glücklich zu werden, wie man alleine gewesen wäre (war).</p>
+<p class="pc-note">fél [felet, fele, felek] - die Hälfte</p>
+<p class="pc-note">hogy ... boldogok legyünk - (damit) ... wir glücklich sind (Imperativ im Ungarischen) (Im Ungarischen steht der Imperativ nicht nur für Befehle, sondern sehr oft auch bei: Zweck / damit-Sätze, Wunsch, Bitte, Vorschlag, Aufforderung, Erlaubnis, Einräumung,</p>
+<p class="pc-note">volt - war</p>
+<p class="pc-note">lenne - wäre</p>
+<p class="pc-note">lenni - sein</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A házasság egy próbálkozás arra, hogy két ember [ämber] együtt [ägyütt] elérje legalább a fele boldogságot annak, amit külön-külön megéltek. - Die Ehe ist der Versuch, gemeinsam wenigstens halb so glücklich zu sein, wie man es alleine war.</p>
+<p class="pc-note">elér - erreichen</p>
+<p class="pc-note">ő elérje [E/3] a boldogságot - er erreicht das Glück</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten elérjük annak a boldogságnak legalább a felét, amelyet egyedül már ismertünk. - Die Ehe ist nichts anderes, als der Versuch, zu zweit wenigstens die Hälfte des Glücks zu erreichen, das man alleine kannte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A házasság annak a kísérlete, hogy ketten legalább feleannyira boldogok legyünk, mint amilyen boldog az ember egyedül volt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fél [felet, fele, felek]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hogy ... boldogok legyünk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">volt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lenne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lenni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A házasság egy próbálkozás arra, hogy két ember [ämber] együtt [ägyütt] elérje legalább a fele boldogságot annak, amit külön-külön megéltek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ő elérje [E/3] a boldogságot</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten elérjük annak a boldogságnak legalább a felét, amelyet egyedül már ismertünk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehe ist der Versuch, zu zweit wenigstens halb so glücklich zu werden, wie man alleine gewesen wäre (war).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Hälfte</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(damit) ... wir glücklich sind (Imperativ im Ungarischen) (Im Ungarischen steht der Imperativ nicht nur für Befehle, sondern sehr oft auch bei: Zweck / damit-Sätze, Wunsch, Bitte, Vorschlag, Aufforderung, Erlaubnis, Einräumung,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">war</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wäre</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sein</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehe ist der Versuch, gemeinsam wenigstens halb so glücklich zu sein, wie man es alleine war.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erreichen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">er erreicht das Glück</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehe ist nichts anderes, als der Versuch, zu zweit wenigstens die Hälfte des Glücks zu erreichen, das man alleine kannte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 2</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Nem, nem vagyok házas, mert miért tennék boldogtalanná egyetlen nőt, ha közben olyan sokat boldoggá tehetek. - Nein, ich bin nicht verheiratet, denn warum soll ich eine einzige Frau unglücklich machen, wenn ich währenddessen so viele glücklich machen kann.</p>
+<p class="pc-note">közben - indessen, während, in der Zwischenzeit</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Nem vagyok nős, hiszen miért keserítenék meg egy nő életét, amikor sok másnak örömet szerezhetek. - Nein, ich bin nicht verheiratet, warum sollte ich das Leben einer Frau bitter machen, wenn ich viele andere glücklich machen kann.</p>
+<p class="pc-note">keserű - bitter</p>
+<p class="pc-note">megkeserít = keserűvé tesz - bitter machen; verbittern</p>
+<p class="pc-note">hiszen = mert - weil</p>
+<p class="pc-note">öröm - Glück, Lust, Freude, Wonne</p>
+<p class="pc-note">szerencse - Glück</p>
+<p class="pc-note">szerez - erreichen, verschaffen, machen, bekommen, erwerben</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Nem, nincs feleségem: minek (miért) tennék boldogtalanná egyet, ha ennyi nőt tehetek boldoggá. - Nein, ich habe keine Ehefrau: warum sollte ich eine (Frau) unglücklich machen, wenn ich so viele (Frau) glücklich machen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nem, nem vagyok házas, mert miért tennék boldogtalanná egyetlen nőt, ha közben olyan sokat boldoggá tehetek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">közben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nem vagyok nős, hiszen miért keserítenék meg egy nő életét, amikor sok másnak örömet szerezhetek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">keserű</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megkeserít = keserűvé tesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hiszen = mert</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">öröm</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szerencse</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szerez</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nem, nincs feleségem: minek (miért) tennék boldogtalanná egyet, ha ennyi nőt tehetek boldoggá.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nein, ich bin nicht verheiratet, denn warum soll ich eine einzige Frau unglücklich machen, wenn ich währenddessen so viele glücklich machen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">indessen, während, in der Zwischenzeit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nein, ich bin nicht verheiratet, warum sollte ich das Leben einer Frau bitter machen, wenn ich viele andere glücklich machen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bitter</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bitter machen; verbittern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">weil</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Glück, Lust, Freude, Wonne</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Glück</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erreichen, verschaffen, machen, bekommen, erwerben</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nein, ich habe keine Ehefrau: warum sollte ich eine (Frau) unglücklich machen, wenn ich so viele (Frau) glücklich machen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 3</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A házasság annak a kísérlete, hogy ketten megbirkózzunk azokkal a problémákkal, amelyek egyedül sosem léteztek volna. - Die Ehe ist der Versuch, zu zweit mit den Problemen fertig zu werden, die alleine (wenn man alleine ist) nie existieren würden.</p>
+<p class="pc-note">a kísérlete annak ... - der Versuch dafür ...</p>
+<p class="pc-note">megbirkózik vmivel - bewältigen; meistern; ringen; sich raufen</p>
+<p class="pc-note">hogy ... megbirkózzunk (Imperativ; T/1) - damit ... wir bewältigen (Final-Nebensatz)</p>
+<p class="pc-note">lét - die Existenz, das Dasein, das Wesen</p>
+<p class="pc-note">létezik - existieren</p>
+<p class="pc-note">Ha egyedül lettem volna, akkor nem lettek volna problémák. - Wenn ich alleine leben würden, dann hätte ich keine Probleme.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A házasság egy próbálkozás arra, hogy közösen kezeljük azokat a gondokat, amelyek csak azért vannak, mert nem vagyunk egyedül. - Die Ehe ist der Versuch, gemeinsam mit Problemen umzugehen, die es nur deshalb gibt, weil wir nicht allein sind.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten oldjuk meg azokat a nehézségeket [nehésségeket], amelyeket az egyedüllét [ägyädüllét] soha nem hozott volna. - Die Ehe ist nichts anderes, als der Versuch dazu, zu zweit jene Schwierigkeiten zu lösen, die das Alleinsein nie gebracht hätte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A házasság annak a kísérlete, hogy ketten megbirkózzunk azokkal a problémákkal, amelyek egyedül sosem léteztek volna.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a kísérlete annak ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">megbirkózik vmivel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">hogy ... megbirkózzunk (Imperativ; T/1)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lét</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">létezik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ha egyedül lettem volna, akkor nem lettek volna problémák.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A házasság egy próbálkozás arra, hogy közösen kezeljük azokat a gondokat, amelyek csak azért vannak, mert nem vagyunk egyedül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A házasság nem más, mint kísérlet arra, hogy ketten oldjuk meg azokat a nehézségeket [nehésségeket], amelyeket az egyedüllét [ägyädüllét] soha nem hozott volna.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehe ist der Versuch, zu zweit mit den Problemen fertig zu werden, die alleine (wenn man alleine ist) nie existieren würden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Versuch dafür ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bewältigen; meistern; ringen; sich raufen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">damit ... wir bewältigen (Final-Nebensatz)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Existenz, das Dasein, das Wesen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">existieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Wenn ich alleine leben würden, dann hätte ich keine Probleme.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehe ist der Versuch, gemeinsam mit Problemen umzugehen, die es nur deshalb gibt, weil wir nicht allein sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehe ist nichts anderes, als der Versuch dazu, zu zweit jene Schwierigkeiten zu lösen, die das Alleinsein nie gebracht hätte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 4</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. A második házasság a remény győzelme a tapasztalat felett. - Die zweite Ehe ist der Triumph der Hoffnung über die Erfahrung.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. A második házasság azt jelenti, hogy a remény felülírja a korábbi tapasztalatokat. - Die zweite Ehe bedeutet, dass die Hoffnung die früheren Erfahrungen überschreiben hat.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A második házasság nem más, mint a remény diadala a megszerzett tapasztalattal szemben. - Die zweite Ehe ist nichts anderes, als der Triumph der Hoffnung über die gewonnene (gesammelte; erworbene)  Erfahrung.</p>
+<p class="pc-note">diadal = győzelem - Sieg, Triumph</p>
+<p class="pc-note">diadalmaskodik - triumphieren, siegen</p>
+<p class="pc-note">diadalmas = triumphal - siegreich</p>
+<p class="pc-note">szemben (vmivel) - im Gegensatz zu; im Widerstreit; gegenüber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A második házasság a remény győzelme a tapasztalat felett.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A második házasság azt jelenti, hogy a remény felülírja a korábbi tapasztalatokat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A második házasság nem más, mint a remény diadala a megszerzett tapasztalattal szemben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">diadal = győzelem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">diadalmaskodik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">diadalmas = triumphal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szemben (vmivel)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die zweite Ehe ist der Triumph der Hoffnung über die Erfahrung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die zweite Ehe bedeutet, dass die Hoffnung die früheren Erfahrungen überschreiben hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die zweite Ehe ist nichts anderes, als der Triumph der Hoffnung über die gewonnene (gesammelte; erworbene)  Erfahrung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Sieg, Triumph</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">triumphieren, siegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">siegreich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">im Gegensatz zu; im Widerstreit; gegenüber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 5</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Egy nő valójában nagyon könnyen érthető: olyan, mint egy nyitott könyv. Olyan, mint egy kínai nyelvű kvantumfizika-könyv. De legalább nyitva van. - Eine Frau ist eigentlich ganz einfach zu verstehen: Sie ist so wie ein offenes Buch. So wie ein Buch über Quantenphysik auf Chinesisch. Aber wenigstens ist es offen.</p>
+<p class="pc-note">valójában - in Wirklichkeit, eigentlich, tatsächlich</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Egy nőt nem nehéz megérteni: olyan, mint egy nyitott könyv. Igaz, ez a könyv kvantumfizikáról szól, kínaiul. Viszont (de) nyitva van. - Es ist nicht schwer eine Frau zu verstehen (Eine Frau ist nicht schwer zu verstehen): So wie ein offenes Buch. Zwar (es ist wahr) handelt (erzählt) dieses Buch von Quantenphysik, auf Chinesisch. Aber immerhin (andererseits) ist es offen.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Egy nő megértése egyszerű dolog: nyitott könyv. Csak éppen egy kínai kvantumfizikai szakkönyv. De legalább nem csukott. - Eine Frau zu verstehen ist eine einfache Sache (Das Verstehen einer Frau ist einfach): ein offenes Buch. Allerdings (nur eben/gerade) ein chinesisches Fachbuch über Quantenphysik. Aber wenigstens nicht geschlossen.</p>
+<p class="pc-note">csuk (csukni) = bezár - schließen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Egy nő valójában nagyon könnyen érthető: olyan, mint egy nyitott könyv. Olyan, mint egy kínai nyelvű kvantumfizika-könyv. De legalább nyitva van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">valójában</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Egy nőt nem nehéz megérteni: olyan, mint egy nyitott könyv. Igaz, ez a könyv kvantumfizikáról szól, kínaiul. Viszont (de) nyitva van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Egy nő megértése egyszerű dolog: nyitott könyv. Csak éppen egy kínai kvantumfizikai szakkönyv. De legalább nem csukott.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csuk (csukni) = bezár</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Frau ist eigentlich ganz einfach zu verstehen: Sie ist so wie ein offenes Buch. So wie ein Buch über Quantenphysik auf Chinesisch. Aber wenigstens ist es offen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">in Wirklichkeit, eigentlich, tatsächlich</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Es ist nicht schwer eine Frau zu verstehen (Eine Frau ist nicht schwer zu verstehen): So wie ein offenes Buch. Zwar (es ist wahr) handelt (erzählt) dieses Buch von Quantenphysik, auf Chinesisch. Aber immerhin (andererseits) ist es offen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Frau zu verstehen ist eine einfache Sache (Das Verstehen einer Frau ist einfach): ein offenes Buch. Allerdings (nur eben/gerade) ein chinesisches Fachbuch über Quantenphysik. Aber wenigstens nicht geschlossen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schließen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 6</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Utólag mindig előre tudta. - Hinterher hat er es immer vorher gewusst.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Visszatekintve számára mindig nyilvánvaló volt előre. - Rückblickend war es für ihn immer im Voraus offensichtlich. - Im Nachhinein erschien es ihm immer schon offensichtlich.</p>
+<p class="pc-note">tekint - betrachten, blicken, sehen</p>
+<p class="pc-note">számára - für ihn</p>
+<p class="pc-note">szamár - Esel</p>
+<p class="pc-note">szamara - sein Esel</p>
+<p class="pc-note">Számára a szamara a barátja [baráttya]. - Für ihn ist sein Esel sein Freund.</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. A történtek után azt állította, hogy mindezt előre látta. - Nach den Geschehnissen behauptete er, dass er das alles vorher gewusst (gesehen) hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Utólag mindig előre tudta.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Visszatekintve számára mindig nyilvánvaló volt előre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tekint</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">számára</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szamár</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szamara</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Számára a szamara a barátja [baráttya].</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. A történtek után azt állította, hogy mindezt előre látta.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Hinterher hat er es immer vorher gewusst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Rückblickend war es für ihn immer im Voraus offensichtlich. - Im Nachhinein erschien es ihm immer schon offensichtlich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">betrachten, blicken, sehen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">für ihn</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Esel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sein Esel</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Für ihn ist sein Esel sein Freund.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nach den Geschehnissen behauptete er, dass er das alles vorher gewusst (gesehen) hat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Ha nincs dolga, akkor ne itt csinálja! - Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier!</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Amennyiben nincs semmi teendője, kérem, ne ezen a helyen tegye. - Wenn Sie nichts zu tun haben, dann tun Sie es bitte nicht hier!</p>
+<p class="pc-note">teendő - zu tun; die Maßnahme; die Aufgabe; das, was zu tun ist (im Ungarischen, noch dazu auf einer Tafel geschrieben würde es eher so verstanden werden: Hier ist kein WC. Kacken Sie hier nicht hin!)</p>
+<p class="pc-note">Sok teendőm van. - Ich habe viel zu tun.</p>
+<p class="pc-note">Nincs semmi teendő. - Es gibt nichts zu erledigen.</p>
+<p class="pc-note">A napi teendők. - Die täglichen Aufgaben.</p>
+<p class="pc-note">tesz - tun</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Ha éppen nincs elfoglaltsága [elfoglalcsága], máshol legyen tétlen. - Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier! - Wenn Sie gerade keine Beschäftigung haben, (dann) seien Sie anderswo.</p>
+<p class="pc-note">elfoglaltság - die Beschäftigung; Aktivität</p>
+<p class="pc-note">elfoglalt - beschäftigt</p>
+<p class="pc-note">foglalt - besetzt</p>
+<p class="pc-note">foglalt - freihalten; buchen</p>
+<p class="pc-note">fog - fangen; greifen; empfangen: Zahn; Futur (werden)</p>
+<p class="pc-note">tétlen - untätig; passiv  (tesz - tun); (“-tlan/-tlen” - “un-”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ha nincs dolga, akkor ne itt csinálja!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Amennyiben nincs semmi teendője, kérem, ne ezen a helyen tegye.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">teendő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Sok teendőm van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nincs semmi teendő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">A napi teendők.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ha éppen nincs elfoglaltsága [elfoglalcsága], máshol legyen tétlen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elfoglaltság</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elfoglalt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">foglalt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">foglalt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fog</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tétlen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn Sie nichts zu tun haben, dann tun Sie es bitte nicht hier!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zu tun; die Maßnahme; die Aufgabe; das, was zu tun ist (im Ungarischen, noch dazu auf einer Tafel geschrieben würde es eher so verstanden werden: Hier ist kein WC. Kacken Sie hier nicht hin!)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ich habe viel zu tun.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Es gibt nichts zu erledigen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Die täglichen Aufgaben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tun</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn Sie nichts zu tun haben, dann tun Sie es nicht hier! - Wenn Sie gerade keine Beschäftigung haben, (dann) seien Sie anderswo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Beschäftigung; Aktivität</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">beschäftigt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">besetzt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">freihalten; buchen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fangen; greifen; empfangen: Zahn; Futur (werden)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">untätig; passiv  (tesz - tun); (“-tlan/-tlen” - “un-”)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Ha tényleg van ott fenn az égben valaki, akkor nekem igazán nagy problémám van. Bele sem merek gondolni. (= Nem is merek belegondolni) - Wenn es dort oben im Himmel wirklich jemanden gibt, dann habe ich wirklich ein ganz großes Problem. Ich mag gar nicht daran denken. (Ich wage nicht daran zu denken)</p>
+<p class="pc-note">mer - sich wagen; sich trauen</p>
+<p class="pc-note">mér - messen wiegen</p>
+<p class="pc-note">bele gondol - daran denken</p>
+<p class="pc-note">sem (nem is) - auch nicht; nicht einmal; nicht mal</p>
+<p class="pc-note">Bele sem merek gondolni. - Ich wage es nicht einmal, daran zu denken. (gar nicht)</p>
+<p class="pc-note">Nem merek belegondolni - Ich wage es nicht, daran zu denken.</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Amennyiben valóban létezik (= van) valaki odafent a mennyben, akkor komoly bajban vagyok. Inkább nem is gondolok rá. - Wenn (insofern) es dort oben im Himmel wirklich jemanden gibt (existiert), dann habe ich ein ernsthaftes Problem. Daran möchte ich lieber nicht denken. (Lieber denke ich nicht daran. - Ich denke lieber gar nicht erst daran. - Ich will lieber überhaupt nicht daran denken.)</p>
+<p class="pc-note">bajban vagyok - ich bin in Schwierigkeiten.</p>
+<p class="pc-note">nem gondolok rá - ich denke nicht daran</p>
+<p class="pc-note">nem is gondolok rá - ich denke überhaupt nicht (erst gar nicht)daran</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Ha az égben tényleg van valaki, akkor számomra ez óriási gondot jelentene. Jobb, ha nem foglalkozom a gondolattal. - Wenn im Himmel wirklich jemanden ist, dann würde das für mich ein riesiges Problem bedeuten. Es ist besser, wenn ich mich nicht mit mit (diesem) Gedanken beschäftige.</p>
+<p class="pc-note">gondolat - Gedanke; Idee</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ha tényleg van ott fenn az égben valaki, akkor nekem igazán nagy problémám van. Bele sem merek gondolni. (= Nem is merek belegondolni)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bele gondol</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sem (nem is)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Bele sem merek gondolni.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nem merek belegondolni</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Amennyiben valóban létezik (= van) valaki odafent a mennyben, akkor komoly bajban vagyok. Inkább nem is gondolok rá.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">bajban vagyok</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nem gondolok rá</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nem is gondolok rá</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Ha az égben tényleg van valaki, akkor számomra ez óriási gondot jelentene. Jobb, ha nem foglalkozom a gondolattal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gondolat</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn es dort oben im Himmel wirklich jemanden gibt, dann habe ich wirklich ein ganz großes Problem. Ich mag gar nicht daran denken. (Ich wage nicht daran zu denken)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich wagen; sich trauen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">messen wiegen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">daran denken</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">auch nicht; nicht einmal; nicht mal</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ich wage es nicht einmal, daran zu denken. (gar nicht)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Ich wage es nicht, daran zu denken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn (insofern) es dort oben im Himmel wirklich jemanden gibt (existiert), dann habe ich ein ernsthaftes Problem. Daran möchte ich lieber nicht denken. (Lieber denke ich nicht daran. - Ich denke lieber gar nicht erst daran. - Ich will lieber überhaupt nicht daran denken.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ich bin in Schwierigkeiten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ich denke nicht daran</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ich denke überhaupt nicht (erst gar nicht)daran</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Wenn im Himmel wirklich jemanden ist, dann würde das für mich ein riesiges Problem bedeuten. Es ist besser, wenn ich mich nicht mit mit (diesem) Gedanken beschäftige.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Gedanke; Idee</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 9</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Miután végleg szem elől tévesztettük a célt, megkettőztük az erőfeszítéseinket. - Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem wir endgültig vor den Augen das Ziel verfehlt (verloren) haben, verdoppelten wir unsere Anstrengungen.</p>
+<p class="pc-note">miután . nachdem; da</p>
+<p class="pc-note">mi után? - wonach?</p>
+<p class="pc-note">mi után - wonach</p>
+<p class="pc-note">elveszít - verlieren</p>
+<p class="pc-note">téved - täuschen</p>
+<p class="pc-note">tévszt - verfehlen; verwechseln; sich irren (in etwas)</p>
+<p class="pc-note">erőfeszítés - Anstrengung; Bemühung</p>
+<p class="pc-note">szem elől téveszt - aus den Augen verlieren (vor den Augen verfehlen)</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Amikor már teljesen elvesztettük a célt, még nagyobb lendülettel dolgoztunk tovább. - Als wir das Ziel schon ganz aus den Augen verloren hatten, arbeiteten wir mit noch mit größerem Schwung weiter.</p>
+<p class="pc-note">lendület - Schwung; Anstoß; Wucht</p>
+<p class="pc-note">svung - Schwungkraft</p>
+<p class="pc-note">lendül - sich schwingen; geschwungen</p>
+<p class="pc-note">lendületes - schwungvoll; schwunghaft</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Miután a cél végleg kicsúszott a látóterünkből, kétszer akkora erővel igyekeztünk. (sehr poetisch/offiziell) - Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem das Ziel endgültig aus unserem Gesichtsfeld herausgerutscht ist, bemühten wir uns mit zweimal so großer Kraft.</p>
+<p class="pc-note">csúszik - rutschen; schlittern</p>
+<p class="pc-note">kicsúszik - ausrutschen; verrutschen; entschlüpfen; herausrutschen</p>
+<p class="pc-note">látótér - Blickfeld; Gesichtsfeld</p>
+<p class="pc-note">igyekezik - sich Mühe geben; sich bemühen; eilen</p>
+<p class="pc-note">igyekvés - Bemühung; Bestreben; Emsigkeit</p>
+<p class="pc-note">igyekvő - strebsam; emsig</p>
+<p class="pc-note">stréber - der Streber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Miután végleg szem elől tévesztettük a célt, megkettőztük az erőfeszítéseinket.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">miután . nachdem; da</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mi után?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">mi után</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elveszít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">téved</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">tévszt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">erőfeszítés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">szem elől téveszt</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Amikor már teljesen elvesztettük a célt, még nagyobb lendülettel dolgoztunk tovább.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lendület</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">svung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lendül</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lendületes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Miután a cél végleg kicsúszott a látóterünkből, kétszer akkora erővel igyekeztünk. (sehr poetisch/offiziell)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">csúszik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">kicsúszik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">látótér</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igyekezik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igyekvés</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igyekvő</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">stréber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem wir endgültig vor den Augen das Ziel verfehlt (verloren) haben, verdoppelten wir unsere Anstrengungen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wonach?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">wonach</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verlieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">täuschen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">verfehlen; verwechseln; sich irren (in etwas)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Anstrengung; Bemühung</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">aus den Augen verlieren (vor den Augen verfehlen)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Als wir das Ziel schon ganz aus den Augen verloren hatten, arbeiteten wir mit noch mit größerem Schwung weiter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schwung; Anstoß; Wucht</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schwungkraft</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich schwingen; geschwungen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schwungvoll; schwunghaft</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Nachdem wir das Ziel endgültig aus den Augen verloren hatten, verdoppelten wir unsere Anstrengungen. - Nachdem das Ziel endgültig aus unserem Gesichtsfeld herausgerutscht ist, bemühten wir uns mit zweimal so großer Kraft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rutschen; schlittern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ausrutschen; verrutschen; entschlüpfen; herausrutschen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Blickfeld; Gesichtsfeld</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">sich Mühe geben; sich bemühen; eilen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Bemühung; Bestreben; Emsigkeit</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">strebsam; emsig</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der Streber</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 10</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az, hogy egy paradicsomra szükség volt, mindent elmond a teremtésről. - Dass sich ein Paradies als nötig erwies, sagt alles über die Schöpfung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az, hogy egy paradicsomra szükség volt, mindent elmond a teremtésről.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Dass sich ein Paradies als nötig erwies, sagt alles über die Schöpfung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 11</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Este okossá válik az ember az elmúlt napra nézve, - Am Abend wird man klug, für den vergangenen Tag,</p>
+<p>2. de sosem elég okossá ahhoz, amelyik még csak ezután jön. - doch niemals klug genug, für den, der kommen mag.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Este okossá válik az ember az elmúlt napra nézve,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. de sosem elég okossá ahhoz, amelyik még csak ezután jön.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Am Abend wird man klug, für den vergangenen Tag,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. doch niemals klug genug, für den, der kommen mag.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 12</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A henyélés minden bűn kezdete. - Müßiggang ist aller Laster Anfang.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A henyélés minden bűn kezdete.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Müßiggang ist aller Laster Anfang.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 13</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Vagyok, tehát gondolkodnom kellene. - Ich bin, also sollte ich denken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Vagyok, tehát gondolkodnom kellene.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich bin, also sollte ich denken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 14</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Csak akkor ítélj meg valakit, ha végigjártad az útját! - Urteile erst über jemanden, wenn du seinen Weg gegangen bist!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Csak akkor ítélj meg valakit, ha végigjártad az útját!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Urteile erst über jemanden, wenn du seinen Weg gegangen bist!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 15</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A boldog rabszolgák a szabadság legnagyobb ellenségei. - Es sind die glücklichen Sklaven der Freiheit größter Feind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A boldog rabszolgák a szabadság legnagyobb ellenségei.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Es sind die glücklichen Sklaven der Freiheit größter Feind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 16</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Többet felejtettem el, mint amennyit ti valaha tudni fogtok. - Ich habe mehr vergessen, als ihr je wissen werdet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Többet felejtettem el, mint amennyit ti valaha tudni fogtok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich habe mehr vergessen, als ihr je wissen werdet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 17</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Mindennek három oldala van. - Alles hat drei Seiten.</p>
+<p>2. Egy pozitív, egy negatív és egy komikus. - Eine positive, eine negative und eine komische.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mindennek három oldala van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy pozitív, egy negatív és egy komikus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Alles hat drei Seiten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Eine positive, eine negative und eine komische.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/558-witze/">« Zurück zu Witze 558</a> &nbsp;|&nbsp; <span>Witze 559</span> &nbsp;|&nbsp; <a href="/560-witze/">Weiter zu Witze 560 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

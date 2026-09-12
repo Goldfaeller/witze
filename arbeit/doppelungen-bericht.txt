@@ -1,0 +1,61 @@
+Fassung weg: 200 witze modjor-de.txt Witz 16c
+Fassung weg: 200 witze modjor-de.txt Witz 19b
+Fassung weg: 200 witze modjor-de.txt Witz 25b
+Fassung weg: 200 witze modjor-de.txt Witz 25c
+Fassung weg: 200 witze modjor-de.txt Witz 27c
+Fassung weg: 201 witze modjor-de.txt Witz 10b
+Fassung weg: 201 witze modjor-de.txt Witz 24c
+Fassung weg: 202 witze modjor-de.txt Witz 19c
+Fassung weg: 202 witze modjor-de.txt Witz 21c
+Fassung weg: 202 witze modjor-de.txt Witz 22b
+Doppelt: 10 witze modjor-de.txt Witz 3a = 08 witze modjor-de.txt Witz 12a
+Doppelt: 10 witze modjor-de.txt Witz 4 = 08 witze modjor-de.txt Witz 13a
+Doppelt: 17 witze modjor-de.txt Witz 2a = 16 witze modjor-de.txt Witz 1c
+Doppelt: wordpress/47-witze.txt Witz 4 = wordpress/47-witze.txt Witz 2
+Doppelt: 204 witze modjor-de.txt Witz 33 = 203 witze modjor-de.txt Witz 25
+Doppelt: 209 witze modjor-de.txt Witz 3 = 204 witze modjor-de.txt Witz 11
+Doppelt: 209 witze modjor-de.txt Witz 15 = 207 witze modjor-de.txt Witz 11
+Doppelt: 213 witze modjor-de.txt Spruch 35 = 210 witze modjor-de.txt Spruch 50
+Doppelt: 215 witze modjor-de.txt Spruch 5 = 212 witze modjor-de.txt Spruch 15
+Doppelt: 215 witze modjor-de.txt Spruch 34 = 215 witze modjor-de.txt Spruch 29
+Doppelt: 216 witze modjor-de.txt Spruch 9 = 210 witze modjor-de.txt Spruch 49
+Doppelt: 216 witze modjor-de.txt Spruch 36 = 213 witze modjor-de.txt Spruch 44
+Doppelt: 218 witze modjor-de.txt Spruch 57 = 200 witze modjor-de.txt Witz 28a
+Doppelt: 219 witze modjor-de.txt Spruch 42 = 212 witze modjor-de.txt Spruch 12
+Doppelt: 220 witze modjor-de.txt Spruch 4 = 219 witze modjor-de.txt Spruch 51
+Doppelt: 220 witze modjor-de.txt Spruch 15 = 220 witze modjor-de.txt Spruch 6
+Doppelt: 220 witze modjor-de.txt Spruch 45 = 214 witze modjor-de.txt Spruch 21
+Doppelt: 220 witze modjor-de.txt Spruch 57 = 210 witze modjor-de.txt Spruch 33
+Doppelt: 221 witze modjor-de.txt Spruch 14 = 213 witze modjor-de.txt Spruch 4
+Doppelt: 221 witze modjor-de.txt Spruch 21 = 210 witze modjor-de.txt Spruch 19
+Doppelt: 223 witze modjor-de.txt Spruch 13 = 201 witze modjor-de.txt Witz 5a
+Doppelt: 223 witze modjor-de.txt Spruch 20 = 220 witze modjor-de.txt Spruch 14
+Doppelt: 223 witze modjor-de.txt Spruch 22 = 201 witze modjor-de.txt Witz 13a
+Doppelt: 224 witze modjor-de.txt Spruch 3 = 210 witze modjor-de.txt Spruch 33
+Doppelt: 224 witze modjor-de.txt Spruch 6 = wordpress/49-witze.txt Spruch 17
+Doppelt: 224 witze modjor-de.txt Spruch 24 = 217 witze modjor-de.txt Spruch 21
+Doppelt: 224 witze modjor-de.txt Spruch 29 = 220 witze modjor-de.txt Spruch 43
+Doppelt: 224 witze modjor-de.txt Spruch 38 = 221 witze modjor-de.txt Spruch 31
+Doppelt: 225 witze modjor-de.txt Spruch 11 = 201 witze modjor-de.txt Witz 26a
+Doppelt: 225 witze modjor-de.txt Spruch 29 = 216 witze modjor-de.txt Spruch 31
+Doppelt: 225 witze modjor-de.txt Spruch 35 = 212 witze modjor-de.txt Spruch 12
+Doppelt: 225 witze modjor-de.txt Spruch 49 = 213 witze modjor-de.txt Spruch 43
+Doppelt: 226 witze modjor-de.txt Spruch 12 = 223 witze modjor-de.txt Spruch 26
+Doppelt: 226 witze modjor-de.txt Spruch 13 = 226 witze modjor-de.txt Spruch 11
+Doppelt: 226 witze modjor-de.txt Spruch 16 = 221 witze modjor-de.txt Spruch 44
+Doppelt: 226 witze modjor-de.txt Spruch 22 = 224 witze modjor-de.txt Spruch 47
+Doppelt: 226 witze modjor-de.txt Spruch 24 = 220 witze modjor-de.txt Spruch 12
+Doppelt: 226 witze modjor-de.txt Spruch 27 = 225 witze modjor-de.txt Spruch 19
+Doppelt: 226 witze modjor-de.txt Spruch 48 = 211 witze modjor-de.txt Spruch 1
+Doppelt: 228 witze modjor-de.txt Spruch 27 = 225 witze modjor-de.txt Spruch 27
+Doppelt: 228 witze modjor-de.txt Spruch 38 = 221 witze modjor-de.txt Spruch 28
+Doppelt: 228 witze modjor-de.txt Spruch 39 = 220 witze modjor-de.txt Spruch 14
+Doppelt: 228 witze modjor-de.txt Spruch 44 = 213 witze modjor-de.txt Spruch 11
+Doppelt: 228 witze modjor-de.txt Spruch 47 = 223 witze modjor-de.txt Spruch 41
+Doppelt: 228 witze modjor-de.txt Spruch 50 = 227 witze modjor-de.txt Spruch 16
+Doppelt: 228 witze modjor-de.txt Spruch 52 = 222 witze modjor-de.txt Spruch 37
+Doppelt: 229 witze modjor-de.txt Spruch 12 = 221 witze modjor-de.txt Spruch 44
+Doppelt: wordpress/65-witze.txt Sprichwort 28 = 221 witze modjor-de.txt Spruch 9
+Doppelt: wordpress/65-witze.txt Verballhornung 30 = 216 witze modjor-de.txt Spruch 41
+Doppelt: wordpress/66-witze.txt Witz 18 = 211 witze modjor-de.txt Spruch 6
+Doppelt: wordpress/67-witze.txt Witz 4 = wordpress/51-witze.txt Spruch 20

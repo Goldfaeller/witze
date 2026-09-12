@@ -1,0 +1,1637 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/535-witze/">« Zurück zu Witze 535</a> &nbsp;|&nbsp; <span>Witze 536</span> &nbsp;|&nbsp; <a href="/537-witze/">Weiter zu Witze 537 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 536</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy kukkoló. - Ein Exhibitionist.</p>
+<p>2. Egy nő kijön a szupermarketből, és betolja a bevásárlókocsit a gyűjtőhelyre, majd visszadugja a zárba, hogy kijöjjön az érme. - Eine Frau kommt aus dem Supermarkt und schiebt ihren Wagen in die Box, steckt den Stöpsel hinein, damit die Münze herauskommt.</p>
+<p>3. Megfordul, és egy kukkoló áll előtte, kinyitja a kabátját. - Sie dreht sich um, steht ein Exhibitionist vor ihr und öffnet den Mantel.</p>
+<p>4. Ránéz, és azt mondja: „Hű, köszönöm, hogy emlékeztetett, még akartam scampit venni.” - Sie schaut ihn an und sagt: „Mensch, super, dass Sie mich daran erinnern. Ich wollte doch noch Scampis kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy kukkoló.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy nő kijön a szupermarketből, és betolja a bevásárlókocsit a gyűjtőhelyre, majd visszadugja a zárba, hogy kijöjjön az érme.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Megfordul, és egy kukkoló áll előtte, kinyitja a kabátját.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Ránéz, és azt mondja: „Hű, köszönöm, hogy emlékeztetett, még akartam scampit venni.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Exhibitionist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Eine Frau kommt aus dem Supermarkt und schiebt ihren Wagen in die Box, steckt den Stöpsel hinein, damit die Münze herauskommt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sie dreht sich um, steht ein Exhibitionist vor ihr und öffnet den Mantel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Sie schaut ihn an und sagt: „Mensch, super, dass Sie mich daran erinnern. Ich wollte doch noch Scampis kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy exhibicionista. - Ein Exhibitionist.</p>
+<p>2. Egy nő kilép a boltból, visszatolja a kocsit a helyére, és a zárba dugja a láncot, hogy visszakapja az érmét. - Eine Frau kommt aus dem Laden, schiebt den Wagen zurück und steckt die Kette hinein, damit sie die Münze zurückbekommt.</p>
+<p>3. Amikor megfordul, egy exhibicionista áll előtte, és kitárja a kabátját. - Als sie sich umdreht, steht ein Exhibitionist vor ihr und öffnet seinen Mantel.</p>
+<p>4. A nő ránéz, és mondja: „Jaj, de jó, hogy szólt, még akartam scampit venni.” - Die Frau schaut ihn an und sagt: „Ach, gut, dass Sie mich daran erinnern, ich wollte noch Scampis kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy exhibicionista.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy nő kilép a boltból, visszatolja a kocsit a helyére, és a zárba dugja a láncot, hogy visszakapja az érmét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Amikor megfordul, egy exhibicionista áll előtte, és kitárja a kabátját.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A nő ránéz, és mondja: „Jaj, de jó, hogy szólt, még akartam scampit venni.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Exhibitionist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Eine Frau kommt aus dem Laden, schiebt den Wagen zurück und steckt die Kette hinein, damit sie die Münze zurückbekommt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Als sie sich umdreht, steht ein Exhibitionist vor ihr und öffnet seinen Mantel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Frau schaut ihn an und sagt: „Ach, gut, dass Sie mich daran erinnern, ich wollte noch Scampis kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy mutogatós férfi. - Ein Exhibitionist.</p>
+<p>2. Egy nő kijön a szupermarketből, visszatolja a bevásárlókocsit, és visszadugja a zárat, hogy kijöjjön a pénz. - Eine Frau kommt aus dem Supermarkt, schiebt den Wagen zurück und steckt das Schloss hinein, damit das Geld herauskommt.</p>
+<p>3. Megfordul, és egy férfi áll ott, aki szétnyitja a kabátját. - Sie dreht sich um, und da steht ein Mann, der seinen Mantel öffnet.</p>
+<p>4. A nő ránéz, és így szól: „Hát persze, majdnem elfelejtettem, még scampit akartam venni.” - Die Frau schaut ihn an und sagt: „Ach ja, ich hätte fast vergessen, ich wollte noch Scampis kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy mutogatós férfi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy nő kijön a szupermarketből, visszatolja a bevásárlókocsit, és visszadugja a zárat, hogy kijöjjön a pénz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Megfordul, és egy férfi áll ott, aki szétnyitja a kabátját.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A nő ránéz, és így szól: „Hát persze, majdnem elfelejtettem, még scampit akartam venni.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Exhibitionist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Eine Frau kommt aus dem Supermarkt, schiebt den Wagen zurück und steckt das Schloss hinein, damit das Geld herauskommt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Sie dreht sich um, und da steht ein Mann, der seinen Mantel öffnet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die Frau schaut ihn an und sagt: „Ach ja, ich hätte fast vergessen, ich wollte noch Scampis kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Kivágtam egy képet egy női magazinból. - Ich habe mir ein Foto aus einer Frauenzeitschrift ausgeschnitten.</p>
+<p>2. Egy fiatal, csinos nő látható rajta bikiniben a tengerparton, aki „szerelmesen” fekszik egy nála sokkal-sokkal idősebb, kövér és csúnya férfi karjaiban. - Es zeigt eine junge, hübsche Frau im Bikini am Strand, die „verliebt“ in den Armen eines viel, viel älteren, dicken und hässlichen Mannes liegt.</p>
+<p>3. Ezzel a képpel akarom motiválni a lányomat és a fiamat, hogy jobban tanuljanak az iskolában, és jó szakmát szerezzenek. - Mit diesem Bild will ich meine Tochter und meinen Sohn motivieren, in der Schule besser zu lernen und einen guten Beruf zu erlernen.</p>
+<p>4. A lányomnak azt mondom: „Ez vár rád, ha nem tudsz saját pénzt keresni.” - Meiner Tochter werde ich sagen: „Das erwartet dich, wenn du nicht dein eigenes Geld verdienen kannst.“</p>
+<p>5. A fiamnak pedig azt mondom: „Ezt kaphatod, ha jó szakmád lesz és sok pénzt keresel.” - Meinem Sohn werde ich sagen: „Das kannst du haben, wenn du einen guten Beruf hast und viel Geld verdienst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kivágtam egy képet egy női magazinból.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy fiatal, csinos nő látható rajta bikiniben a tengerparton, aki „szerelmesen” fekszik egy nála sokkal-sokkal idősebb, kövér és csúnya férfi karjaiban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ezzel a képpel akarom motiválni a lányomat és a fiamat, hogy jobban tanuljanak az iskolában, és jó szakmát szerezzenek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A lányomnak azt mondom: „Ez vár rád, ha nem tudsz saját pénzt keresni.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A fiamnak pedig azt mondom: „Ezt kaphatod, ha jó szakmád lesz és sok pénzt keresel.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich habe mir ein Foto aus einer Frauenzeitschrift ausgeschnitten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Es zeigt eine junge, hübsche Frau im Bikini am Strand, die „verliebt“ in den Armen eines viel, viel älteren, dicken und hässlichen Mannes liegt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Mit diesem Bild will ich meine Tochter und meinen Sohn motivieren, in der Schule besser zu lernen und einen guten Beruf zu erlernen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Meiner Tochter werde ich sagen: „Das erwartet dich, wenn du nicht dein eigenes Geld verdienen kannst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Meinem Sohn werde ich sagen: „Das kannst du haben, wenn du einen guten Beruf hast und viel Geld verdienst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy női újságból kivágtam egy fotót. - Ich habe aus einer Frauenzeitschrift ein Foto ausgeschnitten.</p>
+<p>2. Egy fiatal, szép nő van rajta bikiniben a parton, aki „szerelmesen” fekszik egy nála jóval idősebb, kövér és csúnya férfi ölelésében. - Darauf ist eine junge, schöne Frau im Bikini am Strand, die „verliebt“ in der Umarmung eines viel älteren, dicken und hässlichen Mannes liegt.</p>
+<p>3. Ezzel szeretném ösztönözni a gyerekeimet, hogy többet tanuljanak, és jó szakmát válasszanak. - Damit möchte ich meine Kinder dazu anspornen, mehr zu lernen und einen guten Beruf zu wählen.</p>
+<p>4. A lányomnak így szólok: „Ez lesz a sorsod, ha nem tudsz önállóan pénzt keresni.” - Zu meiner Tochter sage ich: „Das wird dein Schicksal sein, wenn du kein eigenes Geld verdienen kannst.“</p>
+<p>5. A fiamnak pedig ezt mondom: „Ez lehet a tiéd, ha jó szakmád van és sokat keresel.” - Und zu meinem Sohn sage ich: „Das kann deins sein, wenn du einen guten Beruf hast und viel verdienst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy női újságból kivágtam egy fotót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy fiatal, szép nő van rajta bikiniben a parton, aki „szerelmesen” fekszik egy nála jóval idősebb, kövér és csúnya férfi ölelésében.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ezzel szeretném ösztönözni a gyerekeimet, hogy többet tanuljanak, és jó szakmát válasszanak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A lányomnak így szólok: „Ez lesz a sorsod, ha nem tudsz önállóan pénzt keresni.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A fiamnak pedig ezt mondom: „Ez lehet a tiéd, ha jó szakmád van és sokat keresel.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich habe aus einer Frauenzeitschrift ein Foto ausgeschnitten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Darauf ist eine junge, schöne Frau im Bikini am Strand, die „verliebt“ in der Umarmung eines viel älteren, dicken und hässlichen Mannes liegt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Damit möchte ich meine Kinder dazu anspornen, mehr zu lernen und einen guten Beruf zu wählen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Zu meiner Tochter sage ich: „Das wird dein Schicksal sein, wenn du kein eigenes Geld verdienen kannst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Und zu meinem Sohn sage ich: „Das kann deins sein, wenn du einen guten Beruf hast und viel verdienst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy női magazinból kivágtam egy képet. - Ich habe aus einer Frauenzeitschrift ein Bild ausgeschnitten.</p>
+<p>2. Egy fiatal, vonzó nő látható rajta bikiniben a tengerparton, aki „szerelmesen” fekszik egy sokkal idősebb, kövér és csúnya férfi karjaiban. - Es zeigt eine junge, attraktive Frau im Bikini am Strand, die „verliebt“ in den Armen eines deutlich älteren, dicken und hässlichen Mannes liegt.</p>
+<p>3. Ezt a képet arra használom, hogy a gyerekeimet jobb tanulásra ösztönözzem. - Dieses Bild benutze ich, um meine Kinder zu besserem Lernen zu motivieren.</p>
+<p>4. A lányomnak azt mondom: „Erre számíthatsz, ha nem keresel saját pénzt.” - Meiner Tochter sage ich: „Damit musst du rechnen, wenn du kein eigenes Geld verdienst.“</p>
+<p>5. A fiamnak pedig: „Ilyened lehet, ha jól keresel.” - Meinem Sohn sage ich: „So etwas kannst du haben, wenn du gut verdienst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy női magazinból kivágtam egy képet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Egy fiatal, vonzó nő látható rajta bikiniben a tengerparton, aki „szerelmesen” fekszik egy sokkal idősebb, kövér és csúnya férfi karjaiban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ezt a képet arra használom, hogy a gyerekeimet jobb tanulásra ösztönözzem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A lányomnak azt mondom: „Erre számíthatsz, ha nem keresel saját pénzt.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A fiamnak pedig: „Ilyened lehet, ha jól keresel.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ich habe aus einer Frauenzeitschrift ein Bild ausgeschnitten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Es zeigt eine junge, attraktive Frau im Bikini am Strand, die „verliebt“ in den Armen eines deutlich älteren, dicken und hässlichen Mannes liegt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Dieses Bild benutze ich, um meine Kinder zu besserem Lernen zu motivieren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Meiner Tochter sage ich: „Damit musst du rechnen, wenn du kein eigenes Geld verdienst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Meinem Sohn sage ich: „So etwas kannst du haben, wenn du gut verdienst.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi azt mondja a feleségének: „Amikor vitatkozunk, mindig ragaszkodsz ahhoz, hogy neked legyen igazad.” - Sagt ein Mann zu seiner Frau: „Wenn wir diskutieren, bestehst du immer darauf, dass du Recht hast.“</p>
+<p>2. A nő válaszol: „Hát ha a te véleményeden lennék, akkor mindketten tévednénk.” - Sie antwortet: „Na, wenn ich deiner Meinung wäre, dann hätten wir ja beide Unrecht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi azt mondja a feleségének: „Amikor vitatkozunk, mindig ragaszkodsz ahhoz, hogy neked legyen igazad.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A nő válaszol: „Hát ha a te véleményeden lennék, akkor mindketten tévednénk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Sagt ein Mann zu seiner Frau: „Wenn wir diskutieren, bestehst du immer darauf, dass du Recht hast.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Sie antwortet: „Na, wenn ich deiner Meinung wäre, dann hätten wir ja beide Unrecht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férj így szól a feleségéhez: „Vita közben mindig azt állítod, hogy igazad van.” - Ein Mann sagt zu seiner Frau: „Beim Diskutieren behauptest du immer, dass du recht hast.“</p>
+<p>2. A feleség felel: „Ha a te álláspontodat osztanám, akkor mindketten tévednénk.” - Die Frau antwortet: „Wenn ich deine Ansicht teilen würde, dann hätten wir beide unrecht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férj így szól a feleségéhez: „Vita közben mindig azt állítod, hogy igazad van.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A feleség felel: „Ha a te álláspontodat osztanám, akkor mindketten tévednénk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann sagt zu seiner Frau: „Beim Diskutieren behauptest du immer, dass du recht hast.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Frau antwortet: „Wenn ich deine Ansicht teilen würde, dann hätten wir beide unrecht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi mondja a feleségének: „Amikor vitázunk, mindig azt akarod, hogy neked legyen igazad.” - Ein Mann sagt zu seiner Frau: „Wenn wir streiten, willst du immer, dass du recht hast.“</p>
+<p>2. A nő visszavág: „Ha egyetértenék veled, akkor mindketten tévednénk.” - Die Frau kontert: „Wenn ich dir zustimmen würde, dann würden wir beide unrecht haben.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy férfi mondja a feleségének: „Amikor vitázunk, mindig azt akarod, hogy neked legyen igazad.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A nő visszavág: „Ha egyetértenék veled, akkor mindketten tévednénk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Mann sagt zu seiner Frau: „Wenn wir streiten, willst du immer, dass du recht hast.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Die Frau kontert: „Wenn ich dir zustimmen würde, dann würden wir beide unrecht haben.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszika bemegy a patikába, és megkérdezi a gyógyszerészt: „Van répakád?” - Kommt das Häschen in die Apotheke und fragt den Apotheker: „Haddu Möhrchen?“</p>
+<p>2. A gyógyszerész azt mondja: „Nincs, nálam csak gyógyszert lehet kapni.” - Der Apotheker sagt: „Nein, ich habe keine Möhrchen, bei mir kannst du nur Medizin kaufen.“</p>
+<p>3. Másnap a nyuszika újra jön: „Van répakád?” - Am nächsten Tag kommt das Häschen wieder: „Haddu Möhrchen?“</p>
+<p>4. „Nincs”, mondja a gyógyszerész, „mondtam, hogy csak gyógyszert árulok.” - „Nein“, sagt der Apotheker, „ich habe dir doch gesagt, dass ich nur Medizin verkaufe!“</p>
+<p>5. Harmadik nap a nyuszika megint elmegy a patikába. - Am dritten Tag kommt das Häschen wieder zur Apotheke.</p>
+<p>6. Az ajtón egy tábla lóg: „Ma nincs répa.” - An der Tür hängt ein Schild: „Heute keine Möhrchen.“</p>
+<p>7. A nyuszika szemrehányóan mondja: „Akkor mégis volt répakád!” - Sagt das Häschen zum Apotheker vorwurfsvoll: „Haddu doch Möhrchen gehabt!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszika bemegy a patikába, és megkérdezi a gyógyszerészt: „Van répakád?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A gyógyszerész azt mondja: „Nincs, nálam csak gyógyszert lehet kapni.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Másnap a nyuszika újra jön: „Van répakád?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Nincs”, mondja a gyógyszerész, „mondtam, hogy csak gyógyszert árulok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Harmadik nap a nyuszika megint elmegy a patikába.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Az ajtón egy tábla lóg: „Ma nincs répa.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A nyuszika szemrehányóan mondja: „Akkor mégis volt répakád!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kommt das Häschen in die Apotheke und fragt den Apotheker: „Haddu Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Apotheker sagt: „Nein, ich habe keine Möhrchen, bei mir kannst du nur Medizin kaufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am nächsten Tag kommt das Häschen wieder: „Haddu Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Nein“, sagt der Apotheker, „ich habe dir doch gesagt, dass ich nur Medizin verkaufe!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Am dritten Tag kommt das Häschen wieder zur Apotheke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. An der Tür hängt ein Schild: „Heute keine Möhrchen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Sagt das Häschen zum Apotheker vorwurfsvoll: „Haddu doch Möhrchen gehabt!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a gyógyszertárba, és kérdezi: „Van répád?” - Ein Häschen geht in die Apotheke und fragt: „Hast du Möhrchen?“</p>
+<p>2. A patikus válaszol: „Nincs, itt csak gyógyszert árulunk.” - Der Apotheker antwortet: „Nein, hier verkaufen wir nur Medikamente.“</p>
+<p>3. Másnap a nyuszi visszajön: „Van répád?” - Am nächsten Tag kommt das Häschen zurück: „Hast du Möhrchen?“</p>
+<p>4. A patikus így szól: „Mondtam már, hogy nincs, csak gyógyszert adok el.” - Der Apotheker sagt: „Ich habe dir doch schon gesagt, dass ich keine habe, ich verkaufe nur Medizin.“</p>
+<p>5. A harmadik napon a nyuszi ismét megjelenik. - Am dritten Tag erscheint das Häschen wieder.</p>
+<p>6. Az ajtóra ki van írva: „Ma nincs répa.” - An der Tür steht: „Heute keine Möhrchen.“</p>
+<p>7. A nyuszi megszólal: „Na ugye, volt répa!” - Das Häschen sagt: „Na also, es gab doch Möhrchen!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a gyógyszertárba, és kérdezi: „Van répád?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A patikus válaszol: „Nincs, itt csak gyógyszert árulunk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Másnap a nyuszi visszajön: „Van répád?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A patikus így szól: „Mondtam már, hogy nincs, csak gyógyszert adok el.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. A harmadik napon a nyuszi ismét megjelenik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Az ajtóra ki van írva: „Ma nincs répa.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A nyuszi megszólal: „Na ugye, volt répa!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Häschen geht in die Apotheke und fragt: „Hast du Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Apotheker antwortet: „Nein, hier verkaufen wir nur Medikamente.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am nächsten Tag kommt das Häschen zurück: „Hast du Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Apotheker sagt: „Ich habe dir doch schon gesagt, dass ich keine habe, ich verkaufe nur Medizin.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Am dritten Tag erscheint das Häschen wieder.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. An der Tür steht: „Heute keine Möhrchen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Das Häschen sagt: „Na also, es gab doch Möhrchen!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a patikába, és azt kérdezi: „Van répa?” - Ein Häschen kommt in die Apotheke und fragt: „Gibt es Möhrchen?“</p>
+<p>2. A gyógyszerész felel: „Nincs, itt csak gyógyszereket kapsz.” - Der Apotheker antwortet: „Nein, hier bekommst du nur Medikamente.“</p>
+<p>3. Másnap megint jön: „Van répa?” - Am nächsten Tag kommt es wieder: „Gibt es Möhrchen?“</p>
+<p>4. A gyógyszerész mondja: „Nincs, már mondtam, hogy csak gyógyszert árulok.” - Der Apotheker sagt: „Nein, ich habe dir schon gesagt, dass ich nur Medizin verkaufe.“</p>
+<p>5. Harmadnap a nyuszi újra ott van. - Am dritten Tag ist das Häschen wieder da.</p>
+<p>6. Az ajtón egy felirat: „Ma nincs répa.” - An der Tür ein Schild: „Heute keine Möhrchen.“</p>
+<p>7. A nyuszi így szól: „Akkor mégis volt!” - Das Häschen sagt: „Dann gab es doch welche!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a patikába, és azt kérdezi: „Van répa?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A gyógyszerész felel: „Nincs, itt csak gyógyszereket kapsz.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Másnap megint jön: „Van répa?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A gyógyszerész mondja: „Nincs, már mondtam, hogy csak gyógyszert árulok.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Harmadnap a nyuszi újra ott van.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Az ajtón egy felirat: „Ma nincs répa.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. A nyuszi így szól: „Akkor mégis volt!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Häschen kommt in die Apotheke und fragt: „Gibt es Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Der Apotheker antwortet: „Nein, hier bekommst du nur Medikamente.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Am nächsten Tag kommt es wieder: „Gibt es Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Der Apotheker sagt: „Nein, ich habe dir schon gesagt, dass ich nur Medizin verkaufe.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Am dritten Tag ist das Häschen wieder da.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. An der Tür ein Schild: „Heute keine Möhrchen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Das Häschen sagt: „Dann gab es doch welche!“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszika bemegy a patikába, és megkérdezi: „Van répakád?” - Kommt das Häschen in die Apotheke und fragt: „Haddu Möhrchen?“</p>
+<p>2. „Igen, van répa”, mondja a gyógyszerész. - „Ja, ich habe Möhrchen“, sagt der Apotheker.</p>
+<p>3. „Jaj, elrontottad az egész viccet”, morogja a nyuszika, és elmegy. - „Och, du hast mir den ganzen Witz verdorben“, murmelt das Häschen und geht weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszika bemegy a patikába, és megkérdezi: „Van répakád?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igen, van répa”, mondja a gyógyszerész.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Jaj, elrontottad az egész viccet”, morogja a nyuszika, és elmegy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Kommt das Häschen in die Apotheke und fragt: „Haddu Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ja, ich habe Möhrchen“, sagt der Apotheker.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Och, du hast mir den ganzen Witz verdorben“, murmelt das Häschen und geht weg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a gyógyszertárba, és kérdezi: „Van répád?” - Ein Häschen geht in die Apotheke und fragt: „Hast du Möhrchen?“</p>
+<p>2. „Van, természetesen”, feleli a patikus. - „Ja, natürlich habe ich welche“, antwortet der Apotheker.</p>
+<p>3. „Na szép, tönkretetted a viccet”, dünnyögi a nyuszi, és elsétál. - „Na toll, du hast den Witz kaputtgemacht“, murmelt das Häschen und geht davon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a gyógyszertárba, és kérdezi: „Van répád?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Van, természetesen”, feleli a patikus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Na szép, tönkretetted a viccet”, dünnyögi a nyuszi, és elsétál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Häschen geht in die Apotheke und fragt: „Hast du Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ja, natürlich habe ich welche“, antwortet der Apotheker.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Na toll, du hast den Witz kaputtgemacht“, murmelt das Häschen und geht davon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a patikába, és azt kérdezi: „Van répa?” - Ein Häschen kommt in die Apotheke und fragt: „Gibt es Möhrchen?“</p>
+<p>2. „Igen, van”, mondja a gyógyszerész. - „Ja, es gibt Möhrchen“, sagt der Apotheker.</p>
+<p>3. „Ó, ezzel elrontottad a poént”, mondja halkan a nyuszi, és elvonul. - „Oh, damit hast du die Pointe verdorben“, sagt das Häschen leise und trollt sich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A nyuszi bemegy a patikába, és azt kérdezi: „Van répa?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igen, van”, mondja a gyógyszerész.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Ó, ezzel elrontottad a poént”, mondja halkan a nyuszi, és elvonul.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ein Häschen kommt in die Apotheke und fragt: „Gibt es Möhrchen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ja, es gibt Möhrchen“, sagt der Apotheker.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Oh, damit hast du die Pointe verdorben“, sagt das Häschen leise und trollt sich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az optimizmus gyávaság. - Optimismus ist Feigheit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az optimizmus gyávaság.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Optimismus ist Feigheit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Az optimizmus valójában gyávaság. - Optimismus ist in Wirklichkeit Feigheit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Az optimizmus valójában gyávaság.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Optimismus ist in Wirklichkeit Feigheit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy bolt ajtaján egy tábla: „Kedves tolvajok, ha elkapunk titeket, nem hívjuk a rendőrséget. De utána azt fogjátok kívánni, bárcsak azt tettük volna.” - Schild an einem Geschäft: „Liebe Diebe, wenn wir euch erwischen, dann rufen wir nicht die Polizei. Aber ihr werdet euch danach wünschen, wir hätten es getan.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy bolt ajtaján egy tábla: „Kedves tolvajok, ha elkapunk titeket, nem hívjuk a rendőrséget. De utána azt fogjátok kívánni, bárcsak azt tettük volna.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Schild an einem Geschäft: „Liebe Diebe, wenn wir euch erwischen, dann rufen wir nicht die Polizei. Aber ihr werdet euch danach wünschen, wir hätten es getan.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy üzleten ez a felirat áll: „Kedves tolvajok! Ha rajtakapunk benneteket, nem értesítjük a rendőrséget. Viszont később azt fogjátok kívánni, hogy inkább hívtuk volna.” - An einem Geschäft steht: „Liebe Diebe! Wenn wir euch erwischen, verständigen wir nicht die Polizei. Aber später werdet ihr euch wünschen, wir hätten sie gerufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy üzleten ez a felirat áll: „Kedves tolvajok! Ha rajtakapunk benneteket, nem értesítjük a rendőrséget. Viszont később azt fogjátok kívánni, hogy inkább hívtuk volna.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. An einem Geschäft steht: „Liebe Diebe! Wenn wir euch erwischen, verständigen wir nicht die Polizei. Aber später werdet ihr euch wünschen, wir hätten sie gerufen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy bolt előtt tábla: „Kedves tolvajok, ha elkapunk benneteket, nem szólunk a rendőrségnek. De utólag azt fogjátok kívánni, hogy mégis megtettük volna.” - Schild vor einem Geschäft: „Liebe Diebe, wenn wir euch erwischen, sagen wir der Polizei nichts. Aber danach werdet ihr euch wünschen, dass wir es doch getan hätten.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy bolt előtt tábla: „Kedves tolvajok, ha elkapunk benneteket, nem szólunk a rendőrségnek. De utólag azt fogjátok kívánni, hogy mégis megtettük volna.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Schild vor einem Geschäft: „Liebe Diebe, wenn wir euch erwischen, sagen wir der Polizei nichts. Aber danach werdet ihr euch wünschen, dass wir es doch getan hätten.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ádám és Éva. - Adam und Eva.</p>
+<p>2. Késő este, nem sokkal éjfél előtt. - Spät abends, kurz vor Mitternacht.</p>
+<p>3. Ádám és Éva éppen lefeküdnek, és Éva odafordul hozzá, álmodozva ránéz, és azt mondja: „Ádám, szeretsz engem?” - Adam und Eva gehen gerade ins Bett, und sie dreht sich zu ihm, schaut ihn verträumt an und sagt: „Adam, liebst du mich?“</p>
+<p>4. Erre ő: „Igen, kit mást?” - Dann sagt er: „Ja, wen denn sonst?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ádám és Éva.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Késő este, nem sokkal éjfél előtt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ádám és Éva éppen lefeküdnek, és Éva odafordul hozzá, álmodozva ránéz, és azt mondja: „Ádám, szeretsz engem?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Erre ő: „Igen, kit mást?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Adam und Eva.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Spät abends, kurz vor Mitternacht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Adam und Eva gehen gerade ins Bett, und sie dreht sich zu ihm, schaut ihn verträumt an und sagt: „Adam, liebst du mich?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Dann sagt er: „Ja, wen denn sonst?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ádám és Éva. - Adam und Eva.</p>
+<p>2. Késő este van, majdnem éjfél. - Es ist spät abends, fast Mitternacht.</p>
+<p>3. Ádám és Éva lefekszenek, Éva odafordul Ádámhoz, és így szól: „Ádám, te szeretsz engem?” - Adam und Eva legen sich ins Bett, Eva dreht sich zu Adam und sagt: „Adam, liebst du mich?“</p>
+<p>4. Ádám válaszol: „Persze, kit mást?” - Adam antwortet: „Natürlich, wen sonst?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ádám és Éva.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Késő este van, majdnem éjfél.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ádám és Éva lefekszenek, Éva odafordul Ádámhoz, és így szól: „Ádám, te szeretsz engem?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Ádám válaszol: „Persze, kit mást?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Adam und Eva.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Es ist spät abends, fast Mitternacht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Adam und Eva legen sich ins Bett, Eva dreht sich zu Adam und sagt: „Adam, liebst du mich?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Adam antwortet: „Natürlich, wen sonst?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 8c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ádám és Éva. - Adam und Eva.</p>
+<p>2. Késő este, majdnem éjfélkor. - Spät am Abend, fast um Mitternacht.</p>
+<p>3. Ádám és Éva lefekvéshez készülnek, Éva ránéz és megkérdezi: „Ádám, szeretsz?” - Adam und Eva machen sich bereit zum Schlafen, Eva schaut ihn an und fragt: „Adam, liebst du mich?“</p>
+<p>4. Ádám így felel: „Igen, kit szeressek még?” - Adam antwortet so: „Ja, wen sollte ich noch lieben?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ádám és Éva.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Késő este, majdnem éjfélkor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Ádám és Éva lefekvéshez készülnek, Éva ránéz és megkérdezi: „Ádám, szeretsz?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Ádám így felel: „Igen, kit szeressek még?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Adam und Eva.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Spät am Abend, fast um Mitternacht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Adam und Eva machen sich bereit zum Schlafen, Eva schaut ihn an und fragt: „Adam, liebst du mich?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Adam antwortet so: „Ja, wen sollte ich noch lieben?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 9a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Keményen dolgozni valamiért, amit nem szeretünk, azt stressznek hívjuk. - Hart für etwas zu arbeiten, das wir nicht lieben, nennt man Stress.</p>
+<p>2. Keményen dolgozni valamiért, amit szeretünk, azt szenvedélynek hívjuk. - Hart für etwas zu arbeiten, das wir lieben, nennt man Leidenschaft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Keményen dolgozni valamiért, amit nem szeretünk, azt stressznek hívjuk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Keményen dolgozni valamiért, amit szeretünk, azt szenvedélynek hívjuk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Hart für etwas zu arbeiten, das wir nicht lieben, nennt man Stress.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Hart für etwas zu arbeiten, das wir lieben, nennt man Leidenschaft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 9b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Amit nem szeretünk, azért keményen dolgozni: ez a stressz. - Für etwas, das wir nicht lieben, hart zu arbeiten: das ist Stress.</p>
+<p>2. Amit szeretünk, azért keményen dolgozni: ez a szenvedély. - Für etwas, das wir lieben, hart zu arbeiten: das ist Leidenschaft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Amit nem szeretünk, azért keményen dolgozni: ez a stressz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Amit szeretünk, azért keményen dolgozni: ez a szenvedély.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Für etwas, das wir nicht lieben, hart zu arbeiten: das ist Stress.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Für etwas, das wir lieben, hart zu arbeiten: das ist Leidenschaft.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/535-witze/">« Zurück zu Witze 535</a> &nbsp;|&nbsp; <span>Witze 536</span> &nbsp;|&nbsp; <a href="/537-witze/">Weiter zu Witze 537 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

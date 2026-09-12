@@ -2,3 +2,6 @@ hochladen.bat
 *.env
 __pycache__/
 *.pyc
+arbeit/bestand.json
+arbeit/bestand-ohne-doppel.json
+arbeit/seiten-500.json
