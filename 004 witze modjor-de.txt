@@ -1,0 +1,1904 @@
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+.pc-note{margin-left:1.5em;font-size:0.95em}
+.pc-gruppe{margin:42px 0 4px;padding-top:16px;border-top:3px double #a2a9b1;font-size:1.5rem;line-height:1.25;color:#1a252f}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container"><!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/3-witze/">« Zurück zu Witze 3</a> &nbsp;|&nbsp; <span>Witze 4</span> &nbsp;|&nbsp; <a href="/5-witze/">Weiter zu Witze 5 »</a>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p><strong>Witze 4</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An einigen Stellen steht hinter dem ungarischen Wort zusätzlich die Aussprache in eckigen Klammern. Beispiel: Segíts [segíccs] magadon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 1</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Egy vizsga, vizsgatárgy: logika - Eine Prüfung, Prüfungsfach: Logik</p>
+<p>2. Professzor: „Egy repülő ötszáz téglát szállít. Egy tégla a repülőből kiesik. Hany tégla van még a repülőben?“ - Professor: „Ein Flugzeug transportiert 500 Ziegelsteine. Ein Ziegelstein fällt aus dem Flugzeug. Wie viel Ziegelsteine sind noch im Flugzeug?“</p>
+<p>3. Egyetemista: „Ez egyszerű. Négyszázkilencvenkilenc.“ - Student: „Das ist einfach. 499.“</p>
+<p>4. Professzor: „Helyes! Következő kérdés: Hány lépés kell, hogy egy elefántot a hűtőszekrénybe tegyünk?“ - Professor: „Richtig! Nächste Frage: Welche drei Schritte sind nötig, um einen Elefanten in den Kühlschrank zu setzen?“</p>
+<p>5. Egyetemista: „Első: kinyitni a hűtőszekrényajtót, második: belerakni az elfántot, harmadik: becsukni a hűtőszekrényajtót.“ - Student: „1. Kühlschranktür aufmachen, 2. Elefant reinsetzen, 3. Kühlschranktür schließen.“</p>
+<p>6. Professzor: „Tovább. Hogy teszünk be egy zsiráfot a hűtőszekrénybe. Négy lépéssel.“ - Professor: „Weiter. Wie stellt man eine Giraffe in den Kühlschrank, mit vier Arbeitsschritten?“</p>
+<p>7. Egyetemista: „Első: kinyitni a hűtőszekrényajtót, második: kivenni az elefántot, harmadik: belerakni a zsiráfot, negyedik: becsukni a hűtőszekrényajtót.“ - Student: „1. Kühlschranktür aufmachen, 2. Elefant rausnehmen, 3. Giraffe reinstellen. 4. Kühlschranktür zu machen.“</p>
+<p>8. Professzor: „Kitűnő! Következő kérdés: Az oroszlánok királyának születésnapja van. Minden állat jön a születésnapjára. Kivéve egyet. Miért?“ - Professor: „Ausgezeichnet! Nächste Frage: Der König der Löwen hat Geburtstag. Alle Tiere kommen zu seinem Geburtstag. Außer einem. Warum?“</p>
+<p>9. Egyetemista: „A zsiráf hiányzik, mert még a hűtőszekrényben van.“ - Student: „Die Giraffe fehlt, weil sie noch im Kühlschrank ist.“</p>
+<p>10. Professzor: „Nagyszerű! Következő kérdés: Egy idős nő átmehet a mocsáron amiben krokodilok élnek?“ - Professor: „Großartig! Weiter! Kann eine alte Frau durch den Sumpf gehen, in dem die Krokodile leben?“</p>
+<p>11. Egyetemista: „Természetesen ő átmehet, mert ugyanis mindegyik krokodil a születésnapi ünnepségen van.“ - Student: „Natürlich kann sie das, denn die Krokodile sind ja alle bei der Geburtstagsfeier des Löwen.“</p>
+<p>12. Professzor: „Szép! És most az utolsó kérdés. Az idős nő átment a mocsáron. Bár nem voltak krokodilok a mocsárban, ő mégis meghalt. Mi történt vele?“ - Professor: „Schön! Und jetzt die letzte Frage. Die alte Frau ist durch den Sumpf gegangen. Obwohl es keine Krokodile gab ist sie trotzdem gestorben. Was ist mit ihr passiert?“</p>
+<p>13. Egyetemista: „Mocsá? Mmm? ... Elsűllyedt a mocsárban?“ - Student: „Mmm? ... Ist sie im Sumpf untergegangen?“</p>
+<p>14. Professzor: „Nem ... Neki a tégla a fejére esett, ami a repülőből leesett. Ön megbukott a vizsgán! Ön nem tud logikusan gondolkodni és Ön nem tudja megjegyezni a legfontosabb tényeket.“ - Professor: „Nein ... Ihr ist der Dachziegel auf den Kopf gefallen, der aus dem Flugzeug gefallen war. Sie sind durchgefallen! Sie können nicht logisch denken und Sie können sich nicht die wichtigsten Fakten merken.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Egy vizsga, vizsgatárgy: logika</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Professzor: „Egy repülő ötszáz téglát szállít. Egy tégla a repülőből kiesik. Hany tégla van még a repülőben?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Egyetemista: „Ez egyszerű. Négyszázkilencvenkilenc.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Professzor: „Helyes! Következő kérdés: Hány lépés kell, hogy egy elefántot a hűtőszekrénybe tegyünk?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Egyetemista: „Első: kinyitni a hűtőszekrényajtót, második: belerakni az elfántot, harmadik: becsukni a hűtőszekrényajtót.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Professzor: „Tovább. Hogy teszünk be egy zsiráfot a hűtőszekrénybe. Négy lépéssel.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Egyetemista: „Első: kinyitni a hűtőszekrényajtót, második: kivenni az elefántot, harmadik: belerakni a zsiráfot, negyedik: becsukni a hűtőszekrényajtót.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Professzor: „Kitűnő! Következő kérdés: Az oroszlánok királyának születésnapja van. Minden állat jön a születésnapjára. Kivéve egyet. Miért?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Egyetemista: „A zsiráf hiányzik, mert még a hűtőszekrényben van.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Professzor: „Nagyszerű! Következő kérdés: Egy idős nő átmehet a mocsáron amiben krokodilok élnek?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Egyetemista: „Természetesen ő átmehet, mert ugyanis mindegyik krokodil a születésnapi ünnepségen van.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Professzor: „Szép! És most az utolsó kérdés. Az idős nő átment a mocsáron. Bár nem voltak krokodilok a mocsárban, ő mégis meghalt. Mi történt vele?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Egyetemista: „Mocsá? Mmm? ... Elsűllyedt a mocsárban?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Professzor: „Nem ... Neki a tégla a fejére esett, ami a repülőből leesett. Ön megbukott a vizsgán! Ön nem tud logikusan gondolkodni és Ön nem tudja megjegyezni a legfontosabb tényeket.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Eine Prüfung, Prüfungsfach: Logik</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Professor: „Ein Flugzeug transportiert 500 Ziegelsteine. Ein Ziegelstein fällt aus dem Flugzeug. Wie viel Ziegelsteine sind noch im Flugzeug?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Student: „Das ist einfach. 499.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Professor: „Richtig! Nächste Frage: Welche drei Schritte sind nötig, um einen Elefanten in den Kühlschrank zu setzen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Student: „1. Kühlschranktür aufmachen, 2. Elefant reinsetzen, 3. Kühlschranktür schließen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Professor: „Weiter. Wie stellt man eine Giraffe in den Kühlschrank, mit vier Arbeitsschritten?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Student: „1. Kühlschranktür aufmachen, 2. Elefant rausnehmen, 3. Giraffe reinstellen. 4. Kühlschranktür zu machen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Professor: „Ausgezeichnet! Nächste Frage: Der König der Löwen hat Geburtstag. Alle Tiere kommen zu seinem Geburtstag. Außer einem. Warum?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Student: „Die Giraffe fehlt, weil sie noch im Kühlschrank ist.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Professor: „Großartig! Weiter! Kann eine alte Frau durch den Sumpf gehen, in dem die Krokodile leben?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Student: „Natürlich kann sie das, denn die Krokodile sind ja alle bei der Geburtstagsfeier des Löwen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. Professor: „Schön! Und jetzt die letzte Frage. Die alte Frau ist durch den Sumpf gegangen. Obwohl es keine Krokodile gab ist sie trotzdem gestorben. Was ist mit ihr passiert?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Student: „Mmm? ... Ist sie im Sumpf untergegangen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Professor: „Nein ... Ihr ist der Dachziegel auf den Kopf gefallen, der aus dem Flugzeug gefallen war. Sie sind durchgefallen! Sie können nicht logisch denken und Sie können sich nicht die wichtigsten Fakten merken.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Elefántos viccek. - Elefantenwitze.</p>
+<p>2. Honnan lehet felismerni, hogy egy csapat elefánt van a hűtőszekrényben? - Woran erkennt man, dass eine Herde Elefanten im Kühlschrank ist?</p>
+<p>3. Onnan, hogy nem lehet rendesen becsukni az ajtót. - Man bekommt die Tür nicht ganz zu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Elefántos viccek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Honnan lehet felismerni, hogy egy csapat elefánt van a hűtőszekrényben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Onnan, hogy nem lehet rendesen becsukni az ajtót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Elefantenwitze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Woran erkennt man, dass eine Herde Elefanten im Kühlschrank ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Man bekommt die Tür nicht ganz zu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Elefánt viccek. - Elefantenwitze.</p>
+<p>2. Miről lehet tudni, hogy elefántok vannak a hűtőben? - Woran merkt man, dass Elefanten im Kühlschrank sind?</p>
+<p>3. Arról, hogy az ajtó nem záródik be teljesen. - Daran, dass die Tür nicht vollständig zugeht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Elefánt viccek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Miről lehet tudni, hogy elefántok vannak a hűtőben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Arról, hogy az ajtó nem záródik be teljesen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Elefantenwitze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Woran merkt man, dass Elefanten im Kühlschrank sind?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Daran, dass die Tür nicht vollständig zugeht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 2c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Elefántos poénok. - Elefantenwitze.</p>
+<p>2. Hogyan veszed észre, hogy elefántcsorda van a hűtőben? - Wie erkennt man, dass eine Elefantenherde im Kühlschrank ist?</p>
+<p>3. Úgy, hogy nem tudod teljesen becsukni az ajtót. - So, dass man die Tür nicht ganz schließen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Elefántos poénok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Hogyan veszed észre, hogy elefántcsorda van a hűtőben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Úgy, hogy nem tudod teljesen becsukni az ajtót.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Elefantenwitze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Wie erkennt man, dass eine Elefantenherde im Kühlschrank ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. So, dass man die Tür nicht ganz schließen kann.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Honnan lehet felismerni, hogy egy fél csapat elefánt van a hűtőben? - Woran erkennt man, dass eine halbe Herde Elefanten im Kühlschrank ist?</p>
+<p>2. Onnan, hogy a másik fele a hűtő előtt vár. - Daran, dass die andere Hälfte vor dem Kühlschrank wartet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Honnan lehet felismerni, hogy egy fél csapat elefánt van a hűtőben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Onnan, hogy a másik fele a hűtő előtt vár.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Woran erkennt man, dass eine halbe Herde Elefanten im Kühlschrank ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Daran, dass die andere Hälfte vor dem Kühlschrank wartet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miről lehet tudni, hogy egy fél elefántcsorda a hűtőben van? - Woran merkt man, dass eine halbe Elefantenherde im Kühlschrank ist?</p>
+<p>2. Arról, hogy a többi elefánt kint vár a hűtő előtt. - Daran, dass die übrigen Elefanten draußen vor dem Kühlschrank warten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miről lehet tudni, hogy egy fél elefántcsorda a hűtőben van?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Arról, hogy a többi elefánt kint vár a hűtő előtt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Woran merkt man, dass eine halbe Elefantenherde im Kühlschrank ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Daran, dass die übrigen Elefanten draußen vor dem Kühlschrank warten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 3c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan veszed észre, hogy csak fél elefántcsorda van a hűtőben? - Wie erkennt man, dass nur eine halbe Elefantenherde im Kühlschrank ist?</p>
+<p>2. Úgy, hogy a másik felük a hűtő előtt áll. - So, dass die andere Hälfte davor steht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan veszed észre, hogy csak fél elefántcsorda van a hűtőben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Úgy, hogy a másik felük a hűtő előtt áll.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wie erkennt man, dass nur eine halbe Elefantenherde im Kühlschrank ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. So, dass die andere Hälfte davor steht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Honnan lehet felismerni, hogy egy csapat zsiráf van a hűtőben? - Woran erkennt man, dass eine Herde Giraffen im Kühlschrank ist?</p>
+<p>2. Onnan, hogy egy csapat elefánt vár a hűtő előtt. - Daran, dass eine Herde Elefanten vor dem Kühlschrank wartet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Honnan lehet felismerni, hogy egy csapat zsiráf van a hűtőben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Onnan, hogy egy csapat elefánt vár a hűtő előtt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Woran erkennt man, dass eine Herde Giraffen im Kühlschrank ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Daran, dass eine Herde Elefanten vor dem Kühlschrank wartet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miről lehet tudni, hogy zsiráfok vannak a hűtőszekrényben? - Woran merkt man, dass Giraffen im Kühlschrank sind?</p>
+<p>2. Arról, hogy elefántcsorda várakozik a hűtő előtt. - Daran, dass eine Elefantenherde vor dem Kühlschrank wartet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miről lehet tudni, hogy zsiráfok vannak a hűtőszekrényben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Arról, hogy elefántcsorda várakozik a hűtő előtt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Woran merkt man, dass Giraffen im Kühlschrank sind?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Daran, dass eine Elefantenherde vor dem Kühlschrank wartet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 4c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan veszed észre, hogy zsiráfcsorda van a hűtőben? - Wie erkennt man, dass eine Giraffenherde im Kühlschrank ist?</p>
+<p>2. Úgy, hogy egy elefántcsorda áll a hűtő előtt. - So, dass eine Elefantenherde davor steht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan veszed észre, hogy zsiráfcsorda van a hűtőben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Úgy, hogy egy elefántcsorda áll a hűtő előtt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wie erkennt man, dass eine Giraffenherde im Kühlschrank ist?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. So, dass eine Elefantenherde davor steht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nem bicikliznek az elefántok? - Warum fahren Elefanten kein Fahrrad?</p>
+<p>2. Azért, mert nincs hüvelykujjuk a csengőhöz. - Weil sie keinen Daumen zum Klingeln haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nem bicikliznek az elefántok?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert nincs hüvelykujjuk a csengőhöz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum fahren Elefanten kein Fahrrad?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Weil sie keinen Daumen zum Klingeln haben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Mi az oka annak, hogy az elefántok nem tudnak biciklivel közlekedni? - Was ist der Grund, dass Elefanten kein Fahrrad fahren können?</p>
+<p>2. Azért, mert nincs hüvelykujjuk, amivel csengessenek. - Weil sie keinen Daumen haben, mit dem sie klingeln können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mi az oka annak, hogy az elefántok nem tudnak biciklivel közlekedni?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert nincs hüvelykujjuk, amivel csengessenek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Was ist der Grund, dass Elefanten kein Fahrrad fahren können?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Weil sie keinen Daumen haben, mit dem sie klingeln können.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 5c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nem ülnek az elefántok biciklire? - Warum setzen sich Elefanten nicht auf ein Fahrrad?</p>
+<p>2. Azért, mert hiányzik a hüvelykujjuk a csengő megszólaltatásához. - Weil ihnen der Daumen fehlt, um die Klingel zu betätigen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Miért nem ülnek az elefántok biciklire?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Azért, mert hiányzik a hüvelykujjuk a csengő megszólaltatásához.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Warum setzen sich Elefanten nicht auf ein Fahrrad?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Weil ihnen der Daumen fehlt, um die Klingel zu betätigen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan lehet megakadályozni, hogy az elefántok túl sokat vásároljanak? - Wie verhindert man, dass Elefanten zu viel einkaufen?</p>
+<p>2. El kell venni tőlük a hitelkártyákat. - Man muss ihnen die Kreditkarten wegnehmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan lehet megakadályozni, hogy az elefántok túl sokat vásároljanak?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. El kell venni tőlük a hitelkártyákat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wie verhindert man, dass Elefanten zu viel einkaufen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Man muss ihnen die Kreditkarten wegnehmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Mit kell tenni, hogy az elefántok ne vásároljanak túl sokat? - Was muss man tun, damit Elefanten nicht zu viel einkaufen?</p>
+<p>2. El kell venni a bankkártyáikat. - Man muss ihre Kreditkarten wegnehmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Mit kell tenni, hogy az elefántok ne vásároljanak túl sokat?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. El kell venni a bankkártyáikat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Was muss man tun, damit Elefanten nicht zu viel einkaufen?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Man muss ihre Kreditkarten wegnehmen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 6c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan akadályozzuk meg, hogy az elefántok túlzásba vigyék a vásárlást? - Wie verhindert man, dass Elefanten das Einkaufen übertreiben?</p>
+<p>2. A hitelkártyáik elvételével. - Durch das Wegnehmen ihrer Kreditkarten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Hogyan akadályozzuk meg, hogy az elefántok túlzásba vigyék a vásárlást?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A hitelkártyáik elvételével.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Wie verhindert man, dass Elefanten das Einkaufen übertreiben?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Durch das Wegnehmen ihrer Kreditkarten.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 7</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Hogyan eszünk meg egy elefántot?” - „Wie isst man einen Elefanten?“</p>
+<p>2. - „Úgy, hogy szeletekre vágjuk.” - - „Indem man ihn in Scheiben schneidet.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Hogyan eszünk meg egy elefántot?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. - „Úgy, hogy szeletekre vágjuk.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Wie isst man einen Elefanten?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. - „Indem man ihn in Scheiben schneidet.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 8</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban. - Er benimmt sich wie ein Elefant im Prozellanladen.</p>
+<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben. - Lieber eine Fliege im Porzellanladen als einen Elefanten in der Suppe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Ő úgy viselkedik, mint egy elefánt a porcelánboltban.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Jobb egy légy a porcelánboltban, mint egy elefánt a levesben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Er benimmt sich wie ein Elefant im Prozellanladen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Lieber eine Fliege im Porzellanladen als einen Elefanten in der Suppe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spruch 9</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<p>1. Sok nő jobb feleség lenne, ha lemondana arról, hogy jobb férjet akarjon faragni a férjéből. - Viele Frauen wären bessere Ehefrauen, wenn sie darauf verzichten würden, aus ihrem Mann einen besseren Gatten machen zu wollen (schnitzen zu wollen).</p>
+<p class="pc-note">farag - schnitzen, meißeln</p>
+<p class="pc-note">fa - Holz, Baum</p>
+<p>2. .rág - nagen, knabbern</p>
+<p class="pc-note">rágcsálók (Rodentia) - Nagetieren</p>
+<p class="pc-note">ragozás - Flexion, Beugung (Grammatik)</p>
+<p class="pc-note">igeragozás - (Verb-)Konjugation</p>
+<p class="pc-note">névszóragozás - (Substantiv-)Deklination</p>
+<p class="pc-note">faragvány - Schnitzerei (Schnitzwerk)</p>
+<p class="pc-note">elefántcsont faragvány - Elfenbeinschnitzerei; Elfenbein-Schnitzwerk</p>
+<p class="pc-note">lemond vmiről - (auf etwas / von etwas) verzichten, sich lossagen; absagen; zurücktreten</p>
+<p class="pc-note"><strong>Version 2</strong></p>
+<p>1. Sok asszony sokkal jobb feleség lehetne [lähätnä], ha nem próbálná meg „megjavítani” a férjét. - Viele Frauen könnten eine viel bessere Gattin sein, wenn sie nicht versuchen würden ihren Gatten zu „verbessern”.</p>
+<p class="pc-note">jó - gut</p>
+<p class="pc-note">(meg)javít = jobbá tesz - besser machen</p>
+<p class="pc-note">java - das Gute; der bessere Teil; das Beste; der Hauptteil; der Kern</p>
+<p class="pc-note">javak - das Gut (das Vermögen; die Habe)</p>
+<p class="pc-note">anyagi javak - materielle Güter</p>
+<p class="pc-note">földi javak - irdische Güter</p>
+<p class="pc-note">közjavak - Gemeingüter; öffentliche Güter</p>
+<p class="pc-note">vokalischen Stammwechsel bei meist einsilbigen Substntiven: tó (tavak); ló (lovak); fű (füvek): kő (kovek); szó (szavak); tő (tövek)</p>
+<p class="pc-note">a nyár java = a nyár nagyobb része = a nyár jó része - der größere Teil des Sommers; ein Gutteil des Sommers</p>
+<p class="pc-note">az étel java - das Beste am Essen; der beste Teil des Essens</p>
+<p class="pc-note"><strong>Version 3</strong></p>
+<p>1. Sok nő házassága működne jobban, ha nem akarná a férjét átalakítani egy „ideális” férjjé. - Die Ehe vieler Frauen würde besser funktionieren, wenn sie ihren Mann nicht zum „idealen” Mann umformen wollen würden (wöllten). - Die Ehe vieler Frauen würde besser funktionieren, wenn sie darauf verzichten würden, ihren Mann zu einem besseren Gatten zu formen.</p>
+<p class="pc-note">nő házassága (a nőnek a házassága) - die Ehe der Frau (der Frau ihre Ehe: der Frau Ehe-ihre)</p>
+<p class="pc-note">átalakít - umformen</p>
+<p class="pc-note">alak - die Form</p>
+<p class="pc-note">alakít - formen</p>
+<p class="pc-note">egy „ideális” férjjé - zu einem „idealen” Gatten („-vá/-vé” - Transformativ)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Sok nő jobb feleség lenne, ha lemondana arról, hogy jobb férjet akarjon faragni a férjéből.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">farag</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">fa</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. .rág</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">rágcsálók (Rodentia)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">ragozás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">igeragozás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">névszóragozás</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">faragvány</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">elefántcsont faragvány</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">lemond vmiről</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Sok asszony sokkal jobb feleség lehetne [lähätnä], ha nem próbálná meg „megjavítani” a férjét.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">jó</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(meg)javít = jobbá tesz</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">java</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">javak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">anyagi javak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">földi javak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">közjavak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">vokalischen Stammwechsel bei meist einsilbigen Substntiven: tó (tavak); ló (lovak); fű (füvek): kő (kovek); szó (szavak); tő (tövek)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">a nyár java = a nyár nagyobb része = a nyár jó része</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">az étel java</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Sok nő házassága működne jobban, ha nem akarná a férjét átalakítani egy „ideális” férjjé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">nő házassága (a nőnek a házassága)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">átalakít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">alak</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">alakít</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">egy „ideális” férjjé</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 1</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Viele Frauen wären bessere Ehefrauen, wenn sie darauf verzichten würden, aus ihrem Mann einen besseren Gatten machen zu wollen (schnitzen zu wollen).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">schnitzen, meißeln</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Holz, Baum</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. nagen, knabbern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Nagetieren</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Flexion, Beugung (Grammatik)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(Verb-)Konjugation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(Substantiv-)Deklination</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Schnitzerei (Schnitzwerk)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Elfenbeinschnitzerei; Elfenbein-Schnitzwerk</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">(auf etwas / von etwas) verzichten, sich lossagen; absagen; zurücktreten</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 2</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Viele Frauen könnten eine viel bessere Gattin sein, wenn sie nicht versuchen würden ihren Gatten zu „verbessern”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">gut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">besser machen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Gute; der bessere Teil; das Beste; der Hauptteil; der Kern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Gut (das Vermögen; die Habe)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">materielle Güter</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">irdische Güter</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">Gemeingüter; öffentliche Güter</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">der größere Teil des Sommers; ein Gutteil des Sommers</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">das Beste am Essen; der beste Teil des Essens</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note"><strong>Version 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. Die Ehe vieler Frauen würde besser funktionieren, wenn sie ihren Mann nicht zum „idealen” Mann umformen wollen würden (wöllten). - Die Ehe vieler Frauen würde besser funktionieren, wenn sie darauf verzichten würden, ihren Mann zu einem besseren Gatten zu formen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Ehe der Frau (der Frau ihre Ehe: der Frau Ehe-ihre)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">umformen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">die Form</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">formen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p class="pc-note">zu einem „idealen” Gatten („-vá/-vé” - Transformativ)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 10</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. A ferj a konyhában a feleségének idegesen mondja: „Már megint tyúkhús? Nekem már lassan tollaim nőnek.“ - Der Mann sagt in der Küche genervt zu seiner Frau: „Schon wieder Hühnerfleisch? Mir wachsen schon langsam Federn.“</p>
+<p>2. A felesége feleli: „Akkor mit akarsz? Marhahúst? Hogy neked szarvaid nőjenek?“ - Seine Frau antwortet: „Was willst du denn? Rindfleisch? Damit dir Hörner wachsen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A ferj a konyhában a feleségének idegesen mondja: „Már megint tyúkhús? Nekem már lassan tollaim nőnek.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. A felesége feleli: „Akkor mit akarsz? Marhahúst? Hogy neked szarvaid nőjenek?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Der Mann sagt in der Küche genervt zu seiner Frau: „Schon wieder Hühnerfleisch? Mir wachsen schon langsam Federn.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Seine Frau antwortet: „Was willst du denn? Rindfleisch? Damit dir Hörner wachsen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 11</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Halló édes, van neked barátod?“ - „Hallo Süße, hast du einen Freund?“</p>
+<p>2. „Nincs.“ - „Nein.“</p>
+<p>3. „Miért nincs egy ilyen szép nőnek, mint te, barátja?“ - „Warum hat so eine schöne Frau wie du keinen Freund?“</p>
+<p>4. „A férjem nem engedi ezt nekem.“ - „Mein Mann erlaubt es mir nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Halló édes, van neked barátod?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Nincs.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Miért nincs egy ilyen szép nőnek, mint te, barátja?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „A férjem nem engedi ezt nekem.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Hallo Süße, hast du einen Freund?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Nein.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Warum hat so eine schöne Frau wie du keinen Freund?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Mein Mann erlaubt es mir nicht.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 12</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Tanú úr. Remélem, hogy tudja mi várható, ha itt hamisan tanúzik?“ - „Herr Zeuge, ich hoffe Sie wissen, was Sie erwartet, wenn Sie hier falsch aussagen?“</p>
+<p>2. „Igen, bíró úr, egy BMW-t ígértek nekem.“ - „Ja, Herr Richter, einen BMW hat man mir versprochen“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Tanú úr. Remélem, hogy tudja mi várható, ha itt hamisan tanúzik?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Igen, bíró úr, egy BMW-t ígértek nekem.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Herr Zeuge, ich hoffe Sie wissen, was Sie erwartet, wenn Sie hier falsch aussagen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ja, Herr Richter, einen BMW hat man mir versprochen“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 13a</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap meg akartam tréfálni a férjemet.“ - „Gestern wollte ich meinem Mann einen Streich spielen.“</p>
+<p>2. „Beletettem az egyik bugyimat a kabátzsebébe.“ - „Ich habe ihm einen Slip von mir in die Manteltasche gesteckt.“</p>
+<p>3. „Aztán viccből jelenetet akartam neki rendezni, hogy lássam, hogyan reagál.” - „Danach wollte ich ihm zum Spaß eine Szene machen und sehen wie er reagiert.“</p>
+<p>4. „És? Sikerült a tréfa?” - „Und? Ist der Spaß gelungen?“</p>
+<p>5. „Tréfa, egy frászt. Mindent bevallott.” - „Von wegen Spaß. Er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap meg akartam tréfálni a férjemet.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Beletettem az egyik bugyimat a kabátzsebébe.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Aztán viccből jelenetet akartam neki rendezni, hogy lássam, hogyan reagál.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „És? Sikerült a tréfa?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Tréfa, egy frászt. Mindent bevallott.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Gestern wollte ich meinem Mann einen Streich spielen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich habe ihm einen Slip von mir in die Manteltasche gesteckt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Danach wollte ich ihm zum Spaß eine Szene machen und sehen wie er reagiert.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Und? Ist der Spaß gelungen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Von wegen Spaß. Er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 13b</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap tréfát akartam űzni a férjemmel.“ - „Gestern wollte ich mir einen Spaß mit meinem Mann machen.“</p>
+<p>2. „Bedugtam az egyik bugyimat a kabátzsebébe.“ - „Ich habe ihm einen Slip von mir in die Manteltasche gesteckt.“</p>
+<p>3. „Utána csak viccből jelenetet akartam rendezni, és megnézni, hogyan reagál.“ - „Danach wollte ich ihm nur zum Spaß eine :Szene machen und sehen, wie er reagiert.“</p>
+<p>4. „És? Sikerült a tréfa?“ - „Und? Ist der Spaß gelungen?“</p>
+<p>5. „Ugyan már, miféle tréfa! Mindent bevallott.“ - „Von wegen Spaß. Er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap tréfát akartam űzni a férjemmel.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Bedugtam az egyik bugyimat a kabátzsebébe.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Utána csak viccből jelenetet akartam rendezni, és megnézni, hogyan reagál.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „És? Sikerült a tréfa?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Ugyan már, miféle tréfa! Mindent bevallott.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Gestern wollte ich mir einen Spaß mit meinem Mann machen.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich habe ihm einen Slip von mir in die Manteltasche gesteckt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Danach wollte ich ihm nur zum Spaß eine :Szene machen und sehen, wie er reagiert.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Und? Ist der Spaß gelungen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Von wegen Spaß. Er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 13c</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap meg akartam viccelni a férjemet.“ - „Gestern wollte ich meinen Mann veräppeln.“</p>
+<p>2. „A kabátzsebébe csúsztattam a bugyimat.“ - „Ich habe meinen Slip in seine Manteltasche gesteckt.“</p>
+<p>3. „Aztán viccből jelenetet csináltam, csak hogy lássam, mit lép.“ - „Danach habe ich aus Spaß eine Szene gemacht, nur um zu sehen, wie er reagiert.“</p>
+<p>4. „Na és? Bejött a tréfa?“ - „Und? Hat der Spaß funktioniert?“</p>
+<p>5. „Ugyan már, nem is volt az tréfa, mindent bevallott.“ - „Von wegen Spaß, er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap meg akartam viccelni a férjemet.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „A kabátzsebébe csúsztattam a bugyimat.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Aztán viccből jelenetet csináltam, csak hogy lássam, mit lép.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Na és? Bejött a tréfa?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Ugyan már, nem is volt az tréfa, mindent bevallott.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Gestern wollte ich meinen Mann veräppeln.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich habe meinen Slip in seine Manteltasche gesteckt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Danach habe ich aus Spaß eine Szene gemacht, nur um zu sehen, wie er reagiert.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Und? Hat der Spaß funktioniert?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Von wegen Spaß, er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Witz 13d</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap egy ártatlan tréfát terveztem a férjemmel.“ - „Gestern plante ich einen harmlosen Spaß mit meinem Mann.“</p>
+<p>2. „A bugyimat elrejtettem a kabátzsebében.“ - „Ich habe meinen Slip in seiner Manteltasche versteckt.“</p>
+<p>3. „Utána poénból jelenetet rendeztem, kíváncsi voltam a reakciójára.“ - „Danach habe ich spaßeshalber eine Szene gemacht und war neugierig auf seine Reaktion.“</p>
+<p>4. „Na? Jól sült el?“ - „Na? Ist es gut ausgegangen?“</p>
+<p>5. „Egyáltalán nem, mindent bevallott.“ - „Überhaupt nicht, er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Tegnap egy ártatlan tréfát terveztem a férjemmel.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „A bugyimat elrejtettem a kabátzsebében.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Utána poénból jelenetet rendeztem, kíváncsi voltam a reakciójára.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Na? Jól sült el?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Egyáltalán nem, mindent bevallott.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. „Gestern plante ich einen harmlosen Spaß mit meinem Mann.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. „Ich habe meinen Slip in seiner Manteltasche versteckt.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. „Danach habe ich spaßeshalber eine Szene gemacht und war neugierig auf seine Reaktion.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. „Na? Ist es gut ausgegangen?“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. „Überhaupt nicht, er hat alles gestanden.“</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
+  <div class="pc-chapter-nav">
+  <a href="/3-witze/">« Zurück zu Witze 3</a> &nbsp;|&nbsp; <span>Witze 4</span> &nbsp;|&nbsp; <a href="/5-witze/">Weiter zu Witze 5 »</a>
+</div>
+  <div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/startseite/lesebuecher/inhalt-witze/">« zurück zu Inhaltsverzeichnis</a>
+</div>
+</div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->

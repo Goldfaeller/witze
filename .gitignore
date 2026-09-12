@@ -1,2 +1,5 @@
-hochladen.bat
 *.env
+hochladen-witze.bat
+hochladen.bat
+__pycache__/
+*.pyc
